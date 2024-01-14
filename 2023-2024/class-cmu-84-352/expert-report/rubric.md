@@ -8,30 +8,29 @@ output:
 
 | **Criteria**                                                                     | **Points** |
 |----------------------------------------------------------------------------------|------------|
-| Research of Ohio Redistricting Laws and the 2022 Election                        | 20 points  |
-| Clear Introduction                                                               | 10 points  |
-| Analysis of Ohio Districting Plan                                                | 10 points  |
-| Comparison to Alternative Plans                                                  | 10 points  |
-| Inclusion of Tables and Maps as Appendices                                       | 5 points   |
-| Conclusion Summarizing Findings and Opinion on Plan's Legality                   | 15 points  |
-| Writing Clarity and Conciseness                                                  | 10 points  |
+| In-depth Analysis of Specified Legislative Plan                                  | 40 points  |
+| Comprehensive Review of Legal Framework and Case Law                             | 30 points  |
+| Critical Evaluation of Enacted Plan vs. "YOUR-LAST-NAME Illustrative Plan" or Technical Analysis of Simulated Districting Plans             | 40 points  |
+| Effective Use of Maps, Tables, and Visuals in Appendices                         | 20 points  |
+| Conclusive Opinion on Plan's Legality and Fairness                               | 30 points  |
+| Quality of Writing                                                               | 30 points  |
+| Additional Insights and Original Perspectives                                    | 10 points  |
 
-**Total Points: 80**
+**Total Points: 200**
 
 ## Description of Criteria:
 
-**Research of Ohio Redistricting Laws and the 2022 Election (_20 points_)**: Student shows thorough research of Ohio redistricting laws, including state and federal statutory law, and provides comprehensive information about the 2022 Ohio congressional election and the districting plan used. The research is relevant to the objective of the assignment and helps inform the analysis of the Ohio districting plan.
+**In-depth Analysis of Specified Legislative Plan (_40 points_)**: Detailed examination of the legislative plan, focusing on its structure, demographics, and impact on representation. Analysis should cover all aspects of the plan.
 
-**Clear Introduction (_10 points_)**: Student provides a clear introduction that describes the purpose of the report and the legal requirements for redistricting plans in Ohio. The introduction sets up the analysis and evaluation of the Ohio districting plan and informs the reader about the student's perspective (plaintiffs or defendants).
+**Comprehensive Review of Legal Framework and Case Law (_30 points_)**: Extensive research and discussion of relevant state and federal laws, along with pertinent case law. The review should inform the legal interpretation of the plan and its comparison with alternatives.
 
-**Analysis of Ohio Districting Plan (_10 points_)**: Student provides a detailed analysis of the Ohio districting plan, including any areas where it may fail to meet legal requirements. The analysis is informed by the research of Ohio redistricting laws and the 2022 election, and is comprehensive and relevant to the objective of the assignment.
+**Critical Evaluation of Enacted Plan vs. "YOUR-LAST-NAME Illustrative Plan" or Technical Analysis of Simulated Districting Plans (_40 points_)**: A focused comparison between the enacted plan and the student's illustrative plan (or set of plans created by the simulation). Evaluation should highlight differences in legal compliance, fairness, and representation.
 
-**Comparison to Alternative Plans (_10 points_)**: Student compares the Ohio districting plan to their own "YOUR-LAST-NAME illustrative plan" and two other alternative plans, highlighting any strengths or weaknesses of each plan in meeting legal requirements. The comparison is relevant to the objective of the assignment and is informed by the research of Ohio redistricting laws and the 2022 election.
+**Effective Use of Maps, Tables, and Visuals in Appendices (_20 points_)**: Inclusion of clear, informative, and well-organized maps, tables, and other visuals. These should support and enhance the written analysis and conclusions.
 
-**Inclusion of Tables and Maps as Appendices (_5 points_)**: Student includes relevant tables and maps as appendices to help illustrate their analysis of the Ohio districting plan and the comparison to other plans. The tables and maps are clear and relevant to the analysis and evaluation of the Ohio districting plan.
+**Conclusive Opinion on Plan's Legality and Fairness (_30 points_)**: A clear, well-supported conclusion providing a definitive stance on the legality and fairness of the plan based on the analysis conducted.
 
-**Conclusion Summarizing Findings and Opinion on Plan's Legality (_15 points_)**: Student provides a clear conclusion that summarizes their findings and states whether they believe the Ohio districting plan should be determined to be legal or illegal based on their chosen perspective. The conclusion is informed by the analysis and evaluation of the Ohio districting plan and the comparison to other plans.
+**Quality of Writing (_30 points_)**: The report should be well-written, with clear, concise, and structured arguments. It should adhere to academic standards and be understandable to a broad audience.
 
-**Writing Clarity and Conciseness (_10 points_)**: Student writes clearly and concisely, presenting their analysis, evaluation, and comparison in a way that is easy for someone who may not be familiar with the technical aspects of redistricting to understand. The report is well-organized and uses appropriate headings and subheadings to help guide the reader.
+**Additional Insights and Original Perspectives (_10 points_)**: Demonstration of original thinking, offering unique insights or novel perspectives on the redistricting issue. This criterion rewards creative and innovative approaches to the analysis.
 
-_Note for Group Assignments: If the assignment is completed in a group of up to three people, the rubric criteria remain the same. However, the page length can be at most 10 single-spaced pages to accommodate the extra plans. It is important that each member contributes maps created for the comparison, and that the report is cohesive. Each member must submit their own copy in Canvas._
