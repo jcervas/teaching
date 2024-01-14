@@ -16,13 +16,13 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 
 ### January 23 - Voting in the Colonies, Democracy on ascend, and Backsliding before the Civil War
 - Gaughan, Anthony J. (forthcoming). “Voting in Colonial and Revolutionary America.” Oxford Handbook of American Election Law. [Read Online](https://ssrn.com/abstract=4313879)
-- (optional) Ratcliffe, Donald. 2013. “The Right to Vote and the Rise of Democracy, 1787—1828.” Journal of the Early Republic 33(2): 219–254. [Read Online](https://www.jstor.org/stable/24768843)
 - Francis Newton Thorpe, Democracy in America, The Atlantic, Dec. 1, 1893, [Read Online](https://web.archive.org/web/20221104152812/https://www.theatlantic.com/magazine/archive/1893/12/democracy-in-america/523974/)
 - (optional) Kate Masur, Winning the Right to Ride, Slate, Dec. 26, 2017, [Read Online](https://slate.com/human-interest/2017/12/black-activists-post-emancipation-battle-for-d-c-s-city-streetcars-one-of-the-first-civil-rights-victories-on-public-transportation.html)
 - (optional) The Citizen In De Tocqueville's America Constitutional Rights Foundations, [Read Online](https://www.crf-usa.org/election-central/de-tocqueville-america.html)
 - (optional) Dirda, Michael. 2020. “Perspective | Tocqueville’s ‘Democracy in America,’ read anew in 2020, feels prophetic — and in some ways, hopeful.” Washington Post. [Read Online](https://www.washingtonpost.com/entertainment/books/tocquevilles-democracy-in-america-read-anew-in-2020-feels-prophetic-and-in-some-ways-hopeful/2020/10/14/a104c752-0d73-11eb-8074-0e943a91bf08_story.html)
 
 ### January 25 - Reconstruction and Jim Crow America
+- Ratcliffe, Donald. 2013. “The Right to Vote and the Rise of Democracy, 1787—1828.” Journal of the Early Republic 33(2): 219–254. [Read Online](https://www.jstor.org/stable/24768843)
 - Reconstruction In America: Racial Violence After The Civil War, 1865-1876 (Equal Justice Initiative), [Read Online](https://eji.org/report/reconstruction-in-america/)
 - Lina Mann. 2021. “The Election of 1876.” The White House Historical Association. [Read Online](https://www.whitehousehistory.org/the-election-of-1876)
 
