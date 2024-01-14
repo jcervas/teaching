@@ -12,10 +12,11 @@ The first part of the class will be dedicated to voting rights. I will lecture f
 ### January 18 - Voting Rights, an introduction
 - Briffault, Richard. Book Review: Review of The Contested Right to Vote, by Alexander Keyssar. Michigan Law Review 100, no. 6 (2002): 1506–31. https://doi.org/10.2307/1290453.
 - [**Introduction, pages XVIII-XXVI**] Alexander Keyssar, The Right To Vote: The Contested History Of Democracy In The United States (Basic Books) (2009), <https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states>
+- (optional) Kousser, J. Morgan. 2001. Book Review: “Review of The Right to Vote: The Contested History of Democracy in the United States; Why America Stopped Voting: The Decline of Participatory Democracy and the Emergence of Modern American Politics.” The Journal of American History 88(3): 1044–1046. <https://www.jstor.org/stable/2700407>
 
 ### January 23 - Voting in the Colonies, Democracy on ascend, and Backsliding before the Civil War
 - Gaughan, Anthony J. (forthcoming). “Voting in Colonial and Revolutionary America.” Oxford Handbook of American Election Law. <https://ssrn.com/abstract=4313879>
-- Ratcliffe, Donald. 2013. “The Right to Vote and the Rise of Democracy, 1787—1828.” Journal of the Early Republic 33(2): 219–254. <https://www.jstor.org/stable/24768843>
+- (optional) Ratcliffe, Donald. 2013. “The Right to Vote and the Rise of Democracy, 1787—1828.” Journal of the Early Republic 33(2): 219–254. <https://www.jstor.org/stable/24768843>
 - Francis Newton Thorpe, Democracy in America, The Atlantic, Dec. 1, 1893, <https://web.archive.org/web/20221104152812/https://www.theatlantic.com/magazine/archive/1893/12/democracy-in-america/523974/>
 - (optional) Kate Masur, Winning the Right to Ride, Slate, Dec. 26, 2017, <https://slate.com/human-interest/2017/12/black-activists-post-emancipation-battle-for-d-c-s-city-streetcars-one-of-the-first-civil-rights-victories-on-public-transportation.html>
 - (optional) The Citizen In De Tocqueville's America Constitutional Rights Foundations, <https://www.crf-usa.org/election-central/de-tocqueville-america.html>
