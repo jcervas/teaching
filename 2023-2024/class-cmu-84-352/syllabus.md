@@ -3,7 +3,7 @@ Email: <cervas@cmu.edu>
 Location: Baker Hall A51  
 Time: Tuesdays and Thursdays 12:30p-1:50p Eastern  
 Office Hours: Tue 11a-12p or by appointment (arrange via
-[Calendly](https://calendly.com/jcervas)  
+[Calendly](https://calendly.com/jcervas))  
 
 Teaching Fellow:  
 - Claire Pilcher (<cpilcher@andrew.cmu.edu>)  
@@ -238,28 +238,27 @@ apply to in-class exercises.
 
 ### Course Requirements:
 
-| Undergraduate Requirements                |     |
-|-------------------------------------------|-----|
-| In-class exercises                        | 20% |
-| Office Hours                              | 2%  |
-| Book Review                               | 15% |
-| Nassau County district map (and write up) | 5%  |
-| Plan Comparison & Analysis                | 5%  |
-| Midterm Exam                              | 14% |
-| Final Exam                                | 19% |
-| Expert Witness Report                     | 20% |
+| Undergraduate Requirements  |     |
+|-----------------------------|-----|
+| In-class exercises          | 20% |
+| Office Hours                | 2%  |
+| Book Review                 | 15% |
+| District map (and write up) | 5%  |
+| Plan Comparison & Analysis  | 10% |
+| Midterm Exam                | 14% |
+| Final Exam                  | 14% |
+| Expert Witness Report       | 20% |
 
-| Graduate Requirements                     |     |
-|-------------------------------------------|-----|
-| In-class exercises                        | 10% |
-| Book Review I                             | 10% |
-| Book Review II                            | 10% |
-| Nassau County district map (and write up) | 5%  |
-| Plan Comparison & Analysis                | 5%  |
-| Midterm Exam                              | 10% |
-| Daily Questions                           | 15% |
-| Final Exam                                | 15% |
-| Expert Witness Report                     | 20% |
+| Graduate Requirements       |     |
+|-----------------------------|-----|
+| Book Review I               | 11% |
+| Book Review II              | 11% |
+| District map (and write up) | 5%  |
+| Plan Comparison & Analysis  | 10% |
+| Midterm Exam                | 14% |
+| Daily Questions             | 15% |
+| Final Exam                  | 14% |
+| Expert Witness Report       | 20% |
 
 ------------------------------------------------------------------------
 
@@ -351,14 +350,14 @@ equity. Prepare a succinct write-up, capped at three single-spaced
 pages, and enhance your analysis with maps, tables, and other visuals
 (not included in page count).
 
-*Alternative Technical Comparison* (1000-1500 words): Instead of the
-plan comparison, you will use computer simulation to generate and assess
-alternative districting plans for the specified region, focusing on the
-fairness and legality of the enacted plan. Use either `GerryChain`
-(Python) or `rdist` (R) for this analysis. Compare each simulated plan
-to the region’s 2023 legislative plan. This involves critically
-analyzing redistricting plans, emphasizing computer simulation over
-creating new plans from scratch.
+*Alternative Technical Comparison*: Instead of the plan comparison, you
+will use computer simulation to generate and assess alternative
+districting plans for the specified region, focusing on the fairness and
+legality of the enacted plan. Use either `GerryChain` (Python) or
+`rdist` (R) for this analysis. Compare each simulated plan to the
+region’s 2023 legislative plan. This involves critically analyzing
+redistricting plans, emphasizing computer simulation over creating new
+plans from scratch.
 
 #### Expert Witness Report:
 

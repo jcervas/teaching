@@ -10,8 +10,8 @@
 The first part of the class will be dedicated to voting rights. I will lecture from Keyssar's classic work on the history of voting rights in the United States. An appreciation for history can allow us to better understand our current context. Graduate students are asked to read the book. Undergraduate students will read supplemental reading material during this part of class.
 
 ### January 18 - Voting Rights, an introduction
-- Briffault, Richard. Book Review: Review of The Contested Right to Vote, by Alexander Keyssar. Michigan Law Review 100, no. 6 (2002): 1506–31. [Read Online])
-- [**Introduction, pages XVIII-XXVI**] Alexander Keyssar, The Right To Vote: The Contested History Of Democracy In The United States (Basic Books) (2009), [Read Online](https://ash.harvard.edu/publications/right-vote-contested-history-democracy-united-states)
+- Briffault, Richard. Book Review: Review of The Contested Right to Vote, by Alexander Keyssar. Michigan Law Review 100, no. 6 (2002): 1506–31. [Read Online](https://repository.law.umich.edu/mlr/vol100/iss6/16/?utm_source=repository.law.umich.edu%2Fmlr%2Fvol100%2Fiss6%2F16&utm_medium=PDF&utm_campaign=PDFCoverPages)
+- [**Introduction, pages XVIII-XXVI**] Alexander Keyssar, The Right To Vote: The Contested History Of Democracy In The United States (Basic Books) (2009), [Read on Canvas]
 - (optional) Kousser, J. Morgan. 2001. Book Review: “Review of The Right to Vote: The Contested History of Democracy in the United States; Why America Stopped Voting: The Decline of Participatory Democracy and the Emergence of Modern American Politics.” The Journal of American History 88(3): 1044–1046. [Read Online](https://www.jstor.org/stable/2700407)
 
 ### January 23 - Voting in the Colonies, Democracy on ascend, and Backsliding before the Civil War
