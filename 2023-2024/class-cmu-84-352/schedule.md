@@ -153,5 +153,6 @@ The third and final part of the class, approximately one month, will be devoted 
 ### April 23 - The Future of American Democracy
 - Audie Cornish et al., How the U.S. became a "backsliding democracy," according to a European think tank, NPR, Nov. 25, 2021, [Read Online](https://www.npr.org/2021/11/25/1059262066/how-the-u-s-became-a-backsliding-democracy-according-to-a-european-think-tank)
 - Stop Projecting America's Democratic Decline onto the World Foreign Policy, [Read Online](https://foreignpolicy.com/2022/10/18/united-states-democracy-backsliding-world-trump-populism-russia-china/)
+- Serwer, Adam. 2020. “The Next Reconstruction.” The Atlantic. [Read Online](https://web.archive.org/web/20240105085622/https://www.theatlantic.com/magazine/archive/2020/10/the-next-reconstruction/615475/)
 
 ### April 25 - FINAL EXAM (cumulative)
