@@ -126,6 +126,8 @@ The third and final part of the class, approximately one month, will be devoted 
 ### March 28 - Racial Gerrymandering
 - NCSL Chapter 3 - (Racial and Language Minorities)
 - Former Attorney General Eric Holder, [Read Online](https://www.npr.org/2022/05/10/1097997303/former-attorney-general-eric-holder)
+- Cadava, Geraldo. 2023. “Should Latinos Be Considered a Race?” The New Yorker. https://www.newyorker.com/news/daily-comment/should-latinos-be-considered-a-race
+
 
 ### April 2 - The Voting Rights Act
 - Carrie Johnson, How The Voting Rights Act Came To Be And How It's Changed, NPR, Aug. 26, 2021, [Read Online](https://www.npr.org/2021/08/26/1026457264/1965-voting-rights-act-supreme-court-john-lewis)
