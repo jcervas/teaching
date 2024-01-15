@@ -1,7 +1,7 @@
 
-Professor Jonathan Cervas
-Email: cervas@cmu.edu
-Location: POS Conference Room Posner Hall
-Time: Tuesday 7:00p-9:50p Eastern
-Office Hours by appointment (arrange via email)
+Professor Jonathan Cervas\
+Email: cervas@cmu.edu\
+Location: POS Conference Room Posner Hall\
+Time: Tuesday 7:00p-9:50p Eastern\
+Office Hours by appointment (arrange via email)\
 CMU Academic Calendar
