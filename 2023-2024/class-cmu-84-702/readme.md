@@ -1,3 +1,6 @@
+# Regression Analysis for Political Science II
+
+[84-702] – Spring 2024
 
 Professor Jonathan Cervas\
 Email: cervas@cmu.edu\
