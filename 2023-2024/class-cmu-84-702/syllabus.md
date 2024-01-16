@@ -1,10 +1,10 @@
-Professor Jonathan Cervas  
-Email: <cervas@cmu.edu>  
-Location: POS Conference Room [Posner
-Hall](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/posner.html)  
-Time: Tuesday 7:00p-9:50p Eastern  
-Office Hours by appointment (arrange via email)  
-[CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)
+> Professor Jonathan Cervas  
+> Email: <cervas@cmu.edu>  
+> Location: POS Conference Room [Posner
+> Hall](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/posner.html)  
+> Time: Tuesday 7:00p-9:50p Eastern  
+> Office Hours Tuesday 6p-7p and by appointment (arrange via email)  
+> [CMU Academic Calendar](https://www.cmu.edu/hub/calendar/)
 
 “*One can learn data analysis only by doing, not by reading*” - Kosuke
 Imai
