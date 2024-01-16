@@ -247,7 +247,8 @@ May 13 to receive credit.
 - Key $R$ Concepts:
   - , , , , , , , ,
 - Assignments:
-  - **Problem Set**: \#0
+  - Install $R$.
+  - Practice basic arithmetic in $R$
 
 ### Week 2. 01/23 - Observations and Variables, Computing and Interpreting Means
 
