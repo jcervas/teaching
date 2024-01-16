@@ -14,7 +14,7 @@ class="linkedin">Elijah Dourado</a> (<elijahd@andrew.cmu.edu>)
 - Office Hours: Wed 3p-4p, Posner Hall Conference Room  
 
 > Most up-to-date Syllabus: [View
-> Here](http://jonathancervas.com/teaching/2023-2024/class-cmu-84-352/syllabus)[pdf](https://github.com/jcervas/teaching/blob/main/2023-2024/class-cmu-84-352/syllabus.pdf)
+> Here](http://jonathancervas.com/teaching/2023-2024/class-cmu-84-352/syllabus)\[[pdf](https://github.com/jcervas/teaching/blob/main/2023-2024/class-cmu-84-352/syllabus.pdf)\]
 >
 > Full Course Schedule & Readings: [View
 > Here](http://jonathancervas.com/teaching/2023-2024/class-cmu-84-352/schedule)
