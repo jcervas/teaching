@@ -5,8 +5,8 @@ Time: Tuesdays and Thursdays 12:30p-1:50p Eastern
 Office Hours: Tue 11a-12p or by appointment (arrange via
 [Calendly](https://calendly.com/jcervas))  
 
-Teaching Fellow:  
-- Claire Pilcher (<cpilcher@andrew.cmu.edu>)  
+Undergraduate Teaching Assistant:  
+- Anthony Cacciato (<acacciat@andrew.cmu.edu>)  
 
 Undergraduate Teaching Assistant:  
 - <a href="http://www.linkedin.com/in/elijah-dourado"
@@ -206,8 +206,8 @@ maintains the interconnected flow of the coursework. Recognizing that
 unexpected situations may occur, a late submission policy is in place.
 Assignments turned in within 48 hours of the deadline are eligible for a
 maximum of 90% of the total grade. If you anticipate a delay beyond this
-48-hour period, please inform TA Claire promptly by emailing
-<cpilcher@andrew.cmu.edu>, and make sure to include me in the
+48-hour period, please inform TA Elijah promptly by emailing
+<elijahd@andrew.cmu.edu>, and make sure to include me in the
 communication by CC’ing <cervas@cmu.edu>. Note that this policy does not
 apply to in-class exercises.
 
