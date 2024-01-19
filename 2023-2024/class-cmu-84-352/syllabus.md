@@ -7,6 +7,7 @@ Office Hours: Tue 11a-12p or by appointment (arrange via
 
 Undergraduate Teaching Assistant:  
 - Anthony Cacciato (<acacciat@andrew.cmu.edu>)  
+- Office Hours: Mon 6:30p-7:30p, Posner Hall Conference Room  
 
 Undergraduate Teaching Assistant:  
 - <a href="http://www.linkedin.com/in/elijah-dourado"
@@ -59,6 +60,30 @@ speakers, and project-based learning. Students will engage in critical
 analysis of current events, participate in simulations, and conduct
 research projects to propose solutions for enhancing democratic
 representation.
+
+### Course Requirements:
+
+| Undergraduate Requirements  |     |
+|-----------------------------|-----|
+| In-class exercises          | 20% |
+| Office Hours                | 2%  |
+| Book Review                 | 15% |
+| District map (and write up) | 5%  |
+| Plan Comparison & Analysis  | 10% |
+| Midterm Exam                | 14% |
+| Final Exam                  | 14% |
+| Expert Witness Report       | 20% |
+
+| Graduate Requirements       |     |
+|-----------------------------|-----|
+| Book Review I               | 11% |
+| Book Review II              | 11% |
+| District map (and write up) | 5%  |
+| Plan Comparison & Analysis  | 10% |
+| Midterm Exam                | 14% |
+| Daily Questions             | 15% |
+| Final Exam                  | 14% |
+| Expert Witness Report       | 20% |
 
 ### Key Topics:
 
@@ -233,34 +258,11 @@ apply to in-class exercises.
 - (**NCSL**) National Conference Of State Legislatures, Redistricting
   Law 2020 (2019) – Available Free Of Charge, Courtesy Of Wendy
   Underhill And Tim Storey at NCSL
+
 - (**Streb**) Matthew J. Streb, Rethinking American Electoral Democracy
   (Routledge 3rd Edition) (2015)
 
-### Course Requirements:
-
-| Undergraduate Requirements  |     |
-|-----------------------------|-----|
-| In-class exercises          | 20% |
-| Office Hours                | 2%  |
-| Book Review                 | 15% |
-| District map (and write up) | 5%  |
-| Plan Comparison & Analysis  | 10% |
-| Midterm Exam                | 14% |
-| Final Exam                  | 14% |
-| Expert Witness Report       | 20% |
-
-| Graduate Requirements       |     |
-|-----------------------------|-----|
-| Book Review I               | 11% |
-| Book Review II              | 11% |
-| District map (and write up) | 5%  |
-| Plan Comparison & Analysis  | 10% |
-| Midterm Exam                | 14% |
-| Daily Questions             | 15% |
-| Final Exam                  | 14% |
-| Expert Witness Report       | 20% |
-
-------------------------------------------------------------------------
+  ------------------------------------------------------------------------
 
 ### Assignments:
 
