@@ -231,7 +231,7 @@
 
 > - By challenging Britain’s right to rule the colonies, the American
 >   Revolution sparked a far-reaching public debate about the nature and
->   sources of **legitimate governmental authority**
+>   sources of legitimate governmental authority
 > - The issue of suffrage was always near the center of that debate:
 >   - if the legitimacy of a government depended on the consent of the
 >     governed (*one of the key rhetorical claims of the revolution*),
@@ -250,14 +250,14 @@
 >   mention African Americans and women*) had something to gain from the
 >   diffusion of political rights
 
-## Rights versus Privileges
+## Rights v. Privilege
 
-> - In former colonies, various political leaders presented multiple
->   justifications for maintaining limitations on voting rights,
->   especially those related to property ownership.
-> - Central to these justifications was the assertion that the act of
->   voting constitutes a *privilege*, not a *right*, thereby allowing
->   the state to lawfully bestow or restrict it based on its interests.
+> - Throughout the ex-colonies, political leaders put forward several
+>   different arguments to justify the retention of restrictions,
+>   particularly property restrictions, on the franchise.
+> - Implicit in these arguments was the claim that voting was not a
+>   *right* but a *privilege*, one that the state could legitimately
+>   grant or curtail in its own interest.
 
 ## Franchise and Suffrage
 
@@ -269,40 +269,41 @@
 
 > - Even Pennsylvanian James Wilson, a signer of both the Declaration of
 >   Independence and the Constitution, and one of the more democratic of
->   the founding fathers, described suffrage as a “*darling privilege of
->   free men*” that could and should be “extended as far as
+>   the founding fathers, described suffrage as a “darling privilege of
+>   free men” that could and should be “extended as far as
 >   considerations of safety and order will permit.”
 
-## James Wilson
+## James Wilson on Suffrage
 
 - “*A momentous question now occurs—who shall be entitled to suffrage?
-  This **darling privilege of freemen** should certainly be extended as
-  far as considerations of safety and order will possibly admit. The
-  correct theory and the true principles of liberty require, that every
-  citizen, whose circumstances do not render him necessarily dependent
-  on the will of another, should possess a vote in electing those, by
-  whose conduct his property, his reputation, his liberty, and his life,
-  may be all most materially affected.*”
+  This darling privilege of freemen should certainly be extended as far
+  as considerations of safety and order will possibly admit. The correct
+  theory and the true principles of liberty require, that every citizen,
+  whose circumstances do not render him necessarily dependent on the
+  will of another, should possess a vote in electing those, by whose
+  conduct his property, his reputation, his liberty, and his life, may
+  be all most materially affected.*”
 
-## Pennsylvania Suffrage at the founding
+## Pennsylvania Suffrage
 
-- “*‘In the constitution of Pennsylvania, the great principle, which
+- “*In the constitution of Pennsylvania, the great principle, which
   animates and governs this subject, is secured by an explicit
-  declaration, that “elections shall be free and equal.” This is
+  declaration, that ‘elections shall be free and equal.’ This is
   enumerated among the great points, which are “excepted out of the
-  general powers of government, and shall for ever remain inviolate.”
+  general powers of government, and shall for ever remain inviolate.’
   The practical operation of this great and inviolable principle is thus
-  specified and directed: “In elections by the citizens, every freeman
-  of the age of twenty one years, having resided in the state two years
-  next before the election, and within that time paid a state or county
-  tax, which shall have been assessed at least six months before the
-  election, shall enjoy the rights of an elector.’*”
+  specified and directed: ‘In elections by the citizens, every
+  **freeman** of the **age of twenty one** years, having **resided in
+  the state two years** next before the election, and within that time
+  **paid a state or county tax**, which shall have been **assessed at
+  least six months** before the election, shall enjoy the rights of an
+  elector.’*”
 
 ## Earning the privilege
 
-> - Only men with property, preferably real property, were deemed to be
->   sufficiently attached to the community and sufficiently affected by
->   its laws to have earned the privilege of voting
+> - Only men with property, preferably \*real\*\* property, were deemed
+>   to be sufficiently attached to the community and sufficiently
+>   affected by its laws to have earned the privilege of voting
 >   - The propertyless, if enfranchised, would constitute a menace to
 >     the maintenance of a well-ordered community
 > - The interests of the propertyless, like those of women and children,
@@ -320,17 +321,19 @@
 
 ## Natural Right alternative
 
-> - Arrayed against these conservative views was a set of equally
->   cogent, if somewhat experimental, arguments in favor of extending
->   the franchise, particularly to men who did not own property
+> - - Opposing these traditional views were a series of persuasive and
+>     somewhat innovative arguments advocating for the expansion of
+>     voting rights, especially to men without property ownership.
+>
 > - The most broadly framed of these arguments was simple: voting was a
 >   “*natural right*” that the state **could not suspend** except in the
 >   most extreme circumstances.
+>
 > - The idea that voting was a natural right or even a right at all was
 >   rhetorically powerful:
 >   - it meshed well with the Lockean political theory *popular* in
 >     eighteenth-century America, it had a clear *antimonarchical*
->     thrust, and it had the virtue of *simplicity*
+>     thrust, and it had the virtue of *simplicity*.
 
 ## The Pandora’s box
 
@@ -339,7 +342,7 @@
 >   vote, but women as well?
 >   - What about African Americans—and recently arrived aliens?
 >   - Or children?
-> - If there was a “right” to suffrage, wast it not wrong or immoral to
+> - If there was a “right” to suffrage, was it not wrong or immoral to
 >   deprive any group or individual of that right?
 > - How could one justify denying anyone his or her natural —or socially
 >   acknowledged— rights?
@@ -350,13 +353,13 @@
 
 ## Avoiding Pandora’s Box
 
+> - The logic of “*no taxation without representation*” had a domestic
+>   as well as anticolonial application
+> - All those who paid taxes had the right to defend themselves against
+>   potentially unfair government policies.
 > - Property qualifications ought to be replaced by taxpaying
 >   requirements, because all taxpayers (not just property owners) were
 >   contributing to the government and affected by its policies
-> - All those who paid taxes had the right to defend themselves against
->   potentially unfair government policies.
-> - The logic of “*no taxation without representation*” had a domestic
->   as well as anticolonial application
 
 ## Military Exception
 
@@ -366,9 +369,10 @@ had served, in the army or the militia
 
 ## What about fighters?
 
-> “*Every man in the country who manifests a disposition to venture his
-> all for the defense of its liberty, should have a voice in its
-> council*.” -\>- Philadelphia pamphleteer, probably Thomas Young
+- “*Every man in the country who manifests a disposition to venture his
+  all for the defense of its liberty, should have a voice in its
+  council*.”
+  - Philadelphia pamphleteer, probably Thomas Young
 
 ## Consent to be governed
 
@@ -391,6 +395,12 @@ had served, in the army or the militia
 > - Only a small fraction of the population cast ballots in the
 >   elections that elevated George Washington and John Adams to the
 >   office of the presidency
+>   - George Washington received one vote from each elector (that cast a
+>     ballot). The New York legislature failed to appoint its allotted 8
+>     Electors in time. Two Electors from Maryland did not vote. One
+>     Elector from Virginia did not vote and one Elector was not chosen
+>     because an election district failed to submit returns.
+>     (uselectionatlas.org)
 > - Moreover, the constitution was signed by only 39 delegates, yet its
 >   impact continues to affect our lives
 
@@ -398,7 +408,7 @@ had served, in the army or the militia
 
 > - The most influential and, perhaps, dramatic expansion of the
 >   franchise occurred in Pennsylvania during the first months of the
->   revolution
+>   revolution.
 > - The militiamen succeeded in electing a constitutional convention
 >   dominated not by the traditional elites but by *artisans*, *lesser
 >   merchants*, and *farmers*.
@@ -407,8 +417,8 @@ had served, in the army or the militia
 >   - it abolished property requirements and enfranchised all taxpaying
 >     adult males as well as the non-taxpaying sons of freeholders.
 >   - Since Pennsylvania had no poll tax—meaning a “head” tax or a tax
->     on all household heads—this effectively enfranchised the great
->     majority of adult males
+>     on all household heads, this effectively enfranchised the great
+>     majority of adult males.
 
 ## Vermont
 
@@ -483,16 +493,17 @@ had served, in the army or the militia
 > - Madison’s views were more typical of the founding fathers than were
 >   those of Jefferson or Franklin
 > - The well-to-do Elbridge Gerry of Massachusetts (whose name would be
->   immortalized in the word gerrymander), speaking at the end of the
->   convention, described “*Democracy*” as “*the worst…of all political
->   evils*” **This conservative consensus also was expressed in the
->   Northwest Ordinance of 1787 *(**an act reaffirmed by the first
->   Congress in 1789**)*, which instituted a freehold requirement in the
->   territories northwest of the Ohio River**
-> - Freehold: permanent and absolute tenure of land or property with
->   freedom to dispose of it at will
+>   immortalized in the word **gerrymander**), speaking at the end of
+>   the convention, described “*Democracy*” as “*the worst…of all
+>   political evils*”
+> - **This conservative consensus also was expressed in the Northwest
+>   Ordinance of 1787\* *(an act reaffirmed by the first Congress in
+>   1789)*, which instituted a freehold requirement in the territories
+>   northwest of the Ohio River**
+>   - Freehold: permanent and absolute tenure of land or property with
+>     freedom to dispose of it at will
 
-## Compromise
+## Compromise on Suffrage
 
 > - The decision made by the Constitutional Convention, however, stemmed
 >   at least as much from *practical politics* as from *ideology*.
@@ -502,41 +513,43 @@ had served, in the army or the militia
 > - Any national suffrage requirement was likely to generate opposition
 >   in one state or another, and a narrow national suffrage, such as a
 >   freehold qualification, seemed *capable of derailing the
->   Constitution altogether* **By making the franchise in national
->   elections dependent on state suffrage laws, the authors of the
->   Constitution compromised their substantive disagreements to solve a
->   potentially explosive political problem**
+>   Constitution altogether*
+> - **By making the franchise in national elections dependent on state
+>   suffrage laws, the authors of the Constitution compromised their
+>   substantive disagreements to solve a potentially explosive political
+>   problem**
 
 ## Federal lack of Voting Rights
 
-**The Constitution adopted in 1787 left the federal government without
-any clear power or mechanism, other than through constitutional
-amendment, to institute a national conception of voting rights, to
-express a national vision of democracy** \>- Although the Constitution
-was promulgated in the name of “*We, the people of the United States*”,
-the *individual states* retained the power to define just who “*the
-people*” were
+> - **The Constitution adopted in 1787 left the federal government
+>   without any clear power or mechanism, other than through
+>   constitutional amendment, to institute a national conception of
+>   voting rights, to express a national vision of democracy**
+> - Although the Constitution was promulgated in the name of “*We, the
+>   people of the United States*”, the *individual states* retained the
+>   power to define just who “*the people*” were
 
 ## The Presidency
 
-Also problematic—in the long run—was the Constitution’s failure to
-guarantee to any Americans the right to vote for the highest office in
-the land, the presidency of the United States. \>- Presidents were to be
-chosen through a complex mechanism that later came to be known as the
-“*Electoral College*” \>- “*Electors*” in each state were to meet and
-cast ballots for two persons, and those ballots were to be transmitted
-to Congress, where they would be opened and counted: the person
-receiving the largest number of votes would be elected president and the
-runner-up would become vice president
+> - Also problematic was the Constitution’s failure to guarantee to any
+>   Americans the right to vote for the highest office in the land, the
+>   presidency of the United States.
+> - Presidents were to be chosen through a complex mechanism that later
+>   came to be known as the “*Electoral College*”
+> - “*Electors*” in each state were to meet and cast ballots for two
+>   persons, and those ballots were to be transmitted to Congress, where
+>   they would be opened and counted: the person receiving the largest
+>   number of votes would be elected president and the runner-up would
+>   become vice president
 
 ## The Presidency
 
-> - But the Constitution left entirely to state legislatures the
->   question of how the electors themselves would be chosen
+> - The Constitution left entirely to state legislatures the question of
+>   how the electors themselves would be chosen.
 > - Article 2, section 1 specified that “*each State shall appoint, in
 >   such Manner as the Legislature thereof may direct, a Number of
 >   Electors, equal to the whole Number of Senators and Representatives
->   to which the State may be entitled in the Congress*”
+>   to which the State may be entitled in the Congress*”.
 > - The states were not required to hold popular elections to choose
 >   presidential electors, and state legislatures could, whenever they
 >   wished, change the “*manner*” of appointing electors.
@@ -547,13 +560,14 @@ runner-up would become vice president
 
 ## The American Revolution
 
-> - The American Revolution, produced modest, but only modest, gains, in
+> - The American Revolution produced modest, but only modest, gains in
 >   the formal democratization of politics.
 > - By 1790, according to most estimates, roughly 60 to 70 percent of
->   adult white men (and very few others) could vote. **The notion that
->   a legitimate government required the “consent” of the governed
->   became a staple of political thought; and a new, contagious language
->   of rights and equality was widely heard**
+>   adult white men (and very few others) could vote. (3.9 million
+>   people in US, 700k who were enslaved)
+> - **The notion that a legitimate government required the “consent” of
+>   the governed became a staple of political thought; and a new,
+>   contagious language of rights and equality was widely heard**
 
 ## Democracy Ascendant
 
