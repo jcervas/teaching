@@ -231,7 +231,7 @@
 
 > - By challenging Britain’s right to rule the colonies, the American
 >   Revolution sparked a far-reaching public debate about the nature and
->   sources of legitimate governmental authority
+>   sources of **legitimate governmental authority**
 > - The issue of suffrage was always near the center of that debate:
 >   - if the legitimacy of a government depended on the consent of the
 >     governed (*one of the key rhetorical claims of the revolution*),
@@ -250,14 +250,14 @@
 >   mention African Americans and women*) had something to gain from the
 >   diffusion of political rights
 
-## Rights v. Privilege
+## Rights versus Privileges
 
-> - Throughout the ex-colonies, political leaders put forward several
->   different arguments to justify the retention of restrictions,
->   particularly property restrictions, on the franchise.
-> - Implicit in these arguments was the claim that voting was not a
->   *right* but a *privilege*, one that the state could legitimately
->   grant or curtail in its own interest.
+> - In former colonies, various political leaders presented multiple
+>   justifications for maintaining limitations on voting rights,
+>   especially those related to property ownership.
+> - Central to these justifications was the assertion that the act of
+>   voting constitutes a *privilege*, not a *right*, thereby allowing
+>   the state to lawfully bestow or restrict it based on its interests.
 
 ## Franchise and Suffrage
 
@@ -269,9 +269,34 @@
 
 > - Even Pennsylvanian James Wilson, a signer of both the Declaration of
 >   Independence and the Constitution, and one of the more democratic of
->   the founding fathers, described suffrage as a “darling privilege of
->   free men” that could and should be “extended as far as
+>   the founding fathers, described suffrage as a “*darling privilege of
+>   free men*” that could and should be “extended as far as
 >   considerations of safety and order will permit.”
+
+## James Wilson
+
+- “*A momentous question now occurs—who shall be entitled to suffrage?
+  This **darling privilege of freemen** should certainly be extended as
+  far as considerations of safety and order will possibly admit. The
+  correct theory and the true principles of liberty require, that every
+  citizen, whose circumstances do not render him necessarily dependent
+  on the will of another, should possess a vote in electing those, by
+  whose conduct his property, his reputation, his liberty, and his life,
+  may be all most materially affected.*”
+
+## Pennsylvania Suffrage at the founding
+
+- “*‘In the constitution of Pennsylvania, the great principle, which
+  animates and governs this subject, is secured by an explicit
+  declaration, that “elections shall be free and equal.” This is
+  enumerated among the great points, which are “excepted out of the
+  general powers of government, and shall for ever remain inviolate.”
+  The practical operation of this great and inviolable principle is thus
+  specified and directed: “In elections by the citizens, every freeman
+  of the age of twenty one years, having resided in the state two years
+  next before the election, and within that time paid a state or county
+  tax, which shall have been assessed at least six months before the
+  election, shall enjoy the rights of an elector.’*”
 
 ## Earning the privilege
 
