@@ -577,18 +577,16 @@ had served, in the army or the militia
 
 ## State expansion of franchise
 
-> - Change created pressures for the states to significantly revise the
->   blueprints for governance that they had drawn during the era of the
->   revolution
-> - Between 1790 and the 1850s, every state (there were thirty-one
->   by 1855) held at least one constitutional convention, and more than
->   a few held several **Disputes over political power, rights, and
->   influence—including the breadth of the franchise and the
->   apportionment of state legislative seats—were often what prompted
->   states to call constitutional conventions in the first place**
-> - The torch had been passed to a new generation of political leaders
->   equipped with different ideas who confronted significantly different
->   conditions
+> - States were compelled to substantially revise their governance
+>   structures post-Revolution.
+> - From 1790 to 1850s, all 31 states by 1855 convened at least one
+>   constitutional convention, with some holding multiple.
+> - **Key motivators for these conventions included debates over
+>   political authority, citizen rights, and power distribution,
+>   specifically concerning voting rights and state legislative
+>   representation.**
+> - A new era began with a fresh generation of political leaders,
+>   bringing novel ideas and facing new challenges.
 
 ## Expanding Rights
 
@@ -609,7 +607,7 @@ had served, in the army or the militia
 
 > - Elsewhere, state constitutions or statutes required that voting be
 >   conducted by written ballot, to protect voters against intimidation
->   **By the mid-nineteenth century, nearly all states insisted that
+> - **By the mid-nineteenth century, nearly all states insisted that
 >   votes be cast through written ballots, placed in a box or handed to
 >   an official**
 > - As the number of offices to be filled through elections grew,
@@ -617,230 +615,245 @@ had served, in the army or the militia
 >   parties themselves began to prepare printed ballots, both to assist
 >   and monitor their voters
 
-## Administrative rules
+## Key Legal Developments in Election Administration
 
-> - Other legal developments were essentially administrative, reflecting
->   a need to translate broad precepts into detailed rules governing the
->   conduct of elections
-> - Most states, for example, had to define what it meant to be a
->   resident or inhabitant
-> - They had to decide how and when lists of eligible voters would be
->   assembled, what documents had to be presented as proof of
->   citizenship, and how challenges to a voter’s eligibility should be
->   handled **Similarly, race had to be given an operative definition.
->   Just how white did you have to be in order to vote? One-half,
->   three-quarters? An increasingly voluminous body of law offered
->   answers to such questions**
+> - **Administrative Developments:** Transformation of broad legal
+>   principles into detailed electoral rules.
+> - **Defining Residency:** States clarified criteria for residency or
+>   inhabitant status for voter eligibility.
+> - **Voter Registration Processes:**
+>   - Criteria for assembling eligible voter lists.
+>   - Required documentation for citizenship proof.
+>   - Procedures for challenging voter eligibility.
+> - **Race Definition in Voting:**
+>   - Legal guidelines on racial qualifications for voting rights.
+>   - Specific legal thresholds (e.g., one-half, three-quarters white)
+>     defined in an expanding legal framework.
 
-## Changing Property Requirements
+## Evolution of Property Requirements in Suffrage
 
-> - The property qualifications for suffrage that had begun to erode
->   during the revolution were gradually dismantled after 1790
-> - None of the new states admitted to the union after 1790 adopted
->   mandatory property requirements in their original constitutions
-> - Granting exclusive political rights to landowners and others who
->   possessed considerable property was inconsistent with the
->   quasi-egalitarian rhetoric of the revolution and the early republic
-> - By the end of the 1850s, only two property requirements remained in
->   force anywhere in the United States, one applying to foreign-born
->   residents of Rhode Island and the other to African Americans in New
->   York
+> - **Post-Revolution Shift (Post-1790):** Gradual elimination of
+>   property qualifications for suffrage, a trend initiated during the
+>   revolution.
+> - **New States’ Stance:**
+>   - No new state entering the Union post-1790 imposed mandatory
+>     property requirements in their original constitutions.
+> - **Inconsistency with Republican Ideals:**
+>   - Exclusive political rights for property owners conflicted with the
+>     revolution’s quasi-egalitarian ethos.
+> - **Residual Requirements (By 1850s):**
+>   - Only two property-based voting restrictions remained:
+>     - Foreign-born residents in Rhode Island.
+>     - African Americans in New York.
 
-## Rise of taxpayer requirements
+## Rise of Taxpayer Requirements
 
-> - The demise of property requirements was not identical to the
->   elimination of economic qualifications
-> - Several states already had taxpaying requirements in 1790
->   - several others instituted such requirements when they abolished
->     property qualifications, and several of the new western states,
->     including Ohio and Louisiana, also insisted that voters be
->     taxpayers
-> - Although taxpaying requirements were conceptually distinct from
->   property qualifications *(paying a tax demonstrated one’s membership
->   in a community)*, they nonetheless preserved the link between a
->   person’s *financial status* and his *voting rights*.
+> - **Beyond Property Requirements:**
+>   - Demise of property requirements did not equate to the removal of
+>     all economic qualifications for voting.
+> - **Taxpaying Requirements (1790 Onwards):**
+>   - Prevalent in several states since 1790.
+>   - Adopted by others upon abolishing property qualifications.
+>   - New western states, such as Ohio and Louisiana, mandated voter
+>     taxpayer status.
+> - **Conceptual Distinction and Continuity:**
+>   - Taxpaying, indicating community membership, differed conceptually
+>     from property ownership.
+>   - Yet, it maintained the connection between financial status and
+>     voting rights.
 
 ## Eroding Economic Barriers
 
-> - In 1808, Congress modified the property qualifications in the
->   Northwest Ordinance
->   - three years later it acted more decisively, enfranchising all
->     *free white males* who had paid taxes and resided in the territory
-> - Between 1830 and 1855, six states relinquished their insistence that
->   voters pay taxes, leaving only six others with taxpaying clauses,
->   several of which were quite minimal
-> - Taxpaying provisions also were opposed, by many Whigs as well as
->   Democrats, because they were difficult to enforce and led to
->   substantial fraud
->   - **broadly stated tax requirements could prove difficult to
->     translate into coherent, concrete policies**
-> - By 1855, thus, there were few formal or *explicit economic barriers*
->   to voting
+> - **Modification of Property Qualifications (1808-1811):**
+>   - 1808: Congress altered property qualifications in the Northwest
+>     Ordinance.
+>   - 1811: Enfranchisement of all *free white males* who paid taxes and
+>     resided in the territory.
+> - **Abolishing Taxpaying Requirements (1830-1855):**
+>   - Six states eliminated voter tax requirements, reducing the total
+>     to six states with minimal taxpaying clauses.
+> - **Opposition to Taxpaying Provisions:**
+>   - Criticized by Whigs and Democrats for enforcement difficulties and
+>     fraud risks.
+>   - Challenges in translating broad tax requirements into coherent
+>     policies.
+> - **Decline of Explicit Economic Barriers (By 1855):**
+>   - Few formal or explicit economic barriers to voting remained.
 
-## Convergence of state and local eligibility requirements
+## Convergence of State and Local Eligibility Requirements
 
-> - Between 1790 and the 1850s, *state* suffrage laws and *municipal*
->   suffrage laws became identical almost everywhere
-> - The idea that municipal charters were unalterable changed;
-> - State supremacy, or the idea that *municipalities legally ought to
->   be regarded as administrative creatures of the state*, rather than
->   as separate sovereignties of any type became the norm
-> - Although the idea persisted that municipalities had to perform
->   special tasks that might warrant special suffrage requirements,
->   there was a presumption, by the 1850s, that **state suffrage
->   regulations would and did apply to all elections**
+> - **Alignment of State and Municipal Laws (1790-1850s):**
+>   - State and municipal suffrage laws became nearly identical across
+>     most regions.
+> - **Shift in Municipal Charter Perception:**
+>   - Transition from viewing municipal charters as unalterable to
+>     recognizing state supremacy.
+> - **State Supremacy Concept:**
+>   - Municipalities increasingly seen as administrative entities under
+>     state control, not separate sovereignties.
+> - **Standardization of Suffrage Regulations:**
+>   - By the 1850s, a prevailing assumption that state suffrage
+>     regulations applied universally to all elections.
 
 ## Residency Requirements
 
-> - Almost everywhere states tinkered with their residency rules, which
->   had become increasingly salient once property qualifications had
->   been eliminated.
-> - In several states, including Delaware, Pennsylvania, South Carolina,
->   Indiana, and Michigan, residency requirements were *shortened*,
->   opening the polls to large numbers of migrants who previously had
->   been barred
+> - **Adjustments Across States:**
+>   - Post-elimination of property qualifications, states extensively
+>     modified their residency rules.
+> - **Reduced Residency Requirements:**
+>   - States like Delaware, Pennsylvania, South Carolina, Indiana, and
+>     Michigan shortened their residency requirements.
+>   - This change enfranchised a significant number of previously
+>     ineligible migrants.
 
-## Immigrant non-citizen voting
+## Immigrant Non-Citizen Voting
 
-> - Far more dramatic, and perhaps surprising, was the extension of the
->   franchise to immigrants—although the history of noncitizen voting
->   was anything but unidirectional
-> - At the end of the eighteenth century, *the line separating citizens
->   from aliens was not clearly or consistently drawn, either in law or
->   in practice*.
-> - The federal government, hoping to encourage settlement, expressly
->   permitted aliens to vote in the Northwest Territories
+> - **Extension to Immigrants:**
+>   - A dramatic, albeit non-unidirectional, historical trend was
+>     granting voting rights to immigrants.
+> - **Ambiguous Citizen-Alien Distinction (End of 18th Century):**
+>   - The distinction between citizens and aliens was not clearly
+>     defined in law or practice.
+> - **Federal Policy in Northwest Territories:**
+>   - To promote settlement, the federal government allowed aliens to
+>     vote in the Northwest Territories.
 
-## Constitutionality of alien suffrage
+## Constitutionality of Alien Suffrage
 
-> - Although the constitutionality of alien suffrage was heatedly
->   debated in the mid-nineteenth century, state courts consistently
->   upheld such provisions
->   - opponents often claimed that states were usurping federal power by
->     conferring the franchise on those who were not naturalized
+> - **Debate and Court Decisions:**
+>   - Mid-nineteenth century debates on alien suffrage.
+>   - State courts consistently upheld alien suffrage provisions.
+> - **Opposition Arguments:**
+>   - Claims that states were overstepping federal authority by granting
+>     franchise to non-naturalized individuals.
 
-## Citizenship and naturalization
+## Citizenship and Naturalization
 
-> - The federal government changed the procedures and qualifications for
->   naturalization every few years, settling on a durable formula only
->   in 1802, when Congress declared that any foreign-born white male who
->   met a five-year residency requirement could become a citizen three
->   years after formally announcing his intention to do so
-> - While revising their constitutions, New York, Massachusetts,
->   Connecticut, Vermont, Maryland, and Virginia all replaced
->   “*inhabitant*” with “*citizen*”
-> - Almost all the new states joining the union between 1800 and 1840
->   conferred the right to vote *exclusively* on citizens **By the
->   Jacksonian era (1828), aliens were barred from the polls nearly
->   everywhere**
+> - **Federal Naturalization Policies:**
+>   - Changes in naturalization procedures until 1802.
+>   - 1802 Law: Foreign-born white males could become citizens after
+>     five years of residency and three years post declaration of
+>     intent.
+> - **Constitutional Revisions in States:**
+>   - States like New York, Massachusetts, Connecticut, Vermont,
+>     Maryland, and Virginia shifted from “*inhabitant*” to “*citizen*”
+>     in their constitutions.
+> - **Trend in New States (1800-1840):**
+>   - New states predominantly granted voting rights exclusively to
+>     citizens.
+> - **Jacksonian Era Shift (Post-1828):**
+>   - Aliens increasingly barred from voting across various states.
 
-## Party-competition
+## Party-Competition
 
-> - The second-party system dynamics of partisan politics helped to
->   increase the appetite for suffrage
->   - **parties and factions vied to wear the increasingly popular
->     mantle of democracy**
->   - **Simultaneously, they accusing one another of circumventing the
->     law for their own advantage**
-> - Campaigns to terminate taxpaying provisions were often launched by
->   Democrats, but the Whigs usually jumped on the bandwagon quickly,
->   both to shore up their democratic credentials
+> - **Influence of Second-Party System:**
+>   - Dynamics of partisan politics under the second-party system
+>     intensified the push for broader suffrage.
+> - **Democratic Mantle and Accusations:**
+>   - Parties competed to adopt the mantle of democracy.
+>   - Simultaneously, they accused each other of manipulating laws for
+>     personal gain.
+> - **Campaigns Against Taxpaying Provisions:**
+>   - Initiatives to end taxpaying requirements typically spearheaded by
+>     Democrats.
+>   - Whigs quickly followed suit to reinforce their democratic image.
 
-## Sources of Expansion of the franchise
+## Sources of Expansion of the Franchise
+
+- Key factors contributing to the expansion varied by state.
 
 ## Broadening of the Suffrage
 
-> - The celebrated broadening of the suffrage during the first half of
->   the 1800s was spawned by the convergence of several different
->   factors, which varied by state
->   - widespread and significant changes in the social structure and
->     social composition of the nation’s population
->   - the appearance or expansion of conditions under which the material
->     interests of the enfranchised could be served by broadening the
->     franchise
->   - the formation of broadly based political parties that competed
->     systematically for votes
+> - **Convergence of Factors (first half of the 1800s):**
+>   - Significant shifts in social structure and composition.
+>   - Emergence or growth of situations where expanding the franchise
+>     benefited the enfranchised’s material interests.
+>   - Establishment of broad-based political parties vying for votes.
 
-## Changing social statuses
+## Changing Social Statuses
 
-> - All the states that had property requirements in 1790 witnessed an
->   increase in the number and proportion of adult males who were unable
->   to meet those requirements
-> - The urban population grew rapidly, swelling the ranks of those who
->   owned no real property and sometimes no property at all. **These
->   changes in the social structure created significant and growing
->   clusters of men who were full participants in economic and social
->   life but who lacked political rights**
+> - **Rising Ineligibility Under Property Requirements:**
+>   - Growth in the number of adult males unable to meet property
+>     requirements in states with such mandates.
+> - **Urban Population Growth:**
+>   - Rapid increase in urban dwellers, many owning no real or any
+>     property.
+> - **Discrepancy in Social and Political Participation:**
+>   - Emergence of large groups actively engaged in economic and social
+>     life but lacking political rights.
 
 ## How Change Happens
 
-> - The disfranchised were *unable* to precipitate change by themselves
-> - When the voting rights were extended, it happened because men who
->   were already enfranchised *actively supported* the cause of suffrage
->   expansion
->   - **Why did voting members of the community sometimes elect to share
->     their political power with others?**
->   - they saw themselves as having a direct interest in enlarging the
->     electorate
+> - **Role of the Disfranchised:**
+>   - Unable to initiate change independently.
+> - **Support from the Enfranchised:**
+>   - Expansion of voting rights often backed by those already having
+>     suffrage.
+> - **Motivations for Sharing Political Power:**
+>   - Enfranchised individuals perceived direct benefits from broadening
+>     the electorate.
 
-## War, what is it good for?
+## War, What is it Good For?
 
-> - In the wake of the Revolutionary War and again after the War of
->   1812, many middle-class citizens concluded that extending the
->   franchise to the “lower orders” would:
->   - enhance their own security
->   - help to preserve their way of life, by assuring that such men
->     would continue to serve in the army and the militias
-> - The nation’s experience during the War of 1812 underscored this
->   concern:**the federal government had great difficulty recruiting and
->   retaining soldiers and eventually had to call on militia forces to
->   bolster the army**
-> - In the South, the issue had an added twist:**enfranchising all white
->   Southerners was a means of making sure that poor whites would serve
->   in militia patrols guarding against slave rebellions**
+> - **Post-Revolutionary War and War of 1812 Impacts:**
+>   - Middle-class citizens supported extending suffrage to lower
+>     classes, believing it would:
+>     - Enhance their own security.
+>     - Ensure continued service in the army and militias, preserving
+>       their way of life.
+> - **Lessons from the War of 1812:**
+>   - Struggles with military recruitment and retention highlighted the
+>     need for a committed militia.
+> - **Specific Context in the South:**
+>   - Enfranchisement of all white Southerners aimed to secure poor
+>     whites’ participation in militia patrols against slave rebellions.
 
 ## New Territories
 
-> - As territories began to organize themselves into states, inhabitants
->   of sparsely populated regions embraced white manhood suffrage, in
->   part because they believed that a broad franchise would:
->   - **encourage settlement and in so doing raise land values,**
->   - **stimulate economic development,**
->   - **generate tax revenues.**
+> - **Adoption of White Manhood Suffrage in Forming States:**
+>   - Inhabitants of emerging states from sparsely populated territories
+>     favored broadening the franchise.
+> - **Motivations Behind Broad Franchise:**
+>   - Belief that an extensive franchise would:
+>     - Encourage settlement, boosting land values.
+>     - Stimulate economic growth.
+>     - Increase tax revenues.
 
 ## Political Competition
 
-> - Perhaps the most common way in which the fortunes of the already
->   enfranchised were concretely linked to the cause of suffrage reform
->   was through political parties and electoral competition
->   - both *party loyalty* and *party identification* became prominent
+> - **Link Between Suffrage Reform and Political Parties:**
+>   - Political parties and electoral competition significantly
+>     influenced suffrage expansion.
+>   - Both *party loyalty* and *party identification* became prominent
 >     elements of public life
-> - Put simply, in a competitive electoral environment, parties were
->   always alert to the potential advantage (or disadvantage) of
->   enfranchising new voters and potential supporters
->   - **The outcomes of electoral campaigns could easily depend on the
->     size and shape of the electorate**
->   - it was natural therefore for parties to try to broaden the
->     franchise because they wanted to win elections, whatever their
->     views about democratization
+> - **Electoral Strategy and Voter Enfranchisement:**
+>   - In competitive elections, parties keenly evaluated the impact of
+>     enfranchising new voters.
+>   - Electoral outcomes often hinged on the size and composition of the
+>     electorate.
+> - **Strategic Expansion of the Franchise:**
+>   - Parties aimed to broaden suffrage primarily to gain electoral
+>     advantages, irrespective of democratization views.
+> - **They wanted to win elections**
 
-## Sources of Expansion of the franchise
+## (Summary) Sources of Expansion of the Franchise
 
-> - By the middle of the nineteenth century, the nation had taken
->   significant steps in the direction of universal white male suffrage
-> - Reasons include:
->   - the development of the economy
->   - shifts in the social structure
->   - the dynamics of party politics
->   - the diffusion of democratic ideals
->   - the experiences of war
->   - the need to maintain militias
-> - The states, the federal government, and municipalities all had
->   dismantled the most fundamental obstacles to the participation of
->   men in elections
-> - The expansion of the suffrage played a key role in the upsurge of
->   political participation in the 1830s and 1840s, when turnout in some
->   locales reached 80 percent of all adult male citizens
+> - **Progress Towards Universal White Male Suffrage (Mid-19th
+>   Century):**
+>   - Significant strides made in expanding voting rights.
+> - **Key Drivers of Suffrage Expansion:**
+>   - Economic development.
+>   - Changes in social structure.
+>   - Party politics dynamics.
+>   - Spread of democratic ideals.
+>   - War experiences.
+>   - Necessity of maintaining militias.
+> - **Role of Government Entities:**
+>   - States, federal government, and municipalities removed major
+>     barriers to male electoral participation.
+> - **Impact on Political Participation:**
+>   - Surge in political engagement during the 1830s and 1840s, with
+>     some areas seeing 80% turnout among adult male citizens.
 
 ## Backsliding and Sideslipping
 
