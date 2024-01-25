@@ -575,45 +575,47 @@ had served, in the army or the militia
 
 ![](img/pop-1850.png)
 
-## State expansion of franchise
+## State Expansion of Franchise
 
-> - States were compelled to substantially revise their governance
->   structures post-Revolution.
-> - From 1790 to 1850s, all 31 states by 1855 convened at least one
->   constitutional convention, with some holding multiple.
-> - **Key motivators for these conventions included debates over
->   political authority, citizen rights, and power distribution,
->   specifically concerning voting rights and state legislative
->   representation.**
-> - A new era began with a fresh generation of political leaders,
->   bringing novel ideas and facing new challenges.
+> - **Post-Revolution Governance Revisions:**
+>   - After the Revolution, states needed to revise their governance
+>     structures.
+> - **Emergence of a New Political Era:**
+>   - Arrival of new political leaders with innovative ideas and
+>     responses to contemporary challenges.
+> - **Constitutional Conventions (1790-1850s):**
+>   - All 31 states by 1855 held at least one constitutional convention,
+>     some multiple.
+> - **Motivations Behind Conventions:**
+>   - Debates over political authority, citizen rights, and power
+>     distribution.
+>   - Focus on voting rights and state legislative representation.
 
-## Expanding Rights
+## Expanding Rights: Evolution of Voting Laws
 
-> - Nearly everywhere, the laws governing the right to vote in the
->   United States were greatly *elaborated* and significantly
->   transformed between 1790 and the 1850s
-> - At the nation’s founding, the concrete *procedures for voting
->   varied* widely from state to state and even from town to towns
-> - In some locales, particularly in the South, voting was still an oral
->   and public act:
->   - men assembled before election judges, waited for their names to be
->     called, and then *announced* which candidates they supported
->   - in one variant of this process, common in Virginia, men inscribed
->     their names in a poll book underneath the name of the candidate
->     they preferred
+> - **Major Changes (1790-1850s):**
+>   - Significant elaboration and transformation in U.S. voting laws.
+> - **Voting Procedures:**
+>   - *Procedures for voting* varied widely from state to state and even
+>     from town to towns
+> - **Oral and Public Voting in the South:**
+>   - Voters announced their choice before election judges.
+>   - In Virginia, voters inscribed names in a poll book under their
+>     preferred candidate.
 
-## Expanding Rights
+## Expanding Rights: Shift to Written Ballots
 
-> - Elsewhere, state constitutions or statutes required that voting be
->   conducted by written ballot, to protect voters against intimidation
-> - **By the mid-nineteenth century, nearly all states insisted that
->   votes be cast through written ballots, placed in a box or handed to
->   an official**
-> - As the number of offices to be filled through elections grew,
->   *printed ballots gradually replaced handwritten ones*, and political
->   parties themselves began to prepare printed ballots, both to assist
->   and monitor their voters
+> - **Transition to Written Ballot:**
+>   - State constitutions and statutes increasingly mandated written
+>     ballots to prevent intimidation.
+> - **Mid-19th Century Standardization:**
+>   - Predominance of written ballots, either placed in a box or handed
+>     to an official.
+> - **Emergence of Printed Ballots:**
+>   - Transition from handwritten to printed ballots as number of
+>     elected offices grew.
+>   - Political parties began preparing printed ballots to *assist* and
+>     \*\*\*\*monitor\*\*\* their voters.
 
 ## Key Legal Developments in Election Administration
 
