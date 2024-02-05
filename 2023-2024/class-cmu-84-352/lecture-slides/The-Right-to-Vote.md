@@ -860,373 +860,392 @@ had served, in the army or the militia
 
 ## Backsliding and Sideslipping
 
-## Trajectory
+## Trajectory of Voting Laws
 
-> - The dominant thrust of legal change was toward *increasing* the
->   number of voters, laws also were passed that **tightened voting
->   requirements**.
-> - Some of these were administrative in origin, giving specificity to
->   vaguely worded constitutional mandates.
-> - Others were designed after the abolition of property and taxpaying
->   requirements.
-> - Still, others were a response to the profound economic, social, and
->   political changes transforming the nation:
->   - as the U.S. began to wrestle with the impact of industrialism,
->     sectional conflict, immigration, and westward expansion, the first
->     clouds of an *anti-democratic reaction* were forming on the
->     horizon.
+- **Increasing Voters vs. Tightening Requirements:**
+  - While the legal trend favored increasing voter numbers, some laws
+    introduced stricter voting criteria.
+- **Administrative Specifications:**
+  - New regulations clarified vague constitutional mandates, adding
+    specificity.
+- **Post-Abolition Adjustments:**
+  - Laws designed in the aftermath of eliminating property and taxpaying
+    requirements.
+- **Response to National Transformations:**
+  - Economic, social, and political shifts prompted adjustments in
+    voting laws.
+  - Emerging challenges: industrialism, sectional conflicts,
+    immigration, westward expansion.
+  - Signs of an anti-democratic reaction appeared in response to these
+    challenges.
 
-## Gender
+## Gender and Voting Rights
 
-> - NJ’s state constitution of 1776 and an election law passed in 1790
->   granted the right to vote to all “*inhabitants*” who otherwise were
->   qualified
->   - this was interpreted locally to mean that property-owning women
->     could vote
-> - The balance of political power had shifted, charges of voting fraud
->   were rampant, and the Federalists, as well as two competing groups
->   of Republicans, concluded that it was no longer to their advantage
->   to have all “*inhabitants*”—including women, aliens, and African
->   Americans—in the electorate.
->   - **Woman in New Jersey lost the right to vote in 1807**
+- **Early Inclusion in New Jersey:**
+  - 1776 constitution and 1790 election law allowed all “*inhabitants*”
+    voting rights.
+  - Interpretation permitted property-owning women to vote.
+- **Shift in Political Dynamics:**
+  - Changes in political power and rampant voting fraud allegations.
+  - Federalists and Republicans reassessed the broad electorate’s
+    benefits.
+- **Exclusion of Women (1807):**
+  - Decision to narrow the electorate led to the disenfranchisement of
+    women, along with aliens and African Americans.
+  - Women in New Jersey lost voting rights in 1807.
 
-## Gender
+## Gender and Electoral Exclusion
 
-> - Those who supported this retrenchment made little or no mention of
->   women lacking the capacity to vote;
-> - Legislators were simply fighting corruption, correcting a “defect”
->   in the constitution, and clearing up “doubts” about the composition
->   of the electorate.
-> - Once that constitutional defect had been corrected, women everywhere
->   in the nation were *barred* from the polls
+- **Rationale Behind Retrenchment:**
+  - Supporters of disenfranchising women did not cite lack of capacity
+    as a reason.
+  - Emphasis was on combating corruption and rectifying constitutional
+    “defects.”
+- **Legislative Justifications:**
+  - Aimed to resolve “doubts” regarding the electorate’s composition by
+    amending the constitution.
+- **Nationwide Impact:**
+  - Following the constitutional amendment, women were universally
+    barred from voting across the nation.
 
-## African-Americans
+## African-American Voting Rights
 
-> - The number of states that formally excluded free African Americans
->   was relatively *small* at the nation’s founding
-> - It rose steadily from 1790 to 1850
-> - NJ, MD, and CT, which had permitted blacks to vote after
->   independence, had banned it by 1820.
-> - **Every state that entered the union after 1819 prohibited Blacks
->   from voting**
+- **Early State Policies:**
+  - Initially, only a few states formally excluded free African
+    Americans from voting.
+- **Increasing Exclusions (1790-1850):**
+  - Steady rise in the number of states disallowing black voting rights
+    during this period.
+- **Reversal in Early States:**
+  - NJ, MD, and CT, which allowed black voting post-independence, banned
+    it by 1820.
+- **Post-1819 State Policies:**
+  - All states joining the union after 1819 explicitly prohibited black
+    voting.
 
-## Pennsylvania
+## Pennsylvania: Shift in Voting Rights
 
-- Pennsylvania which had among the most *liberal* constitution during
-  the revolutionary era, added the word “white” to its constitutional
-  requirements in 1838.
-- This happened two years after its supreme court had ruled that blacks
-  could not vote because they were not “freemen.”
+- **Revolutionary Era Liberalism:**
+  - Initially, Pennsylvania had one of the most liberal constitutions
+    regarding voting rights.
+- **Constitutional Amendment in 1838:**
+  - Added the word “white” to voting requirements, explicitly
+    restricting black suffrage.
+- **Supreme Court Ruling (1836):**
+  - Two years prior to the amendment, the state’s supreme court ruled
+    that blacks could not vote as they were not considered “freemen.”
 
-## African-Americans
+## Federal Stance on African-American Voting Rights
 
-> - The federal government prohibited Blacks from voting in the
->   territories it controlled;
->   - in 1857, the Supreme Court ruled that Blacks, free or slave, could
->     not be citizens of the United States
-> - By 1855, only five states (Massachusetts, Vermont, New Hampshire,
->   Maine, and Rhode Island) did *not* discriminate against African
->   Americans,
->   - these states contained only 4 percent of the nation’s free black
->     population
-> - **Pop quiz, what was the 1857 SCOTUS Case?**
+- **Federal Restrictions:**
+  - The federal government barred Blacks from voting in territories
+    under its control.
+- **State-Level Discrimination by 1855:**
+  - Only five states (Massachusetts, Vermont, New Hampshire, Maine,
+    Rhode Island) allowed African-American suffrage.
+  - These states comprised only 4% of the nation’s free black
+    population.
+- **Supreme Court Ruling (1857):**
+  - in 1857, the Supreme Court ruled that Blacks, free or slave, could
+    not be citizens of the United States
+  - *Dred Scott v. Sandford*
 
-## Slaves
+## Voting Rights and Slavery
 
-> - Slaves were ineligible to vote everywhere
-> - Most free Blacks could not meet property and taxpaying requirements
-> - With each passing decade the free Black population grew, the
->   abolition of property requirements made it possible for poor,
->   uneducated Blacks to vote
-> - Inhabitants of northern states grew increasingly apprehensive about
->   the prospect of attracting Black migrants from the South
+- **Ineligibility of Slaves:**
+  - Slaves were universally denied the right to vote.
+- **Barriers for Free Blacks:**
+  - Most free Blacks were unable to meet property and taxpaying criteria
+    for voting.
+- **Impact of Abolishing Property Requirements:**
+  - Elimination of property qualifications enabled poor, uneducated free
+    Blacks to vote.
+- **Northern States’ Concerns:**
+  - Growing apprehension in northern states about becoming a destination
+    for Black migrants from the South.
 
-## Growing Racism
+## Growing Racism and Political Dynamics
 
-> - While abolitionist sentiment was growing, so too were sharply
->   antagonistic, fearful, and hostile attitudes toward Blacks,
->   especially in the North
-> - Republican factions were hostile to Black voting between 1810 and
->   1820, in part because they feared (correctly) that Blacks would
->   constitute a Federalist voting bloc
->   - politically active Blacks throughout the North tended to support
->     the Federalists because of their opposition to slavery
-> - In later decades, Democratic opposition to African-American suffrage
->   was reinforced by the (equally correct) conviction that most Blacks
->   would vote for Whigs.
+- **Rising Hostility Towards Blacks:**
+  - Increase in antagonistic and fearful attitudes towards Blacks,
+    notably in the North, despite growing abolitionist sentiments.
+- **Republican Factions and Black Voting (1810-1820):**
+  - Resistance to Black suffrage partly due to fears of Blacks aligning
+    with Federalists.
+  - Black voters in the North leaned towards Federalists, who opposed
+    slavery.
+- **Democratic Stance in Later Decades:**
+  - Democratic opposition to African-American voting rights stemmed from
+    the belief that Blacks would predominantly support Whigs.
 
-## Slaves
+## African-Americans in the North: Population and Voting Rights
 
-> - In the North in 1850, Blacks constituted more than 2 percent of the
->   population in only one state, New Jersey
-> - Many areas that witnessed heated debates on the subject (e.g., Ohio
->   and Indiana) had populations that were less than 1 percent black.
-> - The Black vote was decisive in a controversial county election in
->   Pennsylvania in the 1830s, a fact that contributed to the adoption
->   of a racial exclusion in the 1838 constitution.
-> - The fear of Black migration helped to fuel the demand for Black
->   disfranchisement:
->   - not only in Pennsylvania but in New York, Wisconsin, and
->     elsewhere, convention delegates claimed that enfranchising blacks
->     would only encourage freedmen and runaway slaves to flock to their
->     states
+- **Black Population in 1850:**
+  - In the North, only New Jersey had a Black population exceeding 2%.
+  - States with intense debates like Ohio and Indiana had less than 1%
+    Black population.
+- **Impact of Black Vote in Pennsylvania:**
+  - A county election influenced by the Black vote in the 1830s led to
+    racial exclusion in the 1838 Pennsylvania constitution.
+- **Fear of Black Migration:**
+  - Concerns that enfranchising Blacks would attract freedmen and
+    runaway slaves to states like Pennsylvania, New York, and Wisconsin.
+  - This fear contributed significantly to the push for Black
+    disfranchisement.
 
-## 19th Century minds
+## 19th Century Perspectives on Black Suffrage
 
-> - Black suffrage was an emotionally charged issue that could not be
->   reached through rational argument or fine distinctions
-> - Much of the populace believed that Blacks were inferior, and outside
->   of the slave states, feared their presence.
-> - Permitting African Americans to vote seemed all too likely to open
->   the doors to migration and “*amalgamation*,” and thus to diminish
->   the significance of whiteness and citizenship
+- **Emotional and Irrational Responses:**
+  - Rational arguments and nuanced distinctions struggled to address the
+    emotionally charged issue of Black suffrage.
+- **Prevalent Beliefs and Fears:**
+  - Widespread belief in Black inferiority and fear of their presence,
+    especially outside slave states.
+- **Concerns Over Voting Rights:**
+  - Granting African Americans the right to vote was feared to encourage
+    migration and “amalgamation.”
+  - This was perceived as a threat to the value of whiteness and the
+    essence of citizenship.
 
-## Native Americans
+## Early Legal Ambiguity for Native Americans
 
-> - The citizenship status of Native Americans was ambiguous in early
->   American law (the constitution specified that Indians “*not taxed*”
->   were not to be counted in the census for the purposes of legislative
->   apportionment)
-> - Many constitutional conventions held brief debates about whether
->   Indians were or were not “*white*.”
-> - The prevailing view in much of the nation was that Native Americans,
->   whether officially white or not, ought not be excluded from the
->   franchise on racial grounds
->   - if they were “civilized” and taxpaying, they should be entitled to
->     vote
+- **Constitutional Provision:**
+  - “Indians not taxed” excluded from census counts for legislative
+    apportionment, reflecting ambiguous citizenship status.
+- **Constitutional Debates:**
+  - Deliberations on whether Native Americans were considered “white” in
+    various constitutional conventions.
+- **General National Consensus:**
+  - A broad agreement that Native Americans should not be excluded from
+    voting on racial grounds if “civilized” and taxpaying.
 
-## Native Americans
+## Legal Status and Voting Rights of Native Americans
 
-> - The ability of Native Americans to participate in politics was
->   narrowed between 1790 and the 1850s
-> - Their legal status began to be clarified—*in a negative direction*.
-> - Indian tribes were “*domestic, dependent nations* ,” according to
->   Chief Justice Marshall, and thus individual Indians, living with
->   their tribes, were aliens, even if born in the United States.
-> - Twenty years later, the Dred Scott decision affirmed this
->   interpretation, while suggesting a path toward citizenship: Indians
->   (unlike Blacks) could, if they left their tribes and settled among
->   whites, “be entitled to all the rights and privileges which would
->   belong to an immigrant from any other foreign people.”
+- **Narrowing Political Participation (1790-1850s):**
+  - Gradual legal clarification of Native American status, generally in
+    a restrictive manner.
+- **Key Legal Interpretations:**
+  - Marshall’s designation of Indian tribes as “domestic, dependent
+    nations.”
+  - *Dred Scott* decision’s implications for Native American citizenship
+    and potential paths toward it.
 
-## Native Americans
+## Congressional and State Actions on Native American Suffrage
 
-> - Congress did attempt to naturalize some tribes, usually in return
->   for a tribal agreement to accept a limited allotment of land
-> - Congressional actions affected only a small number of Native
->   Americans.
-> - Several states formally moved to disfranchise all Indians, or
->   Indians “not taxed,” or members of specific tribes, while others
->   expressly limited suffrage to citizens or to “civilized” Indians who
->   were “not a member of any tribe.”
-> - Native Americans were understood to be potential voters, but few in
->   fact ever were able to vote during the antebellum era
+- **Congressional Naturalization Efforts:**
+  - Some tribes naturalized in exchange for land allotments, affecting a
+    minority of Native Americans.
+- **State-Level Disfranchisement:**
+  - Various states explicitly disfranchised Native Americans,
+    particularly those “not taxed” or affiliated with tribes.
+- **Limited Voting Participation:**
+  - While legally *potential* voters, few Native Americans managed to
+    exercise this right in the antebellum period.
 
-## Other Classes of People
+## Exclusions Beyond Property Requirements
 
-> - Even after property requirements were abolished, not all adult white
->   males were considered full members of the political community.
->   - Pauper exclusions were not old colonial rules; they were new
->     constitutional provisions often introduced alongside property or
->     tax requirement eliminations.
->   - Excluding paupers directly rejected the idea of universal suffrage
->     for all white males.
-> - These exclusions emphasized that individuals needed a basic level of
->   economic self-sufficiency to possess political rights.
->   - Receiving public support meant giving up independence and losing
->     the ability to function as a citizen.
+- **Pauper Exclusions:**
+  - New constitutional provisions introduced to exclude paupers, often
+    accompanying the abolition of property requirements.
+  - Direct contradiction to the notion of universal suffrage for all
+    adult white males.
+- **Economic Self-Sufficiency and Political Rights:**
+  - Economic independence seen as a prerequisite for political
+    participation.
+  - Dependence on public assistance equated to a loss of citizenry
+    rights.
 
-## Felons
+## Disfranchisement for Criminal Convictions
 
-- Voting rights were denied to men who broke social norms, especially
-  those who committed felonies or infamous crimes.
-- This practice of disfranchisement had historical roots in English,
-  European, and Roman law, and it was also adopted in American law.
-- Disfranchisement served as both punishment for the crime and a
-  deterrent against future criminal behavior.
+- **Historical Precedents:**
+  - Denial of voting rights for serious offenses rooted in English,
+    European, and Roman legal traditions.
+- **American Legal Adoption:**
+  - Embedded in American law as both a punitive measure and a deterrent.
 
-## Felons and Voting Rights
+## Felons and Voting Rights in State Constitutions
 
-- Between 1776 and 1821, eleven state constitutions either explicitly
-  banned men with criminal convictions from voting or gave their
-  legislatures the authority to disenfranchise based on criminal
-  conduct.
-- By the time of the Civil War, more than two dozen states excluded
-  individuals who had committed serious crimes, with many of these
-  provisions enacted after the removal of property and tax-paying
-  requirements.
+- **Constitutional Provisions (1776-1821):**
+  - Eleven states explicitly restricted voting rights for men with
+    criminal convictions or authorized legislatures to do so.
+- **Expansion of Disfranchisement Pre-Civil War:**
+  - By the Civil War era, over two dozen states had laws excluding
+    individuals convicted of serious crimes, many enacted post-abolition
+    of economic requirements.
 
-## Residency Requirements
+## Residency Requirements for Voting
 
-> - In several states, the franchise also was restricted by lengthening
->   state or local residency requirements
->   - in some states, the reverse was true
-> - In the absence of property or taxpaying qualifications, it seemed
->   sensible to restrict the franchise to those who were familiar with
->   local conditions and likely to have a stake in the outcome of
->   elections.
-> - The average requirement tended to be **one year** in the state and
->   **three or six months** in an individual township or county
+- **Variation Across States:**
+  - Some states increased residency requirements, while others reduced
+    them.
+- **Rationale for Residency Requirements:**
+  - Aimed to ensure voters were familiar with local conditions and had a
+    vested interest in election outcomes.
+- **Typical Requirements:**
+  - Average state residency requirement was one year.
+  - Township or county residency tended to be three to six months.
 
-## Residency Requirements
+## Political Influences on Residency Requirements
 
-> - There were strenuous advocates of both longer and shorter periods
->   - In 1820, “hundreds of men…from New Hampshire” were reported to be
->     flocking into Massachusetts each spring to vote in elections
-> - Federalists and then Whigs tended to favor longer periods of
->   residence, because they were wary of the unsettled and the poor and
->   suspected that most transients would vote for the Republicans or
->   Democrats.
-> - The Democrats shared this analysis, advocating shorter residency
->   requirements in the hope of enfranchising more of their own
->   supporters
+- **Advocacy for Different Residency Periods:**
+  - Reports in 1820 of men from New Hampshire moving to Massachusetts to
+    vote highlighted concerns over short residency periods.
+- **Party Preferences:**
+  - Federalists and Whigs favored longer residency requirements,
+    concerned about the influence of transients and the poor.
+  - Democrats advocated for shorter periods, aiming to enfranchise more
+    supporters.
 
-## Voter Registration
+## Origins of Voter Registration
 
-> - Concern about transients and *–particularly foreign-born
->   transients–* sparked interest in the creation of formal systems of
->   voter registration
-> - Most states did not keep official lists of voters or require voters
->   to register in advance of elections
-> - Beginning in the 1830s, the idea of registration became more
->   popular, particularly among Whigs, who believed that ineligible
->   transients and foreigners were casting their votes for the
->   Democratic Party
+- **Concerns Over Transients:**
+  - Growing worries about transient voters, especially foreign-born, led
+    to calls for formal voter registration systems.
+- **Pre-1830s Practices:**
+  - Lack of official voter lists or pre-election registration
+    requirements in most states.
+- **Shift in the 1830s:**
+  - Whigs championed registration to curb votes from ineligible
+    transients and foreigners perceived to support Democrats.
 
-## Voter Registration
+## Legal Foundation and Early Implementation
 
-> - *Capen v. Foster* (1832), ruled that registry laws were not
->   unconstitutional impositions of new voting qualifications but
->   reasonable measures to regulate the conduct of elections.
-> - In 1836, Pennsylvania passed its first registration law, which
->   required the assessors in Philadelphia *(and only Philadelphia)* to
->   prepare lists of qualified voters:**no person not on the list was
->   permitted to vote**
-> - Although the proclaimed goal of the law was to reduce fraud,
->   opponents insisted that its real intent was to *reduce the
->   participation of the poor* —who were frequently not home when
->   assessors came by and who did not have “*big brass*” nameplates on
->   their doors
+- **Capen v. Foster (1832):**
+  - Affirmed that registry laws were constitutional, aimed at regulating
+    election conduct rather than imposing new voting qualifications.
+- **Pennsylvania’s Registration Law (1836):**
+  - First registration law requiring voter lists in Philadelphia,
+    barring anyone not listed from voting.
+- **Controversy Over Law’s Intent:**
+  - Official goal was to reduce fraud, but critics argued it aimed to
+    disenfranchise the poor, who might miss assessors’ visits or lack
+    prominent identifiers like “big brass” nameplates.
 
-## Literacy Tests
+## Literacy Tests in Voting
 
-> “The least we can require is this very simple manifestation of
-> intelligence.”
+- **Justification for Literacy Tests:**
+  - Advocates for literacy tests in voting often framed them as minimal
+    standards for ensuring voter intelligence.
+  - Quote: “The least we can require is this very simple manifestation
+    of intelligence.”
+- **Underlying Assumptions:**
+  - The implementation of literacy tests was predicated on the belief
+    that the ability to read and write was a fundamental prerequisite
+    for informed voting.
 
-## Immigrants
+## Literacy Tests and Immigrant Voting
 
-> - Apprehensions about immigrant voting in the 1840s considered
->   proposals to institute literacy tests, or even English language
->   literacy tests, for prospective voters
-> - Although the image of an educated electorate clearly had its
->   attractions, these proposals were rapidly rebutted
->   - there were many fine, upstanding citizens who happened to be
->     illiterate or barely literate but were perfectly capable of
->     responsibly exercising the franchise
->   - It was claimed Andrew Jackson had difficulty spelling his own name
-> - Without universal education, a literacy requirement would be “a blow
->   at the poor.”
-> - **Literacy or “waiting period” restrictions were not imposed until
->   the 1850s**
+- **1840s Proposals:**
+  - Rising apprehensions about immigrant voting led to proposals for
+    literacy and English language tests for prospective voters.
+- **Counterarguments:**
+  - Opposition highlighted that many competent citizens were illiterate
+    or had minimal literacy but could responsibly vote.
+  - Anecdote: Andrew Jackson’s reputed difficulty with spelling.
+- **Concerns Over Equity:**
+  - Without universal education, literacy tests were seen as
+    discriminatory against the poor.
+- **Introduction of Restrictions:**
+  - Literacy and “waiting period” restrictions on voting were not
+    enacted until the 1850s.
 
-## Working Class and Socialism
+## Working Class Enfranchisement and Socialism
 
-> - From the earliest periods, class played a relatively small role in
->   American social and politics life.
-> - Enfranchisement of the American working class was uniquely early and
->   quite uncontested
->   - American workers gained universal suffrage *(or at least universal
->     white male suffrage* ) early in the process of industrialization
->     and thus never were obliged to organize collectively to fight for
->     the franchise.
->   - Workers were able to address their grievances through the
->     electoral process, they were not compelled to form labor parties,
->     and they developed partisan attachments to previously established
->     political organizations.
+- **Early and Uncontested Enfranchisement:**
+  - The American working class was enfranchised early in the
+    industrialization process, without the need for collective
+    organization for franchise rights.
+- **Impact on Labor Movements:**
+  - Access to the electoral process reduced the impetus to form labor
+    parties, leading to partisan attachments to existing political
+    organizations.
+- **Absence of Strong Socialist Movement:**
+  - The unique path of working-class enfranchisement contributed to the
+    notable lack of a strong socialist movement in American politics.
 
-## Absence of class as a political wedge
+## Absence of Class as a Political Wedge
 
-> - The subsequent evolution of American politics and American labor had
->   a noticeable *absence of a strong socialist movement*
-> - **To the extent that the working class was indeed enfranchised
->   during the antebellum era** *(and one should not ignore that women,
->   free blacks, and recent immigrants constituted a large portion of
->   the working class)*, **such enfranchisement was largely an
->   unintended consequence of the changes in suffrage laws**
+- **Limited Role of Class in Politics:**
+  - Class has historically played a small role in shaping American
+    social and political life.
+- **Unintended Consequences of Suffrage Laws:**
+  - The broad enfranchisement of the working class during the antebellum
+    era was largely an accidental outcome of changes in suffrage laws.
+  - It’s important to acknowledge the exclusion of women, free blacks,
+    and recent immigrants from this enfranchisement.
 
-## Industrial Revolution and Suffrage
+## Industrial Revolution and Suffrage Expansion
 
-> - The broadening of the franchise in antebellum America transpired
->   before the industrial revolution had proceeded very far and before
->   its social consequences were clearly or widely visible
-> - There were relatively few manufacturing workers in the northern
->   states when property qualifications were abolished or new
->   constitutions without property restrictions were adopted
-> - There was a dramatic shift in the ratios of farmers to workers
->   - By 1850, persons who earned their living in agriculture were
->     outnumbered in five states
->   - **the relative importance of industry occurred twenty years or
->     more after the suffrage laws had been changed**  
-> - The American polity did not make a deliberate and conscious decision
->   to enfranchise the working class that the industrial revolution was
->   in the process of creating
+- **Pre-Industrial Suffrage Reforms:**
+  - Franchise expansion occurred before the full onset of the Industrial
+    Revolution and its societal impacts were fully realized.
+- **Early Industrial Workforce:**
+  - Northern states had few manufacturing workers when property
+    qualifications were removed or new constitutions enacted.
+- **Shift in Labor Demographics:**
+  - Dramatic change in the ratio of farmers to industrial workers
+    evident by 1850, with industrial significance rising significantly
+    post-suffrage reforms.
+- **Lack of Deliberate Decision:**
+  - No conscious policy choice to enfranchise the emerging industrial
+    working class at the time of suffrage reforms.
 
-## Class and Suffrage
+## Class Dynamics and Voting Rights
 
-> - The early broadening of the franchise in the United States was not
->   simply the consequence of a distinctive American commitment to
->   democracy, of the insignificance of class, or of a belief in
->   extending political rights to subaltern classes
-> - The early extension of voting rights occurred because the rights and
->   power of the working class were not at issue when suffrage reforms
->   were adopted.
-> - The American equivalent of the peasantry was not going to be
->   enfranchised in any case *(because they were slaves)*, and the
->   social landscape included few industrial workers
+- **Beyond Democratic Ideals:**
+  - Early franchise broadening was not solely due to a unique commitment
+    to democracy or the perceived irrelevance of class.
+- **Context of Suffrage Reforms:**
+  - Extension of voting rights took place in a context where the working
+    class’s rights and power were not central concerns.
+- **Exclusion of Subaltern Classes:**
+  - Enfranchisement of the “American peasantry” was not considered, as
+    they were enslaved.
+  - Few industrial workers existed to challenge the social order when
+    suffrage reforms were implemented.
 
-## Trends against suffrage
+## Trends Against Suffrage
 
-> - Although the franchise overall had been broadened, new barriers were
->   erected, targeting specific—and smaller—populations
-> - The concern about immigrant voters in the Northeast was mounting at
->   precisely the same time that many Midwestern states were extending
->   the franchise to non-declarant aliens.
-> - By the early 1850s, several groups or categories of men (and one
->   group of women) had lost the political rights they possessed a half
->   century earlier
-> - **These barriers were expressions of the nation’s reluctance to
->   embrace universal suffrage, of the limits to the democratic impulses
->   that characterized the era**
+- **Broadening Followed by Barriers:**
+  - While suffrage had expanded, new barriers were erected, targeting
+    smaller and specific populations.
+- **Regional Contrasts:**
+  - Concerns about immigrant voters in the Northeast coincided with
+    Midwestern states extending the franchise to non-declarant aliens.
+- **Loss of Political Rights:**
+  - By the early 1850s, various groups of men and one group of women had
+    lost the political rights they once possessed.
+- **Limitations to Universal Suffrage:**
+  - These barriers reflected the nation’s reluctance to fully embrace
+    universal suffrage, highlighting the limits of democratic impulses
+    in that era.
 
 ## Part II
 
-## Mid-Nineteenth Century to the Twentieth Century
+- **Mid-Nineteenth Century to the Twentieth Century**
 
 ## Changing Country
 
-> - After 1850, conflict over the right to vote heightened dramatically
->   - There was a shift in temper after mid-century, marked by a
->     heightened resolve on the part of those seeking to contract the
->     right to vote or limit its further expansion
->   - Freedmen were enfranchised during Reconstruction because
->     Republicans in Congress came to believe that freedom would be
->     illusory without political rights
-> - The potential electorate in 1880 or 1900 looked very different than
->   it had in 1840
->   - The optimism about popular participation, so visible in the 1830s
->     and 1840s, gave way to apprehension and fear by the late 1870s and
->     1880s
->   - Country increasingly consisted of men and women who were racially,
->     ethnically, and culturally unlike old-stock white Americans
+- **Heightened Conflict Over Voting Rights:**
+  - After 1850, there was a significant increase in conflict over the
+    right to vote, with a shift in temper towards restricting voting
+    rights.
+  - Freedmen were enfranchised during Reconstruction as political rights
+    were seen as essential to true freedom.
+- **Evolution of the Electorate:**
+  - The potential electorate in 1880 or 1900 was significantly different
+    from that of 1840.
+  - Optimism about popular participation in the 1830s and 1840s gave way
+    to apprehension and fear by the late 1870s and 1880s.
+  - The country was increasingly diverse racially, ethnically, and
+    culturally.
 
 ## High Point of Democracy
 
-- “the democratic principle… reached its culmination about 1850.”
-
-- *Atlantic Monthly*
-
-- **The high tide of faith in democracy in the United States was reached
-  at mid-century in the 1800s; thereafter it ebbed**
+- “The democratic principle… reached its culmination about 1850.”
+  - **- Atlantic Monthly**
+- The high tide of faith in democracy in the United States was reached
+  at mid-century in the 1800s; thereafter it ebbed.
 
 ## Immigrants
 
@@ -1266,7 +1285,7 @@ had served, in the army or the militia
 >   - most were Irish Catholic.
 > - Although their labor was welcome and there was substantial sympathy
 >   for the desperate poverty that had impelled them to emigrate, their
->   *religion* , *ethnicity*, and *class* converged to cast doubt on
+>   *religion*, *ethnicity*, and *class* converged to cast doubt on
 >   their *desirability* as members of the polity
 
 ## Nativism
