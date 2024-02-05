@@ -301,9 +301,9 @@
 
 ## Earning the privilege
 
-> - Only men with property, preferably \*real\*\* property, were deemed
->   to be sufficiently attached to the community and sufficiently
->   affected by its laws to have earned the privilege of voting
+> - Only men with property, preferably **real** property, were deemed to
+>   be sufficiently attached to the community and sufficiently affected
+>   by its laws to have earned the privilege of voting
 >   - The propertyless, if enfranchised, would constitute a menace to
 >     the maintenance of a well-ordered community
 > - The interests of the propertyless, like those of women and children,
@@ -726,8 +726,9 @@ had served, in the army or the militia
 >   - Mid-nineteenth century debates on alien suffrage.
 >   - State courts consistently upheld alien suffrage provisions.
 > - **Opposition Arguments:**
->   - Claims that states were overstepping federal authority by granting
->     franchise to non-naturalized individuals.
+
+> - Claims that states were overstepping federal authority by granting
+>   franchise to non-naturalized individuals.
 
 ## Citizenship and Naturalization
 
@@ -766,11 +767,11 @@ had served, in the army or the militia
 
 ## Broadening of the Suffrage
 
-> - **Convergence of Factors (first half of the 1800s):**
->   - Significant shifts in social structure and composition.
->   - Emergence or growth of situations where expanding the franchise
->     benefited the enfranchised’s material interests.
->   - Establishment of broad-based political parties vying for votes.
+- **Convergence of Factors (first half of the 1800s):**
+  1.  Significant shifts in social structure and composition.
+  2.  Emergence or growth of situations where expanding the franchise
+      benefited the enfranchised’s material interests.
+  3.  Establishment of broad-based political parties vying for votes.
 
 ## Changing Social Statuses
 
@@ -855,14 +856,14 @@ had served, in the army or the militia
 >     barriers to male electoral participation.
 > - **Impact on Political Participation:**
 >   - Surge in political engagement during the 1830s and 1840s, with
->     some areas seeing 80% turnout among adult male citizens.
+>     some areas seeing 80% turnout among adult white male citizens.
 
 ## Backsliding and Sideslipping
 
 ## Trajectory
 
-> - The dominant thrust of legal change was toward_increasing\_ the
->   number of voters, laws also were passed that**tightened voting
+> - The dominant thrust of legal change was toward *increasing* the
+>   number of voters, laws also were passed that **tightened voting
 >   requirements**.
 > - Some of these were administrative in origin, giving specificity to
 >   vaguely worded constitutional mandates.
@@ -882,13 +883,12 @@ had served, in the army or the militia
 >   qualified
 >   - this was interpreted locally to mean that property-owning women
 >     could vote
-
 > - The balance of political power had shifted, charges of voting fraud
 >   were rampant, and the Federalists, as well as two competing groups
 >   of Republicans, concluded that it was no longer to their advantage
 >   to have all “*inhabitants*”—including women, aliens, and African
 >   Americans—in the electorate.
->   - **1807, Woman in New Jersey lost the right to vote**
+>   - **Woman in New Jersey lost the right to vote in 1807**
 
 ## Gender
 
@@ -903,18 +903,20 @@ had served, in the army or the militia
 ## African-Americans
 
 > - The number of states that formally excluded free African Americans
->   was relatively_small\_ at the nation’s founding
+>   was relatively *small* at the nation’s founding
 > - It rose steadily from 1790 to 1850
 > - NJ, MD, and CT, which had permitted blacks to vote after
->   independence, had banned it by 1820. **Every state that entered the
->   union after 1819 prohibited Blacks from voting**
+>   independence, had banned it by 1820.
+> - **Every state that entered the union after 1819 prohibited Blacks
+>   from voting**
 
 ## Pennsylvania
 
-> Pennsylvania Had among the most liberal constitution during the
-> revolutionary era, added the word “white” to its constitutional
-> requirements in 1838. This happened two years after its supreme court
-> had ruled that blacks could not vote because they were not “freemen.”
+- Pennsylvania which had among the most *liberal* constitution during
+  the revolutionary era, added the word “white” to its constitutional
+  requirements in 1838.
+- This happened two years after its supreme court had ruled that blacks
+  could not vote because they were not “freemen.”
 
 ## African-Americans
 
@@ -927,8 +929,7 @@ had served, in the army or the militia
 >   Americans,
 >   - these states contained only 4 percent of the nation’s free black
 >     population
-
-Pop quiz, what was the 1857 SCOTUS Case?
+> - **Pop quiz, what was the 1857 SCOTUS Case?**
 
 ## Slaves
 
@@ -947,7 +948,7 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   especially in the North
 > - Republican factions were hostile to Black voting between 1810 and
 >   1820, in part because they feared (correctly) that Blacks would
->   constitute a Federalist voting bloc,
+>   constitute a Federalist voting bloc
 >   - politically active Blacks throughout the North tended to support
 >     the Federalists because of their opposition to slavery
 > - In later decades, Democratic opposition to African-American suffrage
@@ -977,7 +978,7 @@ Pop quiz, what was the 1857 SCOTUS Case?
 > - Much of the populace believed that Blacks were inferior, and outside
 >   of the slave states, feared their presence.
 > - Permitting African Americans to vote seemed all too likely to open
->   the doors to migration and “*amalgamation* ,” and thus to diminish
+>   the doors to migration and “*amalgamation*,” and thus to diminish
 >   the significance of whiteness and citizenship
 
 ## Native Americans
@@ -1021,46 +1022,39 @@ Pop quiz, what was the 1857 SCOTUS Case?
 > - Native Americans were understood to be potential voters, but few in
 >   fact ever were able to vote during the antebellum era
 
-## Other classes of people
+## Other Classes of People
 
-> - Despite the abolition of property requirements, most Americans did
->   not believe that all adult white males were entitled to full
->   membership in the political community
-> - Pauper exclusions were not antiquated carryovers of colonial
->   precedents; they were generally *new* constitutional provisions,
->   often *adopted at the same conventions that abolished property or
->   taxpaying requirements*
-> - The exclusion of paupers constituted a direct rejection of claims
->   that suffrage was a right that ought to be universal among white
->   males
-> - These exclusions made clear that individuals had to maintain a
->   minimal level of *economic self-sufficiency* in order to *possess
->   political rights*
->   - a man who accepted public support surrendered his independence and
->     therefore lost the capacity to function as a citizen
+> - Even after property requirements were abolished, not all adult white
+>   males were considered full members of the political community.
+>   - Pauper exclusions were not old colonial rules; they were new
+>     constitutional provisions often introduced alongside property or
+>     tax requirement eliminations.
+>   - Excluding paupers directly rejected the idea of universal suffrage
+>     for all white males.
+> - These exclusions emphasized that individuals needed a basic level of
+>   economic self-sufficiency to possess political rights.
+>   - Receiving public support meant giving up independence and losing
+>     the ability to function as a citizen.
 
 ## Felons
 
-> - The right to vote also was withheld from another group of men who
->   violated prevailing social norms, those who had committed crimes,
->   particularly felonies or so-called infamous crimes
-> - Disfranchisement for such crimes had a long history in English,
->   European, and even Roman law, and it was hardly surprising that the
->   principle of attaching civil disabilities to the commission of
->   crimes appeared in American law as well
-> - Disfranchisement served as retribution for committing a crime and as
->   a deterrent to future criminal behavior
+- Voting rights were denied to men who broke social norms, especially
+  those who committed felonies or infamous crimes.
+- This practice of disfranchisement had historical roots in English,
+  European, and Roman law, and it was also adopted in American law.
+- Disfranchisement served as both punishment for the crime and a
+  deterrent against future criminal behavior.
 
-## Felons
+## Felons and Voting Rights
 
-> - Between 1776 and 1821, eleven state constitutions either expressly
->   prohibited men with criminal convictions from voting or empowered
->   their legislatures to enact laws disfranchising men based on
->   criminal activity
-> - By the eve of the Civil War, more than two dozen states excluded
->   those who had committed serious crimes, with many of the
->   disfranchising provisions enacted in the wake of the abolition of
->   property and tax-paying requirements
+- Between 1776 and 1821, eleven state constitutions either explicitly
+  banned men with criminal convictions from voting or gave their
+  legislatures the authority to disenfranchise based on criminal
+  conduct.
+- By the time of the Civil War, more than two dozen states excluded
+  individuals who had committed serious crimes, with many of these
+  provisions enacted after the removal of property and tax-paying
+  requirements.
 
 ## Residency Requirements
 
@@ -1071,8 +1065,8 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   sensible to restrict the franchise to those who were familiar with
 >   local conditions and likely to have a stake in the outcome of
 >   elections.
-> - The average requirement tended to be one year in the state and three
->   or six months in an individual township or county
+> - The average requirement tended to be **one year** in the state and
+>   **three or six months** in an individual township or county
 
 ## Residency Requirements
 
@@ -1131,8 +1125,9 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >     responsibly exercising the franchise
 >   - It was claimed Andrew Jackson had difficulty spelling his own name
 > - Without universal education, a literacy requirement would be “a blow
->   at the poor.” **Literacy or “waiting period” restrictions were not
->   imposed until the 1850s**
+>   at the poor.”
+> - **Literacy or “waiting period” restrictions were not imposed until
+>   the 1850s**
 
 ## Working Class and Socialism
 
@@ -1152,12 +1147,12 @@ Pop quiz, what was the 1857 SCOTUS Case?
 ## Absence of class as a political wedge
 
 > - The subsequent evolution of American politics and American labor had
->   a noticeable *absence of a strong socialist movement* **To the
->   extent that the working class was indeed enfranchised during the
->   antebellum era** *(and one should not ignore that women, free
->   blacks, and recent immigrants constituted a large portion of the
->   working class)*, **such enfranchisement was largely an unintended
->   consequence of the changes in suffrage laws**
+>   a noticeable *absence of a strong socialist movement*
+> - **To the extent that the working class was indeed enfranchised
+>   during the antebellum era** *(and one should not ignore that women,
+>   free blacks, and recent immigrants constituted a large portion of
+>   the working class)*, **such enfranchisement was largely an
+>   unintended consequence of the changes in suffrage laws**
 
 ## Industrial Revolution and Suffrage
 
@@ -1198,9 +1193,10 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   the franchise to non-declarant aliens.
 > - By the early 1850s, several groups or categories of men (and one
 >   group of women) had lost the political rights they possessed a half
->   century earlier **These barriers were expressions of the nation’s
->   reluctance to embrace universal suffrage, of the limits to the
->   democratic impulses that characterized the era**
+>   century earlier
+> - **These barriers were expressions of the nation’s reluctance to
+>   embrace universal suffrage, of the limits to the democratic impulses
+>   that characterized the era**
 
 ## Part II
 
@@ -1215,7 +1211,6 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   - Freedmen were enfranchised during Reconstruction because
 >     Republicans in Congress came to believe that freedom would be
 >     illusory without political rights
-
 > - The potential electorate in 1880 or 1900 looked very different than
 >   it had in 1840
 >   - The optimism about popular participation, so visible in the 1830s
@@ -1226,9 +1221,12 @@ Pop quiz, what was the 1857 SCOTUS Case?
 
 ## High Point of Democracy
 
-> “the democratic principle… reached its culmination about 1850.” \>
-> *Atlantic Monthly* - The high tide of faith in democracy in the United
-> States was reached at mid-century in the 1800s; thereafter it ebbed
+- “the democratic principle… reached its culmination about 1850.”
+
+- *Atlantic Monthly*
+
+- **The high tide of faith in democracy in the United States was reached
+  at mid-century in the 1800s; thereafter it ebbed**
 
 ## Immigrants
 
@@ -1241,9 +1239,9 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   - Between 1845 and 1854, nearly three million foreigners arrived,
 >     equal to roughly 15 percent of the population in 1845; in 1854
 >     alone, the flow reached a record high of 427,833, a figure that
->     would not be surpassed until the 1870s **By the mid-1850s, more
->     than one-fifth of all residents of Boston and New York were
->     Irish-born**
+>     would not be surpassed until the 1870s
+> - **By the mid-1850s, more than one-fifth of all residents of Boston
+>   and New York were Irish-born**
 
 ## Immigrants, settlers
 
@@ -1268,7 +1266,7 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   - most were Irish Catholic.
 > - Although their labor was welcome and there was substantial sympathy
 >   for the desperate poverty that had impelled them to emigrate, their
->   *religion* , *ethnicity* , and *class* converged to cast doubt on
+>   *religion* , *ethnicity*, and *class* converged to cast doubt on
 >   their *desirability* as members of the polity
 
 ## Nativism
@@ -1284,7 +1282,7 @@ Pop quiz, what was the 1857 SCOTUS Case?
 
 ## Trump equivlent (there’s always one it seems)
 
-![](img/The%20Right%20to%20Vote%20-%20Part%20II0.png)
+![](img/The-Right-to-Vote-Part-II0.png)
 
 ## Objections
 
@@ -1292,19 +1290,17 @@ Pop quiz, what was the 1857 SCOTUS Case?
 >   tendency of many immigrants to drink alcohol and vote Democratic
 > - Abolitionists came to regard immigrants as a pro-slavery voting bloc
 >   that would help to keep the planter aristocracy in power in the
->   South **Political nativism moved to the foreground of the political
->   stage, however, when the Know-Nothings burst onto the scene in
->   1853–1854**
+>   South
+> - **Political nativism moved to the foreground of the political stage,
+>   however, when the Know-Nothings burst onto the scene in 1853–1854**
 
 ## Know-Nothings
 
 > - The Know-Nothings dominated political life in the Northeast, parts
 >   of the Midwest, and even southern states with sizable immigrant
 >   populations, such as Louisiana and Maryland
-
 > - By 1854, the Know-Nothings had a million members, as well as
 >   chapters in all northern states
-
 > - The Know-Nothings expressed disdain for the existing party system,
 >   opposed the extension of slavery, and endorsed a host of genuinely
 >   progressive reforms:
@@ -1317,15 +1313,13 @@ Pop quiz, what was the 1857 SCOTUS Case?
 > - But, they gave voice to unvarnished ethnic and religious bigotry,
 >   denouncing and caricaturing immigrants in general, and Catholics in
 >   particular
-
 > - To join the “Order of the Star Spangled Banner” (original name for
 >   their a secret organization), one had to be:
 >   - native-born
 >   - white male adult
 >   - no personal or familial connection to Catholicism
-
-*Order of the Star Spangled Banner became known as “know-nothings”
-because they would deny knowing anything about the order*
+> - *Order of the Star Spangled Banner became known as “know-nothings”
+>   because they would deny knowing anything about the order*
 
 **They feared that immigrants, especially Catholics, wielded too much
 electoral power and would use it to subvert American values and
@@ -1335,9 +1329,8 @@ institutions**
 
 > - They proposed that federal laws be changed to require a
 >   twenty-one-year (rather than five-year) waiting period prior to
->   naturalization -\>- or even permanent denial of citizenship to the
+>   naturalization – or even permanent denial of citizenship to the
 >   foreign-born.
-
 > - The Know-Nothings also advocated significant changes in state voting
 >   laws, including *registration systems*, *literacy tests*, and in the
 >   absence of a change in naturalization laws, a twenty-one-or
@@ -1364,15 +1357,12 @@ immigrant-friendly Democrats**
 > - Their success was most pronounced in Massachusetts, where the
 >   Know-Nothings elected a governor and won control of the legislature
 >   in 1854, retaining considerable power throughout the decade.
-
 > - Most Know-Nothing support came from the eastern half of the state,
 >   which had rapidly industrialized and become home to hundreds of
 >   thousands of Irish immigrants.
-
 > - In 1857, Massachusetts passed a law requiring prospective voters to
 >   demonstrate their ability to read the Constitution and to write
 >   their own names
-
 > - Such laws, according to the Know-Nothings, would keep the “ignorant,
 >   imbruted Irish” from the polls
 
@@ -1382,7 +1372,6 @@ immigrant-friendly Democrats**
 >   view, as nativism was eclipsed by sectional politics and the
 >   Republican Party gained the support of many former Know-Nothing
 >   backers
-
 > - Although the Republicans succeeded in part by embracing some of the
 >   nativist agenda, they quickly turned their attention to other issues
 >   and were increasingly sensitive to the political risks they ran,
@@ -1394,7 +1383,6 @@ immigrant-friendly Democrats**
 > - Four years of armed conflict, as well as *the challenge of
 >   reconstructing the nation* after the war, brought the question of
 >   **Black voting rights** to the foreground of national politics
-
 > - The issue of Black enfranchisement raised critical questions,
 >   largely ignored since the writing of the Constitution, about the
 >   *role of the federal government* in determining the breadth of the
@@ -1404,10 +1392,8 @@ immigrant-friendly Democrats**
 
 > - At the outset of the Civil War, only five states, all in New
 >   England, permitted Blacks to vote on the same basis as whites
-
 > - A sixth, New York, enfranchised African Americans who met a property
 >   requirement
-
 > - The abolition of slavery turned four million men and women into free
 >   citizens who had a new claim on political rights
 >   - African Americans were loyal supporters of the Union cause and the
@@ -1421,7 +1407,6 @@ wield the ballot was applicable to more than 180,000 Blacks**
 > - To African Americans, enfranchisement not only constituted a means
 >   of self-protection but was a critical symbol and expression of their
 >   standing in American society
-
 > - Between 1864 and 1868, the more militant and egalitarian Radical
 >   wing of the Republican Party included an increasing number of men
 >   who embraced “*impartial*” or “*universal*” suffrage
@@ -1433,9 +1418,8 @@ wield the ballot was applicable to more than 180,000 Blacks**
 > condition. \[Suffrage\] is not a privilege or a prerogative, but a
 > *right* . Every man has a right to have a voice in the laws, the
 > magistracies, and the policies that take care of him. That is an
-> inherent *right* ; it is not a *privilege* conferred.””
-
-> - Henry Ward Beecher, *New York’s influential Protestant minister*
+> inherent *right* ; it is not a *privilege* conferred.”” - Henry Ward
+> Beecher, *New York’s influential Protestant minister*
 
 ## Black Franchise
 
@@ -1448,7 +1432,6 @@ wield the ballot was applicable to more than 180,000 Blacks**
 > - There was ongoing hostility in the North as well
 >   - fear of Black migration to the North was intensified by
 >     emancipation
-
 > - Between 1863 and 1870, proposals to enfranchise Blacks were defeated
 >   in more than fifteen northern states and territories
 
@@ -1458,7 +1441,6 @@ wield the ballot was applicable to more than 180,000 Blacks**
 >   Minnesota, in 1868, adopted impartial suffrage, and the Minnesota
 >   vote was facilitated by wording that masked the subject of the
 >   referendum.
-
 > - Although most northern Republicans supported Black suffrage,
 >   Democrats adamantly were opposed, and they generally were *joined by
 >   enough Republicans* to guarantee popular or legislative defeat of
@@ -1469,19 +1451,15 @@ wield the ballot was applicable to more than 180,000 Blacks**
 > - The political dynamics of *Reconstruction* led to a path-breaking
 >   series of steps by the federal government to override state control
 >   of the franchise and grant political rights to Black men
-
 > - Pres. Johnson offered lenient terms to the southern states so that
 >   they could be restored quickly to the Union
-
 > - Johnson’s program demanded few reforms and virtually guaranteed that
 >   political and economic power in the South would remain in the hands
 >   of whites, including those who had supported the rebellion
-
 > - Alarmed at this prospect and at the resistance of many southern
 >   leaders to policies emanating from Washington, the
 >   Republican-controlled Congress began to formulate its own program in
 >   1866
-
 > - They did seek to guarantee the civil rights of Blacks and promote
 >   greater racial equality in southern society – but *not yet* **Black
 >   enfranchisement**
@@ -1490,7 +1468,6 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 > - The moderate majority of Republicans in Congress negotiated the
 >   passage of the *Fourteenth* Amendment in June 1866.
-
 > - A compromise measure, the amendment was designed to
 >   - punish Confederate political leaders (by preventing them from
 >     holding office)
@@ -1578,7 +1555,6 @@ wield the ballot was applicable to more than 180,000 Blacks**
 >   they reside,” the amendment at long last offered a national
 >   definition of citizenship and confirmed that Blacks were indeed
 >   citizens.
-
 > - Since most congressional Republicans -\>- whatever their personal
 >   beliefs -\>- were convinced that northern whites would not support
 >   the outright enfranchisement of Blacks, the amendment took an
@@ -1592,10 +1568,8 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 > - The amendment tacitly recognized the *right of individual states* to
 >   **create racial barriers**
-
 > - The use of the word male constituted a de facto recognition of the
 >   legitimacy of excluding women from electoral politics
-
 > - The *Fourteenth* Amendment was fiercely opposed by President
 >   Johnson, white Southerners, and northern Democrats
 
@@ -1612,14 +1586,11 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 > - Congress first signaled its shift in perspective by passing a law
 >   ending racial qualifications for voting in the District of Columbia
-
 > - President Johnson vetoed the legislation, maintaining that it was
 >   wrong to enfranchise “a new class, wholly unprepared” for democracy
 >   “by previous habits and opportunities.”
-
 > - Congress overrode the veto and weeks later passed a bill prohibiting
 >   racial bars in any existing or future federal territories.
-
 > - Congress then proceeded to insist that Nebraska and Colorado adopt
 >   impartial suffrage as a prerequisite for admission to statehood
 
@@ -1628,14 +1599,15 @@ wield the ballot was applicable to more than 180,000 Blacks**
 > - This surge of activity, fed by continued southern intransigence,
 >   culminated in the passage of the Reconstruction Act of March 1867.
 
-The act was the legal centerpiece of Radical Reconstruction \> + it
-*denied recognition to the existing state governments of the South * and
-authorized *continued military rule* of the region under the control of
-Congress. \> + In order to terminate such rule and be fully readmitted
-to the Union, each southern state was required to ratify the
-*Fourteenth* Amendment and to approve, by manhood suffrage, a state
-constitution that permitted Blacks to vote on the same terms as whites.
-
+> - The act was the legal centerpiece of Radical Reconstruction
+>   - it *denied recognition to the existing state governments of the
+>     South * and authorized *continued military rule* of the region
+>     under the control of Congress.
+>   - In order to terminate such rule and be fully readmitted to the
+>     Union, each southern state was required to ratify the *Fourteenth*
+>     Amendment and to approve, by manhood suffrage, a state
+>     constitution that permitted Blacks to vote on the same terms as
+>     whites.
 > - President Johnson vetoed the bill, but his veto was quickly
 >   overridden.
 
@@ -1648,15 +1620,12 @@ compelled to permit Blacks to vote**
 >   and Republicans, in the South, elected new state governments, wrote
 >   progressive constitutions that included manhood suffrage provisions,
 >   and ratified the *Fourteenth* Amendment
-
 > - Black enthusiasm for political participation was so great that
 >   freedmen often put down their tools and ceased working when
 >   elections or conventions were being held
-
 > - By June 1868, seven states, with manhood suffrage, had been
 >   readmitted to the Union, and the process was well under way
 >   elsewhere.
-
 > - All this was achieved despite fierce opposition from upper-class
 >   whites, who feared that a biracial alliance of Blacks and non-elite
 >   whites would bring about a new and inhospitable economic and
@@ -1666,17 +1635,14 @@ compelled to permit Blacks to vote**
 
 > - Anti-Black and anti-Republican violence flared up throughout the
 >   region, often spearheaded by the rapidly growing Ku Klux Klan
-
 > - Republican achievements in the South were accompanied by a
 >   succession of electoral defeats in the North
 >   - The Democrats gained ground from the Atlantic to the Pacific.
-
 > - Interpreted by both parties as the consequence of Republican support
 >   for Black suffrage, this electoral swing led the Republicans to seek
 >   more moderate ground — in part out of fear that they could lose the
 >   1868 presidential election and thereby bring a premature end to
 >   Reconstruction.
-
 > - The party nominated the uncontroversial General Ulysses Grant for
 >   the presidency and adopted a platform that supported Black suffrage
 >   for the South while advocating state control of electoral rules in
@@ -1687,7 +1653,6 @@ compelled to permit Blacks to vote**
 > - The Republicans did not fare well in the 1868 elections:
 >   - Grant was victorious, but the winning margin was surprisingly slim
 >   - The Democrats continued to gain ground in Republican strongholds
-
 > - Within days of the 1868 election, the Republicans shifted course, as
 >   Radicals, in and out of Congress, announced that they would press
 >   forward with a constitutional amendment to enfranchise African
@@ -1698,7 +1663,6 @@ compelled to permit Blacks to vote**
 > - The decline in support for the Republican Party, as well as the
 >   referenda outcomes in 1867 and 1868, underscored the strength and
 >   breadth of opposition to Black enfranchisement.
-
 > - Republicans sensed that control of the national government might be
 >   slipping from their grasp
 >   - White Southerners were intensifying their opposition to Black
@@ -1725,20 +1689,17 @@ compelled to permit Blacks to vote**
 ## 15th Proposals
 
 > - Several proposals for the 15th amendment were put forward.
-
 > - Samuel Shellabarger’s amendment prohibited the states from denying
 >   or abridging the voting rights of any adult male of “sound mind,”
 >   except those who had engaged in rebellion against the United States
 >   or committed other “infamous” crimes. — it implicitly would have
 >   ended not only racial discrimination but also property, tax,
 >   nativity, and literacy requirements
-
 > - George Boutwell’s proposal guaranteed “the right of any citizen of
 >   the United States to vote shall not be denied or abridged by the
 >   United States or any State by reason of race, color, or previous
 >   condition of slavery of any citizens or class of citizens of the
 >   United States.”
-
 > - Massachusetts Senator Henry Wilson a shoemaker by trade, a long\>-
 >   time foe of slavery, and later vice president of the United States:
 >   - prohibited discrimination “among the citizens of the United States
@@ -1748,7 +1709,7 @@ compelled to permit Blacks to vote**
 >   - tacitly permitted suffrage qualifications based on age and
 >     residence
 
-## Wilson
+## Sen. Henry Wilson
 
 > - Wilson and his allies, many from the Midwest, mounted a powerful
 >   array of arguments in favor of a broadly phrased amendment.
@@ -1767,14 +1728,12 @@ compelled to permit Blacks to vote**
 > - The “rights” arguments in behalf of any particular suffrage
 >   extension opened up a Pandora’s box, because the same arguments
 >   could justify anyone’s enfranchisement.
-
 > - Enfranchising Blacks on the grounds that voting was a right or
 >   natural right carried the implication that all adult male citizens
 >   should be enfranchised
 > - Some argued to be consistent and to set the matter to rest, once and
 >   for all, the franchise indeed should be further extended rather than
 >   limited
-
 > - Most Republicans remained reluctant to let women out of the
 >   Pandora’s box, but these advocates of a broad constitutional
 >   amendment nonetheless were staking out new ground in public debate
@@ -1784,13 +1743,10 @@ compelled to permit Blacks to vote**
 
 > - That the Wilson amendment sanctioned Black office-holding, as well
 >   as suffrage, only intensified the opposition
-
 > - Senators from the West were apprehensive that it would enfranchise
 >   the Chinese
-
 > - Several northeastern Republicans wanted states to retain the power
 >   to circumscribe the voting rights of immigrants
-
 > - Others argued that municipalities and states ought to be able to
 >   impose property requirements in elections dealing with taxes and
 >   financial matters
@@ -1802,11 +1758,9 @@ compelled to permit Blacks to vote**
 >   rather that it would produce a ” *radical and revolutionary* ”
 >   **transformation of the relationship between the federal government
 >   and the states**
-
 > - The Wilson amendment would vest that power in the federal government
 >   and in so doing alter the Constitution while undermining the
 >   autonomy and authority of the states
-
 > - Radicals replied that the “republican guarantee” clause of article 4
 >   already gave the federal government the power to regulate the
 >   franchise
@@ -1817,15 +1771,12 @@ compelled to permit Blacks to vote**
 >   of the states, but even moderate Republicans, in the Senate and the
 >   House, worried that the Wilson amendment would upset the balance of
 >   state and federal authority enshrined in the Constitution
-
 > - Such arguments offered critics of the amendment a convenient,
 >   apparently principled means of opposing franchise extension without
 >   sounding undemocratic or racist
-
 > - They also reflected a desire to shore up federalism in an era when
 >   the exigencies of war and the economic program of the Republican
 >   Party were shifting power toward Washington
-
 > - Faced with a choice between a narrowly phrased amendment and the
 >   possibility of no amendment at all, advocates of broad-gauged
 >   democratization surrendered
