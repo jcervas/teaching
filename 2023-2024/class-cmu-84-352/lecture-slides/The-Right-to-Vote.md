@@ -1243,61 +1243,62 @@ had served, in the army or the militia
 ## High Point of Democracy
 
 - “The democratic principle… reached its culmination about 1850.”
-  - **- Atlantic Monthly**
+  - *Atlantic Monthly*
 - The high tide of faith in democracy in the United States was reached
   at mid-century in the 1800s; thereafter it ebbed.
 
-## Immigrants
+## Immigrants in the 1850s
 
-> - The first targets of the nation’s shifting political mood in the
->   1850s were working-class immigrants, especially those from Ireland
-> - Although foreshadowed by the public debates of the 1840s, a
->   full-blown *nativist* movement surfaced only during the following
->   decade, precipitated by an extraordinary surge in immigration after
->   1845
->   - Between 1845 and 1854, nearly three million foreigners arrived,
->     equal to roughly 15 percent of the population in 1845; in 1854
->     alone, the flow reached a record high of 427,833, a figure that
->     would not be surpassed until the 1870s
-> - **By the mid-1850s, more than one-fifth of all residents of Boston
->   and New York were Irish-born**
+- **First Targets of Shifting Political Mood:**
+  - In the 1850s, working-class immigrants, especially from Ireland,
+    became the first targets of the nation’s shifting political mood.
+- **Surge in Immigration:**
+  - Between 1845 and 1854, nearly three million foreigners arrived,
+    equal to roughly 15 percent of the population in 1845.
+  - In 1854 alone, immigration reached a record high of 427,833.
+- **Irish Population in Boston and New York:**
+  - By the mid-1850s, more than one-fifth of all residents of Boston and
+    New York were Irish-born.
 
-## Immigrants, settlers
+## Immigrant Settlers
 
-> - In the 1850s, foreign-born settlers were not only welcomed to the
->   United States but often *encouraged* to participate in politic
-> - Laws permitting declarant non-citizens to vote after a limited
->   residence period were passed in Wisconsin, Minnesota, Michigan,
->   Indiana, Oregon, Kansas, and Washington territory between 1848 and
->   1859.
->   - All of these states were predominantly *agricultural*, thinly
->     *populated* , and hoping to encourage *settlement*
->   - their immigrant populations, actual and prospective, consisted
->     primarily of farmers
+- **Encouragement of Foreign-Born Settlers:**
+  - In the 1850s, foreign-born settlers were welcomed in the U.S. and
+    encouraged to participate in politics.
+- **Voting Laws for Non-Citizens:**
+  - Laws permitting declarant non-citizens to vote after a limited
+    residence period were passed in several states and territories
+    between 1848 and 1859.
+  - These states were predominantly agricultural, thinly populated, and
+    hoping to encourage settlement.
+  - their immigrant populations, actual and prospective, consisted
+    primarily of farmers
 
-## Immigrants, workers
+## Immigrant Workers
 
-> - Workers, however, were a different story
-> - They were generally poor
->   - they crowded into densely populated, urban neighborhoods
->   - they were commonly depicted as rowdy rather than “upright,
->     honorable, and industrious”
->   - most were Irish Catholic.
-> - Although their labor was welcome and there was substantial sympathy
->   for the desperate poverty that had impelled them to emigrate, their
->   *religion*, *ethnicity*, and *class* converged to cast doubt on
->   their *desirability* as members of the polity
+- **Challenges Faced by Workers:**
+  - Workers, however, faced different challenges.
+  - They were generally poor, crowded into densely populated urban
+    neighborhoods, and often depicted as rowdy.
+  - Most were Irish Catholic.
+- **Doubts About Desirability:**
+  - Despite their welcome labor, doubts about their desirability as
+    members of the polity arose due to their religion, ethnicity, and
+    class.
 
 ## Nativism
 
-> - Some natives regarded recently arrived immigrants, *even citizens*,
->   as insufficiently tutored in American values and the workings of
->   American democracy
-> - Others feared that Catholics were controlled by the Pope and would
->   seek to undermine Protestant society.
-> - Charges that immigrants corrupted elections by voting illegally and
->   selling their votes were commonplace, as were stories of politically
->   motivated mass naturalizations in the days before elections
+- **Suspicion of Immigrants:**
+  - Some native-born Americans regarded recently arrived immigrants,
+    *even citizens*, as insufficiently tutored in American values and
+    democracy.
+- **Anti-Catholic Sentiment:**
+  - Concerns included fears that Catholics were controlled by the Pope
+    and would undermine Protestant society.
+- **Corruption Allegations:**
+  - Charges of immigrants corrupting elections through illegal voting
+    and vote-selling were common.
+  - Mass naturalizations before elections were also reported.
 
 ## Trump equivlent (there’s always one it seems)
 
@@ -1315,178 +1316,161 @@ had served, in the army or the militia
 
 ## Know-Nothings
 
-> - The Know-Nothings dominated political life in the Northeast, parts
->   of the Midwest, and even southern states with sizable immigrant
->   populations, such as Louisiana and Maryland
-> - By 1854, the Know-Nothings had a million members, as well as
->   chapters in all northern states
-> - The Know-Nothings expressed disdain for the existing party system,
->   opposed the extension of slavery, and endorsed a host of genuinely
->   progressive reforms:
->   - strengthened lien laws for mechanics
->   - property rights for married women
->   - expansion of public schools
-
-## Religious Bigotry
-
-> - But, they gave voice to unvarnished ethnic and religious bigotry,
->   denouncing and caricaturing immigrants in general, and Catholics in
->   particular
-> - To join the “Order of the Star Spangled Banner” (original name for
->   their a secret organization), one had to be:
->   - native-born
->   - white male adult
->   - no personal or familial connection to Catholicism
-> - *Order of the Star Spangled Banner became known as “know-nothings”
->   because they would deny knowing anything about the order*
-
-**They feared that immigrants, especially Catholics, wielded too much
-electoral power and would use it to subvert American values and
-institutions**
-
-## Proposed Changes to Law
-
-> - They proposed that federal laws be changed to require a
->   twenty-one-year (rather than five-year) waiting period prior to
->   naturalization – or even permanent denial of citizenship to the
->   foreign-born.
-> - The Know-Nothings also advocated significant changes in state voting
->   laws, including *registration systems*, *literacy tests*, and in the
->   absence of a change in naturalization laws, a twenty-one-or
->   fourteen-year post-naturalization *residence period* before a
->   foreign-born male could vote
+- **Domination of Political Landscape:**
+  - The Know-Nothings dominated political life in the Northeast, parts
+    of the Midwest, and even southern states with sizable immigrant
+    populations.
+  - By 1854, they had a million members and chapters in all northern
+    states.
+  - Order of the Star Spangled Banner became known as “know-nothings”
+    because they would deny knowing anything about the order
+- **Platform and Reforms:**
+  - They opposed the existing party system, opposed slavery extension,
+    and endorsed progressive reforms.
+  - Reforms included strengthening lien laws, property rights for
+    married women, and expanding public schools.
+- **Religious Bigotry:**
+  - The Know-Nothings expressed ethnic and religious bigotry,
+    particularly against immigrants and Catholics.
+- **Membership Criteria:**
+  - To join the “Order of the Star Spangled Banner” (Know-Nothings), one
+    had to be native-born, white, male, and have no connection to
+    Catholicism.
+- **Concerns:**
+  - They feared that immigrants, especially Catholics, had too much
+    electoral power and could subvert American values.
 
 ## Know-Nothing Political Success
 
-> - The Know-Nothings stunned the nation’s political elite by scoring
->   huge electoral successes between 1854 and 1856.
->   - They won gubernatorial elections in nine states and controlled
->     legislative branches in at least a half dozen
->   - Their vote was particularly strong in states and cities with
->     sizable immigrant populations, including Massachusetts, Maine,
->     Connecticut, New Jersey, New York, Michigan, and parts of Ohio, as
->     well as cities such as Baltimore, New Orleans, and Pittsburgh
-
-**The Know-Nothings were victorious enough to kill off the faltering
-Whig party and briefly emerge as the primary alternative to the
-immigrant-friendly Democrats**
+- **Electoral Victories:**
+  - The Know-Nothings achieved surprising electoral successes between
+    1854 and 1856.
+  - They won gubernatorial elections in nine states and controlled
+    legislative branches in several.
+- **Stronghold in Immigrant Populated Areas:**
+  - Their support was particularly strong in states and cities with
+    sizable immigrant populations.
+  - Notable states included Massachusetts, Maine, Connecticut, New
+    Jersey, New York, Michigan, and parts of Ohio.
 
 ## Massachusetts Know-Nothings
 
-> - Their success was most pronounced in Massachusetts, where the
->   Know-Nothings elected a governor and won control of the legislature
->   in 1854, retaining considerable power throughout the decade.
-> - Most Know-Nothing support came from the eastern half of the state,
->   which had rapidly industrialized and become home to hundreds of
->   thousands of Irish immigrants.
-> - In 1857, Massachusetts passed a law requiring prospective voters to
->   demonstrate their ability to read the Constitution and to write
->   their own names
-> - Such laws, according to the Know-Nothings, would keep the “ignorant,
->   imbruted Irish” from the polls
+- **Example in Massachusetts:**
+  - In Massachusetts, Know-Nothings elected a governor and gained
+    legislative control in 1854.
+  - Most support came from the eastern half of the state, which had a
+    large Irish immigrant population.
+  - In 1857, Massachusetts passed a law requiring voters to demonstrate
+    literacy.
+- **Literacy Requirement:**
+  - Such laws, according to the Know-Nothings, would keep the “ignorant,
+    imbruted Irish” from the polls.
 
 ## End of the Know-Nothings
 
-> - After the mid-1850s, the Know-Nothings quickly disappeared from
->   view, as nativism was eclipsed by sectional politics and the
->   Republican Party gained the support of many former Know-Nothing
->   backers
-> - Although the Republicans succeeded in part by embracing some of the
->   nativist agenda, they quickly turned their attention to other issues
->   and were increasingly sensitive to the political risks they ran,
->   particularly in the Midwest, by associating themselves too closely
->   with anti-immigrant politics
+- **Decline of the Know-Nothings:**
+  - The Know-Nothings faded from view after the mid-1850s, as nativism
+    gave way to sectional politics.
+  - The Republican Party attracted many former Know-Nothing supporters.
+- **Republican Shift:**
+  - Although the Republicans succeeded in part by embracing some of the
+    nativist agenda, they quickly turned their attention to other
+    issues.
+  - They were increasingly sensitive to the political risks they ran,
+    particularly in the Midwest, by associating themselves too closely
+    with anti-immigrant politics.
 
 ## Black Voting Rights
 
-> - Four years of armed conflict, as well as *the challenge of
->   reconstructing the nation* after the war, brought the question of
->   **Black voting rights** to the foreground of national politics
-> - The issue of Black enfranchisement raised critical questions,
->   largely ignored since the writing of the Constitution, about the
->   *role of the federal government* in determining the breadth of the
->   franchise
+- **Civil War and Reconstruction:**
+  - Four years of armed conflict and the challenge of reconstructing the
+    nation after the war brought the question of Black voting rights to
+    the forefront of national politics.
+  - Critical questions arose about the role of the federal government in
+    determining the breadth of the franchise.
 
-## War and veteran rights
+## War and Veteran Rights
 
-> - At the outset of the Civil War, only five states, all in New
->   England, permitted Blacks to vote on the same basis as whites
-> - A sixth, New York, enfranchised African Americans who met a property
->   requirement
-> - The abolition of slavery turned four million men and women into free
->   citizens who had a new claim on political rights
->   - African Americans were loyal supporters of the Union cause and the
->     Republican Party
-
-**By 1865, the traditional argument that men who bore arms ought to
-wield the ballot was applicable to more than 180,000 Blacks**
+- **Voting Rights at the Outset of Civil War:**
+  - At the beginning of the Civil War, only a few states, primarily in
+    New England, allowed Blacks to vote on the same basis as whites.
+  - Abolition of slavery transformed four million newly freed citizens
+    into individuals with a new claim to political rights.
+  - African Americans, loyal supporters of the Union and the Republican
+    Party, saw their role change significantly.
+  - By 1865, more than 180,000 Blacks could argue that the traditional
+    argument of men who bore arms should wield the ballot was applicable
+    to them.
 
 ## Becoming American
 
-> - To African Americans, enfranchisement not only constituted a means
->   of self-protection but was a critical symbol and expression of their
->   standing in American society
-> - Between 1864 and 1868, the more militant and egalitarian Radical
->   wing of the Republican Party included an increasing number of men
->   who embraced “*impartial*” or “*universal*” suffrage
+- **Enfranchisement for African Americans:**
+  - For African Americans, enfranchisement was not only a means of
+    self-protection but also a critical symbol of their standing in
+    American society.
+  - Between 1864 and 1868, the more militant and egalitarian Radical
+    wing of the Republican Party advocated for “impartial” or
+    “universal” suffrage.
 
 ## Beecher’s Sentiments
 
-> “The broad and radical democratic doctrine of the natural rights of
-> men shall be applied to all men, without regard to race, or color, or
-> condition. \[Suffrage\] is not a privilege or a prerogative, but a
-> *right* . Every man has a right to have a voice in the laws, the
-> magistracies, and the policies that take care of him. That is an
-> inherent *right* ; it is not a *privilege* conferred.”” - Henry Ward
-> Beecher, *New York’s influential Protestant minister*
+- **Henry Ward Beecher’s Perspective:**
+  - “The broad and radical democratic doctrine of the natural rights of
+    men shall be applied to all men, without regard to race, or color,
+    or condition. \[Suffrage\] is not a privilege or a prerogative but a
+    right.
+
+  - Every man has a right to have a voice in the laws, the magistracies,
+    and the policies that take care of him. That is an inherent right;
+    it is not a privilege conferred.”
+
+  - - Henry Ward Beecher, New York’s influential Protestant minister
 
 ## Black Franchise
 
-> - Most white Americans, however, did not share such views
->   - In the South, the prospect of Black enfranchisement not only
->     violated two centuries of structured and deeply rooted racism but
->     also threatened the postwar white goal of regaining political,
->     social, and economic control over the Black population
+- **Mixed Attitudes Toward Black Franchise:**
+  - Most white Americans did not share the views of proponents of Black
+    suffrage.
+  - In the South, the prospect of Black enfranchisement threatened
+    established racism and the white goal of regaining control over the
+    Black population.
+  - Ongoing hostility was present in the North as well, intensified by
+    emancipation.
+  - Proposals to enfranchise Blacks were defeated in more than fifteen
+    northern states and territories between 1863 and 1870.
 
-> - There was ongoing hostility in the North as well
->   - fear of Black migration to the North was intensified by
->     emancipation
-> - Between 1863 and 1870, proposals to enfranchise Blacks were defeated
->   in more than fifteen northern states and territories
+## Defeat of Universal Manhood Suffrage
 
-## Defeat of universal manhood suffrage
-
-> - Prior to the passage of the *Fifteenth Amendment*, only Iowa and
->   Minnesota, in 1868, adopted impartial suffrage, and the Minnesota
->   vote was facilitated by wording that masked the subject of the
->   referendum.
-> - Although most northern Republicans supported Black suffrage,
->   Democrats adamantly were opposed, and they generally were *joined by
->   enough Republicans* to guarantee popular or legislative defeat of
->   any reforms
+- **Limited Progress Toward Black Suffrage:**
+  - Prior to the passage of the Fifteenth Amendment, only Iowa and
+    Minnesota adopted impartial suffrage in 1868.
+  - Minnesota’s vote was facilitated by wording that masked the subject
+    of the referendum.
+  - Most northern Republicans supported Black suffrage, but Democrats
+    opposed it, and there were enough Republican dissenters to ensure
+    the defeat of reform proposals.
 
 ## Reconstruction
 
-> - The political dynamics of *Reconstruction* led to a path-breaking
->   series of steps by the federal government to override state control
->   of the franchise and grant political rights to Black men
-> - Pres. Johnson offered lenient terms to the southern states so that
->   they could be restored quickly to the Union
-> - Johnson’s program demanded few reforms and virtually guaranteed that
->   political and economic power in the South would remain in the hands
->   of whites, including those who had supported the rebellion
-> - Alarmed at this prospect and at the resistance of many southern
->   leaders to policies emanating from Washington, the
->   Republican-controlled Congress began to formulate its own program in
->   1866
-> - They did seek to guarantee the civil rights of Blacks and promote
->   greater racial equality in southern society – but *not yet* **Black
->   enfranchisement**
+- **Reconstruction Era:**
+  - The political dynamics of Reconstruction led to significant federal
+    government intervention to override state control of the franchise
+    and grant political rights to Black men.
+  - President Johnson initially offered lenient terms to Southern states
+    for a quick restoration to the Union, with few reforms and the
+    maintenance of power in the hands of whites.
+  - Concerned about this, the Republican-controlled Congress began to
+    develop its own program in 1866.
+  - They aimed to guarantee civil rights for Blacks and promote greater
+    racial equality in Southern society, but Black enfranchisement was
+    not yet a part of their agenda.
 
-## *Fourteenth* Amendment
+## XIV Amendment
+
+## *Fourteenth Amendment*
 
 > - The moderate majority of Republicans in Congress negotiated the
->   passage of the *Fourteenth* Amendment in June 1866.
+>   passage of the *Fourteenth Amendment* in June 1866.
 > - A compromise measure, the amendment was designed to
 >   - punish Confederate political leaders (by preventing them from
 >     holding office)
@@ -1497,9 +1481,7 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 ## XIV Amendment
 
-## XIV Amendment
-
-*Fourteenth* Amendment:
+*Fourteenth Amendment*:
 
 - Section 1
 - **All persons born or naturalized in the United States and subject to
@@ -1512,7 +1494,7 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 ## XIV Amendment
 
-*Fourteenth* Amendment:
+*Fourteenth Amendment*:
 
 - Section 2
 - **Representatives shall be apportioned among the several States
@@ -1531,7 +1513,7 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 ## XIV Amendment
 
-*Fourteenth* Amendment:
+*Fourteenth Amendment*:
 
 - Section 3
 - **No person shall be a Senator or Representative in Congress, or
@@ -1547,7 +1529,7 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 ## XIV Amendment
 
-*Fourteenth* Amendment:
+*Fourteenth Amendment*:
 
 - Section 4
 - **The validity of the public debt of the United States, authorized by
@@ -1561,36 +1543,38 @@ wield the ballot was applicable to more than 180,000 Blacks**
 
 ## XIV Amendment
 
-*Fourteenth* Amendment:
+*Fourteenth Amendment*:
 
 - Section 5
 - **The Congress shall have power to enforce, by appropriate
   legislation, the provisions of this article.**
 
-## Effect of XIV
+## Impact of the 14th Amendment
 
-> - By declaring that “all persons born or naturalized in the United
->   States” were “citizens of the United States and of the State wherein
->   they reside,” the amendment at long last offered a national
->   definition of citizenship and confirmed that Blacks were indeed
->   citizens.
-> - Since most congressional Republicans -\>- whatever their personal
->   beliefs -\>- were convinced that northern whites would not support
->   the outright enfranchisement of Blacks, the amendment took an
->   oblique approach
->   - any state that denied the right to vote to a portion of its male
->     citizens would have its representation in Congress (and thus the
->     Electoral College) reduced in proportion to the percentage of
->     citizens excluded
+- **National Definition of Citizenship:**
+  - The 14th Amendment declared that “all persons born or naturalized in
+    the United States” were citizens, offering a national definition of
+    citizenship.
+  - It confirmed that Black individuals were citizens of the United
+    States.
+- **Oblique Approach to Enfranchisement:**
+  - Recognizing the challenge of enfranchising Blacks directly, the
+    amendment took an indirect approach.
+  - It stipulated that any state denying the vote to a portion of its
+    male citizens would face a reduction in Congressional
+    representation.
 
-## What was left out of the 14th
+## What Was Left Out of the 14th Amendment
 
-> - The amendment tacitly recognized the *right of individual states* to
->   **create racial barriers**
-> - The use of the word male constituted a de facto recognition of the
->   legitimacy of excluding women from electoral politics
-> - The *Fourteenth* Amendment was fiercely opposed by President
->   Johnson, white Southerners, and northern Democrats
+- **State Authority for Racial Barriers:**
+  - The amendment tacitly acknowledged the right of individual states to
+    create racial barriers.
+- **Exclusion of Women:**
+  - The use of the word “male” in the amendment implicitly recognized
+    the legitimacy of excluding women from electoral politics.
+- **Fierce Opposition:**
+  - The 14th Amendment faced strong opposition from President Johnson,
+    white Southerners, and northern Democrats.
 
 ## New appetite for Black enfranchisement
 
@@ -1623,8 +1607,8 @@ wield the ballot was applicable to more than 180,000 Blacks**
 >     South * and authorized *continued military rule* of the region
 >     under the control of Congress.
 >   - In order to terminate such rule and be fully readmitted to the
->     Union, each southern state was required to ratify the *Fourteenth*
->     Amendment and to approve, by manhood suffrage, a state
+>     Union, each southern state was required to ratify the *Fourteenth
+>     Amendment* and to approve, by manhood suffrage, a state
 >     constitution that permitted Blacks to vote on the same terms as
 >     whites.
 > - President Johnson vetoed the bill, but his veto was quickly
@@ -1638,7 +1622,7 @@ compelled to permit Blacks to vote**
 > - In 1867 and 1868, African Americans, working with white Unionists
 >   and Republicans, in the South, elected new state governments, wrote
 >   progressive constitutions that included manhood suffrage provisions,
->   and ratified the *Fourteenth* Amendment
+>   and ratified the *Fourteenth Amendment*
 > - Black enthusiasm for political participation was so great that
 >   freedmen often put down their tools and ceased working when
 >   elections or conventions were being held
