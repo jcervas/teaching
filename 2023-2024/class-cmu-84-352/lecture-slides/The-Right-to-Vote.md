@@ -2727,9 +2727,7 @@ proletariat.*
   election which was high enough to have potentially changed the
   outcomes of innumerable elections
 
-## voter Registration
-
-## Keeping Track of Voters
+## Voter Registration - Keeping Track of Voters
 
 - Before the 1870s in most states, there were no official preprepared
   lists of eligible voters
@@ -2742,7 +2740,7 @@ proletariat.*
   - it would help to eliminate fraud and also bring an end to disruptive
     election-day conflicts at the polls
 
-## Rules for eligibility
+## Voter Registration- Rules for eligibility
 
 - The devil is in the details:
   - How far in advance of elections did a man or woman have to register?
@@ -2779,7 +2777,7 @@ proletariat.*
 - In the South, blacks and many poor whites had been evicted wholesale
   from electoral politics
 
-## 
+## Voter Exclusions
 
 - In the North and West, exclusions were on a smaller scale, but still
   numerous:
