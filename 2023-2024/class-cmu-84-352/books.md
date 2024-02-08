@@ -16,7 +16,7 @@
 - Dan Bouk. 2022. Democracy’s Data: The Hidden Stories in the U.S. Census and How to Read Them. MCD. <https://us.macmillan.com/books/9780374602543/democracysdata>
 - Bernard L. Fraga. 2018. The Turnout Gap: Race, Ethnicity, and Political Inequality in a Diversifying America. Cambridge: Cambridge University Press. <https://www.cambridge.org/core/product/1B79B19C880A93C462FD1DF22F65DD15>.
 - Heather McGhee. 2022. The Sum of Us: What Racism Costs Everyone And How We Can Prosper Together. One World. https://www.penguinrandomhouse.com/books/564989/the-sum-of-us-by-heather-mcghee/ | ([NPR Interview](https://www.npr.org/2021/02/17/968638759/sum-of-us-examines-the-hidden-cost-of-racism-for-everyone))
-- **NEW**: Michele Norris. 2024. Our Hidden Conversations: What Americans Really Think About Race and Identity. Simon & Schuster. <https://www.simonandschuster.com/books/Our-Hidden-Conversations/Michele-Norris/9781982154394>
-- **NEW**: Michelle Alexander. 2020. The New Jim Crow - Mass Incarceration in the Age of Colorblindness. The New Press. <https://newjimcrow.com/>
-- **NEW**: Eddie Glaude Jr. 2017. Democracy In Black: How Race Still Enslaves The American Soul. Crown. <https://www.penguinrandomhouse.com/books/228365/democracy-in-black-by-eddie-s-glaude-jr/>
-- 
+- Michele Norris. 2024. Our Hidden Conversations: What Americans Really Think About Race and Identity. Simon & Schuster. <https://www.simonandschuster.com/books/Our-Hidden-Conversations/Michele-Norris/9781982154394>
+- Michelle Alexander. 2020. The New Jim Crow - Mass Incarceration in the Age of Colorblindness. The New Press. <https://newjimcrow.com/>
+- Eddie Glaude Jr. 2017. Democracy In Black: How Race Still Enslaves The American Soul. Crown. <https://www.penguinrandomhouse.com/books/228365/democracy-in-black-by-eddie-s-glaude-jr/>
+- **NEW**: Nichole M. Bauer, ed. 2020. Politicking While Female: The Political Lives of Women. LSU Press. <https://lsupress.org/9780807172919/politicking-while-female/>
