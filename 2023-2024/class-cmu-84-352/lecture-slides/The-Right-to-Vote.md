@@ -2544,11 +2544,11 @@ had served, in the army or the militia
       instance of wartime contraction of the franchise.
 - **End of Alien Suffrage in the U.S.:**
   - The last state to permit non-citizens to vote was Arkansas, which
-    abolished the practice in 1926. \## Immigrant Voters
+    abolished the practice in 1926.
 
 ## New Obstacles for Immigrant Voters
 
-- **Introduction of New Obstacles:**
+- **Immigrant Voters’ New Obstacles:**
   - Numerous states placed new obstacles in the path of immigrant
     voters.
     - Most were supported by some Republicans, opposed by Democrats, and
