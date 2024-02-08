@@ -639,8 +639,8 @@ had served, in the army or the militia
     revolution’s quasi-egalitarian ethos.
 - **Residual Requirements (By 1850s):**
   - Only two property-based voting restrictions remained:
-    - Foreign-born residents in Rhode Island.
-    - African Americans in New York.
+  - Foreign-born residents in Rhode Island.
+  - African Americans in New York.
 
 ## Rise of Taxpayer Requirements
 
@@ -793,9 +793,9 @@ had served, in the army or the militia
 - **Post-Revolutionary War and War of 1812 Impacts:**
   - Middle-class citizens supported extending suffrage to lower classes,
     believing it would:
-    - Enhance their own security.
-    - Ensure continued service in the army and militias, preserving
-      their way of life.
+  - Enhance their own security.
+  - Ensure continued service in the army and militias, preserving their
+    way of life.
 - **Lessons from the War of 1812:**
   - Struggles with military recruitment and retention highlighted the
     need for a committed militia.
@@ -810,9 +810,9 @@ had served, in the army or the militia
     favored broadening the franchise.
 - **Motivations Behind Broad Franchise:**
   - Belief that an extensive franchise would:
-    - Encourage settlement, boosting land values.
-    - Stimulate economic growth.
-    - Increase tax revenues.
+  - Encourage settlement, boosting land values.
+  - Stimulate economic growth.
+  - Increase tax revenues.
 
 ## Political Competition
 
@@ -1233,10 +1233,19 @@ had served, in the army or the militia
 
 ## High Point of Democracy
 
-- “The democratic principle… reached its culmination about 1850.”
-  - *Atlantic Monthly*
-- The high tide of faith in democracy in the United States was reached
-  at mid-century in the 1800s; thereafter it ebbed.
+- **Democracy peaked?:**
+  - “The democratic principle… reached its culmination about 1850.”
+    - *Atlantic Monthly*, “Limited Sovereignty in the United States”.
+      February 1879
+      [URL](https://www.theatlantic.com/magazine/archive/1879/02/limited-sovereignty-in-the-united-states/632104/)
+  - The high tide of faith in democracy in the United States was reached
+    at mid-century in the 1800s; thereafter it ebbed.
+- **Too much democracy?**
+  - It has become a truism that frequent elections as well as a
+    multitude of offices are in the direct interest of the worst
+    political classes.”…“Annual elections have been already abandoned in
+    some of the States, notably in Maryland, and the result has been
+    very satisfactory”
 
 ## Immigrants in the 1850s
 
@@ -1295,16 +1304,19 @@ had served, in the army or the militia
 
 ![](img/The-Right-to-Vote-Part-II0.png)
 
-## Objections
+## Opposition to immigrant voting
 
-- Whig and then Republican objections were strengthened by the tendency
-  of many immigrants to drink alcohol and vote Democratic
-- Abolitionists came to regard immigrants as a pro-slavery voting bloc
-  that would help to keep the planter aristocracy in power in the South
-- **Political nativism moved to the foreground of the political stage,
-  however, when the Know-Nothings burst onto the scene in 1853–1854**
+- **Opposition:**
+  - Whig and then Republican objections were strengthened by the
+    tendency of many immigrants to drink alcohol and vote Democratic
+  - Abolitionists came to regard immigrants as a pro-slavery voting bloc
+    that would help to keep the planter aristocracy in power in the
+    South
+- **Political nativism:**
+  - Nativism moved to the foreground of the political stage when the
+    *Know-Nothings* burst onto the scene in 1853–1854
 
-## Know-Nothings
+## Know-Nothings Party
 
 - **Domination of Political Landscape:**
   - The Know-Nothings dominated political life in the Northeast, parts
@@ -1319,6 +1331,9 @@ had served, in the army or the militia
     and endorsed progressive reforms.
   - Reforms included strengthening lien laws, property rights for
     married women, and expanding public schools.
+
+## Know-Nothing Bigotry
+
 - **Religious Bigotry:**
   - The Know-Nothings expressed ethnic and religious bigotry,
     particularly against immigrants and Catholics.
@@ -1606,7 +1621,10 @@ had served, in the army or the militia
   - Vetoed the bill, but his veto was quickly overridden.
 - **Requirement for rejoining the political nation:**
   - **To rejoin the political nation, the states of the Confederacy were
-    now compelled to permit Blacks to vote.** \## Black Voting
+    now compelled to permit Blacks to vote.**
+
+## Black Voting
+
 - **Elections and Constitutions:**
   - In 1867 and 1868, African Americans, working with white Unionists
     and Republicans in the South, elected new state governments, wrote
@@ -1656,20 +1674,29 @@ had served, in the army or the militia
   - Within days of the 1868 election, the Republicans shifted course, as
     Radicals, in and out of Congress, announced that they would press
     forward with a constitutional amendment to enfranchise African
-    Americans. \## Fading Support
+    Americans.
+
+## Grant v. Seymour (1868)
+
+<embed src="img/1868-election.pdf" style="width:80.0%" />
+
+## Fading Support
+
 - **Decline in Support:**
   - The decline in support for the Republican Party, as well as the
     referenda outcomes in 1867 and 1868, underscored the strength and
     breadth of opposition to Black enfranchisement.
 - **Implications for Control:**
   - Republicans sensed that control of the national government might be
-    slipping from their grasp: + White Southerners were intensifying
-    their opposition to Black equality. + Something had to be done soon
-    to guarantee Black political rights, particularly in the event that
-    the Democrats returned to power in the South or nationally. +
-    Election results also indicated that Black voters might be important
-    to the fortunes of the Republican Party in northern as well as
-    southern states.
+    slipping from their grasp:
+    - White Southerners were intensifying their opposition to Black
+      equality.
+    - Something had to be done soon to guarantee Black political rights,
+      particularly in the event that the Democrats returned to power in
+      the South or nationally.
+    - Election results also indicated that Black voters might be
+      important to the fortunes of the Republican Party in northern as
+      well as southern states.
 
 ## Amendment XV Debate
 
@@ -1677,7 +1704,7 @@ had served, in the army or the militia
   - Debate on the *Fifteenth Amendment* was the first time since the
     constitutional convention in Philadelphia that the national
     government of the United States had grappled directly and
-    extensively with the issue of voting rights.
+    extensively with the issue of **voting rights**.
 - **Broadening of Debate:**
   - The debate began with a strategic focus on the rights of African
     Americans, particularly in the South, but it soon broadened into a
@@ -1690,9 +1717,9 @@ had served, in the army or the militia
   - Samuel Shellabarger’s amendment prohibited the states from denying
     or abridging the voting rights of any adult male of “sound mind,”
     except those who had engaged in rebellion against the United States
-    or committed other “infamous” crimes. + it implicitly would have
-    ended not only racial discrimination but also property, tax,
-    nativity, and literacy requirements.
+    or committed other “infamous” crimes.
+    - it implicitly would have ended not only racial discrimination but
+      also property, tax, nativity, and literacy requirements.
 - **Boutwell’s Proposal:**
   - George Boutwell’s proposal guaranteed “the right of any citizen of
     the United States to vote shall not be denied or abridged by the
@@ -1702,25 +1729,28 @@ had served, in the army or the militia
 - **Wilson’s Proposal:**
   - Massachusetts Senator Henry Wilson, a shoemaker by trade, a
     long-time foe of slavery, and later vice president of the United
-    States: + Prohibited discrimination “among the citizens of the
-    United States in the exercise of the elective franchise or in the
-    right to hold office in any State on account of race, color,
-    nativity, property, education or creed.” + Tacitly permitted
-    suffrage qualifications based on age and residence.
+    States:
+    - Prohibited discrimination “among the citizens of the United States
+      in the exercise of the elective franchise or in the right to hold
+      office in any State on account of race, color, nativity, property,
+      education or creed.”
+    - Tacitly permitted suffrage qualifications based on age and
+      residence.
 
 ## Sen. Henry Wilson
 
 - **Advocacy for Broad Phrasing:**
   - Wilson and his allies, many from the Midwest, mounted a powerful
-    array of arguments in favor of a broadly phrased amendment. + They
-    voiced a prescient fear (as had Shellabarger) that a watered-down
-    amendment such as Boutwell’s would end up being circumvented by
-    southern states that could disfranchise Blacks through literacy,
-    tax, or property requirements. + Wilson maintained shrewdly that his
-    proposal might have the best chance of being ratified by the states
-    because it effectively would enfranchise everyone (including many
-    immigrant supporters of the Democrats) and not appear to be granting
-    special privileges to African Americans.
+    array of arguments in favor of a broadly phrased amendment.
+    - They voiced a prescient fear (as had Shellabarger) that a
+      watered-down amendment such as Boutwell’s would end up being
+      circumvented by southern states that could disfranchise Blacks
+      through literacy, tax, or property requirements.
+    - Wilson maintained shrewdly that his proposal might have the best
+      chance of being ratified by the states because it effectively
+      would enfranchise everyone (including many immigrant supporters of
+      the Democrats) and not appear to be granting special privileges to
+      African Americans.
 
 ## “Rights” Argument
 
@@ -1743,71 +1773,79 @@ had served, in the army or the militia
 
 - **Opposition to Wilson Amendment:**
   - That the Wilson amendment sanctioned Black office-holding, as well
-    as suffrage, only intensified the opposition. + Senators from the
-    West were apprehensive that it would enfranchise the Chinese. +
-    Several northeastern Republicans wanted states to retain the power
-    to circumscribe the voting rights of immigrants. + Others argued
-    that municipalities and states ought to be able to impose property
-    requirements in elections dealing with taxes and financial matters.
+    as suffrage, only intensified the opposition.
+    - Senators from the West were apprehensive that it would enfranchise
+      the Chinese.
+    - Several northeastern Republicans wanted states to retain the power
+      to circumscribe the voting rights of immigrants.
+    - Others argued that municipalities and states ought to be able to
+      impose property requirements in elections dealing with taxes and
+      financial matters.
 
 ## “Republican Guarantee”
 
 - **Federal vs. State Power:**
   - The most frequently voiced reason for opposing universal manhood
-    suffrage was not that it would empower an “inferior” people but
-    rather that it would produce a “radical and revolutionary”
+    suffrage was that it would produce a “radical and revolutionary”
     **transformation of the relationship between the federal government
-    and the states**. + The Wilson amendment would vest that power in
-    the federal government and in so doing alter the Constitution while
-    undermining the autonomy and authority of the states. + Radicals
-    replied that the “republican guarantee” clause of article 4 already
-    gave the federal government the power to regulate the franchise.
+    and the states**.
+    - The Wilson amendment would vest that power in the federal
+      government and in so doing alter the Constitution while
+      undermining the autonomy and authority of the states.
+    - Radicals replied that the “republican guarantee” clause of article
+      4 already gave the federal government the power to regulate the
+      franchise.
 
 ## Federalism
 
 - **Balance of Authority:**
-  - Democrats, of course, were broadly committed to preserving the power
-    of the states, but even moderate Republicans, in the Senate and the
-    House, worried that the Wilson amendment would upset the balance of
-    state and federal authority enshrined in the Constitution. + Such
-    arguments offered critics of the amendment a convenient, apparently
-    principled means of opposing franchise extension without sounding
-    undemocratic or racist. + They also reflected a desire to shore up
-    federalism in an era when the exigencies of war and the economic
-    program of the Republican Party were shifting power toward
-    Washington. + Faced with a choice between a narrowly phrased
-    amendment and the possibility of no amendment at all, advocates of
-    broad-gauged democratization surrendered.
+  - Democrats, of course, were broadly committed to **preserving the
+    power of the states**, but even moderate Republicans, in the Senate
+    and the House, worried that the Wilson amendment would *upset the
+    balance of state and federal authority* enshrined in the
+    Constitution.
+    - Such arguments offered critics of the amendment a convenient,
+      apparently principled means of opposing franchise extension
+      without sounding undemocratic or racist.
+    - They also reflected a desire to shore up federalism in an era when
+      the exigencies of war and the economic program of the Republican
+      Party were shifting power toward Washington.
+    - Faced with a choice between a **narrowly phrased amendment** and
+      the possibility of **no amendment** at all, advocates of
+      broad-gauged democratization surrendered.
 
 ## Opposition on Other Grounds to the 15th
 
 - **Widespread Intensity:**
-  - Opposition to the amendment was widespread and intense. + It was
-    passed easily only in New England, where Blacks already voted, and
-    in the South, where the federal government had already intervened to
-    compel Black enfranchisement. + Elsewhere, battles over ratification
-    were closely fought and heavily partisan.
+  - Opposition to the amendment was widespread and intense.
+    - It was passed easily only in New England, where Blacks already
+      voted, and in the South, where the federal government had already
+      intervened to compel Black enfranchisement.
+    - Elsewhere, battles over ratification were closely fought and
+      heavily partisan.
 - **West Coast Opposition:**
   - On the West Coast, especially in California, opposition to the
     *Fifteenth Amendment* was fueled by the anti-Chinese furor that
     would sour the region’s politics for decades.
   - Whites, including many working-class whites, feared that the
-    amendment would: + Enfranchise the Chinese. + Encourage further
-    Chinese immigration. + Lower the wages and living standards of white
-    workers.
-  - State legislatures in the western states (excepting Nevada) refused
-    to ratify the amendment, despite the tiny African-American presence
-    in the region.
+    amendment would:
+    - Enfranchise the Chinese.
+    - Encourage further Chinese immigration.
+    - Lower the wages and living standards of white workers.
+    - State legislatures in the western states (excepting Nevada)
+      refused to ratify the amendment, despite the tiny African-American
+      presence in the region.
 
 ## (Un)remarkable
 
 - **Opposition to Broad Amendment:**
   - What opponents of a broad amendment rejected in the end was the
     abolition of discrimination based on nativity, religion, property,
-    and education. + They wanted to retain the power to limit the
-    political participation of the Irish and Chinese, Native Americans,
-    and the increasingly visible clusters of illiterate and
-    semi-literate workers massing in the nation’s cities.
+    and education.
+    - They wanted to retain the power to limit the political
+      participation of the Irish and Chinese, Native Americans, and the
+      increasingly visible clusters of illiterate and semi-literate
+      workers massing in the nation’s cities.
 - **Henry Adams’s Observation:**
   - As Henry Adams astutely observed, the *Fifteenth Amendment* was
     “more remarkable for what it does not than for what it does
@@ -1831,13 +1869,14 @@ had served, in the army or the militia
 
 - **Near Passage of Wilson Amendment:**
   - It is a remarkable fact that the Wilson amendment (or some variant
-    thereof) came so close to passage. + The Civil War and
-    Reconstruction invigorated and extended (in some quarters, at least)
-    the democratic convictions that had flourished at mid-century. + The
-    extraordinary circumstances surrounding the war propelled many
-    Americans to support Black suffrage, and as happened repeatedly in
-    American history, contending with the issue of race provoked new
-    thinking about democratic rights in general.
+    thereof) came so close to passage.
+    - The Civil War and Reconstruction invigorated and extended (in some
+      quarters, at least) the democratic convictions that had flourished
+      at mid-century.
+    - The extraordinary circumstances surrounding the war propelled many
+      Americans to support Black suffrage, and as happened repeatedly in
+      American history, contending with the issue of race provoked new
+      thinking about democratic rights in general.
 - **Universal Male Suffrage:**
   - By the late 1860s, large segments of the nation’s citizenry and
     political leadership were prepared to embrace universal male
@@ -1865,25 +1904,35 @@ had served, in the army or the militia
 - **Tactics to Limit Participation:**
   - Elections were hotly contested, and white Southerners, seeking to
     “redeem” the region from Republican rule, engaged in both legal and
-    extralegal efforts to limit the political influence of freedmen. +
-    In the early 1870s, both in the South and in the border states,
-    districts were gerrymandered, precincts reorganized, and polling
-    places closed to hinder Black political participation. +
-    Organizations such as the Ku Klux Klan mounted violent campaigns
+    extralegal efforts to limit the political influence of freedmen.
+  - In the early 1870s, both in the South and in the border states:
+    - districts were gerrymandered
+    - precincts reorganized
+    - polling places closed to hinder Black political participation.
+  - Organizations such as the **Ku Klux Klan** mounted violent campaigns
     against Blacks who sought to vote or hold office, as well as their
     white Republican allies.
 
 ## Enforcement & KKK Acts
 
+- **The Enforcements Acts:**
+  - Between 1870 and 1871 Congress passed the Enforcement Acts –
+    **criminal codes that protected blacks’ right to vote, hold office,
+    serve on juries, and receive equal protection of laws**.
+    - If the states failed to act, the laws allowed the federal
+      government to intervene
 - **Enforcement Act of 1870:**
   - In May 1870, stretching the limits of its constitutional powers,
-    Congress passed an Enforcement Act that made **interference with
-    voting a federal offense, punishable in federal courts**. + Federal
-    courts were presumed to be more reliable than state courts.
+    Congress passed an **Enforcement Act** that made *interference with
+    voting a federal offense, punishable in federal courts*.
+    - Federal courts were presumed to be more reliable than state
+      courts.
 - **Ku Klux Klan Act:**
   - It also passed the Ku Klux Klan Act, which, among its provisions,
     authorized the president to **deploy the army to protect the
     electoral process**.
+  - Ku Klux Klan members were murdering many blacks and some whites
+    because they voted, held office, or were involved with schools
 
 ## Losing enthusiasm
 
@@ -1905,7 +1954,8 @@ had served, in the army or the militia
 - **Immediate Objectives:**
   - Most immediately they sought to drive the Republicans from power and
     elect Democrats, an objective hard to attain in a fully enfranchised
-    South. + Limiting Black voting therefore was a means to an end.
+    South.
+    - Limiting Black voting therefore was a means to an end.
 - **Social and Economic Motivations:**
   - Keeping freedmen from the polls was also a means of rebuffing
     broader claims to equality, a way of returning Blacks to “their
@@ -1924,23 +1974,24 @@ had served, in the army or the militia
 - **Continued Efforts to Limit Electorate:**
   - The Redeemers, who controlled most state legislatures, continued to
     try to shrink the Black (and opposition white) electorate through
-    gerrymandering, registration systems, complicated ballot
-    configurations, and the secret ballot (which served as a de facto
-    literacy test).
+    **gerrymandering**, **registration systems**, **complicated ballot
+    configurations**, and the **secret ballot** (which served as a de
+    facto literacy test).
 
 ## Shifting partisan winds
 
 - **Election Dynamics:**
   - National elections were extremely close and fiercely contested in
-    the late 1870s and 1880s. + Congressional majorities were
-    unstable. + In 1884 Grover Cleveland became the first Democratic
-    president since before the Civil War.
+    the late 1870s and 1880s.
+    - Congressional majorities were unstable.
+    - In 1884 Grover Cleveland became the *first Democratic president*
+      since before the Civil War.
 - **Republican Perspective:**
   - In the eyes of many Republicans, the Democrats’ success, their
     ability to wield national power, was illegitimate, dependent on
     wholesale violations of the *Fifteenth Amendment* in the South.
 
-## Illegitimate power
+## Federal Elections Bill
 
 - **Republican Charges in 1888:**
   - In its 1888 platform, the Republicans charged “*that the present
@@ -1950,17 +2001,19 @@ had served, in the army or the militia
 - **Post-Election Actions:**
   - After they were victorious in that year’s elections, the Republicans
     had a chance to do something about it: they had won the presidency
-    and control of both houses of Congress. + They proposed the *Federal
-    Elections Bill*. + A small number of petitions to federal circuit
-    courts could lead to the appointment of federal supervisors were
-    entrusted with: + Attending elections, inspecting registration
-    lists, verifying information given by doubtful voters, administering
-    oaths to challenged voters, preventing illegal immigrants from
-    voting, and certifying the count. + The bill gave federal officials
-    and courts the power to overturn election results that had been
-    declared and certified by state officials.
+    and control of both houses of Congress.
+  - **They proposed the *Federal Elections Bill*.**
+  - A small number of petitions to federal circuit courts could lead to
+    the appointment of **federal supervisors** were entrusted with:
+    - Attending elections, inspecting registration lists, verifying
+      information given by doubtful voters, administering oaths to
+      challenged voters, preventing illegal immigrants from voting, and
+      certifying the count.
+    - The bill gave federal officials and courts the power to overturn
+      election results that had been declared and certified by state
+      officials.
 
-## Federal Elections Bill
+## Federal Elections Bill (Lodge Bill)
 
 - **Republican Interests:**
   - The Republicans certainly stood to gain from fair elections in the
@@ -1972,15 +2025,15 @@ had served, in the army or the militia
     of war and Reconstruction were being undermined by fraud and
     violence.
 - **Democratic Opposition:**
-  - The Democrats, of course, fiercely opposed the bill, denouncing it
-    as “a scheme to rob the people of the States of the dearest right of
-    American citizenship.”
+  - The Democrats fiercely opposed the bill, denouncing it as “*a scheme
+    to rob the people of the States of the dearest right of American
+    citizenship.*”
 - **Bill’s Defeat:**
   - Losing 35 to 24 with 19 abstentions, the federal government backed
     away from a significant expansion of its role in shaping electoral
-    law and guaranteeing democratic rights. + This occurred not only
-    because the nation and the Congress were divided, but also because
-    of back-door political dealing and accidents of timing.
+    law and guaranteeing democratic rights.
+    - This because the **nation and the Congress were divided** and
+      **back-door political dealing** and **accidents of timing**.
 
 ## Federal Involvement
 
@@ -1996,7 +2049,7 @@ had served, in the army or the militia
     Lyndon Johnson’s *Voting Rights Act*, did Congress again seriously
     consider federal intervention in southern politics.
 
-## Rollback
+## Rollback of voting rights
 
 - **Beginning of Disfranchisement:**
   - The year 1890 also marked the beginning of systematic efforts by
@@ -2021,21 +2074,22 @@ had served, in the army or the militia
     political life while technically adhering to the *Fifteenth
     Amendment*.
 - **Specific Measures:**
-  - These provisions included a sharp increase in the *residency*
-    requirement (“the negro is…a nomadic tribe,” opined the state’s
-    attorney general), the institution of a two-dollar *poll tax*, and
-    the imposition of a *literacy test* that required potential voters
-    to demonstrate that they could understand and interpret the
-    Constitution.
+  - These provisions included:
+    - a sharp increase in the *residency* requirement (“the negro is…a
+      nomadic tribe,” opined the state’s attorney general)
+    - the institution of a two-dollar *poll tax*
+    - the imposition of a *literacy test* that required potential voters
+      to demonstrate that they could understand and interpret the
+      Constitution.
 - **Widespread Adoption:**
-  - **Other states quickly followed suit.**
+  - Other states quickly followed suit.
 
 ## Suppression
 
 - **Aim of Restrictions:**
   - The overarching aim of such restrictions, usually undisguised, was
-    to keep poor and illiterate Blacks–and in Texas, Mexican
-    Americans–from the polls.
+    to keep poor and illiterate Blacks –and in Texas, Mexican Americans–
+    from the polls.
 - **Effectiveness of Literacy Tests:**
   - Literacy tests served that goal well, since 50 percent of all Black
     men (as well as 15 percent of all whites) were illiterate, and even
@@ -2059,7 +2113,7 @@ had served, in the army or the militia
     and did, judge whether a prospective voter’s “*understanding*” was
     adequate.
 - **Carter Glass’s Intent:**
-  - *That, exactly, is what this Convention was elected for–to
+  - *That, exactly, is what this Convention was elected for –to
     discriminate to the very extremity of permissible action under the
     limitations of the Federal Constitution, with a view to the
     elimination of every negro voter who can be gotten rid of, legally,
@@ -2069,16 +2123,15 @@ had served, in the army or the militia
 ## Grandfather Clause
 
 - **Purpose of Grandfather Clauses:**
-  - Discrimination, as well as circumvention of the *Fifteenth
-    Amendment*, was also the aim of the well-known grandfather clauses.
+  - Discrimination was the aim of the well-known grandfather clauses.
 - **Exemptions Provided:**
   - Exempted men from literacy, tax, residency, or property requirements
     if they had performed military service or if their ancestors had
     voted in the 1860s.
-- **Origin and Irony:**
+- **Origin:**
   - The first southern grandfather clause was adopted in South Carolina
-    in 1890; with exquisite regional irony, it was modeled on the
-    anti-immigrant Massachusetts law of 1857.
+    in 1890; it was modeled on the anti-immigrant Massachusetts law of
+    1857.
 
 ## Anti-white-opposition
 
@@ -2126,9 +2179,9 @@ had served, in the army or the militia
     85 percent fell to 50 percent for whites and single digits for
     Blacks.
 - **Restoration of Pre-Civil War Electorate:**
-  - **The achievements of Reconstruction had been reversed, and the
+  - The achievements of **Reconstruction had been reversed**, and the
     rollback had restored the southern electorate to *at best* pre–Civil
-    War proportions.**
+    War proportions.
 
 ## What this all meant
 
@@ -2147,11 +2200,11 @@ had served, in the army or the militia
 ## The North stood by
 
 - **Northern Response:**
-  - All of which took place *without* great protest from the North. +
-    Although Republican politicians and newspapers routinely criticized
-    the disfranchising laws, scattered efforts to enforce the
-    \_\_Fourteenth\_ Amendment\_ by reducing the congressional
-    representation of southern states generated little support.
+  - All of which took place *without* great protest from the North.
+    - Although Republican politicians and newspapers routinely
+      criticized the disfranchising laws, scattered efforts to enforce
+      the *Fourteenth Amendment* by reducing the congressional
+      representation of southern states generated little support.
 - **Supreme Court Rulings:**
   - The Supreme Court upheld the legality of all of the major techniques
     of disfranchisement.
@@ -2161,484 +2214,530 @@ had served, in the army or the militia
     *on its face*, designed to discriminate against Blacks.
 - **Northern Tolerance:**
   - The North tolerated disfranchisement in the South **in part from
-    weariness, in part due to the partisan interests of the Democratic
-    Party, and in part because Northerners too had been losing faith in
-    democracy.**
+    weariness**, in part due to the **partisan interests of the
+    Democratic Party**, and in part because **Northerners too had been
+    losing faith in democracy**.
 
 ## The Redemption of the North
 
 ## Elections in the 1870s-80s
 
-- National elections were closely contested
-- Control of Congress changed hands frequently
-- Presidents were elected by razor-thin margins
-  - sometimes with less than a majority of the popular vote
+- **Election Dynamics:**
+  - National elections were closely contested.
+    - Control of Congress changed hands frequently.
+    - Presidents were elected by razor-thin margins, sometimes with less
+      than a majority of the popular vote.
 
 ## Third Parties
 
-- Party identifications were strong, but third parties frequently
-  cropped up
-- They often gained substantial influence in state and local governments
-- They did not last long as their issues were absorbed by the major
-  parties
+- **Emergence and Influence:**
+  - Party identifications were strong, but third parties frequently
+    cropped up
+    - They often gained substantial influence in state and local
+      governments
+    - They did not last long as their issues were absorbed by the major
+      parties
 
-## Issues that were important
+## Issues
 
-- The issues animating political life were high stakes
-  - The rapid spread of industrialization and class and interest-group
-    conflict
-  - The tariff and the money supply (which affected prices and the
-    availability of credit) were issues in every national election
-- Railroad rates and regulation often dominated state political contests
-- City dwellers fought over the development and financing of
-  increasingly necessary water, sewer, and transport systems
+- **High-Stakes Political Life:**
+  - The issues animating political life were high stakes:
+    - The rapid spread of industrialization and class and interest-group
+      conflict.
+    - The tariff and the money supply (which affected prices and the
+      availability of credit) were issues in every national election.
+  - Railroad rates and regulation often dominated state political
+    contests.
+  - City dwellers fought over the development and financing of
+    increasingly necessary water, sewer, and transport systems.
 
 ## Corporate interests v. workers and farmers
 
-- There remained uncertainty about the proper role of the state
-- Corporations became more powerful in light of industrialization
-  - Workers sought legislation to shorten the hours of labor
-  - Small businesses cried out against monopolies
-- Railroads controlled access to markets
-  - Farmers and shippers pressed the states and DC to protect them
-    against the predatory railroads
+- **State’s Role and Corporate Power:**
+  - Continued uncertainty about the proper role of the state as
+    corporations became more powerful in light of industrialization:
+    - Workers sought legislation to shorten the hours of labor.
+    - Small businesses cried out against monopolies.
+  - Railroads controlled access to markets:
+    - Farmers and shippers pressed the states and DC to protect them
+      against the predatory railroads.
 
 ## Economic and Cultural issues
 
-- Urban consumers demanded regulation of utility companies
-- The sale of liquor was a life-and-death issue in many elections
-- **Politics revolved around the myriad consequences of the increasingly
-  evident triumph of industrial capitalism**
+- **Urban Consumer Demands:**
+  - Urban consumers demanded regulation of utility companies.
+- **Liquor Sale Controversies:**
+  - The sale of liquor was a life-and-death issue in many elections.
+- **Industrial Capitalism:**
+  - **Politics revolved around the myriad consequences of the
+    increasingly evident triumph of industrial capitalism.**
 
 ## Fate of the South
 
-- Critical election of 1896 yielded a new and long-lasting partisan
-  alignment
-  - The tone of political life shifted, although the dominant issues
-    (industrialization) remained the same
-- The fate of the South was settled (removing one key contentious issue
-  from the political arena), the Republican Party securely dominated
-  much of the North-east and Midwest
-  - third-party rebellions became infrequent
-  - Electoral turnout fell, North and South
-  - Political parties experienced a decline in enthusiasm and loyalty
+- **1896 Election and Partisan Alignment:**
+  - Critical election of 1896, which yielded a new and long-lasting
+    partisan alignment:
+    - The tone of political life shifted, although the dominant issues
+      remained the same.
+- **Republican Dominance:**
+  - The fate of the South was settled (removing one key contentious
+    issue from the political arena), the Republican Party securely
+    dominated much of the North-east and Midwest:
+    - Third-party rebellions became infrequent.
+    - Electoral turnout fell, North and South.
+    - Political parties experienced a decline in enthusiasm and loyalty.
 
 ## Changing country
 
-- Between 1865 and 1900, the United States became the leading
-  manufacturing nation in the world
-  - its industrial output eclipsed that of agriculture
-  - the population more than doubled from 35 million to 75 million
-- Non-farm employment tripled
-  - More than 10,000,000 people worked in manufacturing, mining,
-    construction, and transportation
+- **Industrial and Population Growth:**
+  - Between 1865 and 1900, the United States became the leading
+    manufacturing nation in the world, with its industrial output
+    eclipsing that of agriculture, and the population more than doubled
+    from 35 million to 75 million.
+- **Employment Shifts:**
+  - Non-farm employment tripled, with more than 10,000,000 people
+    working in manufacturing, mining, construction, and transportation.
 
 ## Older Americans
 
-- For older Americans, what America looked like post-Civil War was
-  disturbing
-  - new industries
-  - large and impersonal workplaces
-  - private corporations wielding enormous economic and political power
-  - economic panics that created new problems such as mass unemployment
+- **Discomfort with Change:**
+  - To older Americans, the post-Civil War America, with new industries,
+    large and impersonal workplaces, and private corporations wielding
+    enormous economic and political power, was disturbing.
+  - Economic panics created new problems such as mass unemployment.
   - They saw abandoned farms, railroads crisscrossing vast stretches of
-    country, and–distressingly–cities of unprecedented size and
+    the country, and–distressingly–cities of unprecedented size and
     complexity.
 
 ## Growing American Cities
 
-- In 1870, only New York and Philadelphia had populations greater than
-  500,000;
-- By 1910, there were eight, three of which contained more than a
-  million people
-  - these cities increasingly were governed by political organizations
-    (political machines)
-  - the traditional elites could not control or even understand
+- **Urban Expansion:**
+  - In 1870, only New York and Philadelphia had populations greater than
+    500,000.
+  - By 1910, there were eight cities, three of which contained more than
+    a million people.
+- **Political Machines:**
+  - These cities increasingly were governed by political organizations
+    (political machines) that traditional elites could not control or
+    even understand.
 
-## Immigrants and labor
+## Immigrants and Labor
 
-- What these Americans most feared was the extremely rapid growth of an
-  immigrant working class
-- The flow of immigrants that had begun in the 1840s resumed quickly
-  after the Civil War
-  - the nation’s expanding industries needed labor
-  - most came from Europe and to a far lesser extent Asia and Mexico
+- **Immigrant Workforce:**
+  - The extremely rapid growth of an immigrant working class was a major
+    concern, as the flow of immigrants resumed quickly after the Civil
+    War to fill the labor needs of the nation’s expanding industries,
+    mostly coming from Europe and to a lesser extent Asia and Mexico.
 
 ## Immigrants
 
-- Between 1865 and World War I, nearly twenty-five million immigrants
-  journeyed to the United States
-  - 25% of the 1917 (WWI)population was immigrant
-- The vast majority of these immigrants were propertyless workers rather
-  than settlers
-- The Irish and Germans continued to arrive
-- A growing numbers of southern and eastern Europeans came. They:
-  - did not speak English
-  - cultures were alien
-  - most were Catholic or Jewish
-- **By 1910, most urban residents were immigrants or the children of
-  immigrants, and the nation’s huge working class was predominantly
-  foreign-born, native-born of foreign parents, or Black**
+- **Immigration Wave:**
+  - Between 1865 and World War I, nearly twenty-five million immigrants
+    journeyed to the United States, making up 25% of the 1917 (WWI)
+    population, with the majority being propertyless workers rather than
+    settlers.
+- **Diversity and Challenges:**
+  - The Irish and Germans continued to arrive, but growing numbers of
+    southern and eastern Europeans came, who did not speak English, had
+    cultures considered alien, and most were Catholic or Jewish.
+- **Urban Demographics:**
+  - **By 1910, most urban residents were immigrants or the children of
+    immigrants, and the nation’s huge working class was predominantly
+    foreign-born, native-born of foreign parents, or Black.**
 
-## Immigrant electoral behavior
+## Immigrant Electoral Behavior
 
-- To many old-stock Americans, the mass of immigrant workers was an
-  unwelcome addition to the electorate
-  - immigrants were seen as being:
-    - poor
-    - uneducated
-    - ignorant of (American) traditions
-    - lacked judgment, knowledge, and commitment to American values
-- They were also radicals (socialist in later decades) who:
-  - struck or rioted against the railroads and corporations
-- They also supported political machines
-  - ethnic loyalty in exchange for favors for votes
+- **Electoral Concerns:**
+  - Many old-stock Americans viewed the mass of immigrant workers as an
+    unwelcome addition to the electorate, seeing them as poor,
+    uneducated, and ignorant of (American) traditions, lacking in
+    judgment, knowledge, and commitment to American values.
+- **Radical Tendencies:**
+  - Immigrants were also seen as radicals (socialist in later decades)
+    who struck or rioted against the railroads and corporations and
+    supported political machines through ethnic loyalty in exchange for
+    favors for votes.
 
-## More objections to immigrant voting
+## More Objections to Immigrant Voting
 
-- They purportedly were prone to voting illegally, irresponsibly, and
-  against the interests of their betters
-- Charges of corruption and naturalization fraud were repeated endlessly
-  - electoral outcomes were twisted by “naturalization mills” that, with
-    the aid of “professional perjurers and political manipulators,”
-    transformed thousands of immigrants into citizens in the weeks
-    before elections
-  - even if their votes were legal, they were inappropriately cast,
-    bartered for jobs or favors from a boss
+- **Voting Irregularities:**
+  - Immigrants were purportedly prone to voting illegally,
+    irresponsibly, and against the interests of their betters, with
+    charges of corruption and naturalization fraud repeated endlessly,
+    suggesting that electoral outcomes were twisted by “naturalization
+    mills” and “professional perjurers and political manipulators.”
 
-## Decline of democracy
+## Decline of Democracy
 
-- Within a few years of passage of the **Fifteenth Amendment**, a
-  significant segment of the intellectual community was announcing its
-  distrust of democracy and rejecting the claim that suffrage was a
-  right
-- The breadth of the franchise –particularly extension of the franchise
-  to the poor, uneducated, and foreign-born– was once again a live issue
-- The terms of public discussion were being set by men who believed that
-  *universal suffrage* had failed, and that it was neither viable nor
-  desirable in the socially heterogeneous, industrial world of the late
-  nineteenth century
+- **Distrust in Democracy:**
+  - Within a few years of the passage of the *Fifteenth Amendment*, a
+    significant segment of the intellectual community was announcing its
+    distrust of democracy and rejecting the claim that suffrage was a
+    right.
+- **Franchise Reevaluation:**
+  - The breadth of the franchise – particularly the extension of the
+    franchise to the poor, uneducated, and foreign-born – became a
+    contentious issue once again.
+- **Skeptical Public Discussion:**
+  - The terms of public discussion were being set by men who believed
+    that *universal suffrage* had failed and that it was neither viable
+    nor desirable in the socially heterogeneous, industrial world of the
+    late nineteenth century.
 
 ## Reforms against suffrage
 
-- Proposals for reducing the electorate found their way onto the public
-  agenda in the 1870s and remained there for decades
-- Proposals included:
-  - less frequent elections
-  - at-large rather than district voting
-  - increased public accountability for office holders
-  - state control over key arenas of municipal administration
-  - remove public offices from the electoral sphere and make them
-    appointive
-    - It was “absurd” to involve the electorate in “the selection of
-      judges and sheriffs, and district attorneys, of state treasurers
-      and attorney-generals, of school commissioners and civil
-      engineers.”
+- **Electoral Adjustments:**
+  - Proposals for reducing the electorate found their way onto the
+    public agenda in the 1870s and remained there for decades
+  - Proposals included:
+    - less frequent elections
+    - at-large rather than district voting
+    - increased public accountability for office holders
+    - state control over key arenas of municipal administration
+    - remove public offices from the electoral sphere and make them
+      appointive
+- **Appointive Positions:**
+  - It was “absurd” to involve the electorate in “the selection of
+    judges and sheriffs, and district attorneys, of state treasurers and
+    attorney-generals, of school commissioners and civil engineers.”
     - **In other words, democracy could be salvaged by circumscribing
       its domain**
 
 ## Reforms to strength democracy
 
-- Other critics were more optimistic about the possibilities of changing
-  the size and shape of the electorate
-- Some advocated reinstituting property and tax qualifications or
-  imposing literacy tests on prospective voters
-- More subtle approaches also were proposed, including
-  - longer residence periods
-  - stricter naturalization laws
-  - waiting periods before new citizens could vote
-  - complex ballot laws
-  - elaborate systems of voter registration
+- **Qualification Adjustments:**
+  - Other critics were more optimistic about the possibilities of
+    changing the size and shape of the electorate
+    - Some advocated reinstituting property and tax qualifications
+    - imposing literacy tests on prospective voters
+  - More subtle approaches also were proposed, including
+    - longer residence periods
+    - stricter naturalization laws
+    - waiting periods before new citizens could vote
+    - complex ballot laws
+    - elaborate systems of voter registration
 
 ## Purifying the Electorate
 
-## Revising the rules
-
-- The laws governing elections in most states were revised often between
-  the Civil War and World War I
-- States held constitutional conventions that defined or redefined the
-  shape of the electorate and outlined of the electoral process
-- State legislatures drew up increasingly detailed statutes that spelled
-  out electoral procedures of all types
-  - timing of elections
-  - location of polling places
-  - hours that polls would be open
-  - configuration of ballots
-  - counting of votes
-- Many of these laws were straightforwardly administrative, while other
-  laws were more controversial, inspired by partisan interests, enacted
-  to influence the outcome of elections
+- **Revising the rules:**
+  - State election laws were revised often between the Civil War and
+    World War I
+  - States held constitutional conventions that defined or redefined the
+    shape of the electorate and outlined of the electoral process
+  - State legislatures drew up increasingly detailed statutes that
+    spelled out electoral procedures of all types
+    - timing of elections
+    - location of polling places
+    - hours that polls would be open
+    - configuration of ballots
+    - counting of votes
+  - Many of these laws were straightforwardly administrative, while
+    other laws were more controversial, inspired by partisan interests,
+    enacted to influence the outcome of elections
 
 ## Institutional reforms
 
-- The apportionment of state legislative as well as congressional seats
-  was a key issue
-  - generated recurrent conflicts, particularly between urban and rural
-    areas
-- Linked to apportionment was the location of district boundaries in
-  states and within cities
+- **Apportionment:**
+  - The apportionment of state legislative as well as congressional
+    seats was a key issue
+    - generated recurrent conflicts, particularly between urban and
+      rural areas
+- **Redistricting:**
   - gerrymandering was a routine form of political combat
-  - it was practiced by both major parties against one another and
-    against any upstart political organizations
-- Technical rules governing the presence of parties and candidates on
-  the ballot also were subjects of contention
-  - they could encourage, or discourage, third parties and fusion slates
+    - it was practiced by both major parties against one another and
+      against any upstart political organizations
+- **Ballot Access:**
+  - Technical rules governing the presence of parties and candidates on
+    the ballot also were subjects of contention
+    - they could encourage, or discourage, third parties and fusion
+      slates
 
 ## The electorate
 
-- The most critical laws remained those that determined the size and
-  contours of the electorate
-- These were of two types.
-  - First and most important were those that set out the fundamental
-    qualifications that a man (or woman) had to meet in order to become
-    an eligible voter
-  - The second, of increasing significance, established the procedures
-    that a potential voter had to follow in order to participate in
-    elections
-- **The Constitution and federal courts had little to say about suffrage
-  (outside of race), and therefore the rules remained under *state
-  control***
+- **Defining Eligibility:**
+  - The most critical laws remained those that determined the size and
+    contours of the electorate
+  - These were of two types:
+    1.  First and most important were those that set out the fundamental
+        qualifications that a man (or woman) had to meet in order to
+        become an eligible voter
+    2.  The second, of increasing significance, established the
+        procedures that a potential voter had to follow in order to
+        participate in elections
+- The Constitution and federal courts had little to say about suffrage
+  (outside of race), and therefore the rules remained under **state
+  control**
 
 ## Money and the Vote
 
 ## Economic qualifications
 
-- Economic requirements for voting were not a dead issue after 1850
-- Economic qualifications continued to offer opponents of universal
-  suffrage a direct and potentially efficient means of winnowing out
-  undesirable voters
-- The tax requirement had served two purposes:
-  - as an obstacle to poor people’s voting
-  - as a drain on the treasuries of both political parties
-    - for example, by the late 1880s, the Massachusetts Democratic Party
+- **Persistence of Economic Qualifications:**
+  - Economic requirements for voting were not a dead issue after 1850.
+  - Economic qualifications continued to offer opponents of universal
+    suffrage a direct and potentially efficient means of winnowing out
+    undesirable voters.
+- **Dual Purpose of Tax Requirement:**
+  - The tax requirement had served two purposes:
+    - As an obstacle to poor people’s voting.
+    - As a drain on the treasuries of both political parties.
+    - For example, by the late 1880s, the Massachusetts Democratic Party
       –with more working-class supporters and thus greater financial
       exposure– reportedly was spending \$50,000 in each election to pay
-      the poll taxes of its supporters
-- In the North, a poll tax was used by the Republicans to disenfranchise
-  the poor, often immigrants, who more often than not supported
-  Democrats
-  - combined with apportionment schemes and bans on foreign-born voting,
-    Republican elites in the countryside kept power from those in cities
+      the poll taxes of its supporters.
+- **Disenfranchisement Tactics in the North:**
+  - In the North, a poll tax was used by the Republicans to
+    disenfranchise the poor, often immigrants, who more often than not
+    supported Democrats.
+    - Combined with apportionment schemes and bans on foreign-born
+      voting, Republican elites in the countryside kept power from those
+      in cities.
 
 ## Court on economic constraints
 
-- The U.S. Supreme Court made clear that it too did not see anything
-  unconstitutional about taxpaying or property requirements (*Myers v.
-  Anderson*, 1915)
-  - The Court found the law to be racially discriminatory in violation
-    of the *Fifteenth Amendment*
-  - however, it noted that economic discrimination in the form of a
-    property requirement was presumed to be “free from constitutional
-    objection”
-    - the *Twenty-fourth Amendment*, ratified in 1964, abolishes any
-      poll tax
+- **Supreme Court’s Stance:**
+  - The U.S. Supreme Court made clear that it too did not see anything
+    unconstitutional about taxpaying or property requirements (*Myers v.
+    Anderson*, 1915).
+    - The Court found the law to be racially discriminatory in violation
+      of the *Fifteenth Amendment*.
+    - However, it noted that economic discrimination in the form of a
+      property requirement was presumed to be “free from constitutional
+      objection”.
+    - The *Twenty-fourth Amendment*, ratified in 1964, abolishes any
+      poll tax.
 
 ## Class motivation
 
-- Overtly class-based economic restrictions were accompanied by legal
-  changes expressly designed to reduce the number of “undesirable”
-  immigrants who could vote
-- Beginning in the 1890s, the nation witnessed the growth of a
-  significant movement to **restrict immigration altogether**
-  - widespread middle-class anxiety about the impact of the foreign-born
-    on politics, particularly urban politics
-- The effort to keep immigrants from the polls was distinct from the
-  movement for outright restriction
-  - it bore fruit long before Congress passed the pathbreaking
-    restriction and quota acts of 1921 and 1924
-- As the ratio of immigrant workers to settlers soared and the need to
-  encourage settlement diminished, granting the franchise to
-  non-citizens seemed increasingly undesirable and risky.
+- **Class-Based Restrictions:**
+  - Overtly class-based economic restrictions were accompanied by legal
+    changes expressly designed to reduce the number of “undesirable”
+    immigrants who could vote.
+- **Movement to Restrict Immigration:**
+  - Beginning in the 1890s, the nation witnessed the growth of a
+    significant movement to **restrict immigration altogether**.
+    - Widespread middle-class anxiety about the impact of the
+      foreign-born on politics, particularly urban politics.
+- **Efforts Against Immigrant Voting:**
+  - The effort to keep immigrants from the polls was distinct from the
+    movement for outright restriction.
+    - It bore fruit long before Congress passed the pathbreaking
+      restriction and quota acts of 1921 and 1924.
+- **Changing Attitudes Towards Alien Suffrage:**
+  - As the ratio of immigrant workers to settlers soared and the need to
+    encourage settlement diminished, granting the franchise to
+    non-citizens seemed increasingly undesirable and risky.
 
 ## Alien suffrage
 
-- Most states rejected alien suffrage proposals in the late nineteenth
-  century
-  - beginning with Idaho territory in 1874, states that had permitted
+- **Rejection of Alien Suffrage Proposals:**
+  - Most states rejected alien suffrage proposals in the late nineteenth
+    century.
+- **Repeal Movements:**
+  - Beginning with Idaho territory in 1874, states that had permitted
     non-citizens to vote began to repeal their declarant alien
-    provisions
-  - picked up steam in the wake of the depression of the 1890s and the
-    assassination of President McKinley by an immigrant in 1901
-  - it accelerated again during and after World War I, when concerns
-    about the loyalty of the foreign–born contributed to a rare instance
-    of wartime contraction of the franchise.
+    provisions.
+    - Picked up steam in the wake of the depression of the 1890s and the
+      assassination of President McKinley by an immigrant in 1901.
+    - It accelerated again during and after World War I, when concerns
+      about the loyalty of the foreign–born contributed to a rare
+      instance of wartime contraction of the franchise.
+- **End of Alien Suffrage in the U.S.:**
   - The last state to permit non-citizens to vote was Arkansas, which
-    abolished the practice in 1926
-
-## Immigrant Voters
+    abolished the practice in 1926. \## Immigrant Voters
 
 ## New Obstacles for Immigrant Voters
 
-- Numerous states placed new obstacles in the path of immigrant voters
-  - Most were supported by some Republicans, opposed by Democrats, and
-    justified on the grounds that they would reduce fraud
-  - Required naturalized citizens to present their naturalization papers
-    to election officials before registering or voting
-  - Although not unreasonable on its face, this requirement, as
-    lawmakers knew, was a significant procedural hurdle for many
-    immigrants, who might easily have lost their papers or been unaware
-    of the requirement
-  - when coupled with provisions that permitted anyone present at the
-    polls to challenge the credentials of immigrant voters, these laws
-    placed substantial discretionary power in the hands of local
-    officials
+- **Introduction of New Obstacles:**
+  - Numerous states placed new obstacles in the path of immigrant
+    voters.
+    - Most were supported by some Republicans, opposed by Democrats, and
+      justified on the grounds that they would reduce fraud.
+    - Required naturalized citizens to present their naturalization
+      papers to election officials before registering or voting.
+    - Although not unreasonable on its face, this requirement, as
+      lawmakers knew, was a significant procedural hurdle for many
+      immigrants, who might easily have lost their papers or been
+      unaware of the requirement.
+    - When coupled with provisions that permitted anyone present at the
+      polls to challenge the credentials of immigrant voters, these laws
+      placed substantial discretionary power in the hands of local
+      officials.
 
 ## Reducing immigrant voting
 
-- The concerns that prompted such efforts to keep immigrants from the
-  polls also contributed to the tightening of federal immigration and
-  naturalization laws between 1880 and the 1920s
-- Beginning in 1882, Congress began to narrow the channels through which
-  the flow of European immigrants passed
-- Between 1906 and 1910, Congress codified the naturalization laws
-  - prohibited many “undesirable” foreign-born residents from becoming
-    citizens
-  - set a time limit on the validity of declarations of intent
-  - required candidates for naturalization to write their own names and
-    present ample proof (including witnesses) of their eligibility and
-    continuous residence in the United States for five years
+- **Tightening of Laws:**
+  - The concerns that prompted such efforts to keep immigrants from the
+    polls also contributed to the tightening of federal immigration and
+    naturalization laws between 1880 and the 1920s.
+- **Congressional Actions:**
+  - Beginning in 1882, Congress began to narrow the channels through
+    which the flow of European immigrants passed.
+- **Naturalization Law Codification:**
+  - Between 1906 and 1910, Congress codified the naturalization laws.
+    - Prohibited many “undesirable” foreign-born residents from becoming
+      citizens.
+    - Set a time limit on the validity of declarations of intent.
+    - Required candidates for naturalization to write their own names
+      and present ample proof (including witnesses) of their eligibility
+      and continuous residence in the United States for five years.
 
 ## Purpose of the laws
 
-- These laws were unabashedly aimed at making it more difficult for men
-  and women to become citizens, and by all accounts they succeeded,
-  reducing the proportion of immigrants who could vote
-- The most controversial reform of the immigration laws was the
-  imposition of a literacy or education test for admission to the United
-  States
-  - support of a unique coalition of northern professionals, many
-    Republicans, southern Democrats, anti-Catholics, anti-Semites, and
-    the American Federation of Labor
-    - the bill’s target was the “new” immigrant population, eastern and
+- **Aim of the Laws:**
+  - These laws were unabashedly aimed at making it more difficult for
+    men and women to become citizens, and by all accounts they
+    succeeded, reducing the proportion of immigrants who could vote.
+- **Literacy Test Controversy:**
+  - The most controversial reform of the immigration laws was the
+    imposition of a literacy or education test for admission to the
+    United States.
+    - Supported by a unique coalition of northern professionals, many
+      Republicans, southern Democrats, anti-Catholics, anti-Semites, and
+      the American Federation of Labor.
+    - The bill’s target was the “new” immigrant population, eastern and
       southern Europeans who had high rates of illiteracy (more than 20
       percent in 1914) and who generally were regarded as less desirable
       than their English, German, Scandinavian, and even Irish
-      predecessors
+      predecessors.
 
 ## Asian immigrants
 
-- Intense as apprehensions about poor European immigrants may have been,
-  they paled in comparison to American attitudes toward the Chinese and
-  other east Asians
-- By the final quarter of the nineteenth century, most Americans (and
-  especially those on the West Coast) wanted not only to keep the
-  Chinese from voting but to halt Chinese immigration and even deport
-  those who were already here
-  - feared because of their willingness to work for low wages
-  - despised for racial and cultural reasons
-- The Chinese had never been a significant political presence because
-  they had almost always been treated as nonwhite and therefore
-  ineligible for citizenship
-- California Constitutional Convention of 1878–1879: “no native of
-  China” (the wording was aimed at circumventing the *Fifteenth
-  Amendment*’s ban on racial barriers) “shall ever exercise the
-  privileges of an elector in this State”
-  - The suffrage provision of the 1879 constitution remained in force
-    until 1926
+- **Concerns About Asian Immigrants:**
+  - Intense as apprehensions about poor European immigrants may have
+    been, they paled in comparison to American attitudes toward the
+    Chinese and other east Asians.
+- **Desire to Limit Chinese Influence:**
+  - By the final quarter of the nineteenth century, most Americans (and
+    especially those on the West Coast) wanted not only to keep the
+    Chinese from voting but to halt Chinese immigration and even deport
+    those who were already here.
+    - Feared because of their willingness to work for low wages.
+    - Despised for racial and cultural reasons.
+- **California’s Constitutional Provision:**
+  - The Chinese had never been a significant political presence because
+    they had almost always been treated as nonwhite and therefore
+    ineligible for citizenship.
+  - California Constitutional Convention of 1878–1879: “no native of
+    China” (the wording was aimed at circumventing the *Fifteenth
+    Amendment*’s ban on racial barriers) “shall ever exercise the
+    privileges of an elector in this State”.
+    - The suffrage provision of the 1879 constitution remained in force
+      until 1926.
 
 ## Educated Voters
 
-*A knowledge of the language of our laws and the faculty of informing
-oneself without aid of their provisions, would in itself constitute a
-test, if rigorously enforced, incompatible with the existence of a
-proletariat.*
-
-– Charles Francis Adams, Jr. “Protection of the Ballot” (1869)
+- **Charles Francis Adams Jr.’s View:**
+  - *“A knowledge of the language of our laws and the faculty of
+    informing oneself without aid of their provisions, would in itself
+    constitute a test, if rigorously enforced, incompatible with the
+    existence of a proletariat.”*
+    - Charles Francis Adams, Jr. “Protection of the Ballot” (1869).
 
 ## Literacy tests
 
-- Perhaps the most popular method of constricting the electorate was the
-  literacy or education test
-  - Massachusetts and Connecticut adopted tests in the 1850s
-- Requiring voters to be literate, particularly in English, had a number
-  of apparent virtues
-  - it would reduce the “ignorance” of the electorate and weed out
-    sizable numbers of poor immigrant voters (outside of the South, the
-    native-born population was almost entirely literate)
-  - it was more palatable than taxpaying restrictions or waiting periods
-    for the foreign-born
-  - literacy tests did not overtly discriminate against particular
-    classes or ethnic groups, and illiteracy itself was a remediable
-    shortcoming
+- **Popularity and Adoption:**
+  - Perhaps the most popular method of constricting the electorate was
+    the literacy or education test.
+    - Massachusetts and Connecticut adopted tests in the 1850s.
+- **Apparent Virtues:**
+  - Requiring voters to be literate, particularly in English, had a
+    number of apparent virtues.
+    - It would reduce the “ignorance” of the electorate and weed out
+      sizable numbers of poor immigrant voters (outside of the South,
+      the native-born population was almost entirely literate).
+    - It was more palatable than taxpaying restrictions or waiting
+      periods for the foreign-born.
+    - Literacy tests did not overtly discriminate against particular
+      classes or ethnic groups, and illiteracy itself was a remediable
+      shortcoming.
 
 ## Justifications for literacy tests
 
-1.  illiterate men lacked the intelligence or knowledge necessary to be
-    wise or even adequate voters
-2.  English-language literacy was essential for the foreign-born to
-    become properly acquainted with American values and institutions
-    (aimed at new immigrants)
-3.  tying voting to literacy would encourage assimilation and education,
-    which would benefit American society as well as immigrants
-    themselves
+1.  **Intelligence and Knowledge:**
+    - Illiterate men lacked the intelligence or knowledge necessary to
+      be wise or even adequate voters.
+2.  **English-Language Literacy:**
+    - English-language literacy was essential for the foreign-born to
+      become properly acquainted with American values and institutions
+      (aimed at new immigrants).
+3.  **Encouraging Assimilation and Education:**
+    - Tying voting to literacy would encourage assimilation and
+      education, which would benefit American society as well as
+      immigrants themselves.
 
 ## Australian ballot
 
-- The adoption of the secret or Australian ballot was an indirect and
-  limited means of promoting a literate electorate
-- Australian Ballot first appeared in Australia in 1856 and then was
-  implemented in England in 1872
-- For much of the nineteenth century, voters had obtained their ballots
-  from political parties
-  - since the ballots generally contained only the names of an
-    individual party’s candidates, literacy was not required
-  - all that a man had to do was drop a ballot in a box
-  - since ballots tended to be of different sizes, shapes, and colors, a
-    man’s vote was hardly a secret
-    - to election officials, party bosses, employers, or anyone else
-      watching the polls
-
-## Australian ballot
-
-- The Australian ballot was an effort to allow people to freely support
-  whoever they wanted and from corruption and intimidation
-  - It was a standard ballot, usually printed by the city or state,
-    containing the names of all candidates for office
-- The voter (often in private) placed a mark by the names of the
-  candidates or parties for whom he wished to vote
-  - The democratic virtues of secret voting were widely apparent
-- The Australian ballot was an obstacle to participation by many
-  illiterate foreign-born voters in the North, as well as uneducated
-  Black voters in the South
-  - In some states, this problem was remedied by expressly permitting
-    illiterate voters to be assisted or by attaching party emblems to
-    the names of candidates
+- **Introduction of Australian Ballot:**
+  - The adoption of the secret or Australian ballot was an indirect and
+    limited means of promoting a literate electorate.
+    - Australian Ballot first appeared in Australia in 1856 and then was
+      implemented in England in 1872.
+- **Pre-Australian Ballot Voting:**
+  - For much of the nineteenth century, voters had obtained their
+    ballots from political parties.
+    - Since the ballots generally contained only the names of an
+      individual party’s candidates, literacy was not required.
+    - All that a man had to do was drop a ballot in a box.
+    - Since ballots tended to be of different sizes, shapes, and colors,
+      a man’s vote was hardly a secret.
+    - To election officials, party bosses, employers, or anyone else
+      watching the polls.
+- **Implementation and Impact:**
+  - The Australian ballot was an effort to allow people to freely
+    support whoever they wanted and from corruption and intimidation.
+    - It was a standard ballot, usually printed by the city or state,
+      containing the names of all candidates for office.
+    - The voter (often in private) placed a mark by the names of the
+      candidates or parties for whom he wished to vote.
+    - The democratic virtues of secret voting were widely apparent.
+  - The Australian ballot was an obstacle to participation by many
+    illiterate foreign-born voters in the North, as well as uneducated
+    Black voters in the South.
+    - In some states, this problem was remedied by expressly permitting
+      illiterate voters to be assisted or by attaching party emblems to
+      the names of candidates.
 
 ## Increasing literacy tests in the North
 
-- Opposition to literacy test was strong (outside of the South)
-  - Northern Democrats, who counted the urban poor among their
-    constituents, generally voted against education requirements
-  - So too did politically organized ethnic groups, regardless of their
-    party affiliation, which helps to explain why no English-language
-    literacy tests were imposed in the Midwest
-    - the German and Scandinavian communities of the Midwest, though
+- **Opposition and Political Dynamics:**
+  - Opposition to literacy test was strong (outside of the South).
+    - Northern Democrats, who counted the urban poor among their
+      constituents, generally voted against education requirements.
+    - So too did politically organized ethnic groups, regardless of
+      their party affiliation, which helps to explain why no
+      English-language literacy tests were imposed in the Midwest.
+    - The German and Scandinavian communities of the Midwest, though
       often allied with the Republicans, vehemently opposed education
-      requirements
-- Even so, by the mid-1920s, thirteen states in the North and West were
-  disfranchising illiterate citizens who met all other eligibility
-  requirements
-- In all of these states, the Republican Party was strong
-  - several had large immigrant populations that played important roles
-    in party competition
-  - a handful of others were predominantly rural states with small but
-    visible clusters of poor foreign-born voters
-  - several had significant Native-American populations
+      requirements.
+- **Adoption in the North and West:**
+  - Even so, by the mid-1920s, thirteen states in the North and West
+    were disfranchising illiterate citizens who met all other
+    eligibility requirements.
+    - In all of these states, the Republican Party was strong.
+    - Several had large immigrant populations that played important
+      roles in party competition.
+    - A handful of others were predominantly rural states with small but
+      visible clusters of poor foreign-born voters.
+    - Several had significant Native-American populations.
 
 ## Literacy test effects
 
-- The potential impact of these literacy laws–all of which were
-  sanctioned by the courts–was enormous.
-- According to the census (which relied on self-reporting), there were
-  nearly five million illiterate men and women in the nation in 1920
-  - this was roughly 8 percent of the voting-age population
-- Other sources suggest that in fact the figure was much higher
-  - Twenty-five percent of men who took an army literacy test during
-    World War I were judged to be illiterate and another 5 percent
-    semiliterate
-- **A reasonable estimate is that a minimum of several hundred thousand
-  voters –and likely more than a million– were barred by literacy tests
-  outside of the South**
+- **Potential Impact:**
+  - The potential impact of these literacy laws–all of which were
+    sanctioned by the courts–was enormous.
+- **Census and Army Test Data:**
+  - According to the census (which relied on self-reporting), there were
+    nearly five million illiterate men and women in the nation in 1920.
+    - This was roughly 8 percent of the voting-age population.
+    - Other sources suggest that in fact the figure was much higher.
+    - Twenty-five percent of men who took an army literacy test during
+      World War I were judged to be illiterate and another 5 percent
+      semiliterate.
+- **Estimation of Affected Voters:**
+  - **A reasonable estimate is that a minimum of several hundred
+    thousand voters –and likely more than a million– were barred by
+    literacy tests outside of the South.**
 
 ## Residency
 
@@ -2688,11 +2787,10 @@ proletariat.*
   they attended college:
   - claiming that students were not truly members of the community,
     political leaders cited anecdotes of:
-    - students being paraded to the polls to vote en masse
-    - of unscrupulous politicians enlisting students to cast their
-      ballots
-    - of students (who did not pay taxes) voting to impose tax increases
-      on permanent residents
+  - students being paraded to the polls to vote en masse
+  - of unscrupulous politicians enlisting students to cast their ballots
+  - of students (who did not pay taxes) voting to impose tax increases
+    on permanent residents
 - There was a notable degree of resistance to such laws grounded in a
   reluctance to keep respectable, middle-class, native-born men from
   voting
@@ -2783,20 +2881,20 @@ proletariat.*
   numerous:
   - depending on the state or city in which he lived, a man could be
     kept from the polls because:
-    - he was an alien
-    - a pauper
-    - a lumberman
-    - an anarchist
-    - did not pay taxes or own property
-    - could not read or write
-    - had moved from one state to another in the past year
-    - had recently moved from one neighborhood to another
-    - did not possess his naturalization papers
-    - was unable to register on the third or fourth Tuesday before an
-      election
-    - could not prove that he had canceled a prior registration
-    - been convicted of a felony, or been born in China or on an Indian
-      reservation
+  - he was an alien
+  - a pauper
+  - a lumberman
+  - an anarchist
+  - did not pay taxes or own property
+  - could not read or write
+  - had moved from one state to another in the past year
+  - had recently moved from one neighborhood to another
+  - did not possess his naturalization papers
+  - was unable to register on the third or fourth Tuesday before an
+    election
+  - could not prove that he had canceled a prior registration
+  - been convicted of a felony, or been born in China or on an Indian
+    reservation
 - It can be no surprise, in light of this legal history, that turnout at
   elections dropped during the latter half of this period
 - **Voting was not for everyone**
@@ -2844,25 +2942,25 @@ proletariat.*
   - The disfranchisement was massive rather than segmented, the laws
     were enforced brutally, and they were always administered with
     overtly discriminatory intent
-    - In New York and Massachusetts, an illiterate immigrant could gain
-      the franchise by learning to read; for a black man in Alabama,
-      education was beside the point, whatever the law said
+  - In New York and Massachusetts, an illiterate immigrant could gain
+    the franchise by learning to read; for a black man in Alabama,
+    education was beside the point, whatever the law said
 - The transgressions of the North was far milder than the parallel
   movement in the South
   - testimony not only to the significance of race but also to
     differences in the regions’ social structures and political
     organizations
-    - Northern society was too fluid, heterogeneous, and urban to permit
-      the successful imposition of a project as sweeping as the
-      Mississippi plan
-    - The existence a competitive party system, with elite and
-      middle-class elements supporting each party, meant that efforts at
-      wholesale disfranchisement were certain to encounter fierce
-      resistance and likely to meet defeat
-    - Dominant parties integrated and incorporated many working-class
-      and immigrant voters making disfranchisement less necessary: the
-      Democratic Party in the North (unlike the heavily Black Republican
-      Party in the South) did not threaten the established order
+  - Northern society was too fluid, heterogeneous, and urban to permit
+    the successful imposition of a project as sweeping as the
+    Mississippi plan
+  - The existence a competitive party system, with elite and
+    middle-class elements supporting each party, meant that efforts at
+    wholesale disfranchisement were certain to encounter fierce
+    resistance and likely to meet defeat
+  - Dominant parties integrated and incorporated many working-class and
+    immigrant voters making disfranchisement less necessary: the
+    Democratic Party in the North (unlike the heavily Black Republican
+    Party in the South) did not threaten the established order
 
 ## Legal Restrictions had an effect
 
@@ -2979,8 +3077,8 @@ proletariat.*
     political rights, was firmly in power
   - also felt that their claim to the franchise had been strengthened by
     the energetic support women had lent to the war effort
-    - such activities presumably had neutralized the oft-repeated
-      argument that women should not vote because they did not bear arms
+  - such activities presumably had neutralized the oft-repeated argument
+    that women should not vote because they did not bear arms
 
 ## Pushback happens immediately
 
@@ -3103,9 +3201,9 @@ male citizens; but we, the whole people, who formed the Union.”
   - the amendment was finally brought to a vote on the Senate floor
     where it was decisively defeated in January 1887 by a margin of
     thirty-four to sixteen (with twenty-six abstentions)
-    - a far cry from the two-thirds positive vote required for passage
-    - no southern senator voted in favor of the amendment, while
-      twenty-two voted against it
+  - a far cry from the two-thirds positive vote required for passage
+  - no southern senator voted in favor of the amendment, while
+    twenty-two voted against it
 - **After 1893, no congressional committee reported it favorably until
   late in the Progressive era**
 
@@ -3129,9 +3227,9 @@ male citizens; but we, the whole people, who formed the Union.”
 - A significant number of locales (states, counties, and municipalities)
   where partial suffrage was adopted
   - permitted women to vote in
-    - municipal elections
-    - on liquor licensing matters
-    - for local school boards and on issues affecting education
+  - municipal elections
+  - on liquor licensing matters
+  - for local school boards and on issues affecting education
 - The most common form of partial enfranchisement involved schools
   - recognizing women’s responsibility for childrearing, as well as
     their education experience, legislatures responded to pressure from
@@ -3233,9 +3331,9 @@ male citizens; but we, the whole people, who formed the Union.”
   - the campaigns for suffrage generated organized opposition from some
     interest groups (identification of suffrage with temperance and
     prohibition)
-    - antisuffrage reaction among brewers and liquor retailers
-    - some immigrants who felt culturally assaulted by the attack on
-      alcohol
+  - antisuffrage reaction among brewers and liquor retailers
+  - some immigrants who felt culturally assaulted by the attack on
+    alcohol
 
 ## Additional challenges
 
@@ -3256,12 +3354,15 @@ male citizens; but we, the whole people, who formed the Union.”
     North
 - The lag had two critical sources:
   1.  South’s predominantly rural, agricultural social structure
-      - The social strata most receptive to woman suffrage (urban,
-        professional, educated, middle-class) emerged belatedly and
-        slowly in the South
+
+  - The social strata most receptive to woman suffrage (urban,
+    professional, educated, middle-class) emerged belatedly and slowly
+    in the South
+
   2.  Race
-      - white male Southerners believed that women’s suffrage meant
-        opening the door to a large new constituency of black voters
+
+  - white male Southerners believed that women’s suffrage meant opening
+    the door to a large new constituency of black voters
 - The movement for a national suffrage amendment was repellent to
   southern Democrats, who perceived such an amendment as yet another
   federal threat to **states’ rights**
@@ -3281,8 +3382,8 @@ male citizens; but we, the whole people, who formed the Union.”
   - a more fluid pattern of party competition
   - a highly visible number of working-class transients who labored in
     mining, railroading, and agriculture
-    - overwhelmingly of single males; female enfranchisement offered
-      political benefits to the settler population
+  - overwhelmingly of single males; female enfranchisement offered
+    political benefits to the settler population
 - Most western states between 1850 and the 1890s did not experience the
   massive growth of an industrial working class that triggered such an
   antidemocratic reaction in the East and Midwest
@@ -3367,10 +3468,10 @@ male citizens; but we, the whole people, who formed the Union.”
   - Although the issue was raised repeatedly in state legislatures and
     constitutional conventions, there were no new additions to the
     suffrage column
-    - Massachusetts even underwent the demoralizing spectacle of
-      nonbinding referendum on municipal suffrage that was
-      overwhelmingly defeated and for which only 23,000 women (out of a
-      possible 600,000) turned out to vote
+  - Massachusetts even underwent the demoralizing spectacle of
+    nonbinding referendum on municipal suffrage that was overwhelmingly
+    defeated and for which only 23,000 women (out of a possible 600,000)
+    turned out to vote
 - In the South, the statistical argument was simply no match for the
   frenzied political circus that was disfranchising Blacks and poor
   whites in one state after another
@@ -3508,14 +3609,17 @@ male citizens; but we, the whole people, who formed the Union.”
   that had surfaced periodically in suffrage struggles since the 1840s
   1.  the partial enfranchisement of women: **some women already could
       vote in all elections, and many could vote in some elections**
-      - such circumstances gave women leverage to reward or punish
-        politicians because of their (or their party’s) stance on the
-        *Nineteenth Amendment*
+
+  - such circumstances gave women leverage to reward or punish
+    politicians because of their (or their party’s) stance on the
+    *Nineteenth Amendment*
+
   2.  the dynamic of possible or impending victory
-      - **once it seemed likely or even possible that women’s suffrage
-        eventually would be achieved** , either nationally or in an
-        individual state, **the potential political cost of a vote
-        against enfranchisement rose dramatically**
+
+  - **once it seemed likely or even possible that women’s suffrage
+    eventually would be achieved** , either nationally or in an
+    individual state, **the potential political cost of a vote against
+    enfranchisement rose dramatically**
 
 ## World War I
 
@@ -3646,33 +3750,38 @@ have power to enforce this article by appropriate legislation**
 
 - three overarching factors
   1.  The fear of the unknown
-      - no one knew, especially in the nineteenth century, exactly what
-        would happen if women voted
+
+  - no one knew, especially in the nineteenth century, exactly what
+    would happen if women voted
+
   2.  The persistence of deeply ingrained standards of femininity and
       masculinity that appeared to be threatened by the prospect of
       women voting
-      - Grounded in culture, social patterns, and the division of labor,
-        these standards led men (and some women as well) to believe that
-        suffrage would genuinely be a pernicious heresy, a violation of
-        divine law, a threat to the family, or a source of promiscuity
-        and debasement
-      - The right to vote was an expression of masculine power,
-        exercised in the male sphere of public life
-      - for women to claim such power was to rob men of a piece of their
-        identities, alter their social roles, and threaten their legal
-        dominance over women
+
+  - Grounded in culture, social patterns, and the division of labor,
+    these standards led men (and some women as well) to believe that
+    suffrage would genuinely be a pernicious heresy, a violation of
+    divine law, a threat to the family, or a source of promiscuity and
+    debasement
+  - The right to vote was an expression of masculine power, exercised in
+    the male sphere of public life
+  - for women to claim such power was to rob men of a piece of their
+    identities, alter their social roles, and threaten their legal
+    dominance over women
+
   3.  The coincidence of historical timing that brought the issue of
       women’s suffrage to the fore just as faith in broadly distributed
       political rights was beginning to diminish
-      - By the latter decades of the nineteenth century, the celebratory
-        democratic rhetoric of the 1830s and 1840s had receded into
-        almost-dim memory
-      - To many, voting once again had become a privilege rather than a
-        right, and the size of the electorate a matter of expediency
-        rather than principle
-      - To grant that women had a *right* to vote could only undercut
-        the rationale for laws designed to restrict a male electorate
-        that already seemed too large and unmanageable
+
+  - By the latter decades of the nineteenth century, the celebratory
+    democratic rhetoric of the 1830s and 1840s had receded into
+    almost-dim memory
+  - To many, voting once again had become a privilege rather than a
+    right, and the size of the electorate a matter of expediency rather
+    than principle
+  - To grant that women had a *right* to vote could only undercut the
+    rationale for laws designed to restrict a male electorate that
+    already seemed too large and unmanageable
 - **Electoral majorities in favor of suffrage were mustered only when
   divisions between and within the major political parties could be
   exploited by a single-issue movement**
