@@ -19,4 +19,5 @@
 - Michele Norris. 2024. Our Hidden Conversations: What Americans Really Think About Race and Identity. Simon & Schuster. <https://www.simonandschuster.com/books/Our-Hidden-Conversations/Michele-Norris/9781982154394>
 - Michelle Alexander. 2020. The New Jim Crow - Mass Incarceration in the Age of Colorblindness. The New Press. <https://newjimcrow.com/>
 - Eddie Glaude Jr. 2017. Democracy In Black: How Race Still Enslaves The American Soul. Crown. <https://www.penguinrandomhouse.com/books/228365/democracy-in-black-by-eddie-s-glaude-jr/>
-- **NEW**: Nichole M. Bauer, ed. 2020. Politicking While Female: The Political Lives of Women. LSU Press. <https://lsupress.org/9780807172919/politicking-while-female/>
+- Nichole M. Bauer, ed. 2020. Politicking While Female: The Political Lives of Women. LSU Press. <https://lsupress.org/9780807172919/politicking-while-female/>
+- **NEW** Russell, Kathy, Midge Wilson, and Ronald Hall. 2013. The Color Complex (Revised): The Politics of Skin Color in a New Millennium. Revised edition. New York: Anchor.
