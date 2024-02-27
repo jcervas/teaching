@@ -20,4 +20,5 @@
 - Michelle Alexander. 2020. The New Jim Crow - Mass Incarceration in the Age of Colorblindness. The New Press. <https://newjimcrow.com/>
 - Eddie Glaude Jr. 2017. Democracy In Black: How Race Still Enslaves The American Soul. Crown. <https://www.penguinrandomhouse.com/books/228365/democracy-in-black-by-eddie-s-glaude-jr/>
 - Nichole M. Bauer, ed. 2020. Politicking While Female: The Political Lives of Women. LSU Press. <https://lsupress.org/9780807172919/politicking-while-female/>
-- **NEW** Russell, Kathy, Midge Wilson, and Ronald Hall. 2013. The Color Complex (Revised): The Politics of Skin Color in a New Millennium. Revised edition. New York: Anchor.
+- **NEW** Russell, Kathy, Midge Wilson, and Ronald Hall. 2013. The Color Complex (Revised): The Politics of Skin Color in a New Millennium. Revised edition. New York: Anchor. <https://www.amazon.com/Color-Complex-Revised-Politics-Millennium/dp/030774423X/ref=asc_df_030774423X/?tag=hyprod-20&linkCode=df0&hvadid=312400961658&hvpos=&hvnetw=g&hvrand=15129084645066515770&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9005925&hvtargid=pla-487157357016&psc=1&mcid=8b3415cde7a430ca9e95c279e9f1efe1>
+- **NEW** Troiano, Nick. 2024. The Primary Solution: Rescuing Our Democracy from the Fringes. Simon & Schuster. ,https://www.amazon.com/dp/1668028255.
