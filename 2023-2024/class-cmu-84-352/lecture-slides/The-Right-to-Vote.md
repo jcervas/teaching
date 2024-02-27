@@ -1457,18 +1457,17 @@ had served, in the army or the militia
 
 ## Reconstruction
 
-- **Reconstruction Era:**
-  - The political dynamics of Reconstruction led to significant federal
-    government intervention to override state control of the franchise
-    and grant political rights to Black men.
-  - President Johnson initially offered lenient terms to Southern states
-    for a quick restoration to the Union, with few reforms and the
-    maintenance of power in the hands of whites.
-  - Concerned about this, the Republican-controlled Congress began to
-    develop its own program in 1866.
-  - They aimed to guarantee civil rights for Blacks and promote greater
-    racial equality in Southern society, but Black enfranchisement was
-    not yet a part of their agenda.
+- The political dynamics of Reconstruction led to significant federal
+  government intervention to override state control of the franchise and
+  grant political rights to Black men.
+- President Johnson initially offered lenient terms to Southern states
+  for a quick restoration to the Union, with few reforms and the
+  maintenance of power in the hands of whites.
+- Concerned about this, the Republican-controlled Congress began to
+  develop its own program in 1866.
+- They aimed to guarantee civil rights for Blacks and promote greater
+  racial equality in Southern society, but Black enfranchisement was not
+  yet a part of their agenda.
 
 ## XIV Amendment
 
@@ -2468,8 +2467,6 @@ had served, in the army or the militia
   (outside of race), and therefore the rules remained under **state
   control**
 
-## Money and the Vote
-
 ## Economic qualifications
 
 - **Persistence of Economic Qualifications:**
@@ -2499,10 +2496,10 @@ had served, in the army or the militia
   - The U.S. Supreme Court made clear that it too did not see anything
     unconstitutional about taxpaying or property requirements (*Myers v.
     Anderson*, 1915).
-    - The Court found the law to be racially discriminatory in violation
-      of the *Fifteenth Amendment*.
-    - However, it noted that economic discrimination in the form of a
-      property requirement was presumed to be “free from constitutional
+    - The Court found grandfather clauses to be racially discriminatory
+      in violation of the *Fifteenth Amendment*.
+    - However, economic discrimination in the form of a property
+      requirement was presumed to be “free from constitutional
       objection”.
     - The *Twenty-fourth Amendment*, ratified in 1964, abolishes any
       poll tax.
@@ -2741,6 +2738,8 @@ had served, in the army or the militia
 
 ## Residency
 
+**Residency**
+
 ## Migrants and Residents
 
 - The difficulty of defining or establishing residence was becoming more
@@ -2808,8 +2807,6 @@ had served, in the army or the militia
   million men were inducted into the army
 - By 1918, nearly all states had made provisions for men serving in the
   military to cast their ballots, at least in time of war
-
-## Absentee voting (i.e., mail-in ballots)
 
 ## Absentee voting (i.e., mail-in ballots)
 
