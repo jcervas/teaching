@@ -39,7 +39,7 @@ ec7284 <- subset(ec2024, year %in% seq(1872,1984, 4))
 # Set up the plotting area to display two plots side by side
 par(mfrow=c(1, 2))
 
-# Plot the relationship between the Democratic share of the previous and the recent election for 1872-2020
+# Plot the relationship between the Democratic share of the previous and the recent election for 1872-1984
 plot(
      x=ec7284$lagging_one, 
      y=ec7284$dem, 
