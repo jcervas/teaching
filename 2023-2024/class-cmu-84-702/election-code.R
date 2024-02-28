@@ -33,20 +33,23 @@ xlim <- ylim <- c(0, 1)
 xlab <- "Democratic Share of\n Previous Election"
 ylab <- "Democratic Share of Recent Election"
 
+# Subset the data for elections from 1984 to 2020
+ec7284 <- subset(ec2024, year %in% seq(1872,1984, 4))
+
 # Set up the plotting area to display two plots side by side
 par(mfrow=c(1, 2))
 
 # Plot the relationship between the Democratic share of the previous and the recent election for 1872-2020
 plot(
-     x=ec2024$lagging_one, 
-     y=ec2024$dem, 
+     x=ec7284$lagging_one, 
+     y=ec7284$dem, 
      xlim=xlim, 
      ylim=ylim,
      xlab=xlab,
      ylab=ylab, 
-     main="1872-2020")
+     main="1872-1984")
 # Fit a linear model and add the regression line in red
-reg1 <- lm(ec2024$dem ~ ec2024$lagging_one)
+reg1 <- lm(ec7284$dem ~ ec7284$lagging_one)
 abline(reg1, col="red")
 # Add text to the plot displaying the slope and adjusted R-squared of the regression, in red
 text(
