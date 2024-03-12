@@ -1,3 +1,7 @@
+# Remove all objects just to be safe.
+     rm(list=ls(all=TRUE)) # Remove all objects from R history
+     options(scipen=999) # Turn off Scientific Notation
+
 # Load the dataset from the specified URL into the ec2024 data frame
 ec2024 <- read.csv("https://raw.githubusercontent.com/jcervas/Data/master/Elections/Presidential/Pres%20by%20State/president_state.csv")
 
