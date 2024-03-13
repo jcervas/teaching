@@ -23,13 +23,19 @@ for (year in seq(1872, 2020, 4)) {
      ec2024$lagging_one[ec2024$year %in% year] <- ec2024$dem[ec2024$year %in% lag]
 }
 
-# Loop through elections from 1876 to 2020 in 4-year increments
+# Loop through elections from 1876 to 2020 in 8-year increments
 for (year in seq(1876, 2020, 4)) {
      # Calculate the election year eight years ago
      lag2 <- year - 8
      # Assign the Democratic share from the lag2 year to the current year's lagging_two column
      ec2024$lagging_two[ec2024$year %in% year] <- ec2024$dem[ec2024$year %in% lag2]
 }
+
+st <- split(ec2024, ec2024$state)
+
+wv <- ec2024[ec2024$state %in% "West Virginia",]
+
+
 
 # Define the limits for the x and y axes of the plots
 xlim <- ylim <- c(0, 1)
@@ -87,3 +93,34 @@ text(
           "\nAdj-R-Sqr: ", round(summary(reg2)$adj.r.squared, d=3)), 
      col="red",
      cex=0.85)
+
+results <- data.frame(year = integer(), 
+     coefficients = numeric(), 
+     adj_r_squared = numeric())
+
+
+for (year in seq(1872,2020,4)) {
+     byyear <- ec2024[ec2024$year %in% year,]
+     reg3 <- lm(byyear$dem ~ byyear$lagging_one)
+     round(summary(reg3)$coefficients[2], d=3)
+    adj_r_squared <- round(summary(reg3)$adj.r.squared, d=3)
+ # Append the results to the dataframe
+    results <- rbind(results, data.frame(year = year, 
+     coefficients = round(summary(reg3)$coefficients[2], d=3),
+     adj_r_squared = adj_r_squared))
+}
+
+results
+head(results)
+
+#now we plot it
+
+plot(0, 0, type = "n",xlim = c(1872, 2020), ylim = c(-.5,1.5), xlab = "Year", ylab = "")
+lines(x = results$year, y = results$coefficients, col = "pink")
+
+#now plot adj r sq on top
+lines(x = results$year, y = results$adj_r_squared, col = "orange")
+
+
+
+
