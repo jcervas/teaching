@@ -62,6 +62,8 @@ The second part of the class we will deal with representation more broadly. Much
 - Tim Lau, The Electoral College, Explained, Brennan Center For Justice, Feb. 17, 2021, [Read Online](https://www.brennancenter.org/our-work/research-reports/electoral-college-explained)
 - Kremp, Andrew Gelman and Pierre-Antoine. 2016. “The Electoral College Magnifies the Power of White Voters.” Vox. [Read Online](https://www.vox.com/the-big-idea/2016/11/22/13713148/electoral-college-democracy-race-white-voters)
 - III, Wilfred Codrington. 2019. “The Electoral College’s Racist Origins.” The Atlantic. [Read Online](https://web.archive.org/web/20231221172854/https://www.theatlantic.com/ideas/archive/2019/11/electoral-college-racist-origins/601918/)
+- (optional) Bouie, Jamelle. 2023. “Opinion | The Senate Is Getting Less Democratic by the Minute.” The New York Times. https://www.nytimes.com/2023/11/21/opinion/senate-2024-inequality-madison.html (March 22, 2024).
+
 
 ### February 15 - Campaign Finance
 - Streb, Chapter 10 (Campaign Finance)

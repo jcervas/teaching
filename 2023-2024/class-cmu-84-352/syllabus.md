@@ -245,7 +245,7 @@ apply to in-class exercises.
 | 2/27    | Midterm Exam                        |
 | 3/4-3/8 | Spring Break (no class)             |
 | 3/17    | Book Review due (undergrad only)    |
-| 3/30    | Maps and analysis due               |
+| 4/2     | Maps and analysis due               |
 | 4/6     | Plan comparison due                 |
 | 4/9     | Book Review II due (graduate only)  |
 | 4/25    | Final Exam                          |
