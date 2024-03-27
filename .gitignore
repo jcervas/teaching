@@ -3,3 +3,6 @@
 *.gsheet
 *.tex
 *.Rmd
+*.rmd
+*.R
+*.r
