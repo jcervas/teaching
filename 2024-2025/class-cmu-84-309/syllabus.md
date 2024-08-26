@@ -189,16 +189,21 @@ perspectives. You will also submit an individual reflection related to
 your work as a team. (Twice during the semester.)
 
 **Debate Participation**: This component assesses students’ involvement
-in live debates and discussions conducted during class. It focuses on:
+in live debates and discussions conducted during class.
 
-- *Active Engagement*: Students are expected to actively participate in
-  scheduled debates, contributing relevant points and counterarguments.
-- *Quality of Arguments*: Evaluation will include the clarity,
-  coherence, and persuasiveness of arguments presented during these
-  debates.
-- *Interaction with Peers*: The ability to effectively engage with and
-  respond to peers’ arguments in a respectful and constructive manner is
-  crucial.
+You will be assigned one of the following roles:
+
+- Affirmative Initial Debater: Present the main arguments in favor of
+  the proposal.  
+- Affirmative Rebuttal: Respond to the opposing side’s arguments,
+  defending your position and challenging their points.  
+- Against Initial Debater: Present the main arguments against the
+  proposal.  
+- Against Rebuttal: Respond to the affirmative side’s arguments,
+  defending your position and challenging their points.
+
+You will be graded on a completion basis (complete/incomplete), and to
+be completed you will need to demonstrate that you prepared in advanced.
 
 **Participation and Engagement**: This component evaluates the degree to
 which students actively contribute to the course through various forms
@@ -244,6 +249,19 @@ You might find this resource useful: <https://polarization.wiki>
 
 ## Student Privacy in Class Discussions (DRAFT; we will crowd source this)
 
+This course will challenge you to think deeply about difficult and
+potentially provocative questions. You should be prepared to encounter
+material that may be unsettling or even offensive. If you’re not
+comfortable with the possibility of being offended, you might want to
+reconsider enrolling. However, if you choose to participate and find
+yourself disagreeing with something said by a classmate, or me, or with
+content from the readings, I encourage you to engage in thoughtful
+debate and present your own perspective. Simply disliking a viewpoint
+doesn’t invalidate it. My hope is that, regardless of how strongly we
+disagree or how passionately we advocate for our beliefs, we will always
+maintain respect and treat each other with dignity as we share and
+defend our ideas.
+
 In this course, we value the open exchange of ideas and respect the
 privacy of all students. To create a safe and supportive learning
 environment, the following guidelines regarding student privacy in class
@@ -262,10 +280,9 @@ discussions will be strictly observed:
     classroom setting.
 
 3.  **Recording and Sharing**: Recording of class discussions, whether
-    audio, video, or text-based, is strictly prohibited unless prior
-    permission is granted by the instructor and all participants
-    involved. Any approved recordings are for personal academic use only
-    and must not be distributed or shared.
+    audio, video, or text-based, is strictly prohibited. Anyone caught
+    making an unauthorized recording will automatically fail the
+    course—regardless of any accommodations they may have been granted.
 
 4.  **Online Discussions**: For online forums and discussions, similar
     privacy standards apply. Students should be mindful of the public or
