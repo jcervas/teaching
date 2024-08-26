@@ -10,6 +10,9 @@
 NOTE OF STUDENT FEEDBACK AND COURSE SCHEDULE WILL EVOLVE BASED ON
 STUDENT PREFERENCES**
 
+The most up-to-date version of this [**syllabus can be found
+here**](https://github.com/jcervas/teaching/blob/main/2024-2025/class-cmu-84-309/syllabus.md)
+
 ## Course Description
 
 “American Political Divides and Great Debates” dives into the heart of
