@@ -1,0 +1,18 @@
+---
+output:
+  pdf_document: default
+  html_document:
+  md_document:
+    variant: gfm
+---
+
+### Rubric for Op-Ed Assignment
+
+### Updated Rubric with Points and Improvements
+
+| **Category**          | **Excellent (25-30 points)**                                                                 | **Good (20-24 points)**                                                                            | **Satisfactory (15-19 points)**                                                                   | **Needs Improvement (10-14 points)**                                                              | **Unsatisfactory (0-9 points)**                                                                   |
+|-----------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Organization**      | The structure is clear, logical, and easy to follow. The introduction sets the stage effectively, transitions are smooth, and the conclusion reinforces the thesis. | Structure is generally clear, with a logical flow. The introduction and conclusion are present but may not be as strong. | Structure is present but may be unclear or illogical at times. Transitions may be weak, and the conclusion might not fully reinforce the thesis. | Structure is weak, with unclear or illogical organization. The introduction and conclusion are either weak or missing. | No clear organization, making the content difficult to follow. The introduction and conclusion are missing or ineffective. |
+| **Support**           | Arguments are thoroughly supported with relevant and credible evidence. Quotations, examples, and data are integrated smoothly. | Arguments are supported with some credible evidence, though there may be some weak points or less integration of sources. | Arguments are somewhat supported, but evidence may be weak, poorly integrated, or not always credible. | Arguments lack sufficient support, with minimal evidence or irrelevant sources. | No support is provided for arguments, or the evidence is irrelevant or not credible. |
+| **Grammar/Mechanics** | Writing is free of errors in grammar, spelling, and punctuation. Sentence structure is varied and effective. | Writing has minor errors in grammar, spelling, or punctuation, but they do not interfere with understanding. | Writing has several errors in grammar, spelling, or punctuation that may distract from the content. | Writing has frequent errors in grammar, spelling, or punctuation, making it difficult to understand. | Writing is riddled with errors in grammar, spelling, or punctuation, severely hindering readability. |
+| **Content**           | The content is rich, detailed, and insightful, showing a deep understanding of the topic. Ideas are original and well-developed. | Content is good, showing a solid understanding of the topic with some original ideas, though not as detailed or insightful as excellent work. | Content is adequate, showing a basic understanding of the topic but lacking depth or originality. | Content is weak, showing limited understanding of the topic and lacking original ideas or depth. | Content is poor, with little to no understanding of the topic and no original ideas or insight. |
