@@ -369,6 +369,31 @@ environment for all.
 
 ### September 17
 
+- Affective Polarization
+  - *Reading:* Iyengar, Shanto, Yphtach Lelkes, Matthew Levendusky, Neil
+    Malhotra, et al. 2019. “The Origins and Consequences of Affective
+    Polarization in the United States.” Annual Review of Political
+    Science 22(1): 129–146. [**Available
+    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051117-073034).
+
+### September 19
+
+- Ideological Polarization
+  - *Reading:* Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The
+    New Look in Political Ideology Research.” Annual Review of Political
+    Science 18(1): 205–216. [**Available
+    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422).
+
+### September 24
+
+- Negative Partisanship
+  - *Reading:* Abramowitz, Alan I., and Steven Webster. 2016. “The rise
+    of negative partisanship and the nationalization of U.S. elections
+    in the 21st century.” Electoral Studies 41: 12–22. [**Available
+    Online**](https://www.sciencedirect.com/science/article/pii/S0261379415001857).
+
+### September 26
+
 - Media’s Role in Political Polarization
   - *Reading:* Prior, Markus. 2013. “Media and Political Polarization.”
     Annual Review of Political Science 16(1): 101–127. [**Available
@@ -382,7 +407,7 @@ environment for all.
       Science Review: 1–7. [**Available
       Online**](https://www.cambridge.org/core/journals/american-political-science-review/article/media-reflect-policy-the-public-and-the-news/3BA7DD4A001E03748357F35A01562217).
 
-### September 19
+### October 1
 
 - Social Media and Echo Chambers
   - *Reading:* Barberá, Pablo. “Social Media, Echo Chambers, and
@@ -392,12 +417,10 @@ environment for all.
     [**Available
     Online**](https://www.cambridge.org/core/product/identifier/9781108890960/type/book).
     p. 34-55.
-
   - *Reading:* Phillips, Samantha C., Kathleen M. Carley, and Kenneth
     Joseph. 2024. “Why do people think liberals drink lattes? How social
     media afforded self-presentation can shape subjective social
     sorting.” [**Available Online**](http://arxiv.org/abs/2404.02338).
-
     - *Optional:* Guess, Andrew M. et al. 2023. “How do social media
       feed algorithms affect attitudes and behavior in an election
       campaign?” Science 381(6656): 398–404.
@@ -434,31 +457,6 @@ environment for all.
       polarization in social-communicative contexts.” Nature Reviews
       Psychology 1(10): 560–576.
       <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9342595/>
-
-### September 24
-
-- Affective Polarization
-  - *Reading:* Iyengar, Shanto, Yphtach Lelkes, Matthew Levendusky, Neil
-    Malhotra, et al. 2019. “The Origins and Consequences of Affective
-    Polarization in the United States.” Annual Review of Political
-    Science 22(1): 129–146. [**Available
-    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051117-073034).
-
-### September 26
-
-- Ideological Polarization
-  - *Reading:* Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The
-    New Look in Political Ideology Research.” Annual Review of Political
-    Science 18(1): 205–216. [**Available
-    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422).
-
-### October 1
-
-- Negative Partisanship
-  - *Reading:* Abramowitz, Alan I., and Steven Webster. 2016. “The rise
-    of negative partisanship and the nationalization of U.S. elections
-    in the 21st century.” Electoral Studies 41: 12–22. [**Available
-    Online**](https://www.sciencedirect.com/science/article/pii/S0261379415001857).
 
 ### October 3
 
