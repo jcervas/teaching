@@ -247,59 +247,6 @@ You might find this resource useful: <https://polarization.wiki>
 
 ------------------------------------------------------------------------
 
-## Student Privacy in Class Discussions (DRAFT; we will crowd source this)
-
-This course will challenge you to think deeply about difficult and
-potentially provocative questions. You should be prepared to encounter
-material that may be unsettling or even offensive. If you’re not
-comfortable with the possibility of being offended, you might want to
-reconsider enrolling. However, if you choose to participate and find
-yourself disagreeing with something said by a classmate, or me, or with
-content from the readings, I encourage you to engage in thoughtful
-debate and present your own perspective. Simply disliking a viewpoint
-doesn’t invalidate it. My hope is that, regardless of how strongly we
-disagree or how passionately we advocate for our beliefs, we will always
-maintain respect and treat each other with dignity as we share and
-defend our ideas.
-
-In this course, we value the open exchange of ideas and respect the
-privacy of all students. To create a safe and supportive learning
-environment, the following guidelines regarding student privacy in class
-discussions will be strictly observed:
-
-1.  **Confidentiality**: Any personal information, opinions, or
-    experiences shared by students during class discussions, whether
-    in-person or online, are to be treated as confidential. Students are
-    prohibited from sharing or discussing this information outside of
-    class without explicit permission from the individuals involved.
-
-2.  **Respectful Communication**: Students are encouraged to express
-    their thoughts and ideas freely while remaining respectful of
-    others’ privacy. Avoid sharing details about other students’
-    contributions, identities, or personal circumstances outside the
-    classroom setting.
-
-3.  **Recording and Sharing**: Recording of class discussions, whether
-    audio, video, or text-based, is strictly prohibited. Anyone caught
-    making an unauthorized recording will automatically fail the
-    course—regardless of any accommodations they may have been granted.
-
-4.  **Online Discussions**: For online forums and discussions, similar
-    privacy standards apply. Students should be mindful of the public or
-    semi-public nature of online platforms and refrain from sharing
-    sensitive or personally identifiable information.
-
-5.  **Consequences for Breach of Privacy**: Violations of this privacy
-    policy may result in disciplinary action, which could include
-    removal from the course, a formal reprimand, or other consequences
-    as determined by the university’s code of conduct.
-
-By participating in this course, you agree to uphold these privacy
-standards and contribute to a respectful, inclusive, and secure learning
-environment for all.
-
-------------------------------------------------------------------------
-
 ## Course Schedule (Subject to Change as Semester Progresses):
 
 ### August 27
@@ -517,6 +464,72 @@ their schedules allow.
 ### December 3
 
 ### December 5 - Final Class
+
+------------------------------------------------------------------------
+
+## Student Privacy in Class Discussions
+
+This course will challenge you to think deeply about difficult and
+potentially provocative questions. You should be prepared to encounter
+material that may be unsettling or even offensive. If you’re not
+comfortable with the possibility of being offended, you might want to
+reconsider enrolling. However, if you choose to participate and find
+yourself disagreeing with something said by a classmate, or me, or with
+content from the readings, I encourage you to engage in thoughtful
+debate and present your own perspective. Simply disliking a viewpoint
+doesn’t invalidate it. My hope is that, regardless of how strongly we
+disagree or how passionately we advocate for our beliefs, we will always
+maintain respect and treat each other with dignity as we share and
+defend our ideas.
+
+In this course, we value the open exchange of ideas and respect the
+privacy of all students. To create a safe and supportive learning
+environment, the following guidelines regarding student privacy in class
+discussions will be strictly observed:
+
+1.  **Confidentiality**: Any personal information, opinions, or
+    experiences shared by students during class discussions, whether
+    in-person or online, are to be treated as confidential. Students are
+    prohibited from sharing or discussing this information outside of
+    class without explicit permission from the individuals involved.
+
+2.  **Respectful Communication**: Students are encouraged to express
+    their thoughts and ideas freely while remaining respectful of
+    others’ privacy. Avoid sharing details about other students’
+    contributions, identities, or personal circumstances outside the
+    classroom setting.
+
+3.  **Recording and Sharing**: Recording of class discussions, whether
+    audio, video, or text-based, is strictly prohibited. Anyone caught
+    making an unauthorized recording will automatically fail the
+    course—regardless of any accommodations they may have been granted.
+
+4.  **Online Discussions**: For online forums and discussions, similar
+    privacy standards apply. Students should be mindful of the public or
+    semi-public nature of online platforms and refrain from sharing
+    sensitive or personally identifiable information.
+
+5.  **Consequences for Breach of Privacy**: Violations of this privacy
+    policy may result in disciplinary action, which could include
+    removal from the course, a formal reprimand, or other consequences
+    as determined by the university’s code of conduct.
+
+6.  **Principle of Charity**: When engaging in discussions, apply the
+    principle of charity. This means interpreting others’ arguments in
+    the most reasonable and positive way before criticizing them. Assume
+    that others are making sincere attempts to contribute meaningfully,
+    and engage with their strongest points, not just the easiest to
+    refute.
+
+7.  **Space for Additional Context**: Acknowledge that opinions shared
+    in discussions may be based on limited information or experiences.
+    If a classmate’s perspective seems unclear or incomplete, allow them
+    the opportunity to provide additional context. Encourage questions
+    that seek to understand rather than dismiss others’ views.
+
+By participating in this course, you agree to uphold these privacy
+standards and contribute to a respectful, inclusive, and secure learning
+environment for all.
 
 ------------------------------------------------------------------------
 
