@@ -1,4 +1,5 @@
 > Professor Jonathan Cervas  
+> Office: Posner Hall 374  
 > Email: **<cervas@cmu.edu>**  
 > Location: POS 145  
 > Time: Tuesday 11:00a-12:20p Eastern  
