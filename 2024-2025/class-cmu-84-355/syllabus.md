@@ -201,7 +201,9 @@ The course grade will be a weighted average of the following components:
   results.
   - **Reading:** Bailey, Michael A. 2024. Polling at a Crossroads:
     Rethinking Modern Survey Research. Cambridge: Cambridge University
-    Press. \[**Available On Canvas**\]. \[Pages 3-22\]
+    Press. [**Available On
+    Canvas**](https://canvas.cmu.edu/courses/42641/files?preview=11472294).
+    \[Pages 3-22\]
   - **Reading:** “Understanding the Margin of Error in Election Polls,”
     Pew Research Center (2016). [**Available
     Online**](https://www.pewresearch.org/short-reads/2016/09/08/understanding-the-margin-of-error-in-election-polls/)
