@@ -279,10 +279,10 @@ You might find this resource useful: <https://polarization.wiki>
     Science 11 (2008). [**Available
     Online**](https://www.annualreviews.org/docserver/fulltext/pl/11/1/annurev.polisci.11.053106.153836.pdf?expires=1724260397&id=id&accname=ar-222951&checksum=EA941029DC4BBEDC335C5AAACCB30990).
   - *Reading:* Layman, Geoffrey C., Thomas M. Carsey, and Juliana
-    Menasce Horowitz. 2006. “PARTY POLARIZATION IN AMERICAN POLITICS:
+    Menasce Horowitz. 2006. “Party Polarization in American Politics:
     Characteristics, Causes, and Consequences.” Annual Review of
-    Political Science 9(Volume 9, 2006): 83–110.
-    <https://www.annualreviews.org/content/journals/10.1146/annurev.polisci.9.070204.105138>.
+    Political Science 9(Volume 9, 2006): 83–110. [**Available
+    Online**](https://www.annualreviews.org/content/journals/10.1146/annurev.polisci.9.070204.105138)
     - *Optional:* Hare, Christopher, and Keith T. Poole. “The
       polarization of contemporary American politics.” Polity 46.3
       (2014): 411-429.  
