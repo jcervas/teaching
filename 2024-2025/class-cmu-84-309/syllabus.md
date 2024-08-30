@@ -99,6 +99,13 @@ encounter extenuating circumstances and must miss more than two classes,
 please come and discuss the issue with me; I would like to find a way to
 support you.
 
+Students are expected and encouraged to meet all deadlines for
+assignments. If you are unable to complete the assignment work by the
+due date, reach out in advance to make alternative arrangements. I
+typically will not penalize you for turning in your assignment late, so
+long as it does not hinder completion of other’s work (ie, group
+projects).
+
 ## Assessment
 
 **Reflective Statements**: Students critically reflect on course
