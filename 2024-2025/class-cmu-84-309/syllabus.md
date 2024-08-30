@@ -173,6 +173,8 @@ ideas. Be sure to use evidence from the text to support your analysis.
 >   - Samuel Merrill III, Bernard Grofman, and Thomas L. Brunell. 2023.
 >     How Polarization Begets Polarization: Ideological Extremism in the
 >     US Congress. Oxford University Press.
+>   - Suri, J. 2022. Civil War by Other Means: America’s Long and
+>     Unfinished Fight for Democracy. PublicAffairs.
 
 **Op-ed w/ peer-review**: Drawing on a topic related to this course, or
 something political from your own life or experience, write an op-ed
