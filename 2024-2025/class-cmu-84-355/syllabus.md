@@ -249,6 +249,55 @@ The course grade will be a weighted average of the following components:
     Online**](https://www.natesilver.net/p/model-methodology-2024)
     - **Optional:** “The Signal and the Noise: Why So Many Predictions
       Fail—but Some Don’t” by Nate Silver (2012). Penguin Press.
+    - Forecasting the 2020 US Elections. *PS: Political Science &
+      Politics*. [**See the full special issue
+      here**](https://www.cambridge.org/core/journals/ps-political-science-and-politics/issue/E93F6C19D9C17406719A5111506D7BA5?sort=canonical.position%3Aasc&pageNum=1&searchWithinIds=E93F6C19D9C17406719A5111506D7BA5&productType=JOURNAL_ARTICLE&template=cambridge-core%2Fjournal%2Farticle-listings%2Flistings-wrapper&hideArticleJournalMetaData=true&displayNasaAds=false)
+    - **Optional:** Lewis-Beck, Michael S., and Charles Tien. 2021. “The
+      Political Economy Model: A Blue Wave Forecast For 2020.” PS:
+      Political Science & Politics 54(1): 59–62.
+    - **Optional:** Abramowitz, Alan I. 2021. “It’s the Pandemic,
+      Stupid! A Simplified Model for Forecasting the 2020 Presidential
+      Election.” PS: Political Science & Politics 54(1): 52–54.
+    - **Optional:** Armstrong, J. Scott, and Andreas Graefe. 2021. “The
+      PollyVote Popular Vote Forecast for the 2020 US Presidential
+      Election.” PS: Political Science & Politics 54(1): 96–98.
+    - **Optional:** Cuzán, Alfred G. 2021. “The Campbell Collection of
+      Presidential Election Forecasts, 1984–2016: A Review.” PS:
+      Political Science & Politics 54(1): 99–103.
+    - **Optional:** Dassonneville, Ruth, and Charles Tien. 2021.
+      “Introduction to Forecasting the 2020 US Elections.” PS: Political
+      Science & Politics 54(1): 47–51.
+    - **Optional:** Dowding, Keith. 2021. “Why Forecast? The Value of
+      Forecasting to Political Science.” PS: Political Science &
+      Politics 54(1): 104–106.
+    - **Optional:** Enns, Peter K., and Julius Lagodny. 2021.
+      “Forecasting the 2020 Electoral College Winner: The State
+      Presidential Approval/State Economy Model.” PS: Political Science
+      & Politics 54(1): 81–85.
+    - **Optional:** Erikson, Robert S., and Christopher Wlezien. 2021.
+      “Forecasting the 2020 Presidential Election: Leading Economic
+      Indicators, Polls, and the Vote.” PS: Political Science & Politics
+      54(1): 55–58.
+    - **Optional:** Graefe, Andreas. 2021. “Of Issues and Leaders:
+      Forecasting the 2020 US Presidential Election.” PS: Political
+      Science & Politics 54(1): 70–72.
+    - **Optional:** Gruca, Thomas S., and Thomas A. Rietz. 2021. “The
+      2020 (Re)Election According to the Iowa Electronic Markets:
+      Politics, Pandemic, Recession, and/or Protests?” PS: Political
+      Science & Politics 54(1): 86–90.
+    - **Optional:** Jérôme, Bruno, Véronique Jérôme, Philippe Mongrain,
+      and Richard Nadeau. 2021. “State-Level Forecasts for the 2020 US
+      Presidential Election: Tough Victory Ahead for Biden.” PS:
+      Political Science & Politics 54(1): 77–80.
+    - **Optional:** Lewis-Beck, Michael S., and Charles Tien. 2021. “The
+      Political Economy Model: A Blue Wave Forecast For 2020.” PS:
+      Political Science & Politics 54(1): 59–62.
+    - **Optional:** Lockerbie, Brad. 2021. “Economic Pessimism and
+      Political Punishment in 2020.” PS: Political Science & Politics
+      54(1): 67–69.
+    - **Optional:** Victor, Jennifer Nicoll. 2021. “Let’s Be Honest
+      about Election Forecasting.” PS: Political Science & Politics
+      54(1): 107–110.
 
 ### September 5
 
