@@ -247,6 +247,9 @@ The course grade will be a weighted average of the following components:
   - **Reading:** “2024 presidential election model methodology update,”
     Nate Silver. June 26, 2024. Silver Bulletin. [**Available
     Online**](https://www.natesilver.net/p/model-methodology-2024)
+  - **Reading (for next semester):** Blumenthal, Mark. 2014. “Polls,
+    Forecasts, and Aggregators.” PS: Political Science & Politics
+    47(02): 297–300.
     - **Optional:** “The Signal and the Noise: Why So Many Predictions
       Fail—but Some Don’t” by Nate Silver (2012). Penguin Press.
     - Forecasting the 2020 US Elections. *PS: Political Science &
@@ -584,21 +587,11 @@ The course grade will be a weighted average of the following components:
 
 ### November 21
 
-- Malapportionment
-  - **Reading:** Cervas, Jonathan, and Bernard Grofman. 2020. “Legal,
-    Political Science, and Economics Approaches to Measuring
-    Malapportionment: The U.S. House, Senate, and Electoral College
-    1790–2010.” Social Science Quarterly 101(6): 2238–2256. [**Available
-    Online**](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12871)
-    - **Optional:** Ladewig, Jeffrey W. 2011. “One Person, One Vote, 435
-      Seats: Interstate Malapportionment and Constitutional
-      Requirements.” Connecticut Law Review 43(4): 1125–1156.
-    - **Optional:** Grofman, Bernard, William Koetzle, and Thomas
-      Brunell. 1997. “An integrated perspective on the three potential
-      sources of partisan bias: Malapportionment, turnout differences,
-      and the geographic distribution of party vote shares.” Electoral
-      Studies 16(4): 457–470. [**Available
-      Online**](https://www.sciencedirect.com/science/article/pii/S0261379497000371)
+- Claire Pilcher “Guest” Lecture
+  - **Reading:** Heffernan, Ann K. 2024. “Disability in Political
+    Science.” Annual Review of Political Science 27(1): 317–335.
+    [**Available
+    Online**](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-041322-052144)
 
 ### November 26
 
@@ -623,6 +616,21 @@ The course grade will be a weighted average of the following components:
       My Neighbor? The Spatial Efficiency of Partisanship.” Statistics
       and Public Policy 7(1): 87–100. [**Available
       Online**](https://doi.org/10.1080/2330443X.2020.1806762)
+    - **Optional:** Cervas, Jonathan, and Bernard Grofman. 2020. “Legal,
+      Political Science, and Economics Approaches to Measuring
+      Malapportionment: The U.S. House, Senate, and Electoral College
+      1790–2010.” Social Science Quarterly 101(6): 2238–2256.
+      [**Available
+      Online**](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12871)
+    - **Optional:** Ladewig, Jeffrey W. 2011. “One Person, One Vote, 435
+      Seats: Interstate Malapportionment and Constitutional
+      Requirements.” Connecticut Law Review 43(4): 1125–1156.
+    - **Optional:** Grofman, Bernard, William Koetzle, and Thomas
+      Brunell. 1997. “An integrated perspective on the three potential
+      sources of partisan bias: Malapportionment, turnout differences,
+      and the geographic distribution of party vote shares.” Electoral
+      Studies 16(4): 457–470. [**Available
+      Online**](https://www.sciencedirect.com/science/article/pii/S0261379497000371)
 
 ### December 5 - Final Class
 
