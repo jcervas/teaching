@@ -122,7 +122,7 @@ refine their argumentation, critical thinking, and public speaking
 skills. This assessment will be graded on the complexity of their
 arguments, the ability to counter AI propositions, and the use of
 evidence-based reasoning to support their stance. (Five times this
-semester)
+semester.)
 
 **Critical Reading Responses**: Write a 3-5 single-spaced page analysis
 of two books you will read this semester. A reading list is provided in
@@ -182,6 +182,8 @@ ideas. Be sure to use evidence from the text to support your analysis.
 >     US Congress. Oxford University Press.
 >   - Suri, J. 2022. Civil War by Other Means: America’s Long and
 >     Unfinished Fight for Democracy. PublicAffairs.
+>   - Coppock, A. 2023. Persuasion in Parallel: How Information Changes
+>     Minds about Politics. University of Chicago Press.
 
 **Op-ed w/ peer-review**: Drawing on a topic related to this course, or
 something political from your own life or experience, write an op-ed
