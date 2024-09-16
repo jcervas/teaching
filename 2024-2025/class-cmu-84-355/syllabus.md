@@ -118,6 +118,48 @@ light of historical, cultural, and political contexts.
     “Atlas of American Presidential Elections, 1868-2024,” which we will
     collaboratively design in class and prepare for public release.
 
+| Year | NAME             |
+|------|------------------|
+| 1868 | Eli Half         |
+| 1872 | Claire Pilcher   |
+| 1876 | Natalie Rayce    |
+| 1880 | Isaac Young      |
+| 1884 | Anthony Cacciato |
+| 1888 |                  |
+| 1892 | Israa Belbaita   |
+| 1896 | Mark Park        |
+| 1900 | Rolando Cabrera  |
+| 1904 | Vijaya Vegesna   |
+| 1908 | Riya Kinny       |
+| 1912 | Peter Spivack    |
+| 1916 | Sherry Zheng     |
+| 1920 | Marco Jih-Vieira |
+| 1924 | Peter Spivack    |
+| 1928 | Ainika Hou       |
+| 1932 | Angela Kim       |
+| 1936 | Claire Pilcher   |
+| 1940 | Israa Belbaita   |
+| 1944 | Sherry Zheng     |
+| 1948 | Blake Zimmer     |
+| 1952 | Natalie Rayce    |
+| 1956 | Jaykob Williams  |
+| 1960 | Marco Jih-Vieira |
+| 1964 | Anthony Cacciato |
+| 1968 | Blake Zimmer     |
+| 1972 | Vijaya Vegesna   |
+| 1976 | Sophie Peirano   |
+| 1980 | Rolando Cabrera  |
+| 1984 | Mark Park        |
+| 1988 | Hannah Romoff    |
+| 1992 | Hannah Romoff    |
+| 1996 | Angela Kim       |
+| 2000 | Ainika Hou       |
+| 2004 | Jaykob Williams  |
+| 2008 | Isaac Young      |
+| 2012 | Riya Kinny       |
+| 2016 | Eli Half         |
+| 2020 | Sophie Peirano   |
+
 4.  **Data Problem Sets:**  
     Create compelling data visualizations (charts, graphs, interactive
     maps) that illustrate an aspect of the electoral process. These will
