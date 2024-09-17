@@ -331,33 +331,32 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### September 26
 
+### October 1
+
 - Media’s Role in Political Polarization
   - *Reading:* Prior, Markus. 2013. “Media and Political Polarization.”
     Annual Review of Political Science 16(1): 101–127. [**Available
     Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-100711-135242).
-  - *Reading:* Amy Mitchell, Jeffrey Gottfried, Jocelyn Kiley, and
-    Katerina Eva Matsa.”Political Polarization & Media Habits.” Pew
-    Research Center. October 21, 2014.
-    <https://www.pewresearch.org/journalism/2014/10/21/political-polarization-media-habits/>
+    - *Optional:* Amy Mitchell, Jeffrey Gottfried, Jocelyn Kiley, and
+      Katerina Eva Matsa.”Political Polarization & Media Habits.” Pew
+      Research Center. October 21, 2014.
+      <https://www.pewresearch.org/journalism/2014/10/21/political-polarization-media-habits/>
     - *Optional:* Wlezien, Christopher, and Stuart Soroka. 2023. “Media
       Reflect! Policy, the Public, and the News.” American Political
       Science Review: 1–7. [**Available
       Online**](https://www.cambridge.org/core/journals/american-political-science-review/article/media-reflect-policy-the-public-and-the-news/3BA7DD4A001E03748357F35A01562217).
-
-### October 1
-
 - Social Media and Echo Chambers
-  - *Reading:* Barberá, Pablo. “Social Media, Echo Chambers, and
-    Political Polarization” in Persily, Nathaniel, and Joshua A. Tucker,
-    eds. 2020. Social Media and Democracy: The State of the Field,
-    Prospects for Reform. 1st ed. Cambridge University Press.
-    [**Available
-    Online**](https://www.cambridge.org/core/product/identifier/9781108890960/type/book).
-    p. 34-55.
   - *Reading:* Phillips, Samantha C., Kathleen M. Carley, and Kenneth
     Joseph. 2024. “Why do people think liberals drink lattes? How social
     media afforded self-presentation can shape subjective social
     sorting.” [**Available Online**](http://arxiv.org/abs/2404.02338).
+    - *Optional but important:* Barberá, Pablo. “Social Media, Echo
+      Chambers, and Political Polarization” in Persily, Nathaniel, and
+      Joshua A. Tucker, eds. 2020. Social Media and Democracy: The State
+      of the Field, Prospects for Reform. 1st ed. Cambridge University
+      Press. [**Available
+      Online**](https://www.cambridge.org/core/product/identifier/9781108890960/type/book).
+      p. 34-55.
     - *Optional:* Guess, Andrew M. et al. 2023. “How do social media
       feed algorithms affect attitudes and behavior in an election
       campaign?” Science 381(6656): 398–404.
