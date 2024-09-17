@@ -64,19 +64,32 @@ diverse societies.
 
 ------------------------------------------------------------------------
 
-#### Course Relevance
+### Course Relevance
 
 DC: Perspectives on Justice and Injustice
 
-#### Learning Resources
+### Learning Resources
 
 All resources will be provided via Canvas
 
-#### Prerequisite Knowledge
+### Prerequisite Knowledge
 
 NONE
 
 ------------------------------------------------------------------------
+
+## Due Dates
+
+| Assignment                   | Due Date                           |
+|------------------------------|------------------------------------|
+| Reflective Statements        | Due Sundays, weekly                |
+| Critical Reading Responses   | October 13, December 1             |
+| AI-Powered Debate Simulation | Five times total, beginning Oct 22 |
+| Op-ed, first draft           | September 22                       |
+| Op-ed peer review            | September 25                       |
+| Op-ed final draft            | September 29                       |
+| Group Project                | Twice, TBD                         |
+| Debate                       | TBD                                |
 
 ## Grading
 
@@ -107,6 +120,20 @@ long as it does not hinder completion of other’s work (ie, group
 projects).
 
 ## Assessment
+
+The course grade will be a weighted average of the following components:
+
+| Category                         | Percent of Final Grade |
+|----------------------------------|------------------------|
+| **Participation and Engagement** | 10%                    |
+| **Reflective Statements**        | 10%                    |
+| **Critical Reading Responses**   | 20%                    |
+| **Op-ed w/ Peer Review**         |                        |
+| Peer Review                      | 10%                    |
+| Final Paper                      | 10%                    |
+| **AI-Powered Debate Simulation** | 10%                    |
+| **Debate Participation**         | 10%                    |
+| **Group Project**                | 20%                    |
 
 **Reflective Statements**: Students critically reflect on course
 readings and discussions, articulating their understanding of the issues
@@ -216,20 +243,6 @@ of engagement. This includes, but is not limited to:
   is important. This includes adhering to classroom etiquette and
   providing constructive feedback to peers.
 
-The course grade will be a weighted average of the following components:
-
-| Category                         | Percent of Final Grade |
-|----------------------------------|------------------------|
-| **Participation and Engagement** | 10%                    |
-| **Reflective Statements**        | 10%                    |
-| **Critical Reading Responses**   | 20%                    |
-| **Op-ed w/ Peer Review**         |                        |
-| Peer Review                      | 10%                    |
-| Final Paper                      | 10%                    |
-| **AI-Powered Debate Simulation** | 10%                    |
-| **Debate Participation**         | 10%                    |
-| **Group Project**                | 20%                    |
-
 ------------------------------------------------------------------------
 
 You might find this resource useful: <https://polarization.wiki>
@@ -331,7 +344,11 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### September 26
 
-- **Guest Speaker** Minister Paula Bogantes (Costa Rica)
+- **Guest Speaker** Minister Paula Bogantes (Costa Rica) - Class will be
+  held in “The Great Room” in Posner Hall, 3rd floor.
+  - Minister of Science, Innovation, Technology and Telecommunications
+    of Costa Rica:
+    <https://www.linkedin.com/in/paula-bogantes-940a3041/recent-activity/all/>
 
 ### October 1
 
@@ -419,40 +436,116 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### October 22
 
+- **The Right to Privacy (Legal, Moral, Governmental Surveillance)**
+  - The evolution of privacy rights in the digital age
+  - Government surveillance vs. individual privacy: balancing security
+    and liberty
+  - The role of big tech in collecting and using personal data
+  - Legal frameworks for privacy protection in different sectors
+
 ### October 24
+
+- **Foreign Policy**
+  - The U.S. role in global governance and international organizations
+  - Foreign policy challenges: trade, diplomacy, and military
+    interventions
+  - The impact of global conflicts on U.S. domestic policy
+  - Human rights and ethical considerations in foreign policy decisions
 
 ### October 29
 
+- **Immigration**
+  - Historical and contemporary immigration policies in the U.S.
+  - The impact of immigration on the economy, culture, and social
+    dynamics
+  - Immigration and national security: balancing openness with safety
+  - The role of immigration in shaping political discourse
+
 ### October 31
 
-### November 5 - DEMOCRACY DAY, no class (Register to Vote: <https://www.cmu.edu/student-affairs/slice/civic-engagement/advocacy/voter/index.html>)
+- **Voter Suppression and Shifting Policy Around Voting Rules**
+  - Historical context and contemporary examples of voter suppression
+  - The impact of voter ID laws, gerrymandering, and purges on voter
+    access
+  - Legal battles over voting rights and election integrity
+  - The role of technology in modern voting systems
 
-### Democracy Day - November 5, 2024
+### November 5
 
-Join us for CMU’s second Democracy Day, an opportunity to focus on our
+- DEMOCRACY DAY, no class (Register to Vote:
+  <https://www.cmu.edu/student-affairs/slice/civic-engagement/advocacy/voter/index.html>)
+
+**Democracy Day** - *November 5, 2024*
+
+*Join us for CMU’s second Democracy Day, an opportunity to focus on our
 institutional commitment to civic service and democracy on Election Day.
 There will be programming and resources available throughout the day for
-our entire community to engage on the key ideals of democracy.
+our entire community to engage on the key ideals of democracy.*
 
-There are no classes on Democracy Day prior to 5 p.m. and the entire CMU
-community —faculty, staff and students — is encouraged to participate as
-their schedules allow.
+*There are no classes on Democracy Day prior to 5 p.m. and the entire
+CMU community —faculty, staff and students — is encouraged to
+participate as their schedules allow.*
 
 ### November 7
 
+- **Election Conversation** (open topics)
+
 ### November 12
+
+- **Freedom of Speech**
+  - The First Amendment and its application in modern society
+  - The limits of free speech: hate speech, misinformation, and
+    incitement
+  - Social media and the evolving landscape of free expression
+  - Case studies: Free speech controversies in schools; what should
+    CMU’s policy be regarding speech on campus?
 
 ### November 14
 
+- **Criminal Justice Reform**
+  - The history and evolution of the U.S. criminal justice system
+  - Key issues: mass incarceration, racial disparities, and police
+    reform
+  - Alternatives to incarceration: rehabilitation and restorative
+    justice
+  - The role of technology in modernizing the criminal justice system
+
 ### November 19
+
+- **Regulation and Ethical Use of AI**
+  - The role of AI in modern society: benefits and risks
+  - Ethical considerations in the deployment of AI in various sectors
+    (military, business, healthcare)
+  - The impact of AI on labor markets and economic inequality
+  - Regulatory challenges: ensuring fairness, transparency, and
+    accountability in AI systems
 
 ### November 21
 
+- **Educational System**
+  - The evolution of public education in the U.S.
+  - Equity in education: access, funding, and outcomes
+  - The impact of standardized testing and school choice policies
+  - The future of education: digital learning and AI in classrooms
+
 ### November 26
+
+- **Military**
+  - The changing role of the U.S. military in a globalized world
+  - Civil-military relations and the balance of power
+  - Ethical considerations in military technology and warfare
+  - The impact of military service on veterans and society
+  - Military funding
 
 ### November 28 - THANKSGIVING DAY, no class
 
 ### December 3
+
+- **Gen Z’s Role in the World (Impact of Social Media)**
+  - Social media as a tool for activism and political engagement
+  - The influence of Gen Z on cultural trends and social norms
+  - Challenges and opportunities of digital life for younger generations
+  - The psychological and social impact of constant connectivity
 
 ### December 5 - Final Class
 
@@ -651,61 +744,43 @@ services available on campus at: <http://www.cmu.edu/counseling/>.
 Support is always available (24/7) from Counseling and Psychological
 Services: 412-268-2922.
 
+<!-- 
 **Some potential topics include**:
 
-- Abortion Rights: Debates over the legality and accessibility of
-  abortion.
+- Abortion Rights: Debates over the legality and accessibility of abortion.
 
-- Gun Control: Balancing Second Amendment rights with public safety
-  concerns.
+- Gun Control: Balancing Second Amendment rights with public safety concerns.
 
-- Immigration Policy: Disputes over border security, pathways to
-  citizenship, and immigration enforcement.
+- Immigration Policy: Disputes over border security, pathways to citizenship, and immigration enforcement.
 
-- Healthcare Reform: Access to healthcare, insurance coverage, and the
-  role of government in healthcare.
+- Healthcare Reform: Access to healthcare, insurance coverage, and the role of government in healthcare.
 
-- LGBTQ+ Rights: Issues related to same-sex marriage, transgender
-  rights, and anti-discrimination protections.
+- LGBTQ+ Rights: Issues related to same-sex marriage, transgender rights, and anti-discrimination protections.
 
-- Climate Change: Debates over environmental regulations, renewable
-  energy, and the role of government in addressing climate issues.
+- Climate Change: Debates over environmental regulations, renewable energy, and the role of government in addressing climate issues.
 
-- Police Reform: Discussions about systemic racism, police brutality,
-  and reforming law enforcement practices.
+- Police Reform: Discussions about systemic racism, police brutality, and reforming law enforcement practices.
 
-- Voting Rights: Controversies over voter ID laws, gerrymandering, and
-  access to voting.
+- Voting Rights: Controversies over voter ID laws, gerrymandering, and access to voting.
 
-- Racial Inequality: Disparities in education, employment, housing, and
-  criminal justice.
+- Racial Inequality: Disparities in education, employment, housing, and criminal justice.
 
-- Income Inequality: Debates over minimum wage, taxation, and economic
-  opportunity.
+- Income Inequality: Debates over minimum wage, taxation, and economic opportunity.
 
-- Religious Freedom: Balancing religious rights with anti-discrimination
-  laws and other civil liberties.
+- Religious Freedom: Balancing religious rights with anti-discrimination laws and other civil liberties.
 
-- Free Speech: The limits of free speech, especially in relation to hate
-  speech, misinformation, and social media.
+- Free Speech: The limits of free speech, especially in relation to hate speech, misinformation, and social media.
 
-- Education Policy: Issues such as school choice, curriculum content,
-  and student debt.
+- Education Policy: Issues such as school choice, curriculum content, and student debt.
 
-- Drug Policy: Legalization of marijuana, opioid epidemic, and criminal
-  justice reform.
+- Drug Policy: Legalization of marijuana, opioid epidemic, and criminal justice reform.
 
-- Military Spending: Debates over the size and scope of the U.S.
-  military budget.
+- Military Spending: Debates over the size and scope of the U.S. military budget.
 
-- Big Tech Regulation: Concerns about privacy, data security,
-  monopolies, and the influence of social media companies.
+- Big Tech Regulation: Concerns about privacy, data security, monopolies, and the influence of social media companies.
 
-- Affordable Housing: Availability and affordability of housing in urban
-  and rural areas.
+- Affordable Housing: Availability and affordability of housing in urban and rural areas.
 
-- Health and Safety Regulations: Vaccine mandates, public health
-  measures, and workplace safety rules.
+- Health and Safety Regulations: Vaccine mandates, public health measures, and workplace safety rules.
 
-- Trade Policy: Tariffs, trade agreements, and their impact on the U.S.
-  economy.
+- Trade Policy: Tariffs, trade agreements, and their impact on the U.S. economy. -->
