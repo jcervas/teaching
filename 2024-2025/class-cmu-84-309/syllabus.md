@@ -331,6 +331,8 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### September 26
 
+- **Guest Speaker** Minister Paula Bogantes (Costa Rica)
+
 ### October 1
 
 - Media’s Role in Political Polarization
