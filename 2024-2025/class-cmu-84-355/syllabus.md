@@ -275,8 +275,8 @@ The course grade will be a weighted average of the following components:
       Online**](https://www.nytimes.com/article/times-siena-poll-methodology.html)
     - **Optional:** “We Gave Four Good Pollsters the Same Raw Data. They
       Had Four Different Results.” Nate Cohn. September 20, 2016. The
-      New York Times. \[**Available
-      Online**\]((<https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html>)
+      New York Times. [**Available
+      Online**](https://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html)
 
 ### September 3
 

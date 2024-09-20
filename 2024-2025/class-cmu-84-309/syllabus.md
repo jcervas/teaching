@@ -64,17 +64,9 @@ diverse societies.
 
 ------------------------------------------------------------------------
 
-### Course Relevance
-
-DC: Perspectives on Justice and Injustice
-
-### Learning Resources
-
-All resources will be provided via Canvas
-
-### Prerequisite Knowledge
-
-NONE
+> **Course Relevance:** DC: Perspectives on Justice and Injustice  
+> **Learning Resources:** All resources will be provided via Canvas  
+> **Prerequisite Knowledge:** NONE
 
 ------------------------------------------------------------------------
 
@@ -336,8 +328,35 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### September 24
 
+- **Guest Speaker** - Perry Grossman (ACLU) *Twitter*:
+  @[Perry_Grossman](https://x.com/perry_grossman)
+  - Perry Grossman is a Supervising Attorney whose work focuses
+    primarily on litigation and advocacy efforts concerning voting
+    rights and election law issues.
+  - At the NYCLU, Perry’s cases have included New York Immigration
+    Coalition v. U.S. Department of Commerce and New York Immigration
+    Coalition v. Trump, the successful challenges to the Trump
+    Administration’s efforts to put a citizenship question on the 2020
+    Census and to exclude undocumented immigrants from Congressional
+    apportionment, respectively; NAACP v. East Ramapo Central School
+    District, a successful racial vote dilution case brought under
+    Section 2 of the Voting Rights Act; Hotze v. Hollins, a successful
+    intervention to prevent the disenfranchisement of 127,000 voters in
+    Harris County, Texas who cast their ballots using drive-thru voting
+    in the 2020 election; and successful cases protecting equitable
+    access to early voting for voters in Rockland and Rensselaer
+    Counties.
+  - Perry was also counsel of record for the ACLU on amicus briefs in
+    Gill v. Whitford, a partisan gerrymandering case and New York State
+    Rifle & Pistol Association v. Bruen, a Second Amendment challenge to
+    New York’s regulations on carrying concealed handguns. Perry
+    regularly testifies before state and local legislative bodies
+    concerning voting rights and election administration. He also
+    teaches a seminar on voting rights as an adjunct professor at
+    Fordham Law School and is an occasional contributor to Slate on
+    legal issues.
 - Negative Partisanship
-  - *Reading:* Abramowitz, Alan I., and Steven Webster. 2016. “The rise
+  - *Optional:* Abramowitz, Alan I., and Steven Webster. 2016. “The rise
     of negative partisanship and the nationalization of U.S. elections
     in the 21st century.” Electoral Studies 41: 12–22. [**Available
     Online**](https://www.sciencedirect.com/science/article/pii/S0261379415001857).
