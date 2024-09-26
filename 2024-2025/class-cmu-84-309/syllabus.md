@@ -368,6 +368,14 @@ You might find this resource useful: <https://polarization.wiki>
   - Minister of Science, Innovation, Technology and Telecommunications
     of Costa Rica:
     <https://www.linkedin.com/in/paula-bogantes-940a3041/recent-activity/all/>
+  - “The role of technology as a democratizing force and the critical
+    choices we face regarding its impact on democracy, social equity and
+    economic development will be explored, with a focus on the
+    importance of digital transformation, access and digital identity in
+    shaping more inclusive societies. The ethical implications of the
+    growing influence of technology on global power dynamics and the
+    urgent need to develop digital skills for all will also be
+    addressed.”
 
 ### October 1
 
