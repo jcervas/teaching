@@ -440,6 +440,9 @@ The course grade will be a weighted average of the following components:
       can widen the turnout gap: The case of childbirth.” Electoral
       Studies 90: 102817. [**Available
       Online**](https://www.sciencedirect.com/science/article/pii/S0261379424000751)
+    - **Optional:** “The Costs of Voting and Voter Confidence.”
+      [**Available
+      Online**](https://journals.sagepub.com/doi/epdf/10.1177/10659129241283169)
 
 ### September 26
 
