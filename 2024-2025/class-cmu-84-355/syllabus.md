@@ -623,6 +623,9 @@ The course grade will be a weighted average of the following components:
       Mail and Voter Confidence.” Election Law Journal: Rules, Politics,
       and Policy 20(4): 382–394. [**Available
       Online**](https://www.liebertpub.com/doi/10.1089/elj.2020.0682)
+    - **Optional**: Stewart, Charles. 2022. “Trust in Elections.”
+      Daedalus 151(4): 234–253. [**Available
+      Online**](https://direct.mit.edu/daed/article/151/4/234/113713/Trust-in-Elections)
 
 ### November 19
 
