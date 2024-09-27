@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document:
+  pdf_document: default
   md_document:
     variant: gfm
 ---

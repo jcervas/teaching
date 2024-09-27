@@ -161,15 +161,16 @@ light of historical, cultural, and political contexts.
 | 2020 | Sophie Peirano   |
 
 4.  **Data Problem Sets:**  
-    Create compelling data visualizations (charts, graphs, interactive
-    maps) that illustrate an aspect of the electoral process. These will
-    often cover multiple time periods to establish a time series,
-    focusing on themes like demographic shifts, geographic voting
-    patterns, or changes in political alignment over time. These will
-    typically be done in-class and are not scheduled in advance. You
-    will be permitted to complete the work in subsequent days after
-    class. (Work individually or in teams of up to three persons.) They
-    will be graded on a completion basis (complete/incomplete).
+    Organize and analyze data. Create compelling data visualizations
+    (charts, graphs, interactive maps) that illustrate an aspect of the
+    electoral process. These will often cover multiple time periods to
+    establish a time series, focusing on themes like demographic shifts,
+    geographic voting patterns, or changes in political alignment over
+    time. These will typically be done in-class and are not scheduled in
+    advance. You will be permitted to complete the work in subsequent
+    days after class. (Work individually or in teams of up to three
+    persons.) They will be graded on a completion basis
+    (complete/incomplete).
 
 5.  **Data Analysis Projects:**  
     Select two topics from the class syllabus (e.g., voter turnout,
@@ -221,6 +222,8 @@ due date, reach out in advance to make alternative arrangements. I
 typically will not penalize you for turning in your assignment late, so
 long as it does not hinder completion of other’s work (ie, group
 projects).
+
+------------------------------------------------------------------------
 
 The course grade will be a weighted average of the following components:
 
@@ -475,6 +478,10 @@ The course grade will be a weighted average of the following components:
       Federal Campaign Finance Data.” Election Law Journal: Rules,
       Politics, and Policy 19(1): 1–18. [**Available
       Online**](https://www.liebertpub.com/doi/10.1089/elj.2019.0593)
+    - **Optional:** Sun, Albert, Andrew Park, Saurabh Datar, and
+      Christine Zhang. 2024. “Who Are Kamala Harris’s 1.5 Million New
+      Donors?” The New York Times. [**Available
+      Online**](https://www.nytimes.com/interactive/2024/08/22/us/elections/kamala-harris-donors.html)
 
 ### October 3
 
