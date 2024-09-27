@@ -482,6 +482,10 @@ The course grade will be a weighted average of the following components:
       Christine Zhang. 2024. “Who Are Kamala Harris’s 1.5 Million New
       Donors?” The New York Times. [**Available
       Online**](https://www.nytimes.com/interactive/2024/08/22/us/elections/kamala-harris-donors.html)
+    - “Campaign Finance.” 2024. Campaign Legal Center.
+      <https://campaignlegal.org/issues/campaign-finance>
+      - “What Is Dark Money?” May 9, 2022.
+        <https://campaignlegal.org/update/what-dark-money>
 
 ### October 3
 
