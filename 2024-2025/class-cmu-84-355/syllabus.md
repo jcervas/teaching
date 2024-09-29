@@ -513,9 +513,12 @@ The course grade will be a weighted average of the following components:
     - **Replication** Algara, Carlos; Sharif Amlani, 2021, “Replication
       Data for: Partisanship & Nationalization in American Elections:
       Evidence from Presidential, Senatorial, & Gubernatorial Elections
-      in the U.S. Counties, 1872-2020”,
-      <https://doi.org/10.7910/DVN/DGUMFI>, Harvard Dataverse, V1,
-      UNF:6:glfQoiLzpXDGTfErebfBIQ== \[fileUNF\]
+      in the U.S. Counties, 1872-2020”, [**Available
+      Online**](https://doi.org/10.7910/DVN/DGUMFI,%20Harvard%20Dataverse,%20V1,%20UNF:6:glfQoiLzpXDGTfErebfBIQ==%20%5BfileUNF%5D)
+  - **Optional**: Jacobson, Gary C. 2013. “Partisan Polarization in
+    American Politics: A Background Paper.” Presidential Studies
+    Quarterly 43(4): 688–708. [**Available
+    Online**](https://onlinelibrary.wiley.com/doi/10.1111/psq.12062)
 
 ### October 10
 
