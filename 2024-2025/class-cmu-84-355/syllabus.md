@@ -467,6 +467,8 @@ The course grade will be a weighted average of the following components:
     Haines. 2021. “Campaign Finance Regulations and Public Policy.”
     American Political Science Review 115(3): 1074–1081. [**Available
     Online**](https://www.cambridge.org/core/journals/american-political-science-review/article/campaign-finance-regulations-and-public-policy/B739B3AB64C90AE652CEE2FF6911883F)
+  - **Replication Material**: [**Available
+    Online**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/082VIU)
     - **Optional:** Grumbach, Jacob M., and Alexander Sahn. 2020. “Race
       and Representation in Campaign Finance.” American Political
       Science Review 114(1): 206–221. [**Available
