@@ -442,14 +442,16 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### October 3
 
+- Eberly Center mid-semester focus group
+
 - Judicial Polarization
+
   - *Reading:* Hasen, Richard L. 2019. “Polarization and the Judiciary.”
     Annual Review of Political Science 22(1): 261–276. [**Available
     Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141).
 
 ### October 8
 
-- Eberly Center mid-semester focus group
 - Nationalization
   - *Reading:* Amlani, Sharif, and Carlos Algara. 2021. “Partisanship &
     nationalization in American elections: Evidence from presidential,
