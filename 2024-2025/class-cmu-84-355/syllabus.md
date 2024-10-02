@@ -501,6 +501,12 @@ The course grade will be a weighted average of the following components:
     Empirical Test for Partisan Bias on ABC, CBS, NBC, and Fox News.”
     Presidential Studies Quarterly 38(4): 631–657. [**Available
     Online**](https://onlinelibrary.wiley.com/doi/10.1111/j.1741-5705.2008.02668.x)
+
+  - Groeling, Tim. 2013. “Media Bias by the Numbers: Challenges and
+    Opportunities in the Empirical Study of Partisan News.” Annual
+    Review of Political Science 16(1): 129–151. [**Available
+    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-040811-115123)
+
   - **Optional:** Dellavigna, Stefano, and Ethan Kaplan. “The Fox News
     Effect: Media Bias And Voting.” Quarterly Journal of Economics: 48.
 
