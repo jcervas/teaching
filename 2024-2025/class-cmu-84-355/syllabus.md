@@ -521,7 +521,7 @@ The course grade will be a weighted average of the following components:
       Data for: Partisanship & Nationalization in American Elections:
       Evidence from Presidential, Senatorial, & Gubernatorial Elections
       in the U.S. Counties, 1872-2020”, [**Available
-      Online**](https://doi.org/10.7910/DVN/DGUMFI,%20Harvard%20Dataverse,%20V1,%20UNF:6:glfQoiLzpXDGTfErebfBIQ==%20%5BfileUNF%5D)
+      Online**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DGUMFI)
     - **Optional**: Jacobson, Gary C. 2013. “Partisan Polarization in
       American Politics: A Background Paper.” Presidential Studies
       Quarterly 43(4): 688–708. [**Available
