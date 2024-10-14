@@ -465,12 +465,8 @@ You might find this resource useful: <https://polarization.wiki>
 
 ### October 22
 
-- **The Right to Privacy (Legal, Moral, Governmental Surveillance)**
-  - The evolution of privacy rights in the digital age
-  - Government surveillance vs. individual privacy: balancing security
-    and liberty
-  - The role of big tech in collecting and using personal data
-  - Legal frameworks for privacy protection in different sectors
+- No Topic/Readings
+- Evaluate Critical Readings
 
 ### October 24
 
@@ -481,6 +477,13 @@ You might find this resource useful: <https://polarization.wiki>
   - The impact of global conflicts on U.S. domestic policy
   - Human rights and ethical considerations in foreign policy decisions
 
+| Group  |
+|--------|
+| Carter |
+| Jeremy |
+| Sumukh |
+| Willy  |
+
 ### October 29
 
 - **Immigration**
@@ -490,6 +493,13 @@ You might find this resource useful: <https://polarization.wiki>
   - Immigration and national security: balancing openness with safety
   - The role of immigration in shaping political discourse
 
+| Group       |
+|-------------|
+| Jaykob      |
+| Christopher |
+| Sumukh      |
+| Jeremy      |
+
 ### October 31
 
 - **Voter Suppression and Shifting Policy Around Voting Rules**
@@ -498,6 +508,14 @@ You might find this resource useful: <https://polarization.wiki>
     access
   - Legal battles over voting rights and election integrity
   - The role of technology in modern voting systems
+
+| Group     |
+|-----------|
+| Carter    |
+| Claire    |
+| Cassandra |
+| Megha     |
+| Sydney    |
 
 ### November 5
 
@@ -529,6 +547,13 @@ participate as their schedules allow.*
   - Case studies: Free speech controversies in schools; what should
     CMU’s policy be regarding speech on campus?
 
+| Group  |
+|--------|
+| Willy  |
+| Sumukh |
+| Sam    |
+|        |
+
 ### November 14
 
 - **Criminal Justice Reform**
@@ -538,6 +563,13 @@ participate as their schedules allow.*
   - Alternatives to incarceration: rehabilitation and restorative
     justice
   - The role of technology in modernizing the criminal justice system
+
+| Group  |
+|--------|
+| Claire |
+| Hannah |
+| Sydney |
+|        |
 
 ### November 19
 
@@ -549,6 +581,13 @@ participate as their schedules allow.*
   - Regulatory challenges: ensuring fairness, transparency, and
     accountability in AI systems
 
+| Group   |
+|---------|
+| Delaney |
+| Emma    |
+| Cole    |
+| Gwen    |
+
 ### November 21
 
 - **Educational System**
@@ -556,6 +595,13 @@ participate as their schedules allow.*
   - Equity in education: access, funding, and outcomes
   - The impact of standardized testing and school choice policies
   - The future of education: digital learning and AI in classrooms
+
+| Group     |
+|-----------|
+| Megha     |
+| Emma      |
+| Cassandra |
+| Hannah    |
 
 ### November 26
 
@@ -566,15 +612,30 @@ participate as their schedules allow.*
   - The impact of military service on veterans and society
   - Military funding
 
+| Group  |
+|--------|
+| Jon    |
+| Jaykob |
+| Sam    |
+| Hannah |
+
 ### November 28 - THANKSGIVING DAY, no class
 
 ### December 3
 
-- **Gen Z’s Role in the World (Impact of Social Media)**
-  - Social media as a tool for activism and political engagement
-  - The influence of Gen Z on cultural trends and social norms
-  - Challenges and opportunities of digital life for younger generations
-  - The psychological and social impact of constant connectivity
+- **The Right to Privacy (Legal, Moral, Governmental Surveillance)**
+  - The evolution of privacy rights in the digital age
+  - Government surveillance vs. individual privacy: balancing security
+    and liberty
+  - The role of big tech in collecting and using personal data
+  - Legal frameworks for privacy protection in different sectors
+
+| Group   |
+|---------|
+| Cole    |
+| Delaney |
+| Gwen    |
+|         |
 
 ### December 5 - Final Class
 
