@@ -468,7 +468,6 @@ You might find this resource useful: <https://polarization.wiki>
 |-------------|
 | Jaykob      |
 | Christopher |
-| Sumukh      |
 | Jeremy      |
 
 ### October 31
@@ -558,6 +557,7 @@ participate as their schedules allow.*
 | Emma    |
 | Cole    |
 | Gwen    |
+| Eddy    |
 
 ### November 21
 
@@ -573,6 +573,7 @@ participate as their schedules allow.*
 | Emma      |
 | Cassandra |
 | Hannah    |
+| Jon       |
 
 ### November 26
 
@@ -606,7 +607,7 @@ participate as their schedules allow.*
 | Cole    |
 | Delaney |
 | Gwen    |
-|         |
+| Eddy    |
 
 ### December 5 - Final Class
 
