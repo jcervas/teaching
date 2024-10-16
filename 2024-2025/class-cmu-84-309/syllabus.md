@@ -522,7 +522,7 @@ participate as their schedules allow.*
 | Willy  |
 | Sumukh |
 | Sam    |
-|        |
+| Luke   |
 
 ### November 14
 
@@ -608,6 +608,7 @@ participate as their schedules allow.*
 | Delaney |
 | Gwen    |
 | Eddy    |
+| Luke    |
 
 ### December 5 - Final Class
 
