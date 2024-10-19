@@ -434,10 +434,14 @@ You might find this resource useful: <https://polarization.wiki>
 
 **FALL BREAK October 14 through October 18**
 
+------------------------------------------------------------------------
+
 ### October 22
 
 - No Topic/Readings
 - Evaluate Critical Readings
+
+------------------------------------------------------------------------
 
 ### October 24
 
@@ -455,6 +459,8 @@ You might find this resource useful: <https://polarization.wiki>
 | Sumukh |
 | Willy  |
 
+------------------------------------------------------------------------
+
 ### October 29
 
 - **Immigration**
@@ -469,6 +475,8 @@ You might find this resource useful: <https://polarization.wiki>
 | Jaykob      |
 | Christopher |
 | Jeremy      |
+
+------------------------------------------------------------------------
 
 ### October 31
 
@@ -487,6 +495,8 @@ You might find this resource useful: <https://polarization.wiki>
 | Megha     |
 | Sydney    |
 
+------------------------------------------------------------------------
+
 ### November 5
 
 - DEMOCRACY DAY, no class (Register to Vote:
@@ -503,9 +513,13 @@ our entire community to engage on the key ideals of democracy.*
 CMU community —faculty, staff and students — is encouraged to
 participate as their schedules allow.*
 
+------------------------------------------------------------------------
+
 ### November 7
 
 - **Election Conversation** (open topics)
+
+------------------------------------------------------------------------
 
 ### November 12
 
@@ -524,6 +538,8 @@ participate as their schedules allow.*
 | Sam    |
 | Luke   |
 
+------------------------------------------------------------------------
+
 ### November 14
 
 - **Criminal Justice Reform**
@@ -540,6 +556,8 @@ participate as their schedules allow.*
 | Hannah |
 | Sydney |
 |        |
+
+------------------------------------------------------------------------
 
 ### November 19
 
@@ -559,6 +577,8 @@ participate as their schedules allow.*
 | Gwen    |
 | Eddy    |
 
+------------------------------------------------------------------------
+
 ### November 21
 
 - **Educational System**
@@ -574,6 +594,8 @@ participate as their schedules allow.*
 | Cassandra |
 | Hannah    |
 | Jon       |
+
+------------------------------------------------------------------------
 
 ### November 26
 
@@ -591,7 +613,11 @@ participate as their schedules allow.*
 | Sam    |
 | Hannah |
 
+------------------------------------------------------------------------
+
 ### November 28 - THANKSGIVING DAY, no class
+
+------------------------------------------------------------------------
 
 ### December 3
 
