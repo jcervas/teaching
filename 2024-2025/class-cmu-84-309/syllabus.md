@@ -475,6 +475,7 @@ You might find this resource useful: <https://polarization.wiki>
 | Jaykob      |
 | Christopher |
 | Jeremy      |
+| Diana       |
 
 ------------------------------------------------------------------------
 
@@ -612,6 +613,7 @@ participate as their schedules allow.*
 | Jaykob |
 | Sam    |
 | Hannah |
+| Diana  |
 
 ------------------------------------------------------------------------
 
