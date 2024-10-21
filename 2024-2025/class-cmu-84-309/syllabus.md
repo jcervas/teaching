@@ -476,6 +476,7 @@ You might find this resource useful: <https://polarization.wiki>
 | Christopher |
 | Jeremy      |
 | Diana       |
+| Kester      |
 
 ------------------------------------------------------------------------
 
@@ -538,6 +539,7 @@ participate as their schedules allow.*
 | Sumukh |
 | Sam    |
 | Luke   |
+| Nita   |
 
 ------------------------------------------------------------------------
 
@@ -556,7 +558,8 @@ participate as their schedules allow.*
 | Claire |
 | Hannah |
 | Sydney |
-|        |
+| Kester |
+| Nita   |
 
 ------------------------------------------------------------------------
 
