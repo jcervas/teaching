@@ -541,7 +541,7 @@ IN-CLASS Historical Elections Assignment
   - **Readings:** Ahler, Douglas J., and Gaurav Sood. 2018. “The Parties
     in Our Heads: Misperceptions about Party Composition and Their
     Consequences.” The Journal of Politics 80(3): 964–981. [**Available
-    Online**](https://www.journals.uchicago.edu/doi/10.1086/697253.)
+    Online**](https://www.journals.uchicago.edu/doi/10.1086/697253).
 - Voter Mobilization Strategies: Study the effectiveness of different
   voter mobilization strategies, such as grassroots campaigns, phone
   banking, and digital outreach.
