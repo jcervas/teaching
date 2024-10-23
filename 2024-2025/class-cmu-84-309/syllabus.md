@@ -535,7 +535,6 @@ participate as their schedules allow.*
 
 | Group  |
 |--------|
-| Willy  |
 | Sumukh |
 | Sam    |
 | Luke   |
@@ -598,6 +597,7 @@ participate as their schedules allow.*
 | Cassandra |
 | Hannah    |
 | Jon       |
+| Willy     |
 
 ------------------------------------------------------------------------
 
