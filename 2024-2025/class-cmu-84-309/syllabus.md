@@ -477,6 +477,7 @@ You might find this resource useful: <https://polarization.wiki>
 | Jeremy      |
 | Diana       |
 | Kester      |
+| Evren       |
 
 ------------------------------------------------------------------------
 
@@ -539,6 +540,7 @@ participate as their schedules allow.*
 | Sam    |
 | Luke   |
 | Nita   |
+| Evren  |
 
 ------------------------------------------------------------------------
 
