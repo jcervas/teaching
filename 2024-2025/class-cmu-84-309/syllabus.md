@@ -459,6 +459,45 @@ You might find this resource useful: <https://polarization.wiki>
 | Sumukh |
 | Willy  |
 
+**Readings**: - Article \#1: Article explores the US Military budget and
+why we should focus on quantity over quality to create a stronger
+military.
+<https://www.brookings.edu/articles/focusing-on-quality-over-quantity-in-the-us-military-budget/>
+Links to an external site. - Article \#2: This article explores how the
+U.S. views the Ukraine War in the context of global deterrence and
+maintaining the liberal international order.
+<https://cis.mit.edu/publications/analysis-opinion/2022/what-americas-interest-ukraine-war>
+Links to an external site. - Article \#3: This article explores why U.S.
+military interventions often fail and suggests alternatives to
+war.https://www.foreignaffairs.com/united-states/us-military-why-force-fails
+Links to an external site. - Article \#4: This article explores why
+Americans often distrust military intervention abroad.
+<https://foreignanalysis.com/from-military-intervention-to-diplomacy-in-american-foreign-policy/>
+Links to an external site. Article \#5: This article explores the
+foreign policy differences between Trump and Biden.
+<https://www.nytimes.com/2022/07/24/us/politics/biden-trump-foreign-policy.html>
+Links to an external site.
+
+**Optional Articles**: These two articles provide different perspectives
+on American foreign policy and their ethical implications. -
+<https://www.hoover.org/research/moral-core-us-foreign-policy->  
+- Makes a case for moral US intervention around the world
+<https://carnegieendowment.org/research/2021/11/navigating-the-democracy-security-dilemma-in-us-foreign-policy-lessons-from-egypt-india-and-turkey?lang=en->
+Criticizes the US cozying up to strongmen around the world to gain
+geopolitical influence and instead call for pushing for greater
+democracy abroad. - Optional Video: This video explores how the 2024
+Election can be a critical turning point in regards to America’s
+relationship with the world.
+<https://www.brookings.edu/projects/election-24-issues-at-stake/national-security-americas-role-in-the-world/> -
+Optional: This article offers a comprehensive breakdown of U.S.
+assistance to Ukraine, including military, economic, and humanitarian
+aid, and its implications for U.S. policy. -
+<https://news.usni.org/2024/06/11/report-to-congress-on-u-s-policy-and-the-war-in-ukraine> -
+Optional (very comprehensive but also very long!): This article examines
+the fractures within the global system caused by the Ukraine War and how
+America’s involvement is shaping international relations.
+<https://carnegieendowment.org/research/2024/05/inevitable-fractures-the-ukraine-war-and-the-global-system>
+
 ------------------------------------------------------------------------
 
 ### October 29
@@ -534,13 +573,14 @@ participate as their schedules allow.*
   - Case studies: Free speech controversies in schools; what should
     CMU’s policy be regarding speech on campus?
 
-| Group  |
-|--------|
-| Sumukh |
-| Sam    |
-| Luke   |
-| Nita   |
-| Evren  |
+| Group       |
+|-------------|
+| Sumukh      |
+| Sam         |
+| Luke        |
+| Nita        |
+| Evren       |
+| Christopher |
 
 ------------------------------------------------------------------------
 
@@ -619,6 +659,7 @@ participate as their schedules allow.*
 | Sam    |
 | Hannah |
 | Diana  |
+| Willy  |
 
 ------------------------------------------------------------------------
 
