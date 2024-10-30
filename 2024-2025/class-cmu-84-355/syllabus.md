@@ -569,6 +569,10 @@ IN-CLASS Historical Elections Assignment
   across different demographic groups.
   - **Reading**: “Voter turnout, 2018-2022,” [**Available
     Online**](https://www.pewresearch.org/politics/2023/07/12/voter-turnout-2018-2022/)
+  - Ansolabehere, Stephen, Jacob Brown, Kabir Khanna, Connor Phillips,
+    et al. 2024. “Forecasting Turnout.” Harvard Data Science Review
+    6(4). <https://hdsr.mitpress.mit.edu/pub/0c5ylgo1> (Accessed October
+    30, 2024).
     - **Data Source:** [**Univ. of Florida Election
       Lab**](https://election.lab.ufl.edu/voter-turnout/)
     - **Optional:** Bryant, Lisa A., Michael J. Hanmer, Alauna C.
