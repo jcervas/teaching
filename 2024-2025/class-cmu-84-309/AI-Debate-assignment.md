@@ -78,20 +78,9 @@ Choose ONE of the following methods to submit your debate:
 
 1. **Copy-Paste Method**
    - Copy the entire debate exchange, including your prompts and all AI responses
-   - Format the debate in a Word document (.docx) or PDF with:
-     - 12-point Times New Roman font
-     - 1.5 line spacing
-     - Clear labels for each exchange (e.g., "Student Response 1," "AI Response 1")
-     - Your name and debate topic at the top of the document
-     - Page numbers
 
 2. **Share Link Method** (if available in your version of Microsoft Co-pilot)
    - Generate a shareable link to your debate
-   - Create a document containing:
-     - The shareable link
-     - Your name and debate topic
-     - A brief note confirming this is your original debate
-     - Date and time of the debate
 
 ### Canvas Submission Process
 1. Log into Canvas
@@ -100,13 +89,6 @@ Choose ONE of the following methods to submit your debate:
 4. Find "AI Debate Simulation Assignment"
 5. Upload your document or paste your link in the submission text box
 6. Complete the submission by clicking "Submit Assignment"
-
-### Required Submission Components
-Your submission must include:
-1. The complete debate exchange
-2. Your chosen topic
-3. Time stamps showing the debate occurred within a single session
-4. A brief statement confirming this is your original work
 
 ### Academic Integrity Guidelines
 
