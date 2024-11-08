@@ -645,23 +645,7 @@ participate as their schedules allow.*
 
 ### November 26
 
-- **Military**
-  - The changing role of the U.S. military in a globalized world
-  - Civil-military relations and the balance of power
-  - Ethical considerations in military technology and warfare
-  - The impact of military service on veterans and society
-  - Military funding
-
-| Group  |
-|--------|
-| Jon    |
-| Jaykob |
-| Sam    |
-| Hannah |
-| Diana  |
-| Willy  |
-
-------------------------------------------------------------------------
+No class because many people will be missing.
 
 ### November 28 - THANKSGIVING DAY, no class
 
@@ -685,6 +669,22 @@ participate as their schedules allow.*
 | Luke    |
 
 ### December 5 - Final Class
+
+- **Military**
+  - The changing role of the U.S. military in a globalized world
+  - Civil-military relations and the balance of power
+  - Ethical considerations in military technology and warfare
+  - The impact of military service on veterans and society
+  - Military funding
+
+| Group  |
+|--------|
+| Jon    |
+| Jaykob |
+| Sam    |
+| Hannah |
+| Diana  |
+| Willy  |
 
 ------------------------------------------------------------------------
 
