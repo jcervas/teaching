@@ -621,6 +621,7 @@ participate as their schedules allow.*
 | Cole    |
 | Gwen    |
 | Eddy    |
+| Soum    |
 
 ------------------------------------------------------------------------
 
@@ -667,6 +668,7 @@ No class because many people will be missing.
 | Gwen    |
 | Eddy    |
 | Luke    |
+| Soum    |
 
 ### December 5 - Final Class
 
