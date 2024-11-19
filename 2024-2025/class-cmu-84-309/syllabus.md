@@ -681,25 +681,29 @@ Optional:
 | Eddy    |
 | Soum    |
 
-Intro (if you have little to no knowledge of ML)
-<https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5>
-Optional content:
-<https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/>
-<https://www.youtube.com/watch?v=aircAruvnKk>
+- [Intro (if you have little to no knowledge of
+  ML)](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5)
 
-Risks of AI <https://aisafetyfundamentals.com/blog/ai-risks/>
-<https://www.noemamag.com/the-illusion-of-ais-existential-risk/> (an
-alternate perspective)
-<https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai>
-(optional but highly suggested, Hinton just won the Nobel) Optional
-content: <https://spectrum.ieee.org/united-nations-killer-robots-ban>
-<https://spectrum.ieee.org/united-nations-killer-robots-ban> Why We
-Should Care about AI Safety
-<https://www.noemamag.com/ai-safety-is-a-global-public-good/> (optional
-but suggested) State of AI Regulation (as of February)
-<https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation>
-Other (optional) things we found interesting:
-<https://www.noemamag.com/the-five-stages-of-ai-grief/>
+  - Optional content:
+    - <https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/>
+    - <https://www.youtube.com/watch?v=aircAruvnKk>
+
+- [Risks of AI](https://aisafetyfundamentals.com/blog/ai-risks/)
+
+- [an alternate
+  perspective](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
+
+- [(optional but highly suggested, Hinton just won the
+  Nobel)](https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai)
+
+**Optional content:** -
+<https://spectrum.ieee.org/united-nations-killer-robots-ban> - [Why We
+Should Care about AI Safety (optional but
+suggested)](https://www.noemamag.com/ai-safety-is-a-global-public-good/) -
+[State of AI Regulation (as of
+February)](https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation) -
+\[Other (optional) things we found interesting\]
+(<https://www.noemamag.com/the-five-stages-of-ai-grief/>)
 
 ------------------------------------------------------------------------
 
@@ -719,6 +723,18 @@ Other (optional) things we found interesting:
 | Hannah    |
 | Jon       |
 | Willy     |
+
+- [Online School
+  Debate](https://www.chicagobooth.edu/review/some-students-do-better-in-online-school#:~:text=For%20most%20students%2C%20the%20research,or%20with%20less%20social%20pressure)
+
+- [Charter
+  Schools](https://www.edutopia.org/article/big-demands-and-high-expectations-at-success-academy-schools/%20https://www.gse.harvard.edu/ideas/ed-magazine/17/05/battle-over-charter-schools)
+
+- [State Education
+  Differences](https://www.the74million.org/article/the-50-very-different-states-of-american-public-education/%20https://www.usnews.com/education/best-high-schools/articles/how-states-compare)
+
+- [Centralization/Decentralization of Education in the
+  US](https://www.jstor.org/stable/pdf/41725452.pdf?refreqid=fastly-)
 
 ------------------------------------------------------------------------
 
