@@ -726,13 +726,13 @@ February)](https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation) -
 
 - [Online School
   Debate](https://www.chicagobooth.edu/review/some-students-do-better-in-online-school#:~:text=For%20most%20students%2C%20the%20research,or%20with%20less%20social%20pressure)
-
 - [Charter
-  Schools](https://www.edutopia.org/article/big-demands-and-high-expectations-at-success-academy-schools/%20https://www.gse.harvard.edu/ideas/ed-magazine/17/05/battle-over-charter-schools)
-
+  Schools](https://www.edutopia.org/article/big-demands-and-high-expectations-at-success-academy-schools/)
+- (<https://www.gse.harvard.edu/ideas/ed-magazine/17/05/battle-over-charter-schools>
+  )
 - [State Education
-  Differences](https://www.the74million.org/article/the-50-very-different-states-of-american-public-education/%20https://www.usnews.com/education/best-high-schools/articles/how-states-compare)
-
+  Differences](https://www.the74million.org/article/the-50-very-different-states-of-american-public-education/)
+- (<https://www.usnews.com/education/best-high-schools/articles/how-states-compare>)
 - [Centralization/Decentralization of Education in the
   US](https://www.jstor.org/stable/pdf/41725452.pdf?refreqid=fastly-)
 
