@@ -1,0 +1,119 @@
+# Assignment: Analyzing Patterns in Early Voting and Voter Data Across States
+
+### Objective:
+Students will evaluate patterns in early voting and the number of people, voters, and citizen voters across different states. They will assess how these factors might affect voter turnout and convenience in the voting process.
+
+### Instructions:
+
+You have been provided with state-level data on:
+1. The availability and rules regarding early voting.
+2. The total population of each state.
+3. The number of registered voters in each state.
+4. The number of citizens eligible to vote in each state.
+5. Demographic data in each state.
+6. Absentee requirement by state.
+7. The number of days of early voting in each state.
+
+Using this data, complete the following tasks:
+
+---
+
+### Task 1: Add data about early voting
+1. **Early Voting**: Navigate to https://www.ncsl.org/elections-and-campaigns/early-in-person-voting. Using the map, create a new variable called `Voting-Option` that takes one of four values.
+
+---
+
+### Task 2: Identify States with the Most and Least Convenient Voting Rules
+1. **Early Voting Availability**: Create a variable categorizing states into three groups based on their early voting rules:
+   - States with **no-excuse early voting** (where any voter can vote early without a specific reason).
+   - States with **restricted early voting** (where early voting is allowed under specific conditions or with an excuse).
+   - States with **no early voting**.
+
+2. **Analysis**: Using the data in your new variables, and those from `Absentee-Voting-Policy`, 
+   - which states provide the **most convenient** access to voting? Which provide the **least convenient**? 
+   - Explain why you consider certain states to offer more or less convenience.
+
+---
+
+### Task 2: Evaluate the Impact of Early Voting on Voter Turnout Potential
+1. **Population vs. Voters**: Calculate the percentage of voters compared to the total population. 
+   
+2. **Citizen Voter Comparison**: Calculate the percentage of voters out of the total **citizen voter** population (those eligible to vote).
+   
+3. **Analysis**:
+   - Compare the percentage of voters in states with **no-excuse early voting** to those with **no early voting**. Does there appear to be a relationship between early voting rules and registration levels?
+   - Hypothesize how early voting rules could impact voter turnout in a state.
+
+---
+
+### Task 3: Identify Patterns in Voter Convenience and Demographics
+1. **State Comparison**: Analyze the different factors that might affect the accessibility of voting for different populations.
+   
+2. **Conclusion**:
+   - How do state-level voting laws potentially affect voter participation? 
+   - Provide examples from your analysis to explain any patterns or exceptions you observe.
+
+---
+
+### Deliverables:
+- Submit your answers in a written document (1-2 pages).
+- Include your tables and calculations from Task 1 and Task 2.
+- Provide clear explanations for your conclusions in Task 3.
+
+---
+
+## Data reproduced from NCSL:
+
+| State/Territory     | Early Voting Begins                    | Early Voting Ends                      | Locations                                                                                       | Hours and Days                                                                                                         | Statute(s)                                           |
+|---------------------|----------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Alaska**           | Fifteen days before election           | Day of election                        | Elections supervisors' offices. Other locations as designated by election director.            | Normal business hours on weekdays, 10 a.m.-4 p.m. on the Saturday before an election, 12 p.m.-4 p.m. on Sunday.       | AS §15.20.064, AS §15.20.045                         |
+| **Arizona**          | Twenty-seven days before election      | Friday before election                 | Recorder’s office. Other locations deemed necessary by the recorder.                            | Not specified                                                                                                         | ARS §16-541, ARS §16-542                             |
+| **Arkansas**         | Fifteen days before election           | 5 p.m. Monday before election          | Offices of county clerk. Other locations determined by county board of election commissioners.  | 8 a.m.-6 p.m. weekdays, 10 a.m.-4 p.m. on Saturday before election, until 5 p.m. Monday before election.              | AR Code §7-5-418                                     |
+| **California**       | Twenty-nine days before election       | Day of election                        | County election officials' offices. Satellite locations as determined by county election officials. | Varies from county to county                                                                                          | Elec. Code §3000.5, §3001, §3018                     |
+| **Colorado**         | Voter service/polling centers 15 days before election | Day of election                        | Determined by county election officials.                                                        | Daily except Sunday during early voting period. Normal business hours, may be extended.                               | C.R.S. §1-5-102                                       |
+| **Connecticut**      | Fifteen days before election           | Two days before election               | Registrar of voters designates locations.                                                      | 10 a.m.-6 p.m.; 8 a.m.-8 p.m. on Tuesday and Thursday before the election.                                           | CT Public Act No. 23-5                               |
+| **Delaware**         | Ten days before election               | Sunday before election                 | Determined by State Election Commissioner at least 30 days prior.                               | Early voting locations open for 8 hours each day, with specific hours including 7 a.m. open for at least 5 days.      | Del. Code Ann. tit. 15, §5402, §5403, §5404          |
+| **District of Columbia** | Twelve days before election           | Saturday before election               | No fewer than eight early voting centers.                                                       | 8:30 a.m.-7 p.m., Sunday excluded.                                                                                    | DC ST §1-1001.09                                     |
+| **Florida**          | Ten days before election               | Three days before election             | Main/branch offices of elections supervisors.                                                   | At least 8 to 12 hours per day. Election supervisors may offer additional days, including weekends.                   | Fla. Stat. §101.657                                   |
+| **Georgia**          | Fourth Monday prior to election        | Friday before election                 | Board of registrars' offices. Other sites in public buildings.                                   | Normal business hours on weekdays, 9 a.m.-4 p.m. on the second Saturday before election.                              | GA ST §21-2-385                                       |
+| **Guam**             | Thirty days before election            | Five days before election              | Any Commission office.                                                                          | Not specified                                                                                                         | GU ST T. 3, §10107                                    |
+| **Hawaii**           | Ten business days prior to Election Day | 7 p.m. on Election Day                 | Voter Service Centers.                                                                          | Monday-Saturday 8 a.m. to 4:30 p.m.                                                                                   | HRS §11-131, HRS §11-109                             |
+| **Idaho**            | Third Monday before election           | 5 p.m., Friday before election         | Determined by county clerk.                                                                     | Not specified                                                                                                         | ID Code §34-1006, §34-1002                           |
+| **Illinois**         | Fortieth day before election (temporary); 15th day for permanent | Day before election                     | Multiple locations including Municipal, Township, or Road district clerks' offices, universities. | Varies, but permanent locations must offer specific hours as early as 8:30 a.m.-7 p.m. beginning eight days before.   | 10 ILCS 5/19A-15, 10 ILCS 5/19A-20                   |
+| **Indiana**          | Twenty-eight days before election      | Noon, day before election              | Office of circuit court clerk, satellite offices.                                                | At least 7 hours on the two Saturdays preceding election day.                                                         | Ind. Code §3-11-4-1, Ind. Code 3-11-10-26            |
+| **Iowa**             | Twenty days before election            | 5 p.m., day before election            | Commissioner’s offices. Satellite locations established by commissioner or petition.            | At least one day for six hours if established by petition.                                                             | IA Code §53.10, §53.11(b)                            |
+| **Kansas**           | Twenty days before election or Tuesday before election (varies by county) | Noon, day before election              | Offices of county election officers. County election officers may designate satellite locations. | Not specified                                                                                                         | KSA §25-1119, §25-1122a, §25-1123                    |
+| **Kentucky**         | Thursday before election               | Saturday before election               | Offices of county clerks or other locations designated by county board of elections.             | Eight hours between 6 a.m.-8 p.m. on the Friday, Saturday, and Sunday immediately preceding the election.             | KY ST §117.076                                       |
+| **Louisiana**        | Fourteen days before election          | Seven days before election             | Registrars' offices. Alternate locations may be provided in courthouses or nearby public buildings. | 8:30 a.m.-6 p.m., Monday through Saturday, holidays excluded.                                                        | LA R.S. 18:1303, LA R.S. 18:1309                     |
+| **Maine**            | When absentee ballots are ready (30-45 days before election) | Three business days before election, unless excused | Municipal clerks' offices.                                                                   | During regular business hours when clerks' offices are open.                                                         | ME ST T. 21-A §753-A, §754-A                         |
+| **Maryland**         | Second Thursday before an election     | Thursday before an election            | Locations established by State Board of Elections, in collaboration with local boards.           | 7 a.m.-8 p.m.                                                                                                         | MD Election Law §10-301.1                            |
+| **Massachusetts**    | Seventeen days before election for state biennial elections; 10 days for presidential or state primaries | Four days before an election            | Early voting sites, including local election offices. Additional locations at city/town registrar's discretion.       | Regular business hours and weekends; hours vary by jurisdiction size. Additional hours may be provided.              | M.G.L.A. 54 §25B                                     |
+| **Michigan**         | Nine days before an election           | Sunday before an election              | Early voting sites may serve more than six precincts and voters from multiple municipalities.    | Regular business hours and for at least eight hours on the Saturday and Sunday before the election. Additional times allowed. | MI CONST Art. 2, §4                                  |
+| **Minnesota**        | Forty-six days before election         | 5 p.m. the day before election         | Elections offices or other locations designated by county auditor.                               | Monday-Friday regular business hours, 10 a.m.-3 p.m. on the Saturday before election; 10 a.m.-5 p.m. on the day before Election Day. | M.S.A. §203B.081, §203B.085                          |
+| **Missouri**         | Second Tuesday before an election      | Not specified                          | Locations designated by election authority.                                                     | Not specified                                                                                                         | MO ST 115.277                                        |
+| **Montana**          | Thirty days before election            | Day before election                    | Elections offices.                                                                              | Not specified                                                                                                         | M.C.A. §13-13-205                                    |
+| **Nebraska**         | Thirty days before election            | Election Day                           | County clerk or election commissioners' offices.                                                | Not specified                                                                                                         | NE ST §32-808, §32-938, §32-942                      |
+| **Nevada**           | Third Saturday before election         | Friday before election                 | Permanent places and branch polling places designated by county clerk. Requirements for Native American reservations. | Monday-Friday for at least 8 hours/day. Saturday hours required, Sunday optional.                                     | N.R.S. §293.356, §293.3564, §293.3568                |
+| **New Jersey**       | Ten days before election; 45 days for in-person absentee voting | Sunday before election                 | Each county board designates 3-10 public locations based on county size.                          | Monday-Saturday 10 a.m.-8 p.m.; Sunday 10 a.m.-6 p.m.                                                                | NJ ST 19:15A-1                                       |
+| **New Mexico**       | Twenty-eight days before an election at clerk's office; third Saturday before election for alternate locations | Saturday before election             | Clerk’s offices. Additional locations based on the number of voters in the county.                    | Hours set by the clerk, must begin no earlier than 7 a.m. and end no later than 9 p.m. Closed on Sundays/Mondays. | N. M. S. A. 1978, §1-6-5.7                          |
+| **New York**         | Ten days before election                | Two days before election               | At least one early voting location per 50,000 registered voters in each county. Additional locations allowed. | Open at least 8 hours on weekdays, 5 hours on weekends. At least one location must remain open until 8 p.m.        | NY ELEC §8-600                                       |
+| **North Carolina**   | Third Thursday before election           | 3 p.m. on the last Saturday before election | County board of elections office. Additional locations allowed if approved by state board.        | Monday-Friday during regular business hours. Early voting may also be conducted on weekends.                        | N.C.G.S.A. §163-227.2                                |
+| **North Dakota**     | Fifteen days before election             | Day before election                    | At the discretion of county auditor.                                                            | Hours set by county auditor.                                                                                      | NDCC §16.1-07-15                                     |
+| **Ohio**             | Twenty-nine days before election (in-person absentee) | 2 p.m. Monday before election        | Main office of board of elections. Voting at branch offices only under certain conditions.        | 8 a.m.-5 p.m. Monday-Friday, with some extended evening hours the week prior. 8 a.m.-4 p.m. Saturday.              | O.R.C. §3509.051, O.R.C. §3509.01                    |
+| **Oklahoma**         | Wednesday preceding an election (in-person absentee) | 2 p.m. on the Saturday before election | Location designated by the county election board. More than one location allowed for large counties. | 8 a.m.-6 p.m. Wednesday-Friday, 8 a.m.-2 p.m. Saturday.                                                            | OK ST T. 26 §14-115.4                                |
+| **Oregon**           | Drop sites open the Friday before an election, or as soon as ballots are available (18 days before) | Day of election                        | Election offices, libraries, city halls, or outdoor mailboxes for drop-off.                              | Normal business hours.                                                                                             | OR ST §254.470                                       |
+| **Pennsylvania**     | Timing varies based on when absentee ballots are prepared | 5 p.m. first Tuesday prior to election | Local board of elections offices.                                                              | During regular business hours.                                                                                     | 25 P.S. §3146.2a                                     |
+| **Puerto Rico**      | Not specified                           | On or before election day               | Voting centers set up by the Commission.                                                       | Not specified                                                                                                      | PR ST T. 16 §4739                                     |
+| **Rhode Island**     | Twenty days before election (in-person absentee) | Day before election                    | Local boards of canvassers offices.                                                            | Regular business hours.                                                                                             | RI ST §17-20-2.2                                     |
+| **South Carolina**   | Two weeks before Election Day            | Day before election                    | Early voting centers designated by election officials.                                          | 8:30 a.m.-6 p.m. for statewide general elections; 8:30 a.m.-5 p.m. for other elections.                             | SC Code §7-13-25                                     |
+| **South Dakota**     | Forty-six days before election (in-person absentee) | 5 p.m. the day before election         | Office of the person in charge of elections.                                                   | Regular office hours.                                                                                               | S.D.C.L. §12-19-1.2, S.D.C.L. §12-19-2.1             |
+| **Tennessee**        | Twenty days before election               | Five days before election (seven days for presidential preference primary) | County election commission offices or designated locations.                             | Offices must be open for at least three consecutive hours on weekdays and Saturdays.                                 | TN ST §2-6-102(a)(1), TN ST §2-6-103                 |
+| **Texas**            | Seventeen days before election            | Four days prior to election            | County clerk's office or other locations designated by the clerk. Each county has one main early voting center. | Business hours on weekdays; up to 12 hours/day for large counties, 3 hours/day for small counties.                  | Tex. Elec. Code §85.001, Tex. Elec. Code §85.002      |
+| **Utah**             | Fourteen days before election             | Friday before election (can be extended to day before election by official) | Government offices as determined by the election officer.                                           | At least four days per week, and on the last day of the early voting period.                                          | Utah Code §20A-3-601                                 |
+| **Vermont**          | Forty-five days before election          | 5 p.m. day before election              | Offices of town clerks. Mobile polling stations may be made available by clerks.                 | Not specified                                                                                                       | VT ST T. 17 §2531, §2532a, §2537                     |
+| **U.S. Virgin Islands** | Fourteen days before an election          | Three days before an election            | Main or branch office of the supervisor of elections for the district. Other public locations allowed. | No fewer than 8 hours and no more than 12 hours per day.                                                             | VI ST T. 18 §664                                      |
+| **Virginia**         | Forty-five days before election          | 5 p.m. Saturday before election         | Office of the general registrar. Additional public buildings may be used at local discretion.     | Regular business hours. A minimum of 8 hours between 8 a.m.-5 p.m. on the two Saturdays before election.            | VA Code Ann. §24.2-701.1                             |
+| **Washington**       | Eighteen days before election            | 8 p.m. on day of election               | Election offices or other locations designated by the county auditor.                           | Normal business hours.                                                                                             | WA ST §29A.40.160                                    |
+| **West Virginia**    | Thirteen days before election            | Three days before election              | Courthouse or courthouse annex. Additional areas may be designated by county commission.          | Must be open 9 a.m.-5 p.m. on Saturdays throughout early voting period.                                               | W.V. Code §3-3-3                                     |
+| **Wisconsin**        | Fourteen days before election (in-person absentee) | Sunday before election                  | Clerk’s offices.                                                                                | Municipality specifies hours.                                                                                            | Wis. Code §6.86(1)(b)                                |
+| **Wyoming**          | Twenty-eight days before election (in-person absentee) | Day before election                    | County clerks' offices, courthouses, or other public buildings.                                   | Open regular hours on normal business days.                                                                          | Wyo. Stat. §22-9-105, §22-9-125, §22-9-107            |
