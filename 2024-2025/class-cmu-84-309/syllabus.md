@@ -764,6 +764,15 @@ No class because many people will be missing.
 | Luke    |
 | Soum    |
 
+- Why is Data Important:
+  - <https://www.forbes.com/councils/forbestechcouncil/2023/04/17/why-high-quality-and-relevant-data-is-essential-in-todays-business-landscape>
+- How Big Tech Collects Data and How to Protect Your Privacy:
+  - <https://www.privacyjournal.net/big-tech-data-collection>
+- General Data Protection Regulation:
+  - <https://gdpr.eu/what-is-gdpr>
+- Current Events:
+  - <https://publicknowledge.org/the-ftcs-new-report-reaffirms-big-techs-personal-data-overreach-whats-new/>
+
 ### December 5 - Final Class
 
 - **Military**
@@ -778,9 +787,25 @@ No class because many people will be missing.
 | Jon    |
 | Jaykob |
 | Sam    |
-| Hannah |
 | Diana  |
 | Willy  |
+
+- Cost-Plus Contracting:
+  - <https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/081016_diig_cost_plus.pdf>
+- DoD efficiency / audits:
+  - <https://www.defenseone.com/ideas/2024/11/will-musks-algorithm-reduce-military-inefficiencyor-increase-risk/401327/>
+- Foreign Bases and posture:
+  +<https://www.iiss.org/online-analysis/online-analysis/2022/09/overseas-bases-and-us-strategic-posture/>
+- Mandatory Service:
+  +<https://www.britannica.com/procon/mandatory-national-service-debate>
+  +<https://www.economicsobservatory.com/what-do-we-know-about-the-effects-of-military-conscription>
+
+Supplemental: -
+<https://mdcthereporter.com/the-benefits-of-instituting-mandatory-military-service-in-the-united-states/> -
+<https://connectusfund.org/10-meaningful-pros-and-cons-of-mandatory-military-service> -
+<https://www.gao.gov/products/gao-12-558> -
+<https://publications.aaahq.org/jogna/article/2/1/1/456/Are-Cost-Plus-Defense-Contracts-Justifiably-Out-of> -
+<https://breakingdefense.com/2024/11/pentagon-fails-7th-audit-in-a-row-eyes-passing-grade-by-2028/>
 
 ------------------------------------------------------------------------
 
