@@ -461,20 +461,20 @@ You might find this resource useful: <https://polarization.wiki>
 
 **Readings**: - Article \#1: Article explores the US Military budget and
 why we should focus on quantity over quality to create a stronger
-military.
-<https://www.brookings.edu/articles/focusing-on-quality-over-quantity-in-the-us-military-budget/>  
-- Article \#2: This article explores how the U.S. views the Ukraine War
-in the context of global deterrence and maintaining the liberal
-international order.
+military. +
+<https://www.brookings.edu/articles/focusing-on-quality-over-quantity-in-the-us-military-budget/> -
+Article \#2: This article explores how the U.S. views the Ukraine War in
+the context of global deterrence and maintaining the liberal
+international order. +
 <https://cis.mit.edu/publications/analysis-opinion/2022/what-americas-interest-ukraine-war>  
 - Article \#3: This article explores why U.S. military interventions
-often fail and suggests alternatives to
-war.https://www.foreignaffairs.com/united-states/us-military-why-force-fails  
+often fail and suggests alternatives to war. +
+<https://www.foreignaffairs.com/united-states/us-military-why-force-fails>  
 - Article \#4: This article explores why Americans often distrust
-military intervention abroad.
-<https://foreignanalysis.com/from-military-intervention-to-diplomacy-in-american-foreign-policy/>  
+military intervention abroad. +
+<https://foreignanalysis.com/from-military-intervention-to-diplomacy-in-american-foreign-policy> -
 Article \#5: This article explores the foreign policy differences
-between Trump and Biden.
+between Trump and Biden. +
 <https://www.nytimes.com/2022/07/24/us/politics/biden-trump-foreign-policy.html>
 
 **Optional Articles**: These two articles provide different perspectives
@@ -536,14 +536,14 @@ America’s involvement is shaping international relations.
 | Megha     |
 | Sydney    |
 
-Shelby County v. Holder \| Brennan Center for Justice Effects of Shelby
-County v. Holder on the Voting Rights Act \| Brennan Center for Justice:
-<https://www.brennancenter.org/our-work/analysis-opinion/10-years-after-scotus-gutted-voting-rights-act-alabama-turnout-gap-worse>
-
-<https://www.sentencingproject.org/app/uploads/2023/01/Florida-Voting-Rights-for-People-with-Felony-Convictions.pdf>
-
-Voter Identiﬁcation Laws and the Suppression of Minority Votes. The
-Journal of Politics UChicagohttps://dci.mit.edu/voting-on-the-blockchain
+- Shelby County v. Holder \| Brennan Center for Justice Effects of
+  Shelby County v. Holder on the Voting Rights Act \| Brennan Center for
+  Justice:
+  - <https://www.brennancenter.org/our-work/analysis-opinion/10-years-after-scotus-gutted-voting-rights-act-alabama-turnout-gap-worse>
+  - <https://www.sentencingproject.org/app/uploads/2023/01/Florida-Voting-Rights-for-People-with-Felony-Convictions.pdf>
+- Voter Identiﬁcation Laws and the Suppression of Minority Votes. The
+  Journal of Politics UChicago
+  - <https://dci.mit.edu/voting-on-the-blockchain>
 
 ------------------------------------------------------------------------
 
@@ -590,34 +590,27 @@ participate as their schedules allow.*
 | Evren       |
 | Christopher |
 
-New York Times Opinion Piece on Why Free Speech is Important for College
-Students
-<https://www.nytimes.com/2024/09/06/opinion/first-amendment-campus-protest.html>
+- New York Times Opinion Piece on Why Free Speech is Important for
+  College Students
+  - <https://www.nytimes.com/2024/09/06/opinion/first-amendment-campus-protest.html>
+- Scholarly Article on Free Speech
+  - <https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2238&context=journal_articles>
+- Debate on Censorship against Misinfo on Social Media
+  - <https://www.cbsnews.com/news/social-media-misinformation-supreme-court-free-speech-60-minutes/>
+- Conversation about Free Speech and Hate Speech
+  - <https://www.uvm.edu/news/story/free-speech-and-hate-speech-conversation-nadine-strossen>
+- How the First Amendment Came to Life
+  - <https://www.law.columbia.edu/news/archive/free-speech-century-how-first-amendment-came-life>
+- Moderating online content: fighting harm or silencing dissent?
+  - <https://www.ohchr.org/en/stories/2021/07/moderating-online-content-fighting-harm-or-silencing-dissent>
+- We Can Regulate Social Media Without Censorship. Here’s How:
+  - <https://time.com/6199565/regulate-social-media-platform-reduce-risks/>
+- Article on How Free Speech is being attacked in the United States:
+  - <https://www.pbs.org/newshour/politics/experts-say-attacks-on-free-speech-are-rising-across-the-us>
 
-Scholarly Article on Free Speech
-<https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2238&context=journal_articles>
-
-Debate on Censorship against Misinfo on Social Media
-<https://www.cbsnews.com/news/social-media-misinformation-supreme-court-free-speech-60-minutes/>
-
-Conversation about Free Speech and Hate Speech
-<https://www.uvm.edu/news/story/free-speech-and-hate-speech-conversation-nadine-strossen>
-
-How the First Amendment Came to Life
-<https://www.law.columbia.edu/news/archive/free-speech-century-how-first-amendment-came-life>
-
-Moderating online content: fighting harm or silencing dissent?
-<https://www.ohchr.org/en/stories/2021/07/moderating-online-content-fighting-harm-or-silencing-dissent>
-
-We Can Regulate Social Media Without Censorship. Here’s How:
-<https://time.com/6199565/regulate-social-media-platform-reduce-risks/>
-
-Article on How Free Speech is being attacked in the United States:
-<https://www.pbs.org/newshour/politics/experts-say-attacks-on-free-speech-are-rising-across-the-us>
-Optional Videos: Barack Obama on his opinion on free speech:
-<https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview>
-
-Harvard Professor Lawrence Lessig on free speech and AI:
+Optional Videos: - Barack Obama on his opinion on free speech: +
+<https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview> -
+Harvard Professor Lawrence Lessig on free speech and AI: +
 <https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview>
 
 ------------------------------------------------------------------------
@@ -640,25 +633,23 @@ Harvard Professor Lawrence Lessig on free speech and AI:
 | Kester |
 | Nita   |
 
-The Links Between Disability, Incarceration, And Social Exclusion Laurin
-Bixby, Stacey Bevan, and Courtney Boen
-<https://doi.org/10.1377/hlthaff.2022.00495>
-
-Khan, D., & Lucas, M. (2023, July). The impact of technology on the
-criminal justice system. ResearchGate.
-<https://www.researchgate.net/publication/372751132_The_impact_of_technology_on_the_criminal_justice_system>
+- The Links Between Disability, Incarceration, And Social Exclusion,
+  Laurin Bixby, Stacey Bevan, and Courtney Boen
+  - <https://doi.org/10.1377/hlthaff.2022.00495>
+- Khan, D., & Lucas, M. (2023, July). The impact of technology on the
+  criminal justice system. ResearchGate.
+  - <https://www.researchgate.net/publication/372751132_The_impact_of_technology_on_the_criminal_justice_system>
 
 Mass Incarceration: The Whole Pie 2024 \| Prison Policy Initiative
 
 <https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/>
 
-Prison Reform: Reducing Recidivism by Strengthening the Federal Bureau
-of Prisons: <https://www.justice.gov/archives/prison-reform>
-
-<https://www.sciencedirect.com/science/article/abs/pii/S027273581300010X>
-
-Optional:
-<https://www.newyorker.com/culture/annals-of-inquiry/the-trouble-with-crime-statistics>
+- Prison Reform: Reducing Recidivism by Strengthening the Federal Bureau
+  of Prisons:
+  - <https://www.justice.gov/archives/prison-reform>
+  - <https://www.sciencedirect.com/science/article/abs/pii/S027273581300010X>
+- Optional:
+  - <https://www.newyorker.com/culture/annals-of-inquiry/the-trouble-with-crime-statistics>
 
 ------------------------------------------------------------------------
 
@@ -681,29 +672,26 @@ Optional:
 | Eddy    |
 | Soum    |
 
-- [Intro (if you have little to no knowledge of
-  ML)](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5)
-
-  - Optional content:
-    - <https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/>
-    - <https://www.youtube.com/watch?v=aircAruvnKk>
-
-- [Risks of AI](https://aisafetyfundamentals.com/blog/ai-risks/)
-
-- [an alternate
-  perspective](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
-
-- [(optional but highly suggested, Hinton just won the
-  Nobel)](https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai)
+- Intro (if you have little to no knowledge of ML)
+  - <https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5>
+- **Optional content:**
+  - <https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/>
+  - <https://www.youtube.com/watch?v=aircAruvnKk>
+- Risks of AI
+  - <https://aisafetyfundamentals.com/blog/ai-risks/>
+- an alternate perspective
+  - <https://www.noemamag.com/the-illusion-of-ais-existential-risk/>
+- (optional but highly suggested, Hinton just won the Nobel)
+  - <https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai>
 
 **Optional content:** -
-<https://spectrum.ieee.org/united-nations-killer-robots-ban> - [Why We
-Should Care about AI Safety (optional but
-suggested)](https://www.noemamag.com/ai-safety-is-a-global-public-good/) -
-[State of AI Regulation (as of
-February)](https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation) -
-\[Other (optional) things we found interesting\]
-(<https://www.noemamag.com/the-five-stages-of-ai-grief/>)
+<https://spectrum.ieee.org/united-nations-killer-robots-ban> - Why We
+Should Care about AI Safety (optional but suggested) -
+<https://www.noemamag.com/ai-safety-is-a-global-public-good/> - State of
+AI Regulation (as of February) -
+<https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation> -
+Other (optional) things we found interesting -
+<https://www.noemamag.com/the-five-stages-of-ai-grief/>
 
 ------------------------------------------------------------------------
 
@@ -724,17 +712,16 @@ February)](https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation) -
 | Jon       |
 | Willy     |
 
-- [Online School
-  Debate](https://www.chicagobooth.edu/review/some-students-do-better-in-online-school#:~:text=For%20most%20students%2C%20the%20research,or%20with%20less%20social%20pressure)
-- [Charter
-  Schools](https://www.edutopia.org/article/big-demands-and-high-expectations-at-success-academy-schools/)
-- (<https://www.gse.harvard.edu/ideas/ed-magazine/17/05/battle-over-charter-schools>
-  )
-- [State Education
-  Differences](https://www.the74million.org/article/the-50-very-different-states-of-american-public-education/)
-- (<https://www.usnews.com/education/best-high-schools/articles/how-states-compare>)
-- [Centralization/Decentralization of Education in the
-  US](https://www.jstor.org/stable/pdf/41725452.pdf?refreqid=fastly-)
+- Online School Debate
+  - <https://www.chicagobooth.edu/review/some-students-do-better-in-online-school#>:\~:text=For%20most%20students%2C%20the%20research,or%20with%20less%20social%20pressure
+- Charter Schools
+  - <https://www.edutopia.org/article/big-demands-and-high-expectations-at-success-academy-schools/>
+- <https://www.gse.harvard.edu/ideas/ed-magazine/17/05/battle-over-charter-schools>
+- State Education Differences
+  - <https://www.the74million.org/article/the-50-very-different-states-of-american-public-education/>
+  - <https://www.usnews.com/education/best-high-schools/articles/how-states-compare>
+- Centralization/Decentralization of Education in the US
+  - <https://www.jstor.org/stable/pdf/41725452.pdf?refreqid=fastly->
 
 ------------------------------------------------------------------------
 
@@ -795,10 +782,10 @@ No class because many people will be missing.
 - DoD efficiency / audits:
   - <https://www.defenseone.com/ideas/2024/11/will-musks-algorithm-reduce-military-inefficiencyor-increase-risk/401327/>
 - Foreign Bases and posture:
-  +<https://www.iiss.org/online-analysis/online-analysis/2022/09/overseas-bases-and-us-strategic-posture/>
+  - <https://www.iiss.org/online-analysis/online-analysis/2022/09/overseas-bases-and-us-strategic-posture/>
 - Mandatory Service:
-  +<https://www.britannica.com/procon/mandatory-national-service-debate>
-  +<https://www.economicsobservatory.com/what-do-we-know-about-the-effects-of-military-conscription>
+  - <https://www.britannica.com/procon/mandatory-national-service-debate>
+  - <https://www.economicsobservatory.com/what-do-we-know-about-the-effects-of-military-conscription>
 
 Supplemental: -
 <https://mdcthereporter.com/the-benefits-of-instituting-mandatory-military-service-in-the-united-states/> -
