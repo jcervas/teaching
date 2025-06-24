@@ -86,7 +86,9 @@ The course grade will be a weighted average of the following components:
 
 | Assignment                                   | Percent of Final Grade |
 |----------------------------------------------|------------------------|
-| Participation & Discussion                   | 10%                    |
+| Participation                                | **20%**                |
+| Discussion                                   | **20%**                |
+| • *Attendance*                               | *(10%)*                |
 | Weekly Reflection Journals                   | 10%                    |
 | Book Review + Presentation                   | **15%**                |
 | • *Written Review (3–5 single-spaced pages)* | *(10%)*                |
@@ -100,17 +102,20 @@ The course grade will be a weighted average of the following components:
 
 ## Participation & Discussion (15%)[^6]
 
+- *Objective Alignment*: 4, 6, 8
 - Active, respectful involvement in class discussions, including
   preparedness (e.g., completing readings) and thoughtful contributions.
 - Can include small-group work and peer feedback.
 
 ## Weekly Reflection Journals (10%)[^7]
 
-- Short (1–2 paragraph) reflections on how class topics connect to
-  current events, personal experiences, or evolving viewpoints.
+- *Objective Alignment*: 1, 2, 4, 8
+- Short (300–500 word) reflections on how class topics connect to
+  current events, reactions to course readings, or evolving viewpoints.
 
 ## Book Review Assignment Details (15%)[^8]
 
+- *Objective Alignment*: 1, 2, 3, 4, 6, 7  
 - **Written Review** (10%)[^9]
   - *Length*: 3–5 single-spaced pages (approx. 1,500–2,500 words)  
   - *Content Guidelines*:
@@ -134,6 +139,7 @@ The course grade will be a weighted average of the following components:
 
 ## Op-ed w/ peer-review[^11]
 
+- *Objective Alignment*: 1, 2, 3, 5, 7
 - **Written Paper** (10%)
   - Drawing on a topic related to this course, or something political
     from your own life or experience, write an op-ed that could be
@@ -145,18 +151,20 @@ The course grade will be a weighted average of the following components:
 
 ## AI-Powered Debate Simulation (10%)[^12]
 
-- *Description*: Students interact with or program AI-generated personas
-  (e.g., a libertarian voter, environmental activist, rural health
-  worker) to simulate debates on divisive policy topics.  
-- *Options*: Use tools like ChatGPT to role-play or build simple
-  scripted bots that represent different ideological views.  
-- *Goal*: Understand ideological nuance and test one’s arguments against
-  realistic opposition.  
-- *Deliverables*: A short reflection or transcript + analysis of what
-  students learned from the AI interaction.
+- *Objective Alignment*: 4, 5, 6, 8
+  - *Description*: Students interact with or program AI-generated
+    personas (e.g., a libertarian voter, environmental activist, rural
+    health worker) to simulate debates on divisive policy topics.  
+  - *Options*: Use tools like ChatGPT to role-play or build simple
+    scripted bots that represent different ideological views.  
+  - *Goal*: Understand ideological nuance and test one’s arguments
+    against realistic opposition.  
+  - *Deliverables*: A short reflection or transcript + analysis of what
+    students learned from the AI interaction.
 
 ## Debate or Structured Dialogue (10%)[^13]
 
+- *Objective Alignment*: 4, 6, 7  
 - Students argue or explore opposing views on controversial topics in
   pairs or teams.  
 - Graded on preparation, clarity, and respectful engagement—not just
@@ -164,6 +172,7 @@ The course grade will be a weighted average of the following components:
 
 ## Final Capstone: Group Policy Brief (30%) [^14]
 
+- *Objective Alignment*: 3, 5, 7
 - **Written Brief**: Small teams choose a politically polarizing issue
   tied to inequality (e.g., gerrymandering, Medicaid expansion, tech
   bias) and write a formal policy brief (\~1,500–2,000 words).  
@@ -181,31 +190,181 @@ The course grade will be a weighted average of the following components:
 
 # Course Schedule (Subject to Change as Semester Progresses):
 
-## August 26
+## August 26: Syllabus Day
 
 - Introduction to the Course; topic selection, draft privacy statement
   - *No Reading*
 
+## August 28
+
+- What is Political Polarization?
+
+[Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
+in the United States: What the Research Says. Carnegie Endowment for
+International
+Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en)
+
+## September 2
+
+- Chemerinsky, Erwin. 2024. “The Underlying Issues Concerning Free
+  Speech in Schools.” Stanford Law Review 76: 1427.
+  <https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>.
+
+## September 4
+
+- Barker, Taylor J. 2024. “Expressive Association Claims for Private
+  Universities.” Stanford Law Review 76: 1787.
+  <https://www.stanfordlawreview.org/print/article/expressive-association-claims-for-private-universities/>.
+- Citron, Danielle Keats. 2024. “The Surveilled Student.” Stanford Law
+  Review 76: 1439.
+  <https://www.stanfordlawreview.org/print/article/the-surveilled-student/>.
+- Corbin, Caroline Mala. 2024. “The Government Speech Doctrine Ate My
+  Class: First Amendment Capture and Curriculum Bans.” Stanford Law
+  Review 76: 1473.
+  <https://www.stanfordlawreview.org/print/article/the-government-speech-doctrine-ate-my-class/>
+  (Accessed June 24, 2025).
+- Cremins, David. 2024. “Defending the Public Quad: Doxxing, Campus
+  Speech Policies, and the First Amendment.” Stanford Law Review
+  76: 1813.
+  <https://www.stanfordlawreview.org/print/article/defending-the-public-quad/>.
+- Driver, Justin. 2024. “The Coming Crisis of Student Speech.” Stanford
+  Law Review 76: 1511.
+  <https://www.stanfordlawreview.org/print/article/the-coming-crisis-of-student-speech/>.
+- Gersen, Jacob E, and Jeannie Suk Gersen. 2024. “Academic Freedom and
+  Discipline: The Case of the Arguably Peaceful Protestors.” Stanford
+  Law Review 76: 1537.
+  <https://www.stanfordlawreview.org/print/article/academic-freedom-and-discipline/>.
+- Kenji Yoshino. 2024. “Reconsidering the First Amendment Fetishism of
+  Non-State Actors: The Case of Hate Speech on Social Media Platforms
+  and at Private Universities.” Stanford Law Review 76: 1755.
+  <https://www.stanfordlawreview.org/print/article/reconsidering-the-first-amendment-fetishism-of-non-state-actors/>
+  (Accessed June 24, 2025).
+- McNeal, Laura. 2024. “Integrating the Marketplace of Ideas: A New
+  Constitutional Theory for Protecting Students’ Off-Campus Online
+  Speech.” Stanford Law Review 76: 1575.
+  <https://www.stanfordlawreview.org/print/article/integrating-the-marketplace-of-ideas/>.
+- Papandrea, Mary-Rose. 2024. “Law Schools, Professionalism, and the
+  First Amendment.” Stanford Law Review 76: 1609.
+  <https://www.stanfordlawreview.org/print/article/law-schools-professionalism-and-the-first-amendment/>.
+- Post, Robert. 2024. “Theorizing Student Expression: A Constitutional
+  Account of Student Free Speech Rights.” Stanford Law Review 76: 1643.
+  <https://www.stanfordlawreview.org/print/article/theorizing-student-expression/>.
+- Ross, Catherine J. 2024. “Are ‘Book Bans’ Unconstitutional?
+  Reflections on Public School Libraries and the Limits of Law.”
+  Stanford Law Review 76: 1675.
+  <https://www.stanfordlawreview.org/print/article/are-book-bans-unconstitutional/>
+  (Accessed June 24, 2025).
+- Smith, Carson. 2024. “Bias Response Teams: Designing for Free Speech
+  and Conflict Resolution on the University Campus.” Stanford Law Review
+  76: 1837.
+  <https://www.stanfordlawreview.org/print/article/bias-response-teams/>.
+- Tsesis, Alexander. 2024. “The Establishment of Religion in Schools.”
+  Stanford Law Review 76: 1725.
+  <https://www.stanfordlawreview.org/print/article/the-establishment-of-religion-in-schools/>
+  (Accessed June 24, 2025).
+
+## September 9
+
+## September 11
+
+## September 16
+
+## September 18
+
+## September 23
+
+## September 25
+
+## September 30
+
+## October 2
+
+## October 7
+
+## October 9
+
+## October 14
+
+**FALL BREAK**, no class
+
+## October 16
+
+**FALL BREAK**, no class
+
+## October 21
+
+## October 23
+
+## October 28
+
+## October 30
+
+## November 4
+
+DEMOCRACY DAY, no class [**Register to
+Vote**](https://www.cmu.edu/student-affairs/slice/civic-engagement/advocacy/voter/index.html)
+
+*Join us for CMU’s third Democracy Day, an opportunity to focus on our
+institutional commitment to civic service and democracy on Election Day.
+There will be programming and resources available throughout the day for
+our entire community to engage on the key ideals of democracy.*
+
+*There are no classes on Democracy Day prior to 5 p.m. and the entire
+CMU community —faculty, staff and students — is encouraged to
+participate as their schedules allow.*
+
+## November 6
+
+## November 11
+
+## November 13
+
+## November 18
+
+## November 20
+
+## November 25
+
+## November 27
+
+**THANKSGIVING DAY**, no class
+
+## December 2
+
+## December 4
+
+- Final Class
+
 ------------------------------------------------------------------------
 
-- *Reading:* Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press /
-  Simon & Schuster. \[**Available Online**\]
-  - \*Introduction: What Didn’t Happen
-- *Reading:* Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press /
-  Simon & Schuster. \[**Available Online**\]
-  - Chapter 1: How Democrats Became Liberals and Republicans Became
-    Conservatives\*
-  - Chapter 2: The Dixiecrat Dilemma
-  - Chapter 3: Your Brain on Groups
-- *Reading:* Klein, Ezra. 2020. Why We’re Polarized.
-  - Chapter 4: The Press Secretary in Your Mind
-  - Chapter 5: Demographic Threat
-  - Chapter 6: The Media Divide beyond Left-Right
-- *Reading:* Klein, Ezra. 2020. Why We’re Polarized.
-  - Chapter 7: Post-Persuasion Elections
-  - Chapter 8: When Bipartisanship Becomes Irrational
-  - Chapter 9: The Difference between Democrats and Republicans
-  - Chapter 10: Managing Polarization—and Ourselves
+- No Topic/Readings
+- Evaluate Critical Readings
+
+------------------------------------------------------------------------
+
+## November 4
+
+- 
+
+------------------------------------------------------------------------
+
+## November 25
+
+No class because many people will be missing.
+
+- *Reading:*
+  - Klein, Introduction: What Didn’t Happen
+  - Klein, Chapter 1: How Democrats Became Liberals and Republicans
+    Became Conservatives  
+  - Klein, Chapter 2: The Dixiecrat Dilemma
+  - Klein, Chapter 3: Your Brain on Groups  
+  - Klein, Chapter 4: The Press Secretary in Your Mind  
+  - Klein, Chapter 5: Demographic Threat  
+  - Klein, Chapter 6: The Media Divide beyond Left-Right  
+  - Klein, Chapter 7: Post-Persuasion Elections
+  - Klein, Chapter 8: When Bipartisanship Becomes Irrational  
+  - Klein, Chapter 9: The Difference between Democrats and Republicans  
+  - Klein, Chapter 10: Managing Polarization—and Ourselves
 - What is Political Polarization?
   - *Reading:* Fiorina, Morris P., and Samuel J. Abrams. “Political
     polarization in the American public.” Annual Review of Political
@@ -320,129 +479,6 @@ The course grade will be a weighted average of the following components:
       <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9342595/>
 
 ------------------------------------------------------------------------
-
-## August 28
-
-------------------------------------------------------------------------
-
-## September 2
-
-------------------------------------------------------------------------
-
-## September 4
-
-------------------------------------------------------------------------
-
-## September 9
-
-------------------------------------------------------------------------
-
-## September 11
-
-------------------------------------------------------------------------
-
-## September 16
-
-------------------------------------------------------------------------
-
-## September 18
-
-------------------------------------------------------------------------
-
-## September 23
-
-------------------------------------------------------------------------
-
-## September 25
-
-------------------------------------------------------------------------
-
-## September 30
-
-------------------------------------------------------------------------
-
-## October 2
-
-------------------------------------------------------------------------
-
-## October 7
-
-------------------------------------------------------------------------
-
-## October 8
-
-**FALL BREAK October 13 through October 17**
-
-------------------------------------------------------------------------
-
-## October 21
-
-- No Topic/Readings
-- Evaluate Critical Readings
-
-------------------------------------------------------------------------
-
-## October 23
-
-------------------------------------------------------------------------
-
-## October 28
-
-------------------------------------------------------------------------
-
-## October 30
-
-------------------------------------------------------------------------
-
-## November 4
-
-- DEMOCRACY DAY, no class (Register to Vote:
-  <https://www.cmu.edu/student-affairs/slice/civic-engagement/advocacy/voter/index.html>)
-
-**Democracy Day** - *November 4, 2024*
-
-*Join us for CMU’s third Democracy Day, an opportunity to focus on our
-institutional commitment to civic service and democracy on Election Day.
-There will be programming and resources available throughout the day for
-our entire community to engage on the key ideals of democracy.*
-
-*There are no classes on Democracy Day prior to 5 p.m. and the entire
-CMU community —faculty, staff and students — is encouraged to
-participate as their schedules allow.*
-
-------------------------------------------------------------------------
-
-## November 6
-
-------------------------------------------------------------------------
-
-## November 11
-
-------------------------------------------------------------------------
-
-## November 13
-
-------------------------------------------------------------------------
-
-## November 18
-
-------------------------------------------------------------------------
-
-## November 20
-
-------------------------------------------------------------------------
-
-## November 25
-
-No class because many people will be missing.
-
-## November 27 - THANKSGIVING DAY, no class
-
-------------------------------------------------------------------------
-
-## December 2
-
-## December 4 - Final Class
 
 ------------------------------------------------------------------------
 
@@ -728,243 +764,6 @@ Below are some potential questions students may have…
 | Can I see the results?                                                     | Often the results from this kind of work do not come together right away. If you are curious about the results after this course is over, please feel free to contact Laura Pottmeyer, and we would be happy to give you an update, if possible.                                   |
 | How will the data be used?                                                 | In two ways: to help improve the course and to contribute to educational research on how students learn best. Note that all analyses occur after course grades are submitted and student identifiers are removed.                                                                  |
 | If I opt out, do I still have to complete work assigned by the instructor? | Yes.                                                                                                                                                                                                                                                                               |
-
-<!-- 
-> - **Books for Critical Review**
-
-|  NAME             |  NAME              | Book Entry                                                                                                                                              |
-| ----------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wendy Li          | Willy Yeh           | Putnam, Robert D., and Shaylyn Romney Garrett. 2021. *The Upswing: How America Came Together a Century Ago and How We Can Do It Again*. Simon & Schuster. |
-|                   |                    | O’Brian, Neil A. 2024. *The Roots of Polarization: From the Racial Realignment to the Culture Wars*. Chicago, IL: University of Chicago Press.            |
-|                   |                    | Fiorina, Morris P., Abrams, Samuel J., Pope, Jeremy. 2011. *Culture War? The Myth of a Polarized America*. United Kingdom: Longman.                       |
-|                   |                    | McCarty, Nolan. 2019. *Polarization: What Everyone Needs to Know*. Oxford University Press.                                                              |
-|                   |                    | Grossmann, Matt, and David A. Hopkins. 2016. *Asymmetric Politics: Ideological Republicans and Group Interest Democrats*. New York, NY: Oxford University Press. |
-|                   |                    | Spinner-Halev, Jeff, and Elizabeth Theiss-Morse. 2024. *Respect and Loathing in American Democracy: Polarization, Moralization, and the Undermining of Equality*. First Edition. Chicago: University of Chicago Press. |
-|                   |                    | Grossmann, Matt, and David A. Hopkins. 2024. *Polarized by Degrees: How the Diploma Divide and the Culture War Transformed American Politics*. Cambridge: Cambridge University Press. |
-|                   |                    | Thurber, James A., and Antoine Yoshinaka, eds. 2016. *American Gridlock: The Sources, Character, and Impact of Political Polarization*. Cambridge University Press. |
-|                   |                    | Kalmoe, Nathan P., and Lilliana Mason. 2022. *Radical American Partisanship: Mapping Violent Hostility, Its Causes, and the Consequences for Democracy*. Chicago, IL: University of Chicago Press. |
-| Jeremy Nichols    | Megha Jasti         | Levendusky, Matthew. 2013. *How Partisan Media Polarize America*. University of Chicago Press.                                                           |
-| Luke Nalewajk     |                    | Levendusky, Matthew. 2023. *Our Common Bonds: Using What Americans Share to Help Bridge the Partisan Divide*. University of Chicago Press.               |
-| Sydney Wilczynski |                    | Sunstein, Cass R. 2017. *#Republic: Divided Democracy in the Age of Social Media*. Princeton University Press.                                           |
-| Cassandra Zhou    | Christopher Singer  | Mason, Lilliana. 2018. *Uncivil Agreement: How Politics Became Our Identity*. Chicago, IL: University of Chicago Press.                                  |
-|                   |                    | Haidt, Jonathan. 2012. *The Righteous Mind: Why Good People are Divided by Politics and Religion*. Pantheon.                                             |
-|                   |                    | Berry, Jeffrey M., and Sarah Sobieraj. 2014. *The Outrage Industry: Political Opinion Media and the New Incivility*. Oxford, UK: Oxford University Press. |
-| Diana Voronin     |                    | Hetherington, Marc J., and Thomas J. Rudolph. 2015. *Why Washington Won't Work: Polarization, Political Trust, and the Governing Crisis*. Chicago: University of Chicago Press. |
-|                   |                    | Samuel Merrill III, Bernard Grofman, and Thomas L. Brunell. 2023. *How Polarization Begets Polarization: Ideological Extremism in the US Congress*. Oxford University Press. |
-| Evren Konuk       | Jon Ostheim         | Suri, Jeremi. 2022. *Civil War by Other Means: America’s Long and Unfinished Fight for Democracy*. PublicAffairs.                                         |
-| Hannah Romoff     | Emma Andrews        | Coppock, Alexander. 2023. *Persuasion in Parallel: How Information Changes Minds about Politics*. University of Chicago Press.                           |
-| Soum Choudhuri    | Cole Christini      | Gelman, Andrew. 2010. *Red State, Blue State, Rich State, Poor State: Why Americans Vote the Way They Do*. Princeton University Press.                    |
-|                   |                    | Hopkins, David A. 2017. *Red Fighting Blue: How Geography and Electoral Rules Polarize American Politics*. 1st ed. Cambridge University Press.            |
-| Jaykob Williams   |                    | Mutz, Diana C. 2015. *In-Your-Face Politics: The Consequences of Uncivil Media*. Princeton University Press.                                             |
-| Sam Dachman       |                    | Horn, Trent. 2023. *Persuasive Pro Life, 2nd Ed: How to Talk about Our Culture’s Toughest Issue*. Catholic Answers.                                      |
-| Carter Musheno    |                    | Sinclair, Barbara. 2011. *Unorthodox Lawmaking: New Legislative Processes in the U.S. Congress*. Fourth edition. Washington, D.C: CQ Press.              |
-
-
-
-**Some potential topics include**:
-
-- Abortion Rights: Debates over the legality and accessibility of abortion.
-
-- Gun Control: Balancing Second Amendment rights with public safety concerns.
-
-- Immigration Policy: Disputes over border security, pathways to citizenship, and immigration enforcement.
-
-- Healthcare Reform: Access to healthcare, insurance coverage, and the role of government in healthcare.
-
-- LGBTQ+ Rights: Issues related to same-sex marriage, transgender rights, and anti-discrimination protections.
-
-- Climate Change: Debates over environmental regulations, renewable energy, and the role of government in addressing climate issues.
-
-- Police Reform: Discussions about systemic racism, police brutality, and reforming law enforcement practices.
-
-- Voting Rights: Controversies over voter ID laws, gerrymandering, and access to voting.
-
-- Racial Inequality: Disparities in education, employment, housing, and criminal justice.
-
-- Income Inequality: Debates over minimum wage, taxation, and economic opportunity.
-
-- Religious Freedom: Balancing religious rights with anti-discrimination laws and other civil liberties.
-
-- Free Speech: The limits of free speech, especially in relation to hate speech, misinformation, and social media.
-
-- Education Policy: Issues such as school choice, curriculum content, and student debt.
-
-- Drug Policy: Legalization of marijuana, opioid epidemic, and criminal justice reform.
-
-- Military Spending: Debates over the size and scope of the U.S. military budget.
-
-- Big Tech Regulation: Concerns about privacy, data security, monopolies, and the influence of social media companies.
-
-- Affordable Housing: Availability and affordability of housing in urban and rural areas.
-
-- Health and Safety Regulations: Vaccine mandates, public health measures, and workplace safety rules.
-
-- Trade Policy: Tariffs, trade agreements, and their impact on the U.S. economy. -->
-<!-- - **Foreign Policy** -->
-<!--   - The U.S. role in global governance and international organizations -->
-<!--   - Foreign policy challenges: trade, diplomacy, and military interventions -->
-<!--   - The impact of global conflicts on U.S. domestic policy -->
-<!--   - Human rights and ethical considerations in foreign policy decisions -->
-<!-- **Readings**:  -->
-<!-- - Article #1: Article explores the US Military budget and why we should focus on quantity over quality to create a stronger military.  -->
-<!--   + https://www.brookings.edu/articles/focusing-on-quality-over-quantity-in-the-us-military-budget/ -->
-<!-- - Article #2: This article explores how the U.S. views the Ukraine War in the context of global deterrence and maintaining the liberal international order.  -->
-<!--   + https://cis.mit.edu/publications/analysis-opinion/2022/what-americas-interest-ukraine-war   -->
-<!-- - Article #3: This article explores why U.S. military interventions often fail and suggests alternatives to war. -->
-<!--   + https://www.foreignaffairs.com/united-states/us-military-why-force-fails   -->
-<!-- - Article #4: This article explores why Americans often distrust military intervention abroad.  -->
-<!--   + https://foreignanalysis.com/from-military-intervention-to-diplomacy-in-american-foreign-policy -->
-<!-- - Article #5: This article explores the foreign policy differences between Trump and Biden.  -->
-<!--   + https://www.nytimes.com/2022/07/24/us/politics/biden-trump-foreign-policy.html   -->
-<!-- **Optional Articles**: These two articles provide different perspectives on American foreign policy and their ethical implications.  -->
-<!-- - https://www.hoover.org/research/moral-core-us-foreign-policy-   -->
-<!-- - Makes a case for moral US intervention around the world https://carnegieendowment.org/research/2021/11/navigating-the-democracy-security-dilemma-in-us-foreign-policy-lessons-from-egypt-india-and-turkey?lang=en-  -->
-<!-- Criticizes the US cozying up to strongmen around the world to gain geopolitical influence and instead call for pushing for greater democracy abroad. -->
-<!-- - Optional Video: This video explores how the 2024 Election can be a critical turning point in regards to America’s relationship with the world. https://www.brookings.edu/projects/election-24-issues-at-stake/national-security-americas-role-in-the-world/  -->
-<!-- - Optional: This article offers a comprehensive breakdown of U.S. assistance to Ukraine, including military, economic, and humanitarian aid, and its implications for U.S. policy. -->
-<!-- - https://news.usni.org/2024/06/11/report-to-congress-on-u-s-policy-and-the-war-in-ukraine  -->
-<!-- - Optional (very comprehensive but also very long!): This article examines the fractures within the global system caused by the Ukraine War and how America's involvement is shaping international relations. https://carnegieendowment.org/research/2024/05/inevitable-fractures-the-ukraine-war-and-the-global-system  -->
-<!-- - **Immigration** -->
-<!--   - Historical and contemporary immigration policies in the U.S. -->
-<!--   - The impact of immigration on the economy, culture, and social dynamics -->
-<!--   - Immigration and national security: balancing openness with safety -->
-<!--   - The role of immigration in shaping political discourse -->
-<!-- --- -->
-<!-- - **Voter Suppression and Shifting Policy Around Voting Rules** -->
-<!--   - Historical context and contemporary examples of voter suppression -->
-<!--   - The impact of voter ID laws, gerrymandering, and purges on voter access -->
-<!--   - Legal battles over voting rights and election integrity -->
-<!--   - The role of technology in modern voting systems -->
-<!-- - Shelby County v. Holder | Brennan Center for Justice  -->
-<!-- Effects of Shelby County v. Holder on the Voting Rights Act | Brennan Center for Justice:  -->
-<!--   + https://www.brennancenter.org/our-work/analysis-opinion/10-years-after-scotus-gutted-voting-rights-act-alabama-turnout-gap-worse  -->
-<!--   + https://www.sentencingproject.org/app/uploads/2023/01/Florida-Voting-Rights-for-People-with-Felony-Convictions.pdf -->
-<!-- - Voter Identiﬁcation Laws and the Suppression of Minority Votes. The Journal of Politics UChicago -->
-<!--   +  https://dci.mit.edu/voting-on-the-blockchain -->
-<!-- --- 
-
-- **Educational System**
-  - The evolution of public education in the U.S.
-  - Equity in education: access, funding, and outcomes
-  - The impact of standardized testing and school choice policies
-  - The future of education: digital learning and AI in classrooms
-
-
-- Online School Debate
-  + https://www.chicagobooth.edu/review/some-students-do-better-in-online-school#:~:text=For%20most%20students%2C%20the%20research,or%20with%20less%20social%20pressure
-- Charter Schools
-  + https://www.edutopia.org/article/big-demands-and-high-expectations-at-success-academy-schools/
-- https://www.gse.harvard.edu/ideas/ed-magazine/17/05/battle-over-charter-schools
-- State Education Differences
-  + https://www.the74million.org/article/the-50-very-different-states-of-american-public-education/
-  + https://www.usnews.com/education/best-high-schools/articles/how-states-compare
-- Centralization/Decentralization of Education in the US
-  + https://www.jstor.org/stable/pdf/41725452.pdf?refreqid=fastly-
--->
-<!-- - **Freedom of Speech** -->
-<!--   - The First Amendment and its application in modern society -->
-<!--   - The limits of free speech: hate speech, misinformation, and incitement -->
-<!--   - Social media and the evolving landscape of free expression -->
-<!--   - Case studies: Free speech controversies in schools; what should CMU’s policy be regarding speech on campus? -->
-<!-- - New York Times Opinion Piece on Why Free Speech is Important for College Students -->
-<!--   + https://www.nytimes.com/2024/09/06/opinion/first-amendment-campus-protest.html -->
-<!-- - Scholarly Article on Free Speech -->
-<!--   + https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2238&context=journal_articles -->
-<!-- - Debate on Censorship against Misinfo on Social Media -->
-<!--   + https://www.cbsnews.com/news/social-media-misinformation-supreme-court-free-speech-60-minutes/ -->
-<!-- - Conversation about Free Speech and Hate Speech -->
-<!--   + https://www.uvm.edu/news/story/free-speech-and-hate-speech-conversation-nadine-strossen -->
-<!-- - How the First Amendment Came to Life -->
-<!--   + https://www.law.columbia.edu/news/archive/free-speech-century-how-first-amendment-came-life -->
-<!-- - Moderating online content: fighting harm or silencing dissent? -->
-<!--   + https://www.ohchr.org/en/stories/2021/07/moderating-online-content-fighting-harm-or-silencing-dissent -->
-<!-- - We Can Regulate Social Media Without Censorship. Here’s How: -->
-<!--   + https://time.com/6199565/regulate-social-media-platform-reduce-risks/ -->
-<!-- - Article on How Free Speech is being attacked in the United States: -->
-<!--   + https://www.pbs.org/newshour/politics/experts-say-attacks-on-free-speech-are-rising-across-the-us -->
-<!-- Optional Videos: -->
-<!-- - Barack Obama on his opinion on free speech: -->
-<!--   + https://www.theverge.com/23948871/barack-obama-ai-regulation-free-speech-first-amendment-decoder-interview -->
-<!-- - Harvard Professor Lawrence Lessig on free speech and AI: -->
-<!--   + https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview -->
-<!-- --- -->
-<!-- - **Criminal Justice Reform** -->
-<!--   - The history and evolution of the U.S. criminal justice system -->
-<!--   - Key issues: mass incarceration, racial disparities, and police reform -->
-<!--   - Alternatives to incarceration: rehabilitation and restorative justice -->
-<!--   - The role of technology in modernizing the criminal justice system -->
-<!-- - The Links Between Disability, Incarceration, And Social Exclusion, Laurin Bixby, Stacey Bevan, and Courtney Boen -->
-<!--   + https://doi.org/10.1377/hlthaff.2022.00495 -->
-<!-- - Khan, D., & Lucas, M. (2023, July). The impact of technology on the criminal justice system. ResearchGate.  -->
-<!--   + https://www.researchgate.net/publication/372751132_The_impact_of_technology_on_the_criminal_justice_system -->
-<!-- Mass Incarceration: The Whole Pie 2024 | Prison Policy Initiative  -->
-<!-- https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/ -->
-<!-- - Prison Reform: Reducing Recidivism by Strengthening the Federal Bureau of Prisons:  -->
-<!--   + https://www.justice.gov/archives/prison-reform  -->
-<!--   + https://www.sciencedirect.com/science/article/abs/pii/S027273581300010X  -->
-<!-- - Optional:  -->
-<!--   + https://www.newyorker.com/culture/annals-of-inquiry/the-trouble-with-crime-statistics -->
-<!-- --- -->
-<!-- - **Regulation and Ethical Use of AI** -->
-<!--   - The role of AI in modern society: benefits and risks -->
-<!--   - Ethical considerations in the deployment of AI in various sectors (military, business, healthcare) -->
-<!--   - The impact of AI on labor markets and economic inequality -->
-<!--   - Regulatory challenges: ensuring fairness, transparency, and accountability in AI systems -->
-<!-- - Intro (if you have little to no knowledge of ML) -->
-<!--   - https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5 -->
-<!-- - **Optional content:** -->
-<!--     - https://bounded-regret.ghost.io/future-ml-systems-will-be-qualitatively-different/ -->
-<!--     - https://www.youtube.com/watch?v=aircAruvnKk -->
-<!-- - Risks of AI -->
-<!--   - https://aisafetyfundamentals.com/blog/ai-risks/ -->
-<!-- - an alternate perspective -->
-<!--   - https://www.noemamag.com/the-illusion-of-ais-existential-risk/ -->
-<!-- - (optional but highly suggested, Hinton just won the Nobel) -->
-<!--   - https://mitsloan.mit.edu/ideas-made-to-matter/why-neural-net-pioneer-geoffrey-hinton-sounding-alarm-ai -->
-<!-- **Optional content:** -->
-<!-- - https://spectrum.ieee.org/united-nations-killer-robots-ban -->
-<!-- - Why We Should Care about AI Safety (optional but suggested) -->
-<!--   - https://www.noemamag.com/ai-safety-is-a-global-public-good/ -->
-<!-- - State of AI Regulation (as of February) -->
-<!--   - https://ethics.harvard.edu/blog/post-4-state-global-ai-regulation -->
-<!-- - Other (optional) things we found interesting -->
-<!--   - https://www.noemamag.com/the-five-stages-of-ai-grief/ -->
-<!-- --- -->
-<!-- - **The Right to Privacy (Legal, Moral, Governmental Surveillance)** -->
-<!--   - The evolution of privacy rights in the digital age -->
-<!--   - Government surveillance vs. individual privacy: balancing security and liberty -->
-<!--   - The role of big tech in collecting and using personal data -->
-<!--   - Legal frameworks for privacy protection in different sectors -->
-<!-- - Why is Data Important: -->
-<!--   + https://www.forbes.com/councils/forbestechcouncil/2023/04/17/why-high-quality-and-relevant-data-is-essential-in-todays-business-landscape -->
-<!-- - How Big Tech Collects Data and How to Protect Your Privacy: -->
-<!--   + https://www.privacyjournal.net/big-tech-data-collection -->
-<!-- - General Data Protection Regulation: -->
-<!--   + https://gdpr.eu/what-is-gdpr -->
-<!-- - Current Events: -->
-<!--   + https://publicknowledge.org/the-ftcs-new-report-reaffirms-big-techs-personal-data-overreach-whats-new/ -->
-<!-- --- -->
-<!-- - **Military** -->
-<!--   - The changing role of the U.S. military in a globalized world -->
-<!--   - Civil-military relations and the balance of power -->
-<!--   - Ethical considerations in military technology and warfare -->
-<!--   - The impact of military service on veterans and society -->
-<!--   - Military funding -->
-<!-- - Cost-Plus Contracting: -->
-<!--   + https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/081016_diig_cost_plus.pdf -->
-<!-- - DoD efficiency / audits: -->
-<!--   + https://www.defenseone.com/ideas/2024/11/will-musks-algorithm-reduce-military-inefficiencyor-increase-risk/401327/ -->
-<!-- - Foreign Bases and posture: -->
-<!--   + https://www.iiss.org/online-analysis/online-analysis/2022/09/overseas-bases-and-us-strategic-posture/ -->
-<!-- - Mandatory Service: -->
-<!--   + https://www.britannica.com/procon/mandatory-national-service-debate -->
-<!--   + https://www.economicsobservatory.com/what-do-we-know-about-the-effects-of-military-conscription -->
-<!-- Supplemental: -->
-<!-- - https://mdcthereporter.com/the-benefits-of-instituting-mandatory-military-service-in-the-united-states/ -->
-<!-- - https://connectusfund.org/10-meaningful-pros-and-cons-of-mandatory-military-service -->
-<!-- - https://www.gao.gov/products/gao-12-558 -->
-<!-- - https://publications.aaahq.org/jogna/article/2/1/1/456/Are-Cost-Plus-Defense-Contracts-Justifiably-Out-of -->
-<!-- - https://breakingdefense.com/2024/11/pentagon-fails-7th-audit-in-a-row-eyes-passing-grade-by-2028/ -->
 
 [^1]: The most up-to-date version of this [syllabus can be found
     here](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-309/syllabus.md)
