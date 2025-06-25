@@ -304,13 +304,21 @@ Student Topics
 
 ## September 23
 
-Partisan Polarization
+- Partisan Polarization
 
 ## September 25
 
 Ideological Polarization
 
 ## September 30
+
+Student Topics
+
+## October 2
+
+Student Topics
+
+## October 7
 
 - Affective Polarization
   - Iyengar, Shanto, Yphtach Lelkes, Matthew Levendusky, Neil Malhotra,
@@ -320,7 +328,7 @@ Ideological Polarization
     <https://www.annualreviews.org/doi/10.1146/annurev-polisci-051117-073034>
     (Accessed October 18, 2022).
 
-## October 2
+## October 9
 
 - The Internet and Social Media
   - Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
@@ -340,10 +348,6 @@ Ideological Polarization
     <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>
     (Accessed June 24, 2025).
 
-## October 7
-
-## October 9
-
 ## October 14
 
 **FALL BREAK**, no class
@@ -354,7 +358,11 @@ Ideological Polarization
 
 ## October 21
 
+Student Topics
+
 ## October 23
+
+Student Topics
 
 ## October 28
 
