@@ -91,7 +91,7 @@ The course grade will be a weighted average of the following components:
 | • *Attendance*                               | *(10%)*                |
 | Weekly Reflection Journals                   | 10%                    |
 | Book Review + Presentation                   | **15%**                |
-| • *Written Review (3–5 single-spaced pages)* | *(10%)*                |
+| • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
 | • *10-minute Presentation*                   | *(5%)*                 |
 | Op-Ed Project (Rough Draft + Final)          | 20%                    |
 | AI-Powered Debate Simulation                 | 10%                    |
@@ -110,14 +110,14 @@ The course grade will be a weighted average of the following components:
 ## Weekly Reflection Journals (10%)[^7]
 
 - *Objective Alignment*: 1, 2, 4, 8
-- Short (300–500 word) reflections on how class topics connect to
+- Short (300-500 word) reflections on how class topics connect to
   current events, reactions to course readings, or evolving viewpoints.
 
 ## Book Review Assignment Details (15%)[^8]
 
 - *Objective Alignment*: 1, 2, 3, 4, 6, 7  
 - **Written Review** (10%)[^9]
-  - *Length*: 3–5 single-spaced pages (approx. 1,500–2,500 words)  
+  - *Length*: 3-5 single-spaced pages (approx. 1,500–2,500 words)  
   - *Content Guidelines*:
     - Summarize the author’s central argument(s) succinctly.  
     - Critically evaluate those arguments using logical reasoning and
@@ -129,7 +129,7 @@ The course grade will be a weighted average of the following components:
       polarization, or justice.  
     - Use citations for any quoted or paraphrased material.  
 - **Presentation** (5%)[^10]
-  - *Format*: 10-minute in-class presentation, followed by 2–3 minutes
+  - *Format*: 10-minute in-class presentation, followed by 2-3 minutes
     of Q&A.  
   - *Expectations*:
     - Clear, engaging summary of key ideas from the book.  
@@ -188,11 +188,28 @@ The course grade will be a weighted average of the following components:
 
 ------------------------------------------------------------------------
 
+Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
+Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
+
+- Klein, Introduction: What Didn’t Happen
+- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
+  Conservatives  
+- Klein, Chapter 2: The Dixiecrat Dilemma
+- Klein, Chapter 3: Your Brain on Groups  
+- Klein, Chapter 4: The Press Secretary in Your Mind  
+- Klein, Chapter 5: Demographic Threat  
+- Klein, Chapter 6: The Media Divide beyond Left-Right  
+- Klein, Chapter 7: Post-Persuasion Elections
+- Klein, Chapter 8: When Bipartisanship Becomes Irrational  
+- Klein, Chapter 9: The Difference between Democrats and Republicans  
+- Klein, Chapter 10: Managing Polarization—and Ourselves
+
 # Course Schedule (Subject to Change as Semester Progresses):
 
 ## August 26: Syllabus Day
 
-- Introduction to the Course; topic selection, draft privacy statement
+- Introduction to the Course; topic selection, draft privacy/free speech
+  statement
   - *No Reading*
 
 ## August 28
@@ -212,19 +229,19 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
 
 Pick one? - Barker, Taylor J. 2024. “Expressive Association Claims for
 Private Universities.” Stanford Law Review 76: 1787.
-<https://www.stanfordlawreview.org/print/article/expressive-association-claims-for-private-universities/>. -
-Citron, Danielle Keats. 2024. “The Surveilled Student.” Stanford Law
+<https://www.stanfordlawreview.org/print/article/expressive-association-claims-for-private-universities/>.  
+- Citron, Danielle Keats. 2024. “The Surveilled Student.” Stanford Law
 Review 76: 1439.
-<https://www.stanfordlawreview.org/print/article/the-surveilled-student/>. -
-Corbin, Caroline Mala. 2024. “The Government Speech Doctrine Ate My
+<https://www.stanfordlawreview.org/print/article/the-surveilled-student/>.  
+- Corbin, Caroline Mala. 2024. “The Government Speech Doctrine Ate My
 Class: First Amendment Capture and Curriculum Bans.” Stanford Law Review
 76: 1473.
 <https://www.stanfordlawreview.org/print/article/the-government-speech-doctrine-ate-my-class/>
 (Accessed June 24, 2025). - Cremins, David. 2024. “Defending the Public
 Quad: Doxxing, Campus Speech Policies, and the First Amendment.”
 Stanford Law Review 76: 1813.
-<https://www.stanfordlawreview.org/print/article/defending-the-public-quad/>. -
-Driver, Justin. 2024. “The Coming Crisis of Student Speech.” Stanford
+<https://www.stanfordlawreview.org/print/article/defending-the-public-quad/>.  
+- Driver, Justin. 2024. “The Coming Crisis of Student Speech.” Stanford
 Law Review 76: 1511.
 <https://www.stanfordlawreview.org/print/article/the-coming-crisis-of-student-speech/>. -
 Gersen, Jacob E, and Jeannie Suk Gersen. 2024. “Academic Freedom and
@@ -238,20 +255,21 @@ at Private Universities.” Stanford Law Review 76: 1755.
 (Accessed June 24, 2025). - McNeal, Laura. 2024. “Integrating the
 Marketplace of Ideas: A New Constitutional Theory for Protecting
 Students’ Off-Campus Online Speech.” Stanford Law Review 76: 1575.
-<https://www.stanfordlawreview.org/print/article/integrating-the-marketplace-of-ideas/>. -
-Papandrea, Mary-Rose. 2024. “Law Schools, Professionalism, and the First
-Amendment.” Stanford Law Review 76: 1609.
-<https://www.stanfordlawreview.org/print/article/law-schools-professionalism-and-the-first-amendment/>. -
-Post, Robert. 2024. “Theorizing Student Expression: A Constitutional
+<https://www.stanfordlawreview.org/print/article/integrating-the-marketplace-of-ideas/>.  
+- Papandrea, Mary-Rose. 2024. “Law Schools, Professionalism, and the
+First Amendment.” Stanford Law Review 76: 1609.
+<https://www.stanfordlawreview.org/print/article/law-schools-professionalism-and-the-first-amendment/>.  
+- Post, Robert. 2024. “Theorizing Student Expression: A Constitutional
 Account of Student Free Speech Rights.” Stanford Law Review 76: 1643.
-<https://www.stanfordlawreview.org/print/article/theorizing-student-expression/>. -
-Ross, Catherine J. 2024. “Are ‘Book Bans’ Unconstitutional? Reflections
-on Public School Libraries and the Limits of Law.” Stanford Law Review
-76: 1675.
+<https://www.stanfordlawreview.org/print/article/theorizing-student-expression/>.  
+- Ross, Catherine J. 2024. “Are ‘Book Bans’ Unconstitutional?
+Reflections on Public School Libraries and the Limits of Law.” Stanford
+Law Review 76: 1675.
 <https://www.stanfordlawreview.org/print/article/are-book-bans-unconstitutional/>
-(Accessed June 24, 2025). - Smith, Carson. 2024. “Bias Response Teams:
-Designing for Free Speech and Conflict Resolution on the University
-Campus.” Stanford Law Review 76: 1837.
+(Accessed June 24, 2025).  
+- Smith, Carson. 2024. “Bias Response Teams: Designing for Free Speech
+and Conflict Resolution on the University Campus.” Stanford Law Review
+76: 1837.
 <https://www.stanfordlawreview.org/print/article/bias-response-teams/>. -
 Tsesis, Alexander. 2024. “The Establishment of Religion in Schools.”
 Stanford Law Review 76: 1725.
@@ -264,43 +282,63 @@ Stanford Law Review 76: 1725.
   Paperback edition. New Haven ; London: Yale University Press.
 
 Chemerinsky/Gillman, Chapter 1: The New Censorship Chemerinsky/Gillman,
-Chapter 2: Why Is Free Speech Important? Chemerinsky/Gillman, Chapter 3:
-Nullius in Verba: Free Speech at Colleges and Universities
-Chemerinsky/Gillman, Chapter 4: Hate Speech Chemerinsky/Gillman, Chapter
-5: What Campuses Can and Can’t Do Chemerinsky/Gillman, Chapter 6: What’s
-at Stake?
-
-Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
-Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
-
-- Klein, Introduction: What Didn’t Happen
-- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
-  Conservatives  
-- Klein, Chapter 2: The Dixiecrat Dilemma
-- Klein, Chapter 3: Your Brain on Groups  
-- Klein, Chapter 4: The Press Secretary in Your Mind  
-- Klein, Chapter 5: Demographic Threat  
-- Klein, Chapter 6: The Media Divide beyond Left-Right  
-- Klein, Chapter 7: Post-Persuasion Elections
-- Klein, Chapter 8: When Bipartisanship Becomes Irrational  
-- Klein, Chapter 9: The Difference between Democrats and Republicans  
-- Klein, Chapter 10: Managing Polarization—and Ourselves
+Chapter 2: Why Is Free Speech Important?
 
 ## September 9
 
+Chemerinsky/Gillman, Chapter 3: Nullius in Verba: Free Speech at
+Colleges and Universities Chemerinsky/Gillman, Chapter 4: Hate Speech
+
 ## September 11
+
+Chemerinsky/Gillman, Chapter 5: What Campuses Can and Can’t Do
+Chemerinsky/Gillman, Chapter 6: What’s at Stake?
 
 ## September 16
 
+Student Topics
+
 ## September 18
+
+Student Topics
 
 ## September 23
 
+Partisan Polarization
+
 ## September 25
+
+Ideological Polarization
 
 ## September 30
 
+- Affective Polarization
+  - Iyengar, Shanto, Yphtach Lelkes, Matthew Levendusky, Neil Malhotra,
+    et al. 2019. “The Origins and Consequences of Affective Polarization
+    in the United States.” Annual Review of Political Science 22(1):
+    129–146.
+    <https://www.annualreviews.org/doi/10.1146/annurev-polisci-051117-073034>
+    (Accessed October 18, 2022).
+
 ## October 2
+
+- The Internet and Social Media
+  - Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
+    Developing Democracies: The Impact of the Internet, Social Media,
+    and Polarization.” Annual Review of Political Science 28(Volume 28,
+    2025): 413–434.
+    <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>
+    (Accessed June 24, 2025).
+  - Barrett, Paul, Justin Hendrix, and Grant Sims. 2021. Fueling the
+    Fire: How Social Media Intensifies U.S. Political Polarization And
+    What Can Be Done About It. NYU Stern Center for Business and Human
+    Rights.
+    <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>
+    (Accessed June 24, 2025).
+  - Shapiro, Ari. 2022. “How the polarizing effect of social media is
+    speeding up.” NPR.
+    <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>
+    (Accessed June 24, 2025).
 
 ## October 7
 
