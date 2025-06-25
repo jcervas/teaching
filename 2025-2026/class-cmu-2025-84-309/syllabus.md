@@ -210,58 +210,81 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
   Speech in Schools.” Stanford Law Review 76: 1427.
   <https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>.
 
+Pick one? - Barker, Taylor J. 2024. “Expressive Association Claims for
+Private Universities.” Stanford Law Review 76: 1787.
+<https://www.stanfordlawreview.org/print/article/expressive-association-claims-for-private-universities/>. -
+Citron, Danielle Keats. 2024. “The Surveilled Student.” Stanford Law
+Review 76: 1439.
+<https://www.stanfordlawreview.org/print/article/the-surveilled-student/>. -
+Corbin, Caroline Mala. 2024. “The Government Speech Doctrine Ate My
+Class: First Amendment Capture and Curriculum Bans.” Stanford Law Review
+76: 1473.
+<https://www.stanfordlawreview.org/print/article/the-government-speech-doctrine-ate-my-class/>
+(Accessed June 24, 2025). - Cremins, David. 2024. “Defending the Public
+Quad: Doxxing, Campus Speech Policies, and the First Amendment.”
+Stanford Law Review 76: 1813.
+<https://www.stanfordlawreview.org/print/article/defending-the-public-quad/>. -
+Driver, Justin. 2024. “The Coming Crisis of Student Speech.” Stanford
+Law Review 76: 1511.
+<https://www.stanfordlawreview.org/print/article/the-coming-crisis-of-student-speech/>. -
+Gersen, Jacob E, and Jeannie Suk Gersen. 2024. “Academic Freedom and
+Discipline: The Case of the Arguably Peaceful Protestors.” Stanford Law
+Review 76: 1537.
+<https://www.stanfordlawreview.org/print/article/academic-freedom-and-discipline/>. -
+Kenji Yoshino. 2024. “Reconsidering the First Amendment Fetishism of
+Non-State Actors: The Case of Hate Speech on Social Media Platforms and
+at Private Universities.” Stanford Law Review 76: 1755.
+<https://www.stanfordlawreview.org/print/article/reconsidering-the-first-amendment-fetishism-of-non-state-actors/>
+(Accessed June 24, 2025). - McNeal, Laura. 2024. “Integrating the
+Marketplace of Ideas: A New Constitutional Theory for Protecting
+Students’ Off-Campus Online Speech.” Stanford Law Review 76: 1575.
+<https://www.stanfordlawreview.org/print/article/integrating-the-marketplace-of-ideas/>. -
+Papandrea, Mary-Rose. 2024. “Law Schools, Professionalism, and the First
+Amendment.” Stanford Law Review 76: 1609.
+<https://www.stanfordlawreview.org/print/article/law-schools-professionalism-and-the-first-amendment/>. -
+Post, Robert. 2024. “Theorizing Student Expression: A Constitutional
+Account of Student Free Speech Rights.” Stanford Law Review 76: 1643.
+<https://www.stanfordlawreview.org/print/article/theorizing-student-expression/>. -
+Ross, Catherine J. 2024. “Are ‘Book Bans’ Unconstitutional? Reflections
+on Public School Libraries and the Limits of Law.” Stanford Law Review
+76: 1675.
+<https://www.stanfordlawreview.org/print/article/are-book-bans-unconstitutional/>
+(Accessed June 24, 2025). - Smith, Carson. 2024. “Bias Response Teams:
+Designing for Free Speech and Conflict Resolution on the University
+Campus.” Stanford Law Review 76: 1837.
+<https://www.stanfordlawreview.org/print/article/bias-response-teams/>. -
+Tsesis, Alexander. 2024. “The Establishment of Religion in Schools.”
+Stanford Law Review 76: 1725.
+<https://www.stanfordlawreview.org/print/article/the-establishment-of-religion-in-schools/>
+(Accessed June 24, 2025).
+
 ## September 4
 
-- Barker, Taylor J. 2024. “Expressive Association Claims for Private
-  Universities.” Stanford Law Review 76: 1787.
-  <https://www.stanfordlawreview.org/print/article/expressive-association-claims-for-private-universities/>.
-- Citron, Danielle Keats. 2024. “The Surveilled Student.” Stanford Law
-  Review 76: 1439.
-  <https://www.stanfordlawreview.org/print/article/the-surveilled-student/>.
-- Corbin, Caroline Mala. 2024. “The Government Speech Doctrine Ate My
-  Class: First Amendment Capture and Curriculum Bans.” Stanford Law
-  Review 76: 1473.
-  <https://www.stanfordlawreview.org/print/article/the-government-speech-doctrine-ate-my-class/>
-  (Accessed June 24, 2025).
-- Cremins, David. 2024. “Defending the Public Quad: Doxxing, Campus
-  Speech Policies, and the First Amendment.” Stanford Law Review
-  76: 1813.
-  <https://www.stanfordlawreview.org/print/article/defending-the-public-quad/>.
-- Driver, Justin. 2024. “The Coming Crisis of Student Speech.” Stanford
-  Law Review 76: 1511.
-  <https://www.stanfordlawreview.org/print/article/the-coming-crisis-of-student-speech/>.
-- Gersen, Jacob E, and Jeannie Suk Gersen. 2024. “Academic Freedom and
-  Discipline: The Case of the Arguably Peaceful Protestors.” Stanford
-  Law Review 76: 1537.
-  <https://www.stanfordlawreview.org/print/article/academic-freedom-and-discipline/>.
-- Kenji Yoshino. 2024. “Reconsidering the First Amendment Fetishism of
-  Non-State Actors: The Case of Hate Speech on Social Media Platforms
-  and at Private Universities.” Stanford Law Review 76: 1755.
-  <https://www.stanfordlawreview.org/print/article/reconsidering-the-first-amendment-fetishism-of-non-state-actors/>
-  (Accessed June 24, 2025).
-- McNeal, Laura. 2024. “Integrating the Marketplace of Ideas: A New
-  Constitutional Theory for Protecting Students’ Off-Campus Online
-  Speech.” Stanford Law Review 76: 1575.
-  <https://www.stanfordlawreview.org/print/article/integrating-the-marketplace-of-ideas/>.
-- Papandrea, Mary-Rose. 2024. “Law Schools, Professionalism, and the
-  First Amendment.” Stanford Law Review 76: 1609.
-  <https://www.stanfordlawreview.org/print/article/law-schools-professionalism-and-the-first-amendment/>.
-- Post, Robert. 2024. “Theorizing Student Expression: A Constitutional
-  Account of Student Free Speech Rights.” Stanford Law Review 76: 1643.
-  <https://www.stanfordlawreview.org/print/article/theorizing-student-expression/>.
-- Ross, Catherine J. 2024. “Are ‘Book Bans’ Unconstitutional?
-  Reflections on Public School Libraries and the Limits of Law.”
-  Stanford Law Review 76: 1675.
-  <https://www.stanfordlawreview.org/print/article/are-book-bans-unconstitutional/>
-  (Accessed June 24, 2025).
-- Smith, Carson. 2024. “Bias Response Teams: Designing for Free Speech
-  and Conflict Resolution on the University Campus.” Stanford Law Review
-  76: 1837.
-  <https://www.stanfordlawreview.org/print/article/bias-response-teams/>.
-- Tsesis, Alexander. 2024. “The Establishment of Religion in Schools.”
-  Stanford Law Review 76: 1725.
-  <https://www.stanfordlawreview.org/print/article/the-establishment-of-religion-in-schools/>
-  (Accessed June 24, 2025).
+- Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
+  Paperback edition. New Haven ; London: Yale University Press.
+
+Chemerinsky/Gillman, Chapter 1: The New Censorship Chemerinsky/Gillman,
+Chapter 2: Why Is Free Speech Important? Chemerinsky/Gillman, Chapter 3:
+Nullius in Verba: Free Speech at Colleges and Universities
+Chemerinsky/Gillman, Chapter 4: Hate Speech Chemerinsky/Gillman, Chapter
+5: What Campuses Can and Can’t Do Chemerinsky/Gillman, Chapter 6: What’s
+at Stake?
+
+Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
+Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
+
+- Klein, Introduction: What Didn’t Happen
+- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
+  Conservatives  
+- Klein, Chapter 2: The Dixiecrat Dilemma
+- Klein, Chapter 3: Your Brain on Groups  
+- Klein, Chapter 4: The Press Secretary in Your Mind  
+- Klein, Chapter 5: Demographic Threat  
+- Klein, Chapter 6: The Media Divide beyond Left-Right  
+- Klein, Chapter 7: Post-Persuasion Elections
+- Klein, Chapter 8: When Bipartisanship Becomes Irrational  
+- Klein, Chapter 9: The Difference between Democrats and Republicans  
+- Klein, Chapter 10: Managing Polarization—and Ourselves
 
 ## September 9
 
@@ -325,6 +348,8 @@ participate as their schedules allow.*
 
 ## November 25
 
+No class because many people will be missing.
+
 ## November 27
 
 **THANKSGIVING DAY**, no class
@@ -348,23 +373,6 @@ participate as their schedules allow.*
 
 ------------------------------------------------------------------------
 
-## November 25
-
-No class because many people will be missing.
-
-- *Reading:*
-  - Klein, Introduction: What Didn’t Happen
-  - Klein, Chapter 1: How Democrats Became Liberals and Republicans
-    Became Conservatives  
-  - Klein, Chapter 2: The Dixiecrat Dilemma
-  - Klein, Chapter 3: Your Brain on Groups  
-  - Klein, Chapter 4: The Press Secretary in Your Mind  
-  - Klein, Chapter 5: Demographic Threat  
-  - Klein, Chapter 6: The Media Divide beyond Left-Right  
-  - Klein, Chapter 7: Post-Persuasion Elections
-  - Klein, Chapter 8: When Bipartisanship Becomes Irrational  
-  - Klein, Chapter 9: The Difference between Democrats and Republicans  
-  - Klein, Chapter 10: Managing Polarization—and Ourselves
 - What is Political Polarization?
   - *Reading:* Fiorina, Morris P., and Samuel J. Abrams. “Political
     polarization in the American public.” Annual Review of Political
