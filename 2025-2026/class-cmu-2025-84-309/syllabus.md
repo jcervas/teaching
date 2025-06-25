@@ -188,41 +188,6 @@ The course grade will be a weighted average of the following components:
 
 ------------------------------------------------------------------------
 
-Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
-Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
-
-- Klein, Introduction: What Didn’t Happen
-- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
-  Conservatives  
-- Klein, Chapter 2: The Dixiecrat Dilemma
-- Klein, Chapter 3: Your Brain on Groups  
-- Klein, Chapter 4: The Press Secretary in Your Mind  
-- Klein, Chapter 5: Demographic Threat  
-- Klein, Chapter 6: The Media Divide beyond Left-Right  
-- Klein, Chapter 7: Post-Persuasion Elections
-- Klein, Chapter 8: When Bipartisanship Becomes Irrational  
-- Klein, Chapter 9: The Difference between Democrats and Republicans  
-- Klein, Chapter 10: Managing Polarization—and Ourselves
-
-# Course Schedule (Subject to Change as Semester Progresses):
-
-## August 26: Syllabus Day
-
-- Introduction to the Course; topic selection, draft privacy/free speech
-  statement
-  - *No Reading*
-
-## August 28
-
-- What is Political Polarization?
-
-[Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
-in the United States: What the Research Says. Carnegie Endowment for
-International
-Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en)
-
-## September 2
-
 - Chemerinsky, Erwin. 2024. “The Underlying Issues Concerning Free
   Speech in Schools.” Stanford Law Review 76: 1427.
   <https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>.
@@ -276,6 +241,71 @@ Stanford Law Review 76: 1725.
 <https://www.stanfordlawreview.org/print/article/the-establishment-of-religion-in-schools/>
 (Accessed June 24, 2025).
 
+------------------------------------------------------------------------
+
+Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
+Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
+
+- Klein, Introduction: What Didn’t Happen
+- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
+  Conservatives  
+- Klein, Chapter 2: The Dixiecrat Dilemma
+- Klein, Chapter 3: Your Brain on Groups  
+- Klein, Chapter 4: The Press Secretary in Your Mind  
+- Klein, Chapter 5: Demographic Threat  
+- Klein, Chapter 6: The Media Divide beyond Left-Right  
+- Klein, Chapter 7: Post-Persuasion Elections
+- Klein, Chapter 8: When Bipartisanship Becomes Irrational  
+- Klein, Chapter 9: The Difference between Democrats and Republicans  
+- Klein, Chapter 10: Managing Polarization—and Ourselves
+
+# Course Schedule (Subject to Change as Semester Progresses):
+
+## August 26: Syllabus Day
+
+- Introduction to the Course; topic selection, draft privacy/free speech
+  statement
+  - *No Reading*
+
+## August 28
+
+- What is Political Polarization?
+
+[Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
+in the United States: What the Research Says. Carnegie Endowment for
+International
+Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en)
+
+## September 2
+
+- The 1776 Report
+  - Arnn, Larry P., Carol Swain, and Matthew Spalding. 2021. The
+    President’s Advisory 1776 Commission. Washington, D.C: The White
+    House.
+    <https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf>
+    (Accessed June 25, 2025).
+  - “AHA Statement Condemning Report of Advisory 1776 Commission.”
+    <https://www.historians.org/>.
+    <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
+    (Accessed June 25, 2025).
+  - McKenna, Konstantin. 2025. “The 1776 Project Is a Desperate Search
+    for the Right Enemies.” Foreign Policy.
+    <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
+    (Accessed June 25, 2025).
+- The 1691 Project
+  - Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times
+    Magazine.
+    <https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx>
+    (Accessed June 25, 2025).
+  - Silverstein, Jake. 2020. “On Recent Criticism of The 1619 Project.”
+    The New York Times.
+    <https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html>
+    (Accessed June 25, 2025).
+  - “We Respond to the Historians Who Critiqued The 1619 Project.” 2019.
+    The New York Times.
+    <https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html>
+    (Accessed June 25, 2025).
+
 ## September 4
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
@@ -313,6 +343,10 @@ Ideological Polarization
 ## September 30
 
 Student Topics
+
+- Immigration Politics
+  - <https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/>  
+  - <https://www.cfr.org/backgrounder/us-immigration-debate-0>
 
 ## October 2
 
