@@ -278,12 +278,29 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
 
 ## September 2
 
-- The 1776 Report
-  - Arnn, Larry P., Carol Swain, and Matthew Spalding. 2021. The
-    President’s Advisory 1776 Commission. Washington, D.C: The White
-    House.
-    <https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf>
-    (Accessed June 25, 2025).
+1.  **The 1619 Project**
+
+- Title: “America Wasn’t a Democracy Until Black Americans Made It One”
+  – Essay by Nikole Hannah-Jones
+  <https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-american-democracy.html>
+  - Introduces the central thesis of the project: re-centering slavery
+    and Black Americans in the nation’s founding narrative.
+- Title: “In Order to Understand the Brutality of American Capitalism,
+  You Have to Start on the Plantation” – Essay by Matthew Desmond
+  <https://www.nytimes.com/interactive/2019/08/14/magazine/slavery-capitalism.html>
+  - Connects slavery to contemporary economic systems.
+
+2.  **The 1776 Report** – [Arnn, Larry P., Carol Swain, and Matthew
+    Spalding. 2021. The President’s Advisory 1776 Commission.
+    Washington, D.C: The White
+    House.](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf)
+
+- Presents a traditionalist, patriotic framing of American founding
+  values.
+
+## September 4
+
+- **The 1776 Report**
   - “AHA Statement Condemning Report of Advisory 1776 Commission.”
     <https://www.historians.org/>.
     <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
@@ -292,7 +309,7 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
     for the Right Enemies.” Foreign Policy.
     <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
     (Accessed June 25, 2025).
-- The 1691 Project
+- **The 1619 Project**
   - Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times
     Magazine.
     <https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx>
@@ -306,7 +323,11 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
     <https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html>
     (Accessed June 25, 2025).
 
-## September 4
+3.  **Optional for ambitious students**
+
+- Frederick Douglass, “What to the Slave is the Fourth of July?” (1852)
+
+- (\~20 min read, historical context for both projects)
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
