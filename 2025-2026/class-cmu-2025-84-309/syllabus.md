@@ -64,16 +64,17 @@ The course grade will be a weighted average of the following components:
 
 | Assignment                                   | Percent of Final Grade |
 |----------------------------------------------|------------------------|
-| **Participation**                            | **20%**                |
-| • *Discussion* & *Student Led Topics*        | *(20%)*                |
-| • *Attendance*                               | *(10%)*                |
+| **Participation**                            | **25%**                |
+| • *Discussion*                               | *(15%)*                |
+| • *Attendance*                               | *(15%)*                |
+| • *Student Led Topics*                       | *(5%)*                 |
 | **Weekly Reflection Journals**               | **15%**                |
 | **Writing Modules** (3)                      | **3%**                 |
 | **Book Review + Presentation**               | **15%**                |
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
 | • *8-minute Presentation*                    | *(5%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
-| **AI-Powered Debate Simulation** (3)         | **15%**                |
+| **AI-Powered Debate Simulation** (3)         | **10%**                |
 | **Final Capstone: Group Policy Brief**       | **12%**                |
 
 # Due Dates
@@ -91,32 +92,35 @@ The course grade will be a weighted average of the following components:
 
 # Assignment Details
 
-## Participation & Discussion (20%)
+## Participation & Discussion (25%)
 
 *Purpose*: Civic discourse, empathy, critical thinking  
 *Objective Alignment*: 4, 6, 8
 
-- Active, respectful involvement in class discussions, including
-  preparedness (e.g., completing readings) and thoughtful contributions.
-- Can include small-group work and peer feedback.
-- Must be co-leader for one in-class discussion, including assigning
-  readings, preparing discussion questions, and leading the class
-  discussion.
+*Participation* (15%): Active, respectful involvement in class
+discussions, including preparedness (e.g., completing readings) and
+thoughtful contributions.
 
-*Attendance & Participation* Regular attendance and active involvement
-form a significant part of your final grade (see grading section). To
-recognize that occasional absences are sometimes unavoidable (e.g., for
-religious observance, job interviews, university-sanctioned events, or
-illness), attendance grades will be calculated using an exponential
-function. 1–2 absences → mild penalty, 6+ absences → sharp drop (serious
+*Attendance* (15%) Regular attendance and active involvement form a
+significant part of your final grade (see grading section). To recognize
+that occasional absences are sometimes unavoidable (e.g., for religious
+observance, job interviews, university-sanctioned events, or illness),
+attendance grades will be calculated using an exponential function. 1–2
+absences → mild penalty, 6+ absences → sharp drop (serious
 consequences).
 $$s(A) = 100 \cdot \left(1 - \frac{1 - e^{-kA}}{1 - e^{-kT}} \right)$$
-where $$k=0.1$$ and A is the number of absences and T is the total
-number of classes.
+where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
+the total number of classes.
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it’s an emergency or sudden illness) so we can arrange a way for
 you to catch up.[^5]
+
+*Student Led Topics* (5%): Each student will lead one class discussion
+on a topic of their choice related to the course themes (along with
+several other students). This includes selecting readings, preparing
+discussion questions, and facilitating the conversation. The goal is to
+engage your peers in critical thinking and respectful debate.
 
 ## Weekly Reflection Journals (15%)
 
@@ -132,12 +136,12 @@ you to catch up.[^5]
 *Purpose*: Language (vocabulary, tone, social conventions) is
 appropriate and aligned to audience’s needs. Evidence (types, placement,
 volume, specificity) is appropriate and aligned to audience’s needs  
-*Objective Alignment*: 1, 3, 5
+*Objective Alignment*: 1, 3, 5  
+Not grade for completion, but for effort and engagement.
 
 - Students complete 1 module per day (may not complete all at once).
   Canvas will make activity 2 and 3 available 24 hours after a student
   completes previous activity
-- Not grade for completion, but for effort and engagement.
 - Module 1: Adapting Writing for a New Audience
 - Module 2: Creating an Audience Profile
 - Module 3: Revising Writing to provide audience-focused feedback
