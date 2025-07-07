@@ -326,13 +326,13 @@ values.
 
   - Chapter 1: The New Censorship
   - Chapter 2: Why Is Free Speech Important?
-  - Chapter 3: Nullius in Verba: Free Speech at Colleges and
-    Universities
 
 ## September 11
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
+  - Chapter 3: Nullius in Verba: Free Speech at Colleges and
+    Universities
   - Chapter 4: Hate Speech
   - Chapter 5: What Campuses Can and Can’t Do
   - Chapter 6: What’s at Stake?
@@ -371,36 +371,6 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 ## September 18
 
-- Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
-  Schuster.
-  - <https://books.google.com/books?id=1G6gDwAAQBAJ>
-- Klein, Introduction: What Didn’t Happen
-- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
-  Conservatives
-
-## September 23
-
-- Klein, Chapter 2: The Dixiecrat Dilemma
-- Klein, Chapter 3: Your Brain on Groups
-
-## September 25
-
-- Klein, Chapter 4: The Press Secretary in Your Mind
-- Klein, Chapter 5: Demographic Threat
-
-## September 30
-
-- Klein, Chapter 6: The Media Divide beyond Left-Right
-- Klein, Chapter 7: Post-Persuasion Elections
-
-## October 2
-
-- Klein, Chapter 8: When Bipartisanship Becomes Irrational
-- Klein, Chapter 9: The Difference between Democrats and Republicans
-- Klein, Chapter 10: Managing Polarization—and Ourselves
-
-## October 7
-
 - The Internet and Social Media
   - Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
     Developing Democracies: The Impact of the Internet, Social Media,
@@ -416,13 +386,40 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
     speeding up.” NPR.
     <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>.
 
-## October 9
+## September 23
 
-Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
-Rise of Donald Trump.” In The Changing Character of the American Right,
-Volume I: Ideology, Politics and Policy in the Era of Trump, eds. Joel
-D. Aberbach et al. Cham: Springer Nature Switzerland, p. 79–94.
-<https://doi.org/10.1007/978-3-031-73168-6_4>
+- Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
+  Rise of Donald Trump.” In The Changing Character of the American
+  Right, Volume I: Ideology, Politics and Policy in the Era of Trump,
+  eds. Joel D. Aberbach et al. Cham: Springer Nature Switzerland,
+  p. 79–94.
+  - <https://doi.org/10.1007/978-3-031-73168-6_4>
+
+## September 25
+
+## September 30
+
+- Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
+  Schuster.
+  - <https://books.google.com/books?id=1G6gDwAAQBAJ>
+- Klein, Introduction: What Didn’t Happen
+- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
+  Conservatives
+- Klein, Chapter 2: The Dixiecrat Dilemma
+- Klein, Chapter 3: Your Brain on Groups
+- Klein, Chapter 4: The Press Secretary in Your Mind
+- Klein, Chapter 5: Demographic Threat
+- Klein, Chapter 6: The Media Divide beyond Left-Right
+- Klein, Chapter 7: Post-Persuasion Elections
+- Klein, Chapter 8: When Bipartisanship Becomes Irrational
+- Klein, Chapter 9: The Difference between Democrats and Republicans
+- Klein, Chapter 10: Managing Polarization—and Ourselves
+
+## October 2
+
+## October 7
+
+## October 9
 
 ## October 14
 
