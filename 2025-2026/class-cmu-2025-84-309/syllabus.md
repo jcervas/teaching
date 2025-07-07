@@ -94,36 +94,38 @@ The course grade will be a weighted average of the following components:
 | **Writing Modules** (3)                      | **3%**                 |
 | **Book Review + Presentation**               | **15%**                |
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
-| • *10-minute Presentation*                   | *(5%)*                 |
+| • *8-minute Presentation*                    | *(5%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
-| **AI-Powered Debate Simulation**             | **10%**                |
+| **AI-Powered Debate Simulation** (5)         | **10%**                |
 | **Structured In-Class Debate/Dialogue**      | **10%**                |
-| **Final Capstone: Group Policy Brief**       | **22%**                |
+| **Final Capstone: Group Policy Brief**       | **12%**                |
 
 # Assignment Details
 
-## Participation & Discussion (15%)
+## Participation & Discussion (20%)
 
-- *Purpose*: Civic discourse, empathy, critical thinking
-- *Objective Alignment*: 4, 6, 8
+*Purpose*: Civic discourse, empathy, critical thinking  
+*Objective Alignment*: 4, 6, 8
+
 - Active, respectful involvement in class discussions, including
   preparedness (e.g., completing readings) and thoughtful contributions.
 - Can include small-group work and peer feedback.
 
 ## Weekly Reflection Journals (10%)
 
-- *Purpose*: Personal reflection, connection to course theme
-- *Objective Alignment*: 1, 2, 4, 8
+*Purpose*: Personal reflection, connection to course theme  
+*Objective Alignment*: 1, 2, 4, 8
+
 - Short (300-500 word) reflections on how class topics connect to
   current events, reactions to course readings, or evolving viewpoints.
 
 ## Writing Modules (3%)
 
-- *Purpose*: Language (vocabulary, tone, social conventions) is
-  appropriate and aligned to audience’s needs. Evidence (types,
-  placement, volume, specificity) is appropriate and aligned to
-  audience’s needs
-- *Objective Alignment*: 1, 3, 5
+*Purpose*: Language (vocabulary, tone, social conventions) is
+appropriate and aligned to audience’s needs. Evidence (types, placement,
+volume, specificity) is appropriate and aligned to audience’s needs  
+*Objective Alignment*: 1, 3, 5
+
 - Students complete 1 module per day (may not complete all at once).
   Canvas will make activity 2 and 3 available 24 hours after a student
   completes previous activity
@@ -134,173 +136,109 @@ The course grade will be a weighted average of the following components:
 
 ## Book Review Assignment Details (15%)
 
-- *Purpose*: Deep analysis, critical evaluation, communication
-- *Objective Alignment*: 1, 2, 3, 4, 6, 7  
-- **Written Review** (10%)
-  - *Purpose*: Argument analysis, assumption critique, implication
-    discussion
-  - *Length*: 3-5 single-spaced pages (approx. 1,500–2,500 words)  
+*Purpose*: Deep analysis, critical evaluation, communication  
+*Objective Alignment*: 1, 2, 3, 4, 6, 7
+
+- **Written Review** (10%) *Purpose*: Argument analysis, assumption
+  critique, implication discussion
+
+  - *Length*: 3-5 single-spaced pages (approx. 1,500–2,500 words)
   - *Content Guidelines*:
-    - Summarize the author’s central argument(s) succinctly.  
+    - Summarize the author’s central argument(s) succinctly.
     - Critically evaluate those arguments using logical reasoning and
-      textual evidence.  
-    - Identify any assumptions or ideological lenses the author
-      brings.  
-    - Discuss broader political, ethical, or social implications.  
+      textual evidence.
+    - Identify any assumptions or ideological lenses the author brings.
+    - Discuss broader political, ethical, or social implications.
     - Make connections to course themes such as inequality,
-      polarization, or justice.  
-    - Use citations for any quoted or paraphrased material.  
+      polarization, or justice.
+    - Use citations for any quoted or paraphrased material.
+
 - **Presentation** (5%)
-  - *Purpose*: Verbal synthesis, peer engagement, clarity of thought  
-  - *Format*: 10-minute in-class presentation, followed by 2-3 minutes
-    of Q&A.  
-  - *Expectations*:
-    - Clear, engaging summary of key ideas from the book.  
-    - Highlight your critical take or most interesting insight.  
-    - Use slides, visuals, or handouts to aid clarity (optional).  
-    - Encourage discussion by posing a question or provocation.
 
-## Op-ed w/ peer-review
+*Purpose*: Verbal synthesis, peer engagement, clarity of thought  
+*Format*: 10-minute in-class presentation, followed by 2-3 minutes of
+Q&A.
 
-- *Purpose*: Persuasive writing, revision, public engagement
-- *Objective Alignment*: 1, 2, 3, 5, 7
-- **Written Paper** (10%)
-  - Drawing on a topic related to this course, or something political
-    from your own life or experience, write an op-ed that could be
-    published in a newspaper or blog.  
-- **Peer Review** (10%)
+- *Expectations*:
+  - Clear, engaging summary of key ideas from the book.
+  - Highlight your critical take or most interesting insight.
+  - Use slides, visuals, or handouts to aid clarity (optional).
+  - Encourage discussion by posing a question or provocation.
+
+## Op-ed w/ peer-review (20%)
+
+*Purpose*: Persuasive writing, revision, public engagement  
+*Objective Alignment*: 1, 2, 3, 5, 7
+
+- Drawing on a topic related to this course, or something political from
+  your own life or experience, write an op-ed that could be published in
+  a newspaper or blog.
+- **Rough Draft** (2%) & **Peer Review** (8%)
+  - *Length*: There is a strict 1,250-word limit.
+  - *Content Guidelines*:
+    - Prepare a short essay advocating for (or against) any social or
+      political issue of your choosing (topics relating to American
+      politics).
+    - The idea is that you will write something that can be submitted to
+      a newspaper or internet blog.
+    - Concise arguments made for a more general audience are the goal of
+      this assignment; something your parents can read and understand.
+    - The use of data and visualizations is strongly encouraged and is
+      not included in the word count.
   - Peer review should address the substance of the paper, along with
     grammar (e.g., “Is the thesis clear?”, “Is evidence convincing?”,
     “Does it speak to a broader audience?”).
+    - You will complete peer reviews of two classmate’s drafts,
+      providing constructive feedback on clarity, argument strength, and
+      engagement.
+- **Final Draft** (10%)
+  - Using the feedback from your peers, revise your op-ed to improve
+    clarity, argumentation, and engagement.
 
 ## AI-Powered Debate Simulation (10%)
 
-- *Purpose*: Perspective-taking, applied argumentation, tech-enhanced
-  learning
-- *Objective Alignment*: 4, 5, 6, 8
-  - *Description*: Students interact with or program AI-generated
-    personas (e.g., a libertarian voter, environmental activist, rural
-    health worker) to simulate debates on divisive policy topics.  
-  - *Options*: Use tools like ChatGPT to role-play or build simple
-    scripted bots that represent different ideological views.  
-  - *Goal*: Understand ideological nuance and test one’s arguments
-    against realistic opposition.  
-  - *Deliverables*: A short reflection or transcript + analysis of what
-    students learned from the AI interaction.
+*Purpose*: Perspective-taking, applied argumentation, tech-enhanced
+learning  
+*Objective Alignment*: 4, 5, 6, 8
+
+- *Description*: Students interact with or program AI-generated personas
+  (e.g., a libertarian voter, environmental activist, rural health
+  worker) to simulate debates on divisive policy topics.
+- *Options*: Use tools like ChatGPT to role-play or build simple
+  scripted bots that represent different ideological views.
+- *Goal*: Understand ideological nuance and test one’s arguments against
+  realistic opposition.
+- *Deliverables*: Transcript
 
 ## Debate or Structured Dialogue (10%)
 
-- *Purpose*: Verbal reasoning, empathy, respectful engagement
-- *Objective Alignment*: 4, 6, 7  
+*Purpose*: Verbal reasoning, empathy, respectful engagement *Objective
+Alignment*: 4, 6, 7
+
 - Students argue or explore opposing views on controversial topics in
-  pairs or teams.  
+  pairs or teams.
 - Graded on preparation, clarity, and respectful engagement—not just
   “winning.”
 
 ## Final Capstone: Group Policy Brief (30%)
 
-- *Purpose*: Research, equity-centered solutions, teamwork
-- *Objective Alignment*: 3, 5, 7
+*Purpose*: Research, equity-centered solutions, teamwork *Objective
+Alignment*: 3, 5, 7
+
 - **Written Brief**: Small teams choose a politically polarizing issue
   tied to inequality (e.g., gerrymandering, Medicaid expansion, tech
-  bias) and write a formal policy brief (\~1,500–2,000 words).  
-- *Components*:
-  - Executive Summary  
-  - Problem Definition  
-  - Background/Context  
-  - Policy Options & Stakeholder Analysis  
-  - Recommendation(s)  
-  - Equity Impact Statement  
+  bias) and write a formal policy brief (\~1,500–2,000 words).
+  - *Components*:
+    - Executive Summary
+    - Problem Definition
+    - Background/Context
+    - Policy Options & Stakeholder Analysis
+    - Recommendation(s)
+    - Equity Impact Statement
 - **Presentation**: Teams present findings in a mock legislative or
   community forum during finals week.
 
 ------------------------------------------------------------------------
-
-Affirmative action (STUDENTS FOR FAIR ADMISSIONS, INC. v. PRESIDENT AND
-FELLOWS OF HARVARD COLLEGE, No. 20–1199) - Decided June 29, 2023 -
-<https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf> - Opinion
-of the Court - ROBERTS, C. J., delivered the opinion of the Court, in
-which THOMAS, ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined. -
-Dissent - SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN, J.,
-joined, and in which JACKSON, J., joined as it applies to No. 21–707.
-
-- Concurring & other Dissenting Opinions
-- THOMAS, J., filed a concurring opinion.
-- GORSUCH, J., filed a concurring opinion, in which THOMAS, J., joined.
-- KAVANAUGH, J., filed a concurring opinion.
-- JACKSON, J., filed a dissenting opinion in No. 21–707, in which
-  SOTOMAYOR and KAGAN, JJ., joined.
-
-Free Speech in Schools - Chemerinsky, Erwin. 2024. “The Underlying
-Issues Concerning Free Speech in Schools.” Stanford Law Review 76: 1427.
-<https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>.
-
-Pick one? - Barker, Taylor J. 2024. “Expressive Association Claims for
-Private Universities.” Stanford Law Review 76: 1787.
-<https://www.stanfordlawreview.org/print/article/expressive-association-claims-for-private-universities/>.  
-- Citron, Danielle Keats. 2024. “The Surveilled Student.” Stanford Law
-Review 76: 1439.
-<https://www.stanfordlawreview.org/print/article/the-surveilled-student/>.  
-- Corbin, Caroline Mala. 2024. “The Government Speech Doctrine Ate My
-Class: First Amendment Capture and Curriculum Bans.” Stanford Law Review
-76: 1473.
-<https://www.stanfordlawreview.org/print/article/the-government-speech-doctrine-ate-my-class/>
-(Accessed June 24, 2025). - Cremins, David. 2024. “Defending the Public
-Quad: Doxxing, Campus Speech Policies, and the First Amendment.”
-Stanford Law Review 76: 1813.
-<https://www.stanfordlawreview.org/print/article/defending-the-public-quad/>.  
-- Driver, Justin. 2024. “The Coming Crisis of Student Speech.” Stanford
-Law Review 76: 1511.
-<https://www.stanfordlawreview.org/print/article/the-coming-crisis-of-student-speech/>. -
-Gersen, Jacob E, and Jeannie Suk Gersen. 2024. “Academic Freedom and
-Discipline: The Case of the Arguably Peaceful Protestors.” Stanford Law
-Review 76: 1537.
-<https://www.stanfordlawreview.org/print/article/academic-freedom-and-discipline/>. -
-Kenji Yoshino. 2024. “Reconsidering the First Amendment Fetishism of
-Non-State Actors: The Case of Hate Speech on Social Media Platforms and
-at Private Universities.” Stanford Law Review 76: 1755.
-<https://www.stanfordlawreview.org/print/article/reconsidering-the-first-amendment-fetishism-of-non-state-actors/>
-(Accessed June 24, 2025). - McNeal, Laura. 2024. “Integrating the
-Marketplace of Ideas: A New Constitutional Theory for Protecting
-Students’ Off-Campus Online Speech.” Stanford Law Review 76: 1575.
-<https://www.stanfordlawreview.org/print/article/integrating-the-marketplace-of-ideas/>.  
-- Papandrea, Mary-Rose. 2024. “Law Schools, Professionalism, and the
-First Amendment.” Stanford Law Review 76: 1609.
-<https://www.stanfordlawreview.org/print/article/law-schools-professionalism-and-the-first-amendment/>.  
-- Post, Robert. 2024. “Theorizing Student Expression: A Constitutional
-Account of Student Free Speech Rights.” Stanford Law Review 76: 1643.
-<https://www.stanfordlawreview.org/print/article/theorizing-student-expression/>.  
-- Ross, Catherine J. 2024. “Are ‘Book Bans’ Unconstitutional?
-Reflections on Public School Libraries and the Limits of Law.” Stanford
-Law Review 76: 1675.
-<https://www.stanfordlawreview.org/print/article/are-book-bans-unconstitutional/>
-(Accessed June 24, 2025).  
-- Smith, Carson. 2024. “Bias Response Teams: Designing for Free Speech
-and Conflict Resolution on the University Campus.” Stanford Law Review
-76: 1837.
-<https://www.stanfordlawreview.org/print/article/bias-response-teams/>. -
-Tsesis, Alexander. 2024. “The Establishment of Religion in Schools.”
-Stanford Law Review 76: 1725.
-<https://www.stanfordlawreview.org/print/article/the-establishment-of-religion-in-schools/>
-(Accessed June 24, 2025).
-
-------------------------------------------------------------------------
-
-Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
-Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
-
-- Klein, Introduction: What Didn’t Happen
-- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
-  Conservatives  
-- Klein, Chapter 2: The Dixiecrat Dilemma
-- Klein, Chapter 3: Your Brain on Groups  
-- Klein, Chapter 4: The Press Secretary in Your Mind  
-- Klein, Chapter 5: Demographic Threat  
-- Klein, Chapter 6: The Media Divide beyond Left-Right  
-- Klein, Chapter 7: Post-Persuasion Elections
-- Klein, Chapter 8: When Bipartisanship Becomes Irrational  
-- Klein, Chapter 9: The Difference between Democrats and Republicans  
-- Klein, Chapter 10: Managing Polarization—and Ourselves
 
 # Course Schedule (Subject to Change as Semester Progresses):
 
@@ -308,7 +246,11 @@ Schuster. <https://books.google.com/books?id=1G6gDwAAQBAJ>.
 
 - Introduction to the Course; topic selection, draft privacy/free speech
   statement
-  - *No Reading*
+  - “Power, Performance, and Legitimacy.” Journal of Democracy.
+    <https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/>
+    - *Optional*: Lewsey, Story: Fred. 2020. “Faith in democracy:
+      millennials are the most disillusioned generation ‘in living
+      memory.’” <https://www.cam.ac.uk/stories/youthanddemocracy>
 
 ## August 28
 
@@ -321,128 +263,153 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
 
 ## September 2
 
+**America’s Founding: Enlightened or Enslaved?**
+
 1.  **The 1619 Project**
 
-- Title: “America Wasn’t a Democracy Until Black Americans Made It One”
-  – Essay by Nikole Hannah-Jones
+- “America Wasn’t a Democracy Until Black Americans Made It One” – Essay
+  by Nikole Hannah-Jones
   <https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-american-democracy.html>
   - Introduces the central thesis of the project: re-centering slavery
     and Black Americans in the nation’s founding narrative.
-- Title: “In Order to Understand the Brutality of American Capitalism,
-  You Have to Start on the Plantation” – Essay by Matthew Desmond
+- “In Order to Understand the Brutality of American Capitalism, You Have
+  to Start on the Plantation” – Essay by Matthew Desmond
   <https://www.nytimes.com/interactive/2019/08/14/magazine/slavery-capitalism.html>
   - Connects slavery to contemporary economic systems.
 
-2.  **The 1776 Report** – [Arnn, Larry P., Carol Swain, and Matthew
-    Spalding. 2021. The President’s Advisory 1776 Commission.
-    Washington, D.C: The White
-    House.](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf)
-    - Presents a traditionalist, patriotic framing of American founding
-      values.
+2.  **The 1776 Report**
+
+– [Arnn, Larry P., Carol Swain, and Matthew Spalding. 2021. The
+President’s Advisory 1776 Commission. Washington, D.C: The White
+House.](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf) -
+Presents a traditionalist, patriotic framing of American founding
+values.
 
 ## September 4
 
 1.  **The 1776 Report**
 
 - “AHA Statement Condemning Report of Advisory 1776 Commission.”
-  <https://www.historians.org/>.
-  <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
+  - <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
 - McKenna, Konstantin. 2025. “The 1776 Project Is a Desperate Search for
   the Right Enemies.” Foreign Policy.
-  <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
+  - <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
 
 2.  **The 1619 Project**
 
 - Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times
   Magazine.
-  <https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx>
-  (Accessed June 25, 2025).
+  - [https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?\_gl=1*av7vjw*\_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*\_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*\_ga_ZYQYTZTT61\*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx](https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx)
 - Silverstein, Jake. 2020. “On Recent Criticism of The 1619 Project.”
   The New York Times.
-  <https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html>
+  - <https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html>
 - “We Respond to the Historians Who Critiqued The 1619 Project.” 2019.
   The New York Times.
-  <https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html>
+  - <https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html>
 
 3.  **Optional for ambitious students**
 
 - Frederick Douglass, “What to the Slave is the Fourth of July?” (1852)
+  - (\~20 min read, historical context for both projects)
 
-- (\~20 min read, historical context for both projects)
+## September 9
+
+**Free Speech in Schools**
+
+- Chemerinsky, Erwin. 2024. “The Underlying Issues Concerning Free
+  Speech in Schools.” Stanford Law Review 76: 1427.
+
+- <https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
 
-Chemerinsky/Gillman, Chapter 1: The New Censorship Chemerinsky/Gillman,
-Chapter 2: Why Is Free Speech Important?
-
-## September 9
-
-Chemerinsky/Gillman, Chapter 3: Nullius in Verba: Free Speech at
-Colleges and Universities Chemerinsky/Gillman, Chapter 4: Hate Speech
+  - Chapter 1: The New Censorship
+  - Chapter 2: Why Is Free Speech Important?
+  - Chapter 3: Nullius in Verba: Free Speech at Colleges and
+    Universities
 
 ## September 11
 
-Chemerinsky/Gillman, Chapter 5: What Campuses Can and Can’t Do
-Chemerinsky/Gillman, Chapter 6: What’s at Stake?
+- Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
+  Paperback edition. New Haven ; London: Yale University Press.
+  - Chapter 4: Hate Speech
+  - Chapter 5: What Campuses Can and Can’t Do
+  - Chapter 6: What’s at Stake?
 
 ## September 16
 
-Student Topics
+**Racism in Policing**
+
+*Guest Lecture*: Ralph L. Bangs
+
+- Former Associate Director, Center on Race and Social Problems, School
+  of Social Work, University of Pittsburgh
+
+- “Pittsburgh’s Massive Racial Disparities in Police Actions, 2021-2023”
+
+  - [Op-Ed Link:
+    https://www.canva.com/design/DAGQTToI1A0/q3ld4QrnSxyaBG8aMxJIRQ/view?utm_content=DAGQTToI1A0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGQTToI1A0/q3ld4QrnSxyaBG8aMxJIRQ/view?utm_content=DAGQTToI1A0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+- “Police Discrimination Against Black Youth Under Age 18”
+
+  - [Op-Ed Link:
+    https://www.canva.com/design/DAGSX13mhds/KJRJOKXLUTgJiJTZqrWk3Q/view?utm_content=DAGSX13mhds&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGSX13mhds/KJRJOKXLUTgJiJTZqrWk3Q/view?utm_content=DAGSX13mhds&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## September 18
 
-Student Topics
+- Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
+  Schuster.
+  - <https://books.google.com/books?id=1G6gDwAAQBAJ>
+- Klein, Introduction: What Didn’t Happen
+- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
+  Conservatives
 
 ## September 23
 
-- Partisan Polarization
+- Klein, Chapter 2: The Dixiecrat Dilemma
+- Klein, Chapter 3: Your Brain on Groups
 
 ## September 25
 
-Ideological Polarization
+- Klein, Chapter 4: The Press Secretary in Your Mind
+- Klein, Chapter 5: Demographic Threat
 
 ## September 30
 
-Student Topics
-
-- Immigration Politics
-  - <https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/>  
-  - <https://www.cfr.org/backgrounder/us-immigration-debate-0>
+- Klein, Chapter 6: The Media Divide beyond Left-Right
+- Klein, Chapter 7: Post-Persuasion Elections
 
 ## October 2
 
-Student Topics
+- Klein, Chapter 8: When Bipartisanship Becomes Irrational
+- Klein, Chapter 9: The Difference between Democrats and Republicans
+- Klein, Chapter 10: Managing Polarization—and Ourselves
 
 ## October 7
-
-- Affective Polarization
-  - Iyengar, Shanto, Yphtach Lelkes, Matthew Levendusky, Neil Malhotra,
-    et al. 2019. “The Origins and Consequences of Affective Polarization
-    in the United States.” Annual Review of Political Science 22(1):
-    129–146.
-    <https://www.annualreviews.org/doi/10.1146/annurev-polisci-051117-073034>
-    (Accessed October 18, 2022).
-
-## October 9
 
 - The Internet and Social Media
   - Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
     Developing Democracies: The Impact of the Internet, Social Media,
     and Polarization.” Annual Review of Political Science 28(Volume 28,
     2025): 413–434.
-    <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>
-    (Accessed June 24, 2025).
+    <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>.
   - Barrett, Paul, Justin Hendrix, and Grant Sims. 2021. Fueling the
     Fire: How Social Media Intensifies U.S. Political Polarization And
     What Can Be Done About It. NYU Stern Center for Business and Human
     Rights.
-    <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>
-    (Accessed June 24, 2025).
+    <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>.
   - Shapiro, Ari. 2022. “How the polarizing effect of social media is
     speeding up.” NPR.
-    <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>
-    (Accessed June 24, 2025).
+    <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>.
+
+## October 9
+
+Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
+Rise of Donald Trump.” In The Changing Character of the American Right,
+Volume I: Ideology, Politics and Policy in the Era of Trump, eds. Joel
+D. Aberbach et al. Cham: Springer Nature Switzerland, p. 79–94.
+<https://doi.org/10.1007/978-3-031-73168-6_4>
 
 ## October 14
 
@@ -452,17 +419,51 @@ Student Topics
 
 **FALL BREAK**, no class
 
-## October 21
+## October 21, October 23, October 28, October 30
 
-Student Topics
+Book Review Presentations Begin
 
-## October 23
+7-10 per session, 8 minutes each (Randomly Order Presentations)
 
-Student Topics
-
-## October 28
-
-## October 30
+1.  Cameron Ahmed
+2.  Margaret Bush
+3.  Anthony Cacciato
+4.  Jeffrey Chen
+5.  Ryan Cole
+6.  Daniel Contreras
+7.  Sam Curry
+8.  Ryan Dannegger
+9.  Edison Dao
+10. Michael Della Valla
+11. Alexander Du
+12. Johnny Gallick
+13. Cici Ge
+14. Destiny Gibson-Brown
+15. Valerio Gomez-Frittelli
+16. Eli Half
+17. Aleksaundra Handrinos
+18. Wenda Huang
+19. Vionnie Khong
+20. Sarah Kiefer
+21. Elliot Liermann
+22. Zoey Ling
+23. Josh London
+24. Marius Mazzeo
+25. Miranda Meuse
+26. Tiago Neves
+27. Jun Hee Oh
+28. Vaishnavi Palasamudrum
+29. Ruhani Patel
+30. Sahana Patel
+31. Yuliana Rossi
+32. Peter Spivack
+33. Mai Swendsen
+34. Jennie Tian
+35. Eden Tsvetkov
+36. Helene Vestrum
+37. Zichu Wang
+38. Audrey Weiss
+39. Isaac Young
 
 ## November 4
 
@@ -480,13 +481,23 @@ participate as their schedules allow.*
 
 ## November 6
 
+Student led topics/debates
+
 ## November 11
+
+Student led topics/debates
 
 ## November 13
 
+Student led topics/debates
+
 ## November 18
 
+Student led topics/debates
+
 ## November 20
+
+Student led topics/debates
 
 ## November 25
 
@@ -498,154 +509,39 @@ No class because many people will be missing.
 
 ## December 2
 
+Student led topics/debates
+
 ## December 4
 
-- Final Class
+Student led topics/debates
 
 ------------------------------------------------------------------------
 
-- No Topic/Readings
-- Evaluate Critical Readings
+**Immigration Politics**
+
+- <https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/>
+- <https://www.cfr.org/backgrounder/us-immigration-debate-0>
 
 ------------------------------------------------------------------------
 
-## November 4
+**Affirmative Action** (STUDENTS FOR FAIR ADMISSIONS, INC. v. PRESIDENT
+AND FELLOWS OF HARVARD COLLEGE, No. 20–1199) - Decided June 29, 2023
 
-- 
-
-------------------------------------------------------------------------
-
-“America’s Crisis of Civic Virtue.” Journal of Democracy.
-<https://www.journalofdemocracy.org/articles/americas-crisis-of-civic-virtue/>
-(Accessed July 3, 2025). - The world is witnessing a loss of faith in
-both capitalism and democracy, which seemed nearly unimaginable just a
-generation ago.
-
-Grant, Adam. 2024. “Opinion \| No, You Don’t Get an A for Effort.” The
-New York Times.
-<https://www.nytimes.com/2024/12/26/opinion/school-grades-a-quantity-quality.html>
-(Accessed July 3, 2025).
-
-Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
-Rise of Donald Trump.” In The Changing Character of the American Right,
-Volume I: Ideology, Politics and Policy in the Era of Trump, eds. Joel
-D. Aberbach et al. Cham: Springer Nature Switzerland, p. 79–94.
-<https://doi.org/10.1007/978-3-031-73168-6_4> (Accessed July 3, 2025).
-
-- What is Political Polarization?
-  - *Reading:* Fiorina, Morris P., and Samuel J. Abrams. “Political
-    polarization in the American public.” Annual Review of Political
-    Science 11 (2008). [**Available
-    Online**](https://www.annualreviews.org/docserver/fulltext/pl/11/1/annurev.polisci.11.053106.153836.pdf?expires=1724260397&id=id&accname=ar-222951&checksum=EA941029DC4BBEDC335C5AAACCB30990).
-  - *Reading:* Layman, Geoffrey C., Thomas M. Carsey, and Juliana
-    Menasce Horowitz. 2006. “Party Polarization in American Politics:
-    Characteristics, Causes, and Consequences.” Annual Review of
-    Political Science 9(Volume 9, 2006): 83–110. [**Available
-    Online**](https://www.annualreviews.org/content/journals/10.1146/annurev.polisci.9.070204.105138)
-    - *Optional:* Hare, Christopher, and Keith T. Poole. “The
-      polarization of contemporary American politics.” Polity 46.3
-      (2014): 411-429.  
-    - *Optional:* Wagner, Markus. 2021. “Affective polarization in
-      multiparty systems.” Electoral Studies 69: 102199.
-    - *Optional:* Hahm, Hyeonho, David Hilpert, and Thomas König. 2024.
-      “Divided We Unite: The Nature of Partyism and the Role of
-      Coalition Partnership in Europe.” American Political Science
-      Review 118(1): 69–87.
-    - *Optional:* Lee, Frances E. 2015. “How Party Polarization Affects
-      Governance.” Annual Review of Political Science 18(1): 261–282.
-      [**Available
-      Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-072012-113747)
-    - *Optional:* Seimel, Armin. 2024. “Elite polarization — The boon
-      and bane of democracy: Evidence from thirty democracies.”
-      Electoral Studies 90: 102801.
-- Affective Polarization
-  - *Reading:* Iyengar, Shanto, Yphtach Lelkes, Matthew Levendusky, Neil
-    Malhotra, et al. 2019. “The Origins and Consequences of Affective
-    Polarization in the United States.” Annual Review of Political
-    Science 22(1): 129–146. [**Available
-    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051117-073034).
-- Ideological Polarization
-  - *Reading:* Carmines, Edward G., and Nicholas J. D’Amico. 2015. “The
-    New Look in Political Ideology Research.” Annual Review of Political
-    Science 18(1): 205–216. [**Available
-    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-060314-115422).
-- Negative Partisanship
-  - *Optional:* Abramowitz, Alan I., and Steven Webster. 2016. “The rise
-    of negative partisanship and the nationalization of U.S. elections
-    in the 21st century.” Electoral Studies 41: 12–22. [**Available
-    Online**](https://www.sciencedirect.com/science/article/pii/S0261379415001857).
-- Judicial Polarization
-  - *Reading:* Hasen, Richard L. 2019. “Polarization and the Judiciary.”
-    Annual Review of Political Science 22(1): 261–276. [**Available
-    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-051317-125141).
-- Nationalization
-  - *Reading:* Amlani, Sharif, and Carlos Algara. 2021. “Partisanship &
-    nationalization in American elections: Evidence from presidential,
-    senatorial, & gubernatorial elections in the U.S. counties,
-    1872–2020.” Electoral Studies 73: 102387. [**Available
-    Online**](https://linkinghub.elsevier.com/retrieve/pii/S0261379421001050).
-- Media’s Role in Political Polarization
-  - *Reading:* Prior, Markus. 2013. “Media and Political Polarization.”
-    Annual Review of Political Science 16(1): 101–127. [**Available
-    Online**](https://www.annualreviews.org/doi/10.1146/annurev-polisci-100711-135242).
-    - *Optional:* Amy Mitchell, Jeffrey Gottfried, Jocelyn Kiley, and
-      Katerina Eva Matsa.”Political Polarization & Media Habits.” Pew
-      Research Center. October 21, 2014.
-      <https://www.pewresearch.org/journalism/2014/10/21/political-polarization-media-habits/>
-    - *Optional:* Wlezien, Christopher, and Stuart Soroka. 2023. “Media
-      Reflect! Policy, the Public, and the News.” American Political
-      Science Review: 1–7. [**Available
-      Online**](https://www.cambridge.org/core/journals/american-political-science-review/article/media-reflect-policy-the-public-and-the-news/3BA7DD4A001E03748357F35A01562217).
-- Social Media and Echo Chambers
-  - *Reading:* Phillips, Samantha C., Kathleen M. Carley, and Kenneth
-    Joseph. 2024. “Why do people think liberals drink lattes? How social
-    media afforded self-presentation can shape subjective social
-    sorting.” [**Available Online**](http://arxiv.org/abs/2404.02338).
-    - *Optional but important:* Barberá, Pablo. “Social Media, Echo
-      Chambers, and Political Polarization” in Persily, Nathaniel, and
-      Joshua A. Tucker, eds. 2020. Social Media and Democracy: The State
-      of the Field, Prospects for Reform. 1st ed. Cambridge University
-      Press. [**Available
-      Online**](https://www.cambridge.org/core/product/identifier/9781108890960/type/book).
-      p. 34-55.
-    - *Optional:* Guess, Andrew M. et al. 2023. “How do social media
-      feed algorithms affect attitudes and behavior in an election
-      campaign?” Science 381(6656): 398–404.
-      <https://www.science.org/doi/10.1126/science.abp9364>.
-    - *Optional:* González-Bailón, Sandra et al. 2023. “Asymmetric
-      ideological segregation in exposure to political news on
-      Facebook.” Science 381(6656): 392–398.
-      <https://www.science.org/doi/10.1126/science.ade7138>.
-    - *Optional:* Guess, Andrew M. et al. 2023. “Reshares on social
-      media amplify political news but do not detectably affect beliefs
-      or opinions.” Science 381(6656): 404–408.
-      <https://www.science.org/doi/10.1126/science.add8424>.
-    - *Optional:* Nyhan, Brendan et al. 2023. “Like-minded sources on
-      Facebook are prevalent but not polarizing.” Nature 620(7972):
-      137–144. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10396953/>.
-    - *Optional:* Allcott, Hunt et al. “The effects of Facebook and
-      Instagram on the 2020 election: A deactivation experiment.”
-      Proceedings of the National Academy of Sciences of the United
-      States of America 121(21): e2321584121.
-      <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11126999/>.
-    - *Optional:* Törnberg, Petter. 2022. “How digital media drive
-      affective polarization through partisan sorting.” Proceedings of
-      the National Academy of Sciences 119(42): e2207159119.
-      <https://pnas.org/doi/10.1073/pnas.2207159119>
-    - *Optional:* Waller, Isaac, and Ashton Anderson. 2021. “Quantifying
-      social organization and political polarization in online
-      platforms.” Nature 600(7888): 264–268.
-      <https://www.nature.com/articles/s41586-021-04167-x>
-    - *Optional:* Dominic Spohr. 2017. “Fake news and ideological
-      polarization.” Business Information Review 34(3): 150–160.
-      <https://journals.sagepub.com/doi/epdf/10.1177/0266382117722446>
-    - *Optional:* Jost, John T., Delia S. Baldassarri, and James N.
-      Druckman. 2022. “Cognitive–motivational mechanisms of political
-      polarization in social-communicative contexts.” Nature Reviews
-      Psychology 1(10): 560–576.
-      <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9342595/>
-
-------------------------------------------------------------------------
+- Opinion of the Court
+  - ROBERTS, C. J., delivered the opinion of the Court, in which THOMAS,
+    ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined.
+    - <https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf>
+- Dissent
+  - SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN, J.,
+    joined, and in which JACKSON, J., joined as it applies to
+    No. 21–707.
+- Concurring & other Dissenting Opinions
+  - THOMAS, J., filed a concurring opinion.
+  - GORSUCH, J., filed a concurring opinion, in which THOMAS, J.,
+    joined.
+  - KAVANAUGH, J., filed a concurring opinion.
+  - JACKSON, J., filed a dissenting opinion in No. 21–707, in which
+    SOTOMAYOR and KAGAN, JJ., joined.
 
 ------------------------------------------------------------------------
 
@@ -713,15 +609,21 @@ However, you **may not use AI to generate substantive content that you
 submit as your own original work**. All assignments, essays, and
 projects must reflect your own analysis, critical thinking, and voice.
 
-**Permitted Uses of AI:** - Outlining or organizing your thoughts -
-Checking grammar, spelling, or clarity - Generating ideas or prompts to
-help you get started - Reviewing your own drafts for readability
+**Permitted Uses of AI:**
 
-**Prohibited Uses of AI:** - Submitting AI-generated essays, paragraphs,
-or answers as your own work - Using AI to complete assignments,
-discussion posts, or projects in place of your own effort - Copying and
-pasting AI-generated content without substantial revision and personal
-input
+- Outlining or organizing your thoughts
+- Checking grammar, spelling, or clarity
+- Generating ideas or prompts to help you get started
+- Reviewing your own drafts for readability
+
+**Prohibited Uses of AI:**
+
+- Submitting AI-generated essays, paragraphs, or answers as your own
+  work
+- Using AI to complete assignments, discussion posts, or projects in
+  place of your own effort
+- Copying and pasting AI-generated content without substantial revision
+  and personal input
 
 If you use AI tools in your process, you must **disclose** how you used
 them in a brief note at the end of your assignment (e.g., “I used
