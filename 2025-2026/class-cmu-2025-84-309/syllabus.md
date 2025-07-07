@@ -50,19 +50,10 @@ interactive: your preparation (completing the readings), contributions
 to discussions, and participation in debates are essential to your
 success.
 
-*Attendance & Participation* Regular attendance and active involvement
-form a significant part of your final grade (see grading section). To
-recognize that occasional absences are sometimes unavoidable (e.g., for
-religious observance, job interviews, university-sanctioned events, or
-illness), you are allowed two excused absences without penalty. If you
-must miss class, please notify me at least 24 hours in advance (unless
-it’s an emergency or sudden illness) so we can arrange a way for you to
-catch up.[^4]
-
 *Assignments & Deadlines* You are expected to meet all assignment
 deadlines. If you anticipate being unable to turn something in on time,
 contact me before the due date to discuss alternatives. Late work will
-incur a small penalty[^5] provided it does not impede your classmates’
+incur a small penalty[^4] provided it does not impede your classmates’
 progress (for instance, in group projects). Failing to participate or
 contribute meaningfully, especially in ways that affect others’ work,
 will result in a lower grade.
@@ -74,16 +65,15 @@ The course grade will be a weighted average of the following components:
 | Assignment                                   | Percent of Final Grade |
 |----------------------------------------------|------------------------|
 | **Participation**                            | **20%**                |
-| • *Discussion*                               | *(20%)*                |
+| • *Discussion* & *Student Led Topics*        | *(20%)*                |
 | • *Attendance*                               | *(10%)*                |
-| **Weekly Reflection Journals**               | **10%**                |
+| **Weekly Reflection Journals**               | **15%**                |
 | **Writing Modules** (3)                      | **3%**                 |
 | **Book Review + Presentation**               | **15%**                |
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
 | • *8-minute Presentation*                    | *(5%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
-| **AI-Powered Debate Simulation** (2)         | **10%**                |
-| **Structured In-Class Debate/Dialogue**      | **10%**                |
+| **AI-Powered Debate Simulation** (3)         | **15%**                |
 | **Final Capstone: Group Policy Brief**       | **12%**                |
 
 # Due Dates
@@ -97,7 +87,6 @@ The course grade will be a weighted average of the following components:
 | Op-ed, first draft           | September 22                        |
 | Op-ed peer review            | September 25                        |
 | Op-ed final draft            | September 29                        |
-| Debate                       | TBD                                 |
 | Group Project                | December 2/4                        |
 
 # Assignment Details
@@ -110,14 +99,33 @@ The course grade will be a weighted average of the following components:
 - Active, respectful involvement in class discussions, including
   preparedness (e.g., completing readings) and thoughtful contributions.
 - Can include small-group work and peer feedback.
+- Must be co-leader for one in-class discussion, including assigning
+  readings, preparing discussion questions, and leading the class
+  discussion.
 
-## Weekly Reflection Journals (10%)
+*Attendance & Participation* Regular attendance and active involvement
+form a significant part of your final grade (see grading section). To
+recognize that occasional absences are sometimes unavoidable (e.g., for
+religious observance, job interviews, university-sanctioned events, or
+illness), attendance grades will be calculated using an exponential
+function. 1–2 absences → mild penalty, 6+ absences → sharp drop (serious
+consequences).
+$$s(A) = 100 \cdot \left(1 - \frac{1 - e^{-kA}}{1 - e^{-kT}} \right)$$
+where $$k=0.1$$ and A is the number of absences and T is the total
+number of classes.
+
+If you must miss class, please notify me at least 24 hours in advance
+(unless it’s an emergency or sudden illness) so we can arrange a way for
+you to catch up.[^5]
+
+## Weekly Reflection Journals (15%)
 
 *Purpose*: Personal reflection, connection to course theme  
 *Objective Alignment*: 1, 2, 4, 8
 
 - Short (300-500 word) reflections on how class topics connect to
   current events, reactions to course readings, or evolving viewpoints.
+- Graded as complete/incomplete based on effort and engagement.
 
 ## Writing Modules (3%)
 
@@ -209,16 +217,6 @@ learning
 - *Goal*: Understand ideological nuance and test one’s arguments against
   realistic opposition.
 - *Deliverables*: Transcript
-
-## Debate or Structured Dialogue (10%)
-
-*Purpose*: Verbal reasoning, empathy, respectful engagement *Objective
-Alignment*: 4, 6, 7
-
-- Students argue or explore opposing views on controversial topics in
-  pairs or teams.
-- Graded on preparation, clarity, and respectful engagement—not just
-  “winning.”
 
 ## Final Capstone: Group Policy Brief (30%)
 
@@ -334,8 +332,6 @@ values.
   - Chapter 3: Nullius in Verba: Free Speech at Colleges and
     Universities
   - Chapter 4: Hate Speech
-  - Chapter 5: What Campuses Can and Can’t Do
-  - Chapter 6: What’s at Stake?
 
 ## September 16
 
@@ -371,20 +367,10 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 ## September 18
 
-- The Internet and Social Media
-  - Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
-    Developing Democracies: The Impact of the Internet, Social Media,
-    and Polarization.” Annual Review of Political Science 28(Volume 28,
-    2025): 413–434.
-    <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>.
-  - Barrett, Paul, Justin Hendrix, and Grant Sims. 2021. Fueling the
-    Fire: How Social Media Intensifies U.S. Political Polarization And
-    What Can Be Done About It. NYU Stern Center for Business and Human
-    Rights.
-    <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>.
-  - Shapiro, Ari. 2022. “How the polarizing effect of social media is
-    speeding up.” NPR.
-    <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>.
+- Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
+  Paperback edition. New Haven ; London: Yale University Press.
+  - Chapter 5: What Campuses Can and Can’t Do
+  - Chapter 6: What’s at Stake?
 
 ## September 23
 
@@ -397,6 +383,21 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 ## September 25
 
+**The Internet and Social Media**
+
+- Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
+  Developing Democracies: The Impact of the Internet, Social Media, and
+  Polarization.” Annual Review of Political Science 28(Volume 28, 2025):
+  413–434.
+  <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>.
+- Barrett, Paul, Justin Hendrix, and Grant Sims. 2021. Fueling the Fire:
+  How Social Media Intensifies U.S. Political Polarization And What Can
+  Be Done About It. NYU Stern Center for Business and Human Rights.
+  <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>.
+- Shapiro, Ari. 2022. “How the polarizing effect of social media is
+  speeding up.” NPR.
+  <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>.
+
 ## September 30
 
 - Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
@@ -405,21 +406,24 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 - Klein, Introduction: What Didn’t Happen
 - Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
   Conservatives
+
+## October 2
+
 - Klein, Chapter 2: The Dixiecrat Dilemma
 - Klein, Chapter 3: Your Brain on Groups
+
+## October 7
+
 - Klein, Chapter 4: The Press Secretary in Your Mind
 - Klein, Chapter 5: Demographic Threat
+
+## October 9
+
 - Klein, Chapter 6: The Media Divide beyond Left-Right
 - Klein, Chapter 7: Post-Persuasion Elections
 - Klein, Chapter 8: When Bipartisanship Becomes Irrational
 - Klein, Chapter 9: The Difference between Democrats and Republicans
 - Klein, Chapter 10: Managing Polarization—and Ourselves
-
-## October 2
-
-## October 7
-
-## October 9
 
 ## October 14
 
@@ -826,8 +830,8 @@ Below are some potential questions students may have…
     take note of student feedback and course schedule will evolve based
     on student preferences
 
-[^4]: If you need to miss more than two sessions due to extenuating
+[^4]: Typically one percentage point per day
+
+[^5]: If you need to miss more than two sessions due to extenuating
     circumstances, let me know as soon as possible so we can discuss how
     best to support you.
-
-[^5]: Typically one percentage point per day
