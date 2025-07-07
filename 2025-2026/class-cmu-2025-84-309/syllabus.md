@@ -108,6 +108,7 @@ observance, job interviews, university-sanctioned events, or illness),
 attendance grades will be calculated using an exponential function. 1–2
 absences → mild penalty, 6+ absences → sharp drop (serious
 consequences).
+
 $$s(A) = 100 \cdot \left(1 - \frac{1 - e^{-kA}}{1 - e^{-kT}} \right)$$
 where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
