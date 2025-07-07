@@ -45,16 +45,17 @@ By the end of this course, students will be able to:
 
 # Due Dates
 
-| Assignment                   | Due Date            |
-|------------------------------|---------------------|
-| Weekly Reflection Journals   | Due Sundays, weekly |
-| Book Review                  | October 13.         |
-| AI-Powered Debate Simulation | Five times total    |
-| Op-ed, first draft           | September 22        |
-| Op-ed peer review            | September 25        |
-| Op-ed final draft            | September 29        |
-| Debate                       | TBD                 |
-| Group Project                | December 2/4        |
+| Assignment                   | Due Date                            |
+|------------------------------|-------------------------------------|
+| Weekly Reflection Journals   | Due Sundays, weekly                 |
+| Writing Modules (3)          | August 28, September 2, September 4 |
+| Book Review                  | October 13                          |
+| AI-Powered Debate Simulation | Five times total                    |
+| Op-ed, first draft           | September 22                        |
+| Op-ed peer review            | September 25                        |
+| Op-ed final draft            | September 29                        |
+| Debate                       | TBD                                 |
+| Group Project                | December 2/4                        |
 
 # Grading
 
@@ -86,37 +87,58 @@ The course grade will be a weighted average of the following components:
 
 | Assignment                                   | Percent of Final Grade |
 |----------------------------------------------|------------------------|
-| Participation                                | **20%**                |
-| Discussion                                   | **20%**                |
+| **Participation**                            | **20%**                |
+| • *Discussion*                               | *(20%)*                |
 | • *Attendance*                               | *(10%)*                |
-| Weekly Reflection Journals                   | 10%                    |
-| Book Review + Presentation                   | **15%**                |
+| **Weekly Reflection Journals**               | **10%**                |
+| **Writing Modules** (3)                      | **3%**                 |
+| **Book Review + Presentation**               | **15%**                |
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
 | • *10-minute Presentation*                   | *(5%)*                 |
-| Op-Ed Project (Rough Draft + Final)          | 20%                    |
-| AI-Powered Debate Simulation                 | 10%                    |
-| Structured In-Class Debate/Dialogue          | 10%                    |
-| Final Capstone: Group Policy Brief           | 25%                    |
+| **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
+| **AI-Powered Debate Simulation**             | **10%**                |
+| **Structured In-Class Debate/Dialogue**      | **10%**                |
+| **Final Capstone: Group Policy Brief**       | **22%**                |
 
 # Assignment Details
 
-## Participation & Discussion (15%)[^6]
+## Participation & Discussion (15%)
 
+- *Purpose*: Civic discourse, empathy, critical thinking
 - *Objective Alignment*: 4, 6, 8
 - Active, respectful involvement in class discussions, including
   preparedness (e.g., completing readings) and thoughtful contributions.
 - Can include small-group work and peer feedback.
 
-## Weekly Reflection Journals (10%)[^7]
+## Weekly Reflection Journals (10%)
 
+- *Purpose*: Personal reflection, connection to course theme
 - *Objective Alignment*: 1, 2, 4, 8
 - Short (300-500 word) reflections on how class topics connect to
   current events, reactions to course readings, or evolving viewpoints.
 
-## Book Review Assignment Details (15%)[^8]
+## Writing Modules (3%)
 
+- *Purpose*: Language (vocabulary, tone, social conventions) is
+  appropriate and aligned to audience’s needs. Evidence (types,
+  placement, volume, specificity) is appropriate and aligned to
+  audience’s needs
+- *Objective Alignment*: 1, 3, 5
+- Students complete 1 module per day (may not complete all at once).
+  Canvas will make activity 2 and 3 available 24 hours after a student
+  completes previous activity
+- Not grade for completion, but for effort and engagement.
+- Module 1: Adapting Writing for a New Audience
+- Module 2: Creating an Audience Profile
+- Module 3: Revising Writing to provide audience-focused feedback
+
+## Book Review Assignment Details (15%)
+
+- *Purpose*: Deep analysis, critical evaluation, communication
 - *Objective Alignment*: 1, 2, 3, 4, 6, 7  
-- **Written Review** (10%)[^9]
+- **Written Review** (10%)
+  - *Purpose*: Argument analysis, assumption critique, implication
+    discussion
   - *Length*: 3-5 single-spaced pages (approx. 1,500–2,500 words)  
   - *Content Guidelines*:
     - Summarize the author’s central argument(s) succinctly.  
@@ -128,7 +150,8 @@ The course grade will be a weighted average of the following components:
     - Make connections to course themes such as inequality,
       polarization, or justice.  
     - Use citations for any quoted or paraphrased material.  
-- **Presentation** (5%)[^10]
+- **Presentation** (5%)
+  - *Purpose*: Verbal synthesis, peer engagement, clarity of thought  
   - *Format*: 10-minute in-class presentation, followed by 2-3 minutes
     of Q&A.  
   - *Expectations*:
@@ -137,8 +160,9 @@ The course grade will be a weighted average of the following components:
     - Use slides, visuals, or handouts to aid clarity (optional).  
     - Encourage discussion by posing a question or provocation.
 
-## Op-ed w/ peer-review[^11]
+## Op-ed w/ peer-review
 
+- *Purpose*: Persuasive writing, revision, public engagement
 - *Objective Alignment*: 1, 2, 3, 5, 7
 - **Written Paper** (10%)
   - Drawing on a topic related to this course, or something political
@@ -149,8 +173,10 @@ The course grade will be a weighted average of the following components:
     grammar (e.g., “Is the thesis clear?”, “Is evidence convincing?”,
     “Does it speak to a broader audience?”).
 
-## AI-Powered Debate Simulation (10%)[^12]
+## AI-Powered Debate Simulation (10%)
 
+- *Purpose*: Perspective-taking, applied argumentation, tech-enhanced
+  learning
 - *Objective Alignment*: 4, 5, 6, 8
   - *Description*: Students interact with or program AI-generated
     personas (e.g., a libertarian voter, environmental activist, rural
@@ -162,16 +188,18 @@ The course grade will be a weighted average of the following components:
   - *Deliverables*: A short reflection or transcript + analysis of what
     students learned from the AI interaction.
 
-## Debate or Structured Dialogue (10%)[^13]
+## Debate or Structured Dialogue (10%)
 
+- *Purpose*: Verbal reasoning, empathy, respectful engagement
 - *Objective Alignment*: 4, 6, 7  
 - Students argue or explore opposing views on controversial topics in
   pairs or teams.  
 - Graded on preparation, clarity, and respectful engagement—not just
   “winning.”
 
-## Final Capstone: Group Policy Brief (30%) [^14]
+## Final Capstone: Group Policy Brief (30%)
 
+- *Purpose*: Research, equity-centered solutions, teamwork
 - *Objective Alignment*: 3, 5, 7
 - **Written Brief**: Small teams choose a politically polarizing issue
   tied to inequality (e.g., gerrymandering, Medicaid expansion, tech
@@ -188,9 +216,24 @@ The course grade will be a weighted average of the following components:
 
 ------------------------------------------------------------------------
 
-- Chemerinsky, Erwin. 2024. “The Underlying Issues Concerning Free
-  Speech in Schools.” Stanford Law Review 76: 1427.
-  <https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>.
+Affirmative action (STUDENTS FOR FAIR ADMISSIONS, INC. v. PRESIDENT AND
+FELLOWS OF HARVARD COLLEGE, No. 20–1199) - Decided June 29, 2023 -
+<https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf> - Opinion
+of the Court - ROBERTS, C. J., delivered the opinion of the Court, in
+which THOMAS, ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined. -
+Dissent - SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN, J.,
+joined, and in which JACKSON, J., joined as it applies to No. 21–707.
+
+- Concurring & other Dissenting Opinions
+- THOMAS, J., filed a concurring opinion.
+- GORSUCH, J., filed a concurring opinion, in which THOMAS, J., joined.
+- KAVANAUGH, J., filed a concurring opinion.
+- JACKSON, J., filed a dissenting opinion in No. 21–707, in which
+  SOTOMAYOR and KAGAN, JJ., joined.
+
+Free Speech in Schools - Chemerinsky, Erwin. 2024. “The Underlying
+Issues Concerning Free Speech in Schools.” Stanford Law Review 76: 1427.
+<https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>.
 
 Pick one? - Barker, Taylor J. 2024. “Expressive Association Claims for
 Private Universities.” Stanford Law Review 76: 1787.
@@ -294,34 +337,32 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
     Spalding. 2021. The President’s Advisory 1776 Commission.
     Washington, D.C: The White
     House.](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Presidents-Advisory-1776-Commission-Final-Report.pdf)
-
-- Presents a traditionalist, patriotic framing of American founding
-  values.
+    - Presents a traditionalist, patriotic framing of American founding
+      values.
 
 ## September 4
 
-- **The 1776 Report**
-  - “AHA Statement Condemning Report of Advisory 1776 Commission.”
-    <https://www.historians.org/>.
-    <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
-    (Accessed June 25, 2025).
-  - McKenna, Konstantin. 2025. “The 1776 Project Is a Desperate Search
-    for the Right Enemies.” Foreign Policy.
-    <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
-    (Accessed June 25, 2025).
-- **The 1619 Project**
-  - Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times
-    Magazine.
-    <https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx>
-    (Accessed June 25, 2025).
-  - Silverstein, Jake. 2020. “On Recent Criticism of The 1619 Project.”
-    The New York Times.
-    <https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html>
-    (Accessed June 25, 2025).
-  - “We Respond to the Historians Who Critiqued The 1619 Project.” 2019.
-    The New York Times.
-    <https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html>
-    (Accessed June 25, 2025).
+1.  **The 1776 Report**
+
+- “AHA Statement Condemning Report of Advisory 1776 Commission.”
+  <https://www.historians.org/>.
+  <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
+- McKenna, Konstantin. 2025. “The 1776 Project Is a Desperate Search for
+  the Right Enemies.” Foreign Policy.
+  <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
+
+2.  **The 1619 Project**
+
+- Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times
+  Magazine.
+  <https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx>
+  (Accessed June 25, 2025).
+- Silverstein, Jake. 2020. “On Recent Criticism of The 1619 Project.”
+  The New York Times.
+  <https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html>
+- “We Respond to the Historians Who Critiqued The 1619 Project.” 2019.
+  The New York Times.
+  <https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html>
 
 3.  **Optional for ambitious students**
 
@@ -474,6 +515,23 @@ No class because many people will be missing.
 
 ------------------------------------------------------------------------
 
+“America’s Crisis of Civic Virtue.” Journal of Democracy.
+<https://www.journalofdemocracy.org/articles/americas-crisis-of-civic-virtue/>
+(Accessed July 3, 2025). - The world is witnessing a loss of faith in
+both capitalism and democracy, which seemed nearly unimaginable just a
+generation ago.
+
+Grant, Adam. 2024. “Opinion \| No, You Don’t Get an A for Effort.” The
+New York Times.
+<https://www.nytimes.com/2024/12/26/opinion/school-grades-a-quantity-quality.html>
+(Accessed July 3, 2025).
+
+Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
+Rise of Donald Trump.” In The Changing Character of the American Right,
+Volume I: Ideology, Politics and Policy in the Era of Trump, eds. Joel
+D. Aberbach et al. Cham: Springer Nature Switzerland, p. 79–94.
+<https://doi.org/10.1007/978-3-031-73168-6_4> (Accessed July 3, 2025).
+
 - What is Political Polarization?
   - *Reading:* Fiorina, Morris P., and Samuel J. Abrams. “Political
     polarization in the American public.” Annual Review of Political
@@ -591,77 +649,16 @@ No class because many people will be missing.
 
 ------------------------------------------------------------------------
 
-# Student Privacy in Class Discussions
-
-This course will challenge you to think deeply about difficult and
-potentially provocative questions. You should be prepared to encounter
-material that may be unsettling or even offensive. If you’re not
-comfortable with the possibility of being offended, you might want to
-reconsider enrolling. However, if you choose to participate and find
-yourself disagreeing with something said by a classmate, or me, or with
-content from the readings, I encourage you to engage in thoughtful
-debate and present your own perspective. Simply disliking a viewpoint
-doesn’t invalidate it. My hope is that, regardless of how strongly we
-disagree or how passionately we advocate for our beliefs, we will always
-maintain respect and treat each other with dignity as we share and
-defend our ideas.
-
-In this course, we value the open exchange of ideas and respect the
-privacy of all students. To create a safe and supportive learning
-environment, the following guidelines regarding student privacy in class
-discussions will be strictly observed:
-
-1.  **Confidentiality**: Any personal information, opinions, or
-    experiences shared by students during class discussions, whether
-    in-person or online, are to be treated as confidential. Students are
-    prohibited from sharing or discussing this information outside of
-    class without explicit permission from the individuals involved.
-
-2.  **Respectful Communication**: Students are encouraged to express
-    their thoughts and ideas freely while remaining respectful of
-    others’ privacy. Avoid sharing details about other students’
-    contributions, identities, or personal circumstances outside the
-    classroom setting.
-
-3.  **Recording and Sharing**: Recording of class discussions, whether
-    audio, video, or text-based, is strictly prohibited. Anyone caught
-    making an unauthorized recording will automatically fail the
-    course—regardless of any accommodations they may have been granted.
-
-4.  **Online Discussions**: For online forums and discussions, similar
-    privacy standards apply. Students should be mindful of the public or
-    semi-public nature of online platforms and refrain from sharing
-    sensitive or personally identifiable information.
-
-5.  **Consequences for Breach of Privacy**: Violations of this privacy
-    policy may result in disciplinary action, which could include
-    removal from the course, a formal reprimand, or other consequences
-    as determined by the university’s code of conduct.
-
-6.  **Principle of Charity**: When engaging in discussions, apply the
-    principle of charity. This means interpreting others’ arguments in
-    the most reasonable and positive way before criticizing them. Assume
-    that others are making sincere attempts to contribute meaningfully,
-    and engage with their strongest points, not just the easiest to
-    refute.
-
-7.  **Space for Additional Context**: Acknowledge that opinions shared
-    in discussions may be based on limited information or experiences.
-    If a classmate’s perspective seems unclear or incomplete, allow them
-    the opportunity to provide additional context. Encourage questions
-    that seek to understand rather than dismiss others’ views.
-
-By participating in this course, you agree to uphold these privacy
-standards and contribute to a respectful, inclusive, and secure learning
-environment for all.
+## Student Privacy in Class Discussions
 
 ------------------------------------------------------------------------
 
-# Course Principles
+## Course Principles
 
 Throughout this course, we will engage with several key themes that
 intersect and build upon one another to deepen our understanding of the
 complex social and political landscape in the United States.
+Conversations should be open, free, and respectful.
 
 1.  **Analyzing a Range of Perspectives and Political Divides**  
     One of our primary themes is exploring how different communities’
@@ -704,6 +701,39 @@ complex social and political landscape in the United States.
 > nuanced perspective on how identity, power, and politics intersect—and
 > you’ll be equipped to contribute to meaningful change in your
 > communities.*
+
+## AI Use Policy for Student Work
+
+As artificial intelligence (AI) tools become increasingly accessible, it
+is important to clarify expectations for their use in this course. You
+are welcome to use AI technologies (such as ChatGPT, Grammarly, or
+similar tools) to support your independent work—such as brainstorming
+ideas, checking grammar, or improving the clarity of your writing.
+However, you **may not use AI to generate substantive content that you
+submit as your own original work**. All assignments, essays, and
+projects must reflect your own analysis, critical thinking, and voice.
+
+**Permitted Uses of AI:** - Outlining or organizing your thoughts -
+Checking grammar, spelling, or clarity - Generating ideas or prompts to
+help you get started - Reviewing your own drafts for readability
+
+**Prohibited Uses of AI:** - Submitting AI-generated essays, paragraphs,
+or answers as your own work - Using AI to complete assignments,
+discussion posts, or projects in place of your own effort - Copying and
+pasting AI-generated content without substantial revision and personal
+input
+
+If you use AI tools in your process, you must **disclose** how you used
+them in a brief note at the end of your assignment (e.g., “I used
+ChatGPT to help brainstorm ideas for my outline”.
+
+**Violations:**  
+Submitting AI-generated content as your own is considered academic
+dishonesty and will be treated as a violation of the university’s
+academic integrity policy.
+
+If you have questions about what is or is not allowed, please ask before
+submitting your work.
 
 ------------------------------------------------------------------------
 
@@ -889,23 +919,3 @@ Below are some potential questions students may have…
     best to support you.
 
 [^5]: Typically one percentage point per day
-
-[^6]: *Purpose*: Civic discourse, empathy, critical thinking
-
-[^7]: *Purpose*: Personal reflection, connection to course theme
-
-[^8]: *Purpose*: Deep analysis, critical evaluation, communication
-
-[^9]: *Purpose*: Argument analysis, assumption critique, implication
-    discussion
-
-[^10]: *Purpose*: Verbal synthesis, peer engagement, clarity of thought
-
-[^11]: *Purpose*: Persuasive writing, revision, public engagement
-
-[^12]: *Purpose*: Perspective-taking, applied argumentation,
-    tech-enhanced learning
-
-[^13]: *Purpose*: Verbal reasoning, empathy, respectful engagement
-
-[^14]: *Purpose*: Research, equity-centered solutions, teamwork
