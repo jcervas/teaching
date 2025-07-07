@@ -152,20 +152,21 @@ Not grade for completion, but for effort and engagement.
 *Purpose*: Deep analysis, critical evaluation, communication  
 *Objective Alignment*: 1, 2, 3, 4, 6, 7
 
-- **Written Review** (10%) *Purpose*: Argument analysis, assumption
-  critique, implication discussion
+- **Written Review** (10%)
 
-  - *Length*: 3-5 single-spaced pages (approx. 1,500–2,500 words)
-  - *Content Guidelines*:
-    - Summarize the author’s central argument(s) succinctly.
-    - Critically evaluate those arguments using logical reasoning and
-      textual evidence.
-    - Identify any assumptions or ideological lenses the author brings.
-    - Discuss broader political, ethical, or social implications.
-    - Make connections to course themes such as inequality,
-      polarization, or justice.
-    - Use citations for any quoted or paraphrased material.
+*Purpose*: Argument analysis, assumption critique, implication
+discussion
 
+- *Length*: 3-5 single-spaced pages (approx. 1,500–2,500 words)
+- *Content Guidelines*:
+  - Summarize the author’s central argument(s) succinctly.
+  - Critically evaluate those arguments using logical reasoning and
+    textual evidence.
+  - Identify any assumptions or ideological lenses the author brings.
+  - Discuss broader political, ethical, or social implications.
+  - Make connections to course themes such as inequality, polarization,
+    or justice.
+  - Use citations for any quoted or paraphrased material.
 - **Presentation** (5%)
 
 *Purpose*: Verbal synthesis, peer engagement, clarity of thought  
@@ -257,18 +258,18 @@ Alignment*: 3, 5, 7
 
 ## August 28
 
-- What is Political Polarization?
+**What is Political Polarization?**
 
-[Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
-in the United States: What the Research Says. Carnegie Endowment for
-International
-Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en)
+- Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
+  in the United States: What the Research Says. Carnegie Endowment for
+  International Peace.
+  - \[<https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en(https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>)
 
 ## September 2
 
 **America’s Founding: Enlightened or Enslaved?**
 
-1.  **The 1619 Project**
+1.  \_\*The 1619 Project\_
 
 - “America Wasn’t a Democracy Until Black Americans Made It One” – Essay
   by Nikole Hannah-Jones
@@ -280,7 +281,7 @@ Peace.](https://carnegieendowment.org/research/2023/09/polarization-democracy-an
   <https://www.nytimes.com/interactive/2019/08/14/magazine/slavery-capitalism.html>
   - Connects slavery to contemporary economic systems.
 
-2.  **The 1776 Report**
+2.  *The 1776 Report*
 
 – [Arnn, Larry P., Carol Swain, and Matthew Spalding. 2021. The
 President’s Advisory 1776 Commission. Washington, D.C: The White
@@ -290,7 +291,7 @@ values.
 
 ## September 4
 
-1.  **The 1776 Report**
+1.  *The 1776 Report*
 
 - “AHA Statement Condemning Report of Advisory 1776 Commission.”
   - <https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/>
@@ -298,7 +299,7 @@ values.
   the Right Enemies.” Foreign Policy.
   - <https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/>
 
-2.  **The 1619 Project**
+2.  *The 1619 Project*
 
 - Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times
   Magazine.
@@ -394,14 +395,14 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
   Developing Democracies: The Impact of the Internet, Social Media, and
   Polarization.” Annual Review of Political Science 28(Volume 28, 2025):
   413–434.
-  <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>.
+  - <https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-015559>
 - Barrett, Paul, Justin Hendrix, and Grant Sims. 2021. Fueling the Fire:
   How Social Media Intensifies U.S. Political Polarization And What Can
   Be Done About It. NYU Stern Center for Business and Human Rights.
-  <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>.
+  - <https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf>
 - Shapiro, Ari. 2022. “How the polarizing effect of social media is
   speeding up.” NPR.
-  <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>.
+  - <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>
 
 ## September 30
 
@@ -536,12 +537,12 @@ Group Policy Brief
 
 ------------------------------------------------------------------------
 
+## Potential topics for Student Led Discussions
+
 **Immigration Politics**
 
 - <https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/>
 - <https://www.cfr.org/backgrounder/us-immigration-debate-0>
-
-------------------------------------------------------------------------
 
 **Affirmative Action** (STUDENTS FOR FAIR ADMISSIONS, INC. v. PRESIDENT
 AND FELLOWS OF HARVARD COLLEGE, No. 20–1199) - Decided June 29, 2023
@@ -561,6 +562,10 @@ AND FELLOWS OF HARVARD COLLEGE, No. 20–1199) - Decided June 29, 2023
   - KAVANAUGH, J., filed a concurring opinion.
   - JACKSON, J., filed a dissenting opinion in No. 21–707, in which
     SOTOMAYOR and KAGAN, JJ., joined.
+
+**Birthright Citizenship**
+
+**Regulating AI**
 
 ------------------------------------------------------------------------
 
