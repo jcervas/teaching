@@ -43,20 +43,6 @@ By the end of this course, students will be able to:
 8.  **Reflect** on their own values, biases, and roles as civic
     participants in a divided society.
 
-# Due Dates
-
-| Assignment                   | Due Date                            |
-|------------------------------|-------------------------------------|
-| Weekly Reflection Journals   | Due Sundays, weekly                 |
-| Writing Modules (3)          | August 28, September 2, September 4 |
-| Book Review                  | October 13                          |
-| AI-Powered Debate Simulation | Five times total                    |
-| Op-ed, first draft           | September 22                        |
-| Op-ed peer review            | September 25                        |
-| Op-ed final draft            | September 29                        |
-| Debate                       | TBD                                 |
-| Group Project                | December 2/4                        |
-
 # Grading
 
 Your grade depends heavily on active engagement. This course is
@@ -96,9 +82,23 @@ The course grade will be a weighted average of the following components:
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
 | • *8-minute Presentation*                    | *(5%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
-| **AI-Powered Debate Simulation** (5)         | **10%**                |
+| **AI-Powered Debate Simulation** (2)         | **10%**                |
 | **Structured In-Class Debate/Dialogue**      | **10%**                |
 | **Final Capstone: Group Policy Brief**       | **12%**                |
+
+# Due Dates
+
+| Assignment                   | Due Date                            |
+|------------------------------|-------------------------------------|
+| Weekly Reflection Journals   | Due Sundays, weekly                 |
+| Writing Modules (3)          | August 28, September 2, September 4 |
+| Book Review                  | October 13                          |
+| AI-Powered Debate Simulation | Five times total                    |
+| Op-ed, first draft           | September 22                        |
+| Op-ed peer review            | September 25                        |
+| Op-ed final draft            | September 29                        |
+| Debate                       | TBD                                 |
+| Group Project                | December 2/4                        |
 
 # Assignment Details
 
@@ -343,18 +343,31 @@ values.
 
 *Guest Lecture*: Ralph L. Bangs
 
-- Former Associate Director, Center on Race and Social Problems, School
-  of Social Work, University of Pittsburgh
+*Former Associate Director, Center on Race and Social Problems, School
+of Social Work, University of Pittsburgh*
 
 - “Pittsburgh’s Massive Racial Disparities in Police Actions, 2021-2023”
-
+  July 1, 2024.
   - [Op-Ed Link:
     https://www.canva.com/design/DAGQTToI1A0/q3ld4QrnSxyaBG8aMxJIRQ/view?utm_content=DAGQTToI1A0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGQTToI1A0/q3ld4QrnSxyaBG8aMxJIRQ/view?utm_content=DAGQTToI1A0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-- “Police Discrimination Against Black Youth Under Age 18”
-
+- “Police Discrimination Against Black Youth Under Age 18” October 1,
+  2024.
   - [Op-Ed Link:
     https://www.canva.com/design/DAGSX13mhds/KJRJOKXLUTgJiJTZqrWk3Q/view?utm_content=DAGSX13mhds&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGSX13mhds/KJRJOKXLUTgJiJTZqrWk3Q/view?utm_content=DAGSX13mhds&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+Optional: - Bangs, R. “Fourth Amendment Problems with Pittsburgh Police
+Policies” February 2025 \*
+<https://www.crsp.pitt.edu/fourth-amendment-problems-pittsburgh-police-policies> -
+Bangs, R. “Pittsburgh Leaders Must Recognize the Serious Racial Problems
+in Police Actions” January 2025 \*
+<https://live-racesocialproblems-pitt.pantheonsite.io/pittsburgh-leaders-must-recognize-serious-racial-problems-police-actions> -
+Bangs, R. “Racial Disparities and Discrimination in Drug Arrest Charges
+by Pittsburgh Police, January-October 2022” November 2024 \*
+<https://www.crsp.pitt.edu/racial-disparities-and-discrimination-drug-arrest-charges-pittsburgh-police-january-october-2022> -
+Bangs, R. “New National Reports on Anti-Black Pretextual Traffic Stops
+and Frisks, Related Pittsburgh Police Data, and Recommendations” October
+15, 2024 \*
+<https://www.crsp.pitt.edu/new-national-reports-anti-black-pretextual-traffic-stops-and-frisks-related-pittsburgh-police-data>
 
 ## September 18
 
@@ -509,11 +522,11 @@ No class because many people will be missing.
 
 ## December 2
 
-Student led topics/debates
+Group Policy Brief
 
 ## December 4
 
-Student led topics/debates
+Group Policy Brief
 
 ------------------------------------------------------------------------
 
