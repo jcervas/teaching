@@ -70,9 +70,9 @@ The course grade will be a weighted average of the following components:
 | • *Student Led Topics*                       | *(5%)*                 |
 | **Weekly Reflection Journals**               | **15%**                |
 | **Writing Modules** (3)                      | **3%**                 |
-| **Book Review + Presentation**               | **15%**                |
+| **Book Review**                              | **12%**                |
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
-| • *8-minute Presentation*                    | *(5%)*                 |
+| • *In class Discussion*                      | *(2%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
 | **AI-Powered Debate Simulation** (3)         | **10%**                |
 | **Final Capstone: Group Policy Brief**       | **12%**                |
@@ -147,7 +147,7 @@ Not grade for completion, but for effort and engagement.
 - Module 2: Creating an Audience Profile
 - Module 3: Revising Writing to provide audience-focused feedback
 
-## Book Review Assignment Details (15%)
+## Book Review Assignment (12%)
 
 *Purpose*: Deep analysis, critical evaluation, communication  
 *Objective Alignment*: 1, 2, 3, 4, 6, 7
@@ -167,16 +167,14 @@ discussion
   - Make connections to course themes such as inequality, polarization,
     or justice.
   - Use citations for any quoted or paraphrased material.
-- **Presentation** (5%)
+- **In class Discussion** (2%)
 
 *Purpose*: Verbal synthesis, peer engagement, clarity of thought  
-*Format*: 10-minute in-class presentation, followed by 2-3 minutes of
-Q&A.
+*Format*: Small Group Discussions
 
 - *Expectations*:
   - Clear, engaging summary of key ideas from the book.
   - Highlight your critical take or most interesting insight.
-  - Use slides, visuals, or handouts to aid clarity (optional).
   - Encourage discussion by posing a question or provocation.
 
 ## Op-ed w/ peer-review (20%)
@@ -242,14 +240,21 @@ Alignment*: 3, 5, 7
 - **Presentation**: Teams present findings in a mock legislative or
   community forum during finals week.
 
+**What is Political Polarization?**
+
+- Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
+  in the United States: What the Research Says. Carnegie Endowment for
+  International Peace.
+  - \[<https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en(https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>)
+
 ------------------------------------------------------------------------
 
 # Course Schedule (Subject to Change as Semester Progresses):
 
 ## August 26: Syllabus Day
 
-- Introduction to the Course; topic selection, draft privacy/free speech
-  statement
+- **Introduction to the Course**; topic selection, draft privacy/free
+  speech statement
   - “Power, Performance, and Legitimacy.” Journal of Democracy.
     <https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/>
     - *Optional*: Lewsey, Story: Fred. 2020. “Faith in democracy:
@@ -258,12 +263,10 @@ Alignment*: 3, 5, 7
 
 ## August 28
 
-**What is Political Polarization?**
+**The Fence**
 
-- Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
-  in the United States: What the Research Says. Carnegie Endowment for
-  International Peace.
-  - \[<https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en(https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>)
+- President Farnam’s Statement about the Fence after Trump Visit
+  - [Link](https://view.connect.cmu.edu/?qs=9827695e1300b223c66dc479ff67774b2636d3862de5ba00c9a33d4302a496ddcaf11df3a82f9e278459b95e9d5ee66d1142ed95ebf2e444469cb9e124411e4d6f6a1f56aec0be5427e909c8e70b5fdc)
 
 ## September 2
 
@@ -389,6 +392,20 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 ## September 25
 
+- Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
+  Schuster.
+  - <https://books.google.com/books?id=1G6gDwAAQBAJ>
+- Klein, Introduction: What Didn’t Happen
+- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
+  Conservatives
+
+## September 30
+
+- Klein, Chapter 2: The Dixiecrat Dilemma
+- Klein, Chapter 3: Your Brain on Groups
+
+## October 2
+
 **The Internet and Social Media**
 
 - Larreguy, Horacio, and Pia J. Raffler. 2025. “Accountability in
@@ -404,32 +421,21 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
   speeding up.” NPR.
   - <https://www.npr.org/2022/09/09/1121295499/facebook-twitter-youtube-instagram-tiktok-social-media>
 
-## September 30
-
-- Klein, Ezra. 2020. Why We’re Polarized. Avid Reader Press / Simon &
-  Schuster.
-  - <https://books.google.com/books?id=1G6gDwAAQBAJ>
-- Klein, Introduction: What Didn’t Happen
-- Klein, Chapter 1: How Democrats Became Liberals and Republicans Became
-  Conservatives
-
-## October 2
-
-- Klein, Chapter 2: The Dixiecrat Dilemma
-- Klein, Chapter 3: Your Brain on Groups
-
 ## October 7
 
-- Klein, Chapter 4: The Press Secretary in Your Mind
-- Klein, Chapter 5: Demographic Threat
+**Guest, Jonathan Lai, Politico**
+
+Read his [bio here](https://www.politico.com/staff/jonathan-lai).
+
+- Topic and readings TBA
+  - (Public Funding of News)
+  - (distinquishing between “democracy” and “America”)
 
 ## October 9
 
-- Klein, Chapter 6: The Media Divide beyond Left-Right
-- Klein, Chapter 7: Post-Persuasion Elections
-- Klein, Chapter 8: When Bipartisanship Becomes Irrational
-- Klein, Chapter 9: The Difference between Democrats and Republicans
-- Klein, Chapter 10: Managing Polarization—and Ourselves
+**Guest, Jonathan Lai, Politico**
+
+Topic and readings TBA
 
 ## October 14
 
@@ -439,51 +445,25 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 **FALL BREAK**, no class
 
-## October 21, October 23, October 28, October 30
+## October 21
 
-Book Review Presentations Begin
+- Klein, Chapter 4: The Press Secretary in Your Mind
+- Klein, Chapter 5: Demographic Threat
 
-7-10 per session, 8 minutes each (Randomly Order Presentations)
+## October 23,
 
-1.  Cameron Ahmed
-2.  Margaret Bush
-3.  Anthony Cacciato
-4.  Jeffrey Chen
-5.  Ryan Cole
-6.  Daniel Contreras
-7.  Sam Curry
-8.  Ryan Dannegger
-9.  Edison Dao
-10. Michael Della Valla
-11. Alexander Du
-12. Johnny Gallick
-13. Cici Ge
-14. Destiny Gibson-Brown
-15. Valerio Gomez-Frittelli
-16. Eli Half
-17. Aleksaundra Handrinos
-18. Wenda Huang
-19. Vionnie Khong
-20. Sarah Kiefer
-21. Elliot Liermann
-22. Zoey Ling
-23. Josh London
-24. Marius Mazzeo
-25. Miranda Meuse
-26. Tiago Neves
-27. Jun Hee Oh
-28. Vaishnavi Palasamudrum
-29. Ruhani Patel
-30. Sahana Patel
-31. Yuliana Rossi
-32. Peter Spivack
-33. Mai Swendsen
-34. Jennie Tian
-35. Eden Tsvetkov
-36. Helene Vestrum
-37. Zichu Wang
-38. Audrey Weiss
-39. Isaac Young
+- Klein, Chapter 6: The Media Divide beyond Left-Right
+- Klein, Chapter 7: Post-Persuasion Elections
+
+## October 28,
+
+- Klein, Chapter 8: When Bipartisanship Becomes Irrational
+- Klein, Chapter 9: The Difference between Democrats and Republicans
+- Klein, Chapter 10: Managing Polarization—and Ourselves
+
+## October 30
+
+Student led topics/debates
 
 ## November 4
 
