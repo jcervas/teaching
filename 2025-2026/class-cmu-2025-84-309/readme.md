@@ -65,8 +65,8 @@ The course grade will be a weighted average of the following components:
 | Assignment                                   | Percent of Final Grade |
 |----------------------------------------------|------------------------|
 | **Participation**                            | **25%**                |
-| • *Discussion*                               | *(15%)*                |
-| • *Attendance*                               | *(15%)*                |
+| • *Discussion & In Class Assignments*        | *(10%)*                |
+| • *Attendance*                               | *(10%)*                |
 | • *Student Led Topics*                       | *(5%)*                 |
 | **Weekly Reflection Journals**               | **15%**                |
 | **Writing Modules** (3)                      | **3%**                 |
@@ -84,7 +84,7 @@ The course grade will be a weighted average of the following components:
 | Weekly Reflection Journals   | Due Sundays, weekly                 |
 | Writing Modules (3)          | August 28, September 2, September 4 |
 | Book Review                  | October 13                          |
-| AI-Powered Debate Simulation | Five times total                    |
+| AI-Powered Debate Simulation | Weeks 4, 6, 8, 10, and 12           |
 | Op-ed, first draft           | September 22                        |
 | Op-ed peer review            | September 25                        |
 | Op-ed final draft            | September 29                        |
@@ -97,31 +97,32 @@ The course grade will be a weighted average of the following components:
 *Purpose*: Civic discourse, empathy, critical thinking  
 *Objective Alignment*: 4, 6, 8
 
-*Participation* (15%): Active, respectful involvement in class
+*Participation* (10%): Active, respectful involvement in class
 discussions, including preparedness (e.g., completing readings) and
 thoughtful contributions.
 
-*Attendance* (15%) Regular attendance and active involvement form a
-significant part of your final grade (see grading section). To recognize
-that occasional absences are sometimes unavoidable (e.g., for religious
-observance, job interviews, university-sanctioned events, or illness),
-attendance grades will be calculated using an exponential function. 1–2
-absences → mild penalty, 6+ absences → sharp drop (serious
-consequences).
+*Attendance* (10%) Regular attendance and active involvement form a
+significant part of your final grade (see grading section). If you do
+not show up, you will not earn an ‘A’. To recognize that occasional
+absences are sometimes unavoidable (e.g., for religious observance, job
+interviews, university-sanctioned events, or illness), attendance grades
+will be calculated using an exponential function. 1–2 absences → mild
+penalty, 6+ absences → sharp drop (serious consequences).
 
 $$s(A) = 100 \cdot \left(1 - \frac{1 - e^{-kA}}{1 - e^{-kT}} \right)$$
 where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 If you must miss class, please notify me at least 24 hours in advance
-(unless it’s an emergency or sudden illness) so we can arrange a way for
-you to catch up.[^5]
+(unless it is an emergency or sudden illness) so we can arrange a way
+for you to catch up.[^5]
 
 *Student Led Topics* (5%): Each student will lead one class discussion
 on a topic of their choice related to the course themes (along with
 several other students). This includes selecting readings, preparing
 discussion questions, and facilitating the conversation. The goal is to
-engage your peers in critical thinking and respectful debate.
+engage your peers in critical thinking and respectful debate. Topics and
+readings should be assigned early in the semester.
 
 ## Weekly Reflection Journals (15%)
 
@@ -245,7 +246,7 @@ Alignment*: 3, 5, 7
 - Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
   in the United States: What the Research Says. Carnegie Endowment for
   International Peace.
-  - \[<https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en(https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>)
+  - <https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>
 
 ------------------------------------------------------------------------
 
@@ -429,7 +430,7 @@ Read his [bio here](https://www.politico.com/staff/jonathan-lai).
 
 - Topic and readings TBA
   - (Public Funding of News)
-  - (distinquishing between “democracy” and “America”)
+  - (distinguishing between “democracy” and “America”)
 
 ## October 9
 
@@ -525,7 +526,7 @@ Group Policy Brief
 - <https://www.cfr.org/backgrounder/us-immigration-debate-0>
 
 **Affirmative Action** (STUDENTS FOR FAIR ADMISSIONS, INC. v. PRESIDENT
-AND FELLOWS OF HARVARD COLLEGE, No. 20–1199) - Decided June 29, 2023
+AND FELLOWS OF HARVARD COLLEGE, No. 20–1199)) - Decided June 29, 2023
 
 - Opinion of the Court
   - ROBERTS, C. J., delivered the opinion of the Court, in which THOMAS,
@@ -631,7 +632,7 @@ projects must reflect your own analysis, critical thinking, and voice.
 
 If you use AI tools in your process, you must **disclose** how you used
 them in a brief note at the end of your assignment (e.g., “I used
-ChatGPT to help brainstorm ideas for my outline”.
+ChatGPT to help brainstorm ideas for my outline.”).
 
 **Violations:**  
 Submitting AI-generated content as your own is considered academic
