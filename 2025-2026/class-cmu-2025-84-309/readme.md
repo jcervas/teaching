@@ -75,7 +75,7 @@ The course grade will be a weighted average of the following components:
 | • *In class Discussion*                      | *(2%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
 | **AI-Powered Debate Simulation** (3)         | **10%**                |
-| **Final Capstone: Group Policy Brief**       | **12%**                |
+| **Final Capstone: Group Policy Brief**       | **15%**                |
 
 # Due Dates
 
