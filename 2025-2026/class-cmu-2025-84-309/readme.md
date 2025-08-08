@@ -427,8 +427,8 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 ## October 7
 
-**Mid-Semester FEC with Eberly Center (Patrick Walsh) **Guest, Jonathan
-Lai, Politico\*\*
+**Mid-Semester FEC ** with Eberly Center (Patrick Walsh) **Guest,
+Jonathan Lai, Politico**
 
 Read his [bio here](https://www.politico.com/staff/jonathan-lai).
 
