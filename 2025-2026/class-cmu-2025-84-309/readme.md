@@ -348,6 +348,22 @@ values.
 
 ## September 16
 
+- Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
+  Paperback edition. New Haven ; London: Yale University Press.
+- Chapter 5: What Campuses Can and Can’t Do
+- Chapter 6: What’s at Stake?
+
+## September 18
+
+- Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
+  Rise of Donald Trump.” In The Changing Character of the American
+  Right, Volume I: Ideology, Politics and Policy in the Era of Trump,
+  eds. Joel D. Aberbach et al. Cham: Springer Nature Switzerland,
+  p. 79–94.
+  - <https://doi.org/10.1007/978-3-031-73168-6_4>
+
+## September 23
+
 **Racism in Policing**
 
 *Guest Lecture*: Ralph L. Bangs
@@ -377,22 +393,6 @@ Bangs, R. “New National Reports on Anti-Black Pretextual Traffic Stops
 and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 15, 2024 \*
 <https://www.crsp.pitt.edu/new-national-reports-anti-black-pretextual-traffic-stops-and-frisks-related-pittsburgh-police-data>
-
-## September 18
-
-- Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
-  Paperback edition. New Haven ; London: Yale University Press.
-  - Chapter 5: What Campuses Can and Can’t Do
-  - Chapter 6: What’s at Stake?
-
-## September 23
-
-- Iyengar, Shanto. 2025. “Identity Politics, Party Polarization, and the
-  Rise of Donald Trump.” In The Changing Character of the American
-  Right, Volume I: Ideology, Politics and Policy in the Era of Trump,
-  eds. Joel D. Aberbach et al. Cham: Springer Nature Switzerland,
-  p. 79–94.
-  - <https://doi.org/10.1007/978-3-031-73168-6_4>
 
 ## September 25
 
