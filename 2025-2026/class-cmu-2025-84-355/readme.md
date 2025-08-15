@@ -36,7 +36,7 @@ students will gain the tools to collect, analyze, and interpret
 electoral data — and apply these skills to real-world political
 questions.
 
-## Course Goals
+## Course GoogleDrive-jcervas
 
 By the end of this course, students will: - Understand how data can
 illuminate the functioning of democratic systems. - Identify historical
@@ -63,15 +63,15 @@ limitations of various data sources.
 - **Midterm Project** – 10%  
   An analysis of a historical U.S. election using data to help tell the
   story.
-- **Policy Proposal** – 10%  
-  A comprehensive research project on a contemporary election, combining
-  historical context and data analysis.
+- **Policy Proposal or Data Journalism Project** – 10%  
+  Develop a policy proposal that addresses a specific issue in the
+  electoral process.
 - **Weekly Data Contributions** – 10%  
   Submit one relevant data point related to politics or democracy,
   accompanied by a brief explanation and visualization to illustrate its
   significance.
 
-## Weekly Topics
+## Topics
 
 1.  **Introduction** – Why study democracy with data?  
 2.  **Elections as Data** – Sources, structures, and pitfalls.  
@@ -114,7 +114,7 @@ limitations of various data sources.
 24. **Economic Inequality’s Impact on Democracy** – Does inequality
     weaken democracy?
 
-## **Assignments**
+## Assignments
 
 1.  **Current Events Data Snippets:**
 
@@ -129,16 +129,16 @@ limitations of various data sources.
     - They will be graded on a completion basis (complete/incomplete).
 
     > **Example:**  
-    > *Voter Turnout*: “About two-thirds (66%) of the voting-eligible
-    > population turned out for the 2020 presidential election” [**Pew
-    > Research
+    > *Voter Turnout*:
+    > `About two-thirds (66%) of the voting-eligible population turned out for the 2020 presidential election`
+    > [**Pew Research
     > Center**](https://www.pewresearch.org/politics/2023/07/12/voter-turnout-2018-2022/).
     > Create info-graphic visualizations to illustrate the data.
 
 2.  **Weekly Lab Assignments**
 
     - Each week, you will complete a lab assignment that involves
-      analyzing a dataset related to the week’s topic.
+      analyzing a dataset related to the week\`s topic.
     - These assignments will help you practice data cleaning, analysis,
       and visualization techniques.
     - The assignments will be graded on a completion basis
@@ -150,7 +150,7 @@ limitations of various data sources.
     election security, or improving poll accuracy. Your proposal should
     be supported by data and historical analysis. (Due December 5. 2-4
     single-spaced pages, not including visualizations).  
-    You will be responsible for reading two of your peer’s work, and
+    You will be responsible for reading two of your peer\`s work, and
     providing feedback (and your feedback will be graded). You will also
     provide a grade, which I will average. *If you feel you deserve a
     different grade, I am happy to evaluate it before the end of the
@@ -178,23 +178,24 @@ Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
 due date, reach out in advance to make alternative arrangements. I
 typically will not penalize you for turning in your assignment late, so
-long as it does not hinder completion of other’s work (ie, group
+long as it does not hinder completion of other\`s work (ie, group
 projects).
 
 ------------------------------------------------------------------------
 
 The course grade will be a weighted average of the following components:
 
-Category \| Percent of Final Grade \|
-
-\|\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*-\|\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\|
-\| **Participation & Attendance** \| 20% \| \| **Weekly Lab
-Assignments** \| 50% \| \| **Midterm Project** \| 10% \| \| **Policy
-Proposal** \| 10% \| \| **Weekly Data Contributions** \| 10% \|
+| Category                       | Percent of Final Grade |
+|--------------------------------|------------------------|
+| **Participation & Attendance** | 20%                    |
+| **Weekly Lab Assignments**     | 50%                    |
+| **Midterm Project**            | 10%                    |
+| **Policy Proposal**            | 10%                    |
+| **Weekly Data Contributions**  | 10%                    |
 
 ------------------------------------------------------------------------
 
-## Course Schedule (Subject to Change as Semester Progresses):
+## Course Schedule
 
 TBD
 
