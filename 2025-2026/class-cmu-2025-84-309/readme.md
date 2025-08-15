@@ -680,10 +680,6 @@ hostile treatment on the basis of identity to speak out for justice and
 seek support—either in the moment or afterward. You can share your
 experiences using the following resources:
 
-- **Center for Student Diversity and Inclusion**  
-  Email: **<csdi@andrew.cmu.edu>**  
-  Phone: (412) 268-2150
-
 - **Ethics Reporting Hotline**  
   Submit an anonymous report by calling 844-587-0793 or visiting
   **cmu.ethicspoint.com**.  
