@@ -17,12 +17,6 @@ here**](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-355
 
 ------------------------------------------------------------------------
 
-## Short Description:
-
-Explore the forces shaping American democracy through the power of data.
-This course blends political science and analytics to uncover patterns
-in voting, campaigns, and electoral outcomes — past and present.
-
 ## Course Description:
 
 American democracy is rich with data — from historical vote tallies to
@@ -36,12 +30,12 @@ students will gain the tools to collect, analyze, and interpret
 electoral data — and apply these skills to real-world political
 questions.
 
-## Course GoogleDrive-jcervas
+## Course Goals
 
 By the end of this course, students will: - Understand how data can
 illuminate the functioning of democratic systems. - Identify historical
-and contemporary forces that shape electoral outcomes. - Apply
-quantitative methods to analyze and interpret election data. - Connect
+and contemporary forces that shape electoral outcomes. - Feel
+comfortable looking at, wrangling, and interpreting data - Connect
 patterns in data to broader questions about political power,
 representation, and change.
 
@@ -192,12 +186,6 @@ The course grade will be a weighted average of the following components:
 | **Midterm Project**            | 10%                    |
 | **Policy Proposal**            | 10%                    |
 | **Weekly Data Contributions**  | 10%                    |
-
-------------------------------------------------------------------------
-
-## Course Schedule
-
-TBD
 
 ------------------------------------------------------------------------
 
