@@ -60,9 +60,9 @@ limitations of various data sources.
   Active engagement in lectures and labs.
 - **Weekly Lab Assignments** – 50%  
   Hands-on data analysis exercises using real election datasets.
-- **Midterm Project** – 10%  
-  An analysis of a historical U.S. election using data to help tell the
-  story.
+- **Data Journalism Project** – 10%  
+  Produce a data-driven news story that investigates a significant
+  trend, pattern, or issue in electoral processes.
 - **Policy Proposal or Data Journalism Project** – 10%  
   Develop a policy proposal that addresses a specific issue in the
   electoral process.
@@ -78,15 +78,15 @@ limitations of various data sources.
 3.  **Population & Demographics** – How population shifts shape
     politics.  
 4.  **Racial Threat Theory vs. Contact Theory** – How racial dynamics
-    shape voting and policy.
+    shape voting and policy.  
 5.  **Racial Resentment vs. Principled Conservatism** – Prejudice or
     ideology?  
 6.  **Public Opinion & Survey Data** – Using the ANES and other sources
-    to understand attitudes.
+    to understand attitudes.  
 7.  **Role of Partisan Identity** – How party affiliation influences
     voter behavior.  
-8.  **Malapportionment and Formal Representation** - The impact of
-    districting and institutions on representation.
+8.  **Malapportionment and Formal Representation** – The impact of
+    districting and institutions on representation.  
 9.  **Electoral College** – How it works, its effects, and
     alternatives.  
 10. **Campaign Strategies** – Messaging, media, and targeting.  
@@ -107,7 +107,7 @@ limitations of various data sources.
 19. **Misinformation & Trust in Elections** – Data and public opinion.  
 20. **Campaign Finance** – Who funds elections and why it matters.  
 21. **The Parties in Our Heads** – How partisanship shapes our views of
-    the world.
+    the world.  
 22. **Election Administration** – Laws, technology, and integrity.  
 23. **Median Voter Theorem vs. Party Polarization** – Do parties
     converge or cater to their bases?  
@@ -144,20 +144,22 @@ limitations of various data sources.
     - The assignments will be graded on a completion basis
       (complete/incomplete).
 
-3.  **Policy Proposals:**  
-    Develop a policy proposal that addresses a specific issue in the
-    electoral process, such as increasing voter turnout, ensuring
-    election security, or improving poll accuracy. Your proposal should
-    be supported by data and historical analysis. (Due December 5. 2-4
-    single-spaced pages, not including visualizations).  
-    You will be responsible for reading two of your peer\`s work, and
-    providing feedback (and your feedback will be graded). You will also
-    provide a grade, which I will average. *If you feel you deserve a
-    different grade, I am happy to evaluate it before the end of the
-    semester.* However, I reserve the right to **lower** the grade as I
-    see fit.
+3.  **Data Journalism Project:** This project requires you to write a
+    compelling, data-driven news story investigating a significant
+    electoral trend, pattern, or issue. You’ll combine original data
+    analysis, at least two visualizations, expert interviews, and
+    historical context to create an engaging narrative that explains how
+    and why democracy functions as it does.
 
-4.  **Attendance:**  
+4.  **Policy Proposals:**  
+    This assignment asks you to develop a clear, evidence-based policy
+    proposal addressing a specific electoral process issue such as voter
+    turnout, election security, or poll accuracy. You’ll use data,
+    historical analysis, and real-world examples to identify the
+    problem, propose a solution, and justify its effectiveness for
+    policymakers.
+
+5.  **Attendance:**  
     Regular attendance and active involvement form a significant part of
     your final grade (see grading section). If you do not show up, you
     will not earn an ‘A’. Participation is not just about being present;
