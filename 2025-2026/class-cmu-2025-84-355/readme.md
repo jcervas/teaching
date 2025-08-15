@@ -120,8 +120,6 @@ limitations of various data sources.
 
     - For each class, you must submit one piece of relevant data on the
       Canvas discussion board.
-    - This data should be pertinent to the upcoming class discussion and
-      reflect current events.
     - You can access free articles and archives from the New York Times
       and other major newspapers using your `cmu.edu` email.
     - You may be called on randomly to share your data nugget.
