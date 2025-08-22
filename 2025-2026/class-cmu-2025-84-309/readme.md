@@ -2,10 +2,12 @@
 > Office: Posner Hall 374  
 > Email: **<cervas@cmu.edu>**  
 > Location: POS 145 Time: Tuesday/Thursday 2:00p-3:20p Eastern[^2]  
-> Office Hours: Wednesday 2-4p, and by appointment (arrange via email)
+> Office Hours: Wednesday 2-4p, and by appointment (arrange via email)  
+> [**CMU Academic Calendar**](https://www.cmu.edu/hub/calendar/)[^3]
 
-Thursday 3:30-4:30p \> [**CMU Academic
-Calendar**](https://www.cmu.edu/hub/calendar/)[^3]
+> TA: Colleen Moosman  
+> Email: **<cmoosman@andrew.cmu.edu>**  
+> Office Hours: Thursday 3:30-4:30p
 
 > **Course Relevance:** DC: Perspectives on Justice and Injustice  
 > **Learning Resources:** All resources will be provided via Canvas  
