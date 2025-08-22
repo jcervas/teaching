@@ -3,9 +3,8 @@
 > Email: **<cervas@cmu.edu>**  
 > Location: WEH 4623  
 > Time: Tuesday 11:00a-12:20p Eastern  
-> Office Hours: Tuesdays 3:30p-4:30p and Thursdays 9:45a-10:45a & by
-> appointment [**CMU Academic
-> Calendar**](https://www.cmu.edu/hub/calendar/)
+> Office Hours: Wednesdays 2-4p & by appointment  
+> [**CMU Academic Calendar**](https://www.cmu.edu/hub/calendar/)
 
 The most up-to-date version of this [**syllabus can be found
 here**](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-355/readme.md)
