@@ -118,7 +118,7 @@ where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 ![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/plot-curve-1.pdf)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/plot-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
