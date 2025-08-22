@@ -2,9 +2,10 @@
 > Office: Posner Hall 374  
 > Email: **<cervas@cmu.edu>**  
 > Location: POS 145 Time: Tuesday/Thursday 2:00p-3:20p Eastern[^2]  
-> Office Hours: Tuesday 3:30p-4:30p, Wednesday 2-3p, and by appointment
-> (arrange via email)  
-> [**CMU Academic Calendar**](https://www.cmu.edu/hub/calendar/)[^3]
+> Office Hours: Wednesday 2-4p, and by appointment (arrange via email)
+
+Thursday 3:30-4:30p \> [**CMU Academic
+Calendar**](https://www.cmu.edu/hub/calendar/)[^3]
 
 > **Course Relevance:** DC: Perspectives on Justice and Injustice  
 > **Learning Resources:** All resources will be provided via Canvas  
@@ -70,12 +71,13 @@ The course grade will be a weighted average of the following components:
 | • *Student Led Topics*                       | *(5%)*                 |
 | **Weekly Reflection Journals**               | **15%**                |
 | **Writing Modules** (3)                      | **3%**                 |
+| **Surveys** (2)                              | **2%**                 |
 | **Book Review**                              | **12%**                |
 | • *Written Review (3-5 single-spaced pages)* | *(10%)*                |
 | • *In class Discussion*                      | *(2%)*                 |
 | **Op-Ed Project** (Rough Draft + Final)      | **20%**                |
-| **AI-Powered Debate Simulation** (3)         | **10%**                |
-| **Final Capstone: Group Policy Brief**       | **15%**                |
+| **AI-Powered Debate Simulation** (3)         | **9%**                 |
+| **Final Capstone: Group Policy Brief**       | **14%**                |
 
 # Due Dates
 
@@ -83,11 +85,11 @@ The course grade will be a weighted average of the following components:
 |------------------------------|-------------------------------------|
 | Weekly Reflection Journals   | Due Sundays, weekly                 |
 | Writing Modules (3)          | August 28, September 2, September 4 |
-| Book Review                  | October 13                          |
-| AI-Powered Debate Simulation | Weeks 4, 6, 8, 10, and 12           |
 | Op-ed, first draft           | September 22                        |
 | Op-ed peer review            | September 25                        |
 | Op-ed final draft            | September 29                        |
+| Book Review                  | October 13                          |
+| AI-Powered Debate Simulation | Weeks 4, 6, 8, 10, and 12           |
 | Group Project                | December 2/4                        |
 
 # Assignment Details
