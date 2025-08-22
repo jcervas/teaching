@@ -43,10 +43,12 @@ representation, and change.
 
 Students will be able to: 1. Collect and clean real-world electoral
 datasets. 2. Conduct (basic) statistical analyses to identify trends in
-voting behavior. 3. Interpret and visualize election data for academic
-and public audiences. 4. Evaluate the impact of historical events on
-present electoral dynamics. 5. Critically assess the strengths and
-limitations of various data sources.
+voting behavior.  
+3. Interpret and visualize election data for academic and public
+audiences. 4. Evaluate the impact of historical events on present
+electoral dynamics.  
+5. Critically assess the strengths and limitations of various data
+sources.
 
 ## Assessments
 
@@ -167,6 +169,9 @@ limitations of various data sources.
 
     where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$
     is the total number of classes.
+
+![Effect of Absences on
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.pdf)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
