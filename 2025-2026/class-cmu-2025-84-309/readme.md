@@ -68,8 +68,8 @@ The course grade will be a weighted average of the following components:
 | Assignment                                   | Percent of Final Grade |
 |----------------------------------------------|------------------------|
 | **Participation**                            | **25%**                |
-| • *Discussion & In Class Assignments*        | *(10%)*                |
-| • *Attendance*                               | *(10%)*                |
+| • *Discussion & In Class Assignments*        | *(5%)*                 |
+| • *Attendance*                               | *(15%)*                |
 | • *Student Led Topics*                       | *(5%)*                 |
 | **Weekly Reflection Journals**               | **15%**                |
 | **Writing Modules** (3)                      | **3%**                 |
@@ -91,7 +91,7 @@ The course grade will be a weighted average of the following components:
 | Op-ed peer review            | September 25                        |
 | Op-ed final draft            | September 29                        |
 | Book Review                  | October 13                          |
-| AI-Powered Debate Simulation | Weeks 4, 6, 8, 10, and 12           |
+| AI-Powered Debate Simulation | Weeks 4, 8, 10                      |
 | Group Project                | December 2/4                        |
 
 # Assignment Details
@@ -101,11 +101,11 @@ The course grade will be a weighted average of the following components:
 *Purpose*: Civic discourse, empathy, critical thinking  
 *Objective Alignment*: 4, 6, 8
 
-*Participation* (10%): Active, respectful involvement in class
+*Participation* (5%): Active, respectful involvement in class
 discussions, including preparedness (e.g., completing readings) and
 thoughtful contributions.
 
-*Attendance* (10%) Regular attendance and active involvement form a
+*Attendance* (15%) Regular attendance and active involvement form a
 significant part of your final grade (see grading section). If you do
 not show up, you will not earn an ‘A’. To recognize that occasional
 absences are sometimes unavoidable (e.g., for religious observance, job
