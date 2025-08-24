@@ -231,7 +231,7 @@ learning
   realistic opposition.
 - *Deliverables*: Transcript
 
-**inal Capstone: Group Policy Brief** (30%)
+**Final Capstone: Group Policy Brief** (30%)
 
 *Purpose*: Research, equity-centered solutions, teamwork *Objective
 Alignment*: 3, 5, 7
@@ -250,6 +250,13 @@ Alignment*: 3, 5, 7
   community forum during finals week.
 
 ------------------------------------------------------------------------
+
+``` r
+# # Readings to add
+# - _Optional_: “Power, Performance, and Legitimacy.” Journal of Democracy. https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/
+# - Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence in the United States: What the Research Says. Carnegie Endowment for International Peace.
+#     * [https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en)
+```
 
 # Course Schedule (Subject to Change as Semester Progresses):
 
@@ -270,12 +277,6 @@ Alignment*: 3, 5, 7
     1](https://view.connect.cmu.edu/?qs=9827695e1300b223c66dc479ff67774b2636d3862de5ba00c9a33d4302a496ddcaf11df3a82f9e278459b95e9d5ee66d1142ed95ebf2e444469cb9e124411e4d6f6a1f56aec0be5427e909c8e70b5fdc)
   - [Statement
     2](https://view.connect.cmu.edu/?qs=d5ffef9eec97a8068120b2ae007393146e19f012eb1422f95848b0a34d534b2e1f9f223a78511d4e3a52621e5d0aa96979ac815d57172df6e4829d10878251adfa53d1d6402581641ffd4f9ec001f75b)
-- “Power, Performance, and Legitimacy.” Journal of Democracy.
-  <https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/>
-  - Kleinfeld, R. (2023). Polarization, Democracy, and Political
-    Violence in the United States: What the Research Says. Carnegie
-    Endowment for International Peace.
-    - <https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>
 
 ## September 2
 
