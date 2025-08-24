@@ -1,31 +1,32 @@
-> Professor Jonathan Cervas[^1]  
+> Professor **Jonathan Cervas**[^1]  
 > Office: Posner Hall 374  
 > Email: **<cervas@cmu.edu>**  
-> Location: POS 145 Time: Tuesday/Thursday 2:00p-3:20p Eastern[^2]  
-> Office Hours: Wednesday 2-4p, and by appointment (arrange via email)  
-> [**CMU Academic Calendar**](https://www.cmu.edu/hub/calendar/)[^3]
+> Location: POS 145 Time: Tuesday/Thursday 2:00p-3:20p Eastern Office
+> Hours: Wednesday 2-4p, and by appointment (arrange via email)  
+> [**CMU Academic Calendar**](https://www.cmu.edu/hub/calendar/)[^2]
 
-> TA: Colleen Moosman  
+> TA: **Colleen Moosman**  
 > Email: **<cmoosman@andrew.cmu.edu>**  
-> Office Hours: Thursday 3:30-4:30p
+> Office Hours: Thursday 1:00p-2:00p
 
 > **Course Relevance:** DC: Perspectives on Justice and Injustice  
 > **Learning Resources:** All resources will be provided via Canvas  
 > **Prerequisite Knowledge:** NONE
 
-# Course Description
+## Course Description
 
 This course explores why Americans are so politically divided, how those
 divisions create and reinforce inequalities, and what we can do to
 address them. We look at key issues like voting rights, healthcare
 access, racial and economic disparities, ethical uses of AI, and
-environmental justice. Through guided discussions and debates, you will
-build critical thinking, public speaking, and empathy skills. If you are
-interested in political science, law, or social justice, this class will
-give you a clear understanding of today’s U.S. political landscape and
-ideas for promoting fairness and equity at every level of society.
+environmental justice; though the topics will largely be selected by
+students. Through discussions and debates, you will build critical
+thinking, public speaking, and empathy skills. If you are interested in
+political science, law, or social justice, this class will give you a
+clear understanding of today’s U.S. political landscape and ideas for
+promoting fairness and equity at every level of society.
 
-# Learning Objectives
+## Learning Objectives
 
 By the end of this course, students will be able to:
 
@@ -46,7 +47,7 @@ By the end of this course, students will be able to:
 8.  **Reflect** on their own values, biases, and roles as civic
     participants in a divided society.
 
-# Grading
+## Grading
 
 Your grade depends heavily on active engagement. This course is
 interactive: your preparation (completing the readings), contributions
@@ -56,12 +57,12 @@ success.
 *Assignments & Deadlines* You are expected to meet all assignment
 deadlines. If you anticipate being unable to turn something in on time,
 contact me before the due date to discuss alternatives. Late work will
-incur a small penalty[^4] provided it does not impede your classmates’
+incur a small penalty[^3] provided it does not impede your classmates’
 progress (for instance, in group projects). Failing to participate or
 contribute meaningfully, especially in ways that affect others’ work,
 will result in a lower grade.
 
-# Assessment
+## Assessment
 
 The course grade will be a weighted average of the following components:
 
@@ -81,7 +82,7 @@ The course grade will be a weighted average of the following components:
 | **AI-Powered Debate Simulation** (3)         | **9%**                 |
 | **Final Capstone: Group Policy Brief**       | **14%**                |
 
-# Due Dates
+## Due Dates
 
 | Assignment                   | Due Date                            |
 |------------------------------|-------------------------------------|
@@ -94,9 +95,9 @@ The course grade will be a weighted average of the following components:
 | AI-Powered Debate Simulation | Weeks 4, 8, 10                      |
 | Group Project                | December 2/4                        |
 
-# Assignment Details
+## Assignment Details
 
-## Participation & Discussion (25%)
+**Participation & Discussion** (25%)
 
 *Purpose*: Civic discourse, empathy, critical thinking  
 *Objective Alignment*: 4, 6, 8
@@ -122,7 +123,7 @@ Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
-for you to catch up.[^5]
+for you to catch up.[^4]
 
 *Student Led Topics* (5%): Each student will lead one class discussion
 on a topic of their choice related to the course themes (along with
@@ -131,7 +132,7 @@ discussion questions, and facilitating the conversation. The goal is to
 engage your peers in critical thinking and respectful debate. Topics and
 readings should be assigned early in the semester.
 
-## Weekly Reflection Journals (15%)
+**Weekly Reflection Journals** (15%)
 
 *Purpose*: Personal reflection, connection to course theme  
 *Objective Alignment*: 1, 2, 4, 8
@@ -140,7 +141,7 @@ readings should be assigned early in the semester.
   current events, reactions to course readings, or evolving viewpoints.
 - Graded as complete/incomplete based on effort and engagement.
 
-## Writing Modules (3%)
+**Writing Modules** (3%)
 
 *Purpose*: Language (vocabulary, tone, social conventions) is
 appropriate and aligned to audience’s needs. Evidence (types, placement,
@@ -155,7 +156,7 @@ Not grade for completion, but for effort and engagement.
 - Module 2: Creating an Audience Profile
 - Module 3: Revising Writing to provide audience-focused feedback
 
-## Book Review Assignment (12%)
+**Book Review Assignment** (12%)
 
 *Purpose*: Deep analysis, critical evaluation, communication  
 *Objective Alignment*: 1, 2, 3, 4, 6, 7
@@ -185,7 +186,7 @@ discussion
   - Highlight your critical take or most interesting insight.
   - Encourage discussion by posing a question or provocation.
 
-## Op-ed w/ peer-review (20%)
+**Op-ed w/ peer-review** (20%)
 
 *Purpose*: Persuasive writing, revision, public engagement  
 *Objective Alignment*: 1, 2, 3, 5, 7
@@ -215,7 +216,7 @@ discussion
   - Using the feedback from your peers, revise your op-ed to improve
     clarity, argumentation, and engagement.
 
-## AI-Powered Debate Simulation (10%)
+**AI-Powered Debate Simulation** (10%)
 
 *Purpose*: Perspective-taking, applied argumentation, tech-enhanced
 learning  
@@ -230,7 +231,7 @@ learning
   realistic opposition.
 - *Deliverables*: Transcript
 
-## Final Capstone: Group Policy Brief (30%)
+**inal Capstone: Group Policy Brief** (30%)
 
 *Purpose*: Research, equity-centered solutions, teamwork *Objective
 Alignment*: 3, 5, 7
@@ -248,13 +249,6 @@ Alignment*: 3, 5, 7
 - **Presentation**: Teams present findings in a mock legislative or
   community forum during finals week.
 
-**What is Political Polarization?**
-
-- Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence
-  in the United States: What the Research Says. Carnegie Endowment for
-  International Peace.
-  - <https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>
-
 ------------------------------------------------------------------------
 
 # Course Schedule (Subject to Change as Semester Progresses):
@@ -263,11 +257,9 @@ Alignment*: 3, 5, 7
 
 - **Introduction to the Course**; topic selection, draft privacy/free
   speech statement
-  - “Power, Performance, and Legitimacy.” Journal of Democracy.
-    <https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/>
-    - *Optional*: Lewsey, Story: Fred. 2020. “Faith in democracy:
-      millennials are the most disillusioned generation ‘in living
-      memory.’” <https://www.cam.ac.uk/stories/youthanddemocracy>
+  - Lewsey, Story: Fred. 2020. “Faith in democracy: millennials are the
+    most disillusioned generation ‘in living memory.’”
+    <https://www.cam.ac.uk/stories/youthanddemocracy>
 
 ## August 28
 
@@ -278,6 +270,12 @@ Alignment*: 3, 5, 7
     1](https://view.connect.cmu.edu/?qs=9827695e1300b223c66dc479ff67774b2636d3862de5ba00c9a33d4302a496ddcaf11df3a82f9e278459b95e9d5ee66d1142ed95ebf2e444469cb9e124411e4d6f6a1f56aec0be5427e909c8e70b5fdc)
   - [Statement
     2](https://view.connect.cmu.edu/?qs=d5ffef9eec97a8068120b2ae007393146e19f012eb1422f95848b0a34d534b2e1f9f223a78511d4e3a52621e5d0aa96979ac815d57172df6e4829d10878251adfa53d1d6402581641ffd4f9ec001f75b)
+- “Power, Performance, and Legitimacy.” Journal of Democracy.
+  <https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/>
+  - Kleinfeld, R. (2023). Polarization, Democracy, and Political
+    Violence in the United States: What the Research Says. Carnegie
+    Endowment for International Peace.
+    - <https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>
 
 ## September 2
 
@@ -563,6 +561,8 @@ AND FELLOWS OF HARVARD COLLEGE, No. 20–1199)) - Decided June 29, 2023
 
 ## Student Privacy in Class Discussions
 
+Students to draft this provision in week 1.
+
 ------------------------------------------------------------------------
 
 ## Course Principles
@@ -821,15 +821,12 @@ Below are some potential questions students may have…
 [^1]: The most up-to-date version of this [syllabus can be found
     here](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-309/syllabus.md)
 
-[^2]: [Subscribe to course calender on your
-    phone](webcal://p152-caldav.icloud.com/published/2/MTc4NTk0NTg2MTc4NTk0NZO-h1iSc8zhofM4_VOkOMM8G0k8-ulknQ53FOohoVK0AjGkYv8Y2Mk5E1HdistY7IOjWQX4ZR7osOt6e3666Rg)
-
-[^3]: This course syllabus is a work in progress. The instructor will
+[^2]: This course syllabus is a work in progress. The instructor will
     take note of student feedback and course schedule will evolve based
     on student preferences
 
-[^4]: Typically one percentage point per day
+[^3]: Typically one percentage point per day
 
-[^5]: If you need to miss more than two sessions due to extenuating
+[^4]: If you need to miss more than two sessions due to extenuating
     circumstances, let me know as soon as possible so we can discuss how
     best to support you.
