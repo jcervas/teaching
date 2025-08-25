@@ -119,8 +119,8 @@ Students will be able to:
 
 1.  **Current Events Data Snippets:**
 
-    - For each class, you must submit one piece of relevant data on the
-      Canvas discussion board.
+    - You must submit one piece of relevant data on the Canvas
+      discussion board (slide on link provided) before class on Tuesday.
     - You can access free articles and archives from the New York Times
       and other major newspapers using your `cmu.edu` email.
     - You may be called on randomly to share your data nugget.
@@ -130,8 +130,7 @@ Students will be able to:
     > **Example:**  
     > *Voter Turnout*:
     > `About two-thirds (66%) of the voting-eligible population turned out for the 2020 presidential election`
-    > [**Pew Research
-    > Center**](https://www.pewresearch.org/politics/2023/07/12/voter-turnout-2018-2022/).
+    > [^1](<https://www.pewresearch.org/politics/2023/07/12/voter-turnout-2018-2022/>).
     > Create info-graphic visualizations to illustrate the data.
 
 2.  **Weekly Lab Assignments**
@@ -426,3 +425,5 @@ out.
     existing divides?  
   - *Representative Scholars/Studies:* Bail et al. (2018); Tucker et
     al. (2018)
+
+[^1]: **Pew Research Center**
