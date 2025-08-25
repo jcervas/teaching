@@ -130,8 +130,9 @@ Students will be able to:
     > **Example:**  
     > *Voter Turnout*:
     > `About two-thirds (66%) of the voting-eligible population turned out for the 2020 presidential election`
-    > [^1](<https://www.pewresearch.org/politics/2023/07/12/voter-turnout-2018-2022/>).
-    > Create info-graphic visualizations to illustrate the data.
+    > [^1](<https://www.pewresearch.org/politics/2023/07/12/voter-turnout-2018-2022/>).  
+    > Create info-graphic visualizations to illustrate the data, to be
+    > posted on common slideshow. Link is provided on Canvas
 
 2.  **Weekly Lab Assignments**
 
