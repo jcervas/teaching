@@ -272,11 +272,17 @@ Alignment*: 3, 5, 7
 
 **The Fence**
 
+- Background on “The Fence”
+  - <https://www.cmu.edu/stugov/fence/index.html>
 - President Farnam’s Statement about the Fence after Trump Visit
   - [Statement
     1](https://view.connect.cmu.edu/?qs=9827695e1300b223c66dc479ff67774b2636d3862de5ba00c9a33d4302a496ddcaf11df3a82f9e278459b95e9d5ee66d1142ed95ebf2e444469cb9e124411e4d6f6a1f56aec0be5427e909c8e70b5fdc)
   - [Statement
     2](https://view.connect.cmu.edu/?qs=d5ffef9eec97a8068120b2ae007393146e19f012eb1422f95848b0a34d534b2e1f9f223a78511d4e3a52621e5d0aa96979ac815d57172df6e4829d10878251adfa53d1d6402581641ffd4f9ec001f75b)
+- Articles from *The Tartan* about The Fence\`s history
+  - <https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-I.md>  
+  - <https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-II.md>
+  - <https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-III.md>
 
 ## September 2
 
