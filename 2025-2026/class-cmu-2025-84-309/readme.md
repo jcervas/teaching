@@ -280,9 +280,12 @@ Alignment*: 3, 5, 7
   - [Statement
     2](https://view.connect.cmu.edu/?qs=d5ffef9eec97a8068120b2ae007393146e19f012eb1422f95848b0a34d534b2e1f9f223a78511d4e3a52621e5d0aa96979ac815d57172df6e4829d10878251adfa53d1d6402581641ffd4f9ec001f75b)
 - Articles from *The Tartan* about The Fence\`s history
-  - <https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-I.md>  
-  - <https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-II.md>
-  - <https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-III.md>
+  - [The True History of the Fence: Part
+    I](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-I.md)
+  - [The True History of the Fence: Part
+    II](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-II.md)
+  - [The True History of the Fence: Part
+    III](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-III.md)
 
 ## September 2
 
