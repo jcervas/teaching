@@ -251,13 +251,6 @@ Alignment*: 3, 5, 7
 
 ------------------------------------------------------------------------
 
-``` r
-# # Readings to add
-# - _Optional_: “Power, Performance, and Legitimacy.” Journal of Democracy. https://www.journalofdemocracy.org/articles/power-performance-and-legitimacy/
-# - Kleinfeld, R. (2023). Polarization, Democracy, and Political Violence in the United States: What the Research Says. Carnegie Endowment for International Peace.
-#     * [https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en)
-```
-
 # Course Schedule (Subject to Change as Semester Progresses):
 
 ## August 26: Syllabus Day
@@ -291,7 +284,7 @@ Alignment*: 3, 5, 7
 
 **America’s Founding: Enlightened or Enslaved?**
 
-1.  \_\*The 1619 Project\_
+1.  *The 1619 Project*
 
 - “America Wasn’t a Democracy Until Black Americans Made It One” – Essay
   by Nikole Hannah-Jones
