@@ -31,23 +31,29 @@ questions.
 
 ## Course Goals
 
-By the end of this course, students will: - Understand how data can
-illuminate the functioning of democratic systems. - Identify historical
-and contemporary forces that shape electoral outcomes. - Feel
-comfortable looking at, wrangling, and interpreting data - Connect
-patterns in data to broader questions about political power,
-representation, and change.
+By the end of this course, students will:
+
+- Understand how data can illuminate the functioning of democratic
+  systems.
+- Identify historical and contemporary forces that shape electoral
+  outcomes.  
+- Feel comfortable looking at, wrangling, and interpreting data  
+- Connect patterns in data to broader questions about political power,
+  representation, and change.
 
 ## Learning Objectives
 
-Students will be able to: 1. Collect and clean real-world electoral
-datasets. 2. Conduct (basic) statistical analyses to identify trends in
-voting behavior.  
-3. Interpret and visualize election data for academic and public
-audiences. 4. Evaluate the impact of historical events on present
-electoral dynamics.  
-5. Critically assess the strengths and limitations of various data
-sources.
+Students will be able to:
+
+1.  Collect and clean real-world electoral datasets.
+2.  Conduct (basic) statistical analyses to identify trends in voting
+    behavior.  
+3.  Interpret and visualize election data for academic and public
+    audiences.
+4.  Evaluate the impact of historical events on present electoral
+    dynamics.  
+5.  Critically assess the strengths and limitations of various data
+    sources.
 
 ## Assessments
 
