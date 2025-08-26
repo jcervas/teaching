@@ -84,16 +84,16 @@ The course grade will be a weighted average of the following components:
 
 ## Due Dates
 
-| Assignment                   | Due Date                            |
-|------------------------------|-------------------------------------|
-| Weekly Reflection Journals   | Due Sundays, weekly                 |
-| Writing Modules (3)          | August 28, September 2, September 4 |
-| Op-ed, first draft           | September 22                        |
-| Op-ed peer review            | September 25                        |
-| Op-ed final draft            | September 29                        |
-| Book Review                  | October 13                          |
-| AI-Powered Debate Simulation | Weeks 4, 8, 10                      |
-| Group Project                | December 2/4                        |
+| Assignment                   | Due Date            |
+|------------------------------|---------------------|
+| Weekly Reflection Journals   | Due Sundays, weekly |
+| Writing Modules (3)          | TBD                 |
+| Op-ed, first draft           | September 22        |
+| Op-ed peer review            | September 25        |
+| Op-ed final draft            | September 29        |
+| Book Review                  | October 13          |
+| AI-Powered Debate Simulation | Weeks 4, 8, 10      |
+| Group Project                | December 2/4        |
 
 ## Assignment Details
 
@@ -119,7 +119,7 @@ where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/attendance-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way

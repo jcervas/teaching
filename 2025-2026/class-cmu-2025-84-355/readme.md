@@ -6,8 +6,8 @@
 > Office Hours: Wednesdays 2-4p & by appointment  
 > [**CMU Academic Calendar**](https://www.cmu.edu/hub/calendar/)
 
-The most up-to-date version of this [**syllabus can be found
-here**](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-355/readme.md)
+The most up-to-date version of this [**syllabus can be found here**:
+https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-355/readme.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-355/readme.md)
 
 ------------------------------------------------------------------------
 
