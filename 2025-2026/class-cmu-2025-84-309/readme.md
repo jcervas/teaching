@@ -569,7 +569,58 @@ AND FELLOWS OF HARVARD COLLEGE, No. 20–1199)) - Decided June 29, 2023
 
 ## Student Privacy in Class Discussions
 
-Students to draft this provision in week 1.
+# Statement of Purpose
+
+The purpose of this statement is to safeguard **privacy, students,
+ideas, discussions, debates, communities, identities, societies,
+openness, and safety**.  
+It emphasizes the importance of **freedom of speech, debate, and
+expression of views**.
+
+------------------------------------------------------------------------
+
+## Shared Community Agreement
+
+To foster a respectful and productive learning environment, the
+following policies apply:
+
+**No Recording of Class Discussions** - Audio or video recording of
+class discussion is **not permitted**.  
+- Recording of lectures may be allowed with approval from **Disability
+Resources**.
+
+**Technology Use**  
+- Laptops must remain closed.  
+- Phones must be put away unless otherwise specified.
+
+**Anonymity in Submissions**  
+- All written work should be anonymized (**no names on papers or
+submissions**).  
+- Peer reviews will also remain anonymous.
+
+**Confidentiality of Classroom Contributions**  
+- When discussing ideas from class outside of this setting, you may
+reference the **content**  
+but not the **identities** of the individuals who contributed.
+
+**Respectful Dialogue** - Listen attentively and allow peers to finish
+their thoughts before responding.  
+- Do not talk over one another.  
+- Treat others with the same respect you would expect for yourself.
+
+**Civility in Communication** - Speak at a moderate volume.  
+- Critique **ideas**, not individuals.  
+- Assume the most generous interpretation of your peers’ statements.
+
+**Use of Generative AI (GAI)**  
+- You may not use a peer’s work in generative AI tools without their
+**explicit permission**.  
+- Consider each peer’s work as **copyrighted**.
+
+**Representation of Opinions**  
+- A peer’s views expressed in class do not represent the official
+position of their  
+clubs, organizations, or extracurricular affiliations.
 
 ------------------------------------------------------------------------
 
