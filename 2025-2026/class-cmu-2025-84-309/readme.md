@@ -119,7 +119,7 @@ where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/attendance-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
@@ -279,6 +279,11 @@ Alignment*: 3, 5, 7
     II](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-II.md)
   - [The True History of the Fence: Part
     III](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readings/The-True-History-of-the-Fence-III.md)
+- [Student Handbook, Advertising on Campus - Graffiti and Poster Policy
+  of Student
+  Government](https://www.cmu.edu/student-affairs/theword/community-policies/advertising-on-campus.html)
+- [Student Government Graffiti and Poster
+  Policy](https://www.cmu.edu/stugov/policies/old-pdfs/Student%20Government%20Graffiti%20and%20Poster%20Policy_Updates_1_26_17.pdf)
 
 ## September 2
 
