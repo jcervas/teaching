@@ -176,7 +176,7 @@ Students will be able to:
     is the total number of classes.
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/plot-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
@@ -198,6 +198,19 @@ The course grade will be a weighted average of the following components:
 | **Weekly Data Contributions**  | 10%                    |
 
 ------------------------------------------------------------------------
+
+## Schedule
+
+- Week 1
+  - Two Truths and a Lie
+  - 2024 Electoral Map
+  - ANES Scavenger Hunt
+- Week 2
+  - Bailey, Michael A. 2024. Polling at a Crossroads: Rethinking Modern
+    Survey Research. Cambridge: Cambridge University Press.
+    <https://canvas.cmu.edu/courses/47828/files?preview=12869135Pages>
+    p. 3-22  
+  - 
 
 ## AI Use Policy for Student Work
 
