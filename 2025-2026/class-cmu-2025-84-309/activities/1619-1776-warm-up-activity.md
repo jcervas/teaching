@@ -1,4 +1,4 @@
-# 🔑 Warm-Up Activity: Keyword Brainstorm
+# Warm-Up Activity: Keyword Brainstorm
 
 Before we dive into today’s readings, let’s explore some key ideas that will shape our discussion.  
 
@@ -21,7 +21,7 @@ Write down as many associations as you can—these could be synonyms, related co
 - Share your brainstorm with the class.  
 - Notice where your associations **overlap** with other groups and where they **diverge**.  
 
-✍️ Notes:  
+Notes:  
 
 ---
 
@@ -32,12 +32,12 @@ As you listen to other groups, consider:
 - Which words seemed to create the most disagreement or difference in interpretation?  
 - What might these differences reveal about how people interpret the American past?  
 
-✍️ Reflection Notes:  
+Reflection Notes:  
 
 
 ---
 
-## 🎯 Purpose
-This activity will help us foreground key themes in the upcoming readings.  
-The **1619 Project** and the **1776 Report** offer sharply different interpretations of America’s founding.  
-By unpacking these keywords first, you’ll be ready to see how each text uses—or contests—these ideas.  
+## Additional Discussion Questions
+
+- Should the official U.S. policy be to focus on the idealism of the founding, or on the flaws that coincided with the ideals?    
+- How does the way we tell America’s founding story shape debates about race, politics, and identity today?
