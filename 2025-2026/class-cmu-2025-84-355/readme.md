@@ -210,7 +210,10 @@ The course grade will be a weighted average of the following components:
     Survey Research. Cambridge: Cambridge University Press.
     <https://canvas.cmu.edu/courses/47828/files?preview=12869135Pages>
     p. 3-22  
-  - 
+  - **Optional Reading**: Herbert F. Weisberg, Reflections: The Michigan
+    Four and Their Study of American Voters: A Biography of a
+    Collaboration, 49 PS: Political Science & Politics 845 (2016),
+    <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reflections-the-michigan-four-and-their-study-of-american-voters-a-biography-of-a-collaboration/77EFAE6D9A6A0F3532922C720F7BE0E4>.
 
 ## AI Use Policy for Student Work
 
