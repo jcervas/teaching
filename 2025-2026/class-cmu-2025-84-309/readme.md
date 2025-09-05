@@ -119,7 +119,7 @@ where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 ![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
+Grade](readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
@@ -442,6 +442,18 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 Jonathan Lai, Politico**
 
 Read his [bio here](https://www.politico.com/staff/jonathan-lai).
+
+Posner Hall - Great Room
+
+**Telling Stories with Data** — *A Conversation with **Jonathan Lai***
+
+Join Jonathan Lai for an engaging session on how data and storytelling
+come together to make sense of politics and elections. He’ll share his
+personal path into journalism, showcase powerful examples of reporting
+that blend numbers with narrative, and offer a glimpse into fresh ideas
+for covering the next election. We’ll wrap up with a look at where news
+and data journalism are headed — and leave plenty of time for your
+questions.
 
 - Topic and readings TBA
   - (Public Funding of News)
