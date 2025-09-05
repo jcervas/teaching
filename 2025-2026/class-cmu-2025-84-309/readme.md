@@ -346,8 +346,10 @@ values.
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
 
-  - Chapter 1: The New Censorship
-  - Chapter 2: Why Is Free Speech Important?
+  - Chapter 1: [The New
+    Censorship](https://canvas.cmu.edu/courses/47827/files/folder/Free%20Speech%20on%20Campus?preview=13149838)
+  - Chapter 2: [Why Is Free Speech
+    Important?](https://canvas.cmu.edu/courses/47827/files/folder/Free%20Speech%20on%20Campus?preview=13149839)
 
 ## September 11
 
