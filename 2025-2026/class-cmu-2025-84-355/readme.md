@@ -201,19 +201,30 @@ The course grade will be a weighted average of the following components:
 
 ## Schedule
 
-- Week 1
-  - Two Truths and a Lie
-  - 2024 Electoral Map
+**Week 1**
+
+- **Labs**:
+  - Two Truths and a Lie  
+  - 2024 Electoral Map  
   - ANES Scavenger Hunt
-- Week 2
-  - Bailey, Michael A. 2024. Polling at a Crossroads: Rethinking Modern
-    Survey Research. Cambridge: Cambridge University Press.
-    <https://canvas.cmu.edu/courses/47828/files?preview=12869135Pages>
-    p. 3-22  
-  - **Optional Reading**: Herbert F. Weisberg, Reflections: The Michigan
-    Four and Their Study of American Voters: A Biography of a
-    Collaboration, 49 PS: Political Science & Politics 845 (2016),
-    <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reflections-the-michigan-four-and-their-study-of-american-voters-a-biography-of-a-collaboration/77EFAE6D9A6A0F3532922C720F7BE0E4>.
+
+**Week 2**
+
+- Bailey, Michael A. 2024. Polling at a Crossroads: Rethinking Modern
+  Survey Research. Cambridge: Cambridge University Press. **p. 3-22**
+  - <https://canvas.cmu.edu/courses/47828/files?preview=12869135Pages>
+- **Optional Reading**: Herbert F. Weisberg, Reflections: The Michigan
+  Four and Their Study of American Voters: A Biography of a
+  Collaboration, 49 PS: Political Science & Politics 845 (2016)
+  - <https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/reflections-the-michigan-four-and-their-study-of-american-voters-a-biography-of-a-collaboration/77EFAE6D9A6A0F3532922C720F7BE0E4>.
+- **Labs**:
+  - Sensitive Interview Questions
+  - Questionaire Writing
+
+**Week 3**
+
+- NCSL Redistricting Law 2020, Chapter 1, The Census
+  - <https://canvas.cmu.edu/files/13154611/download?download_frd=1&verifier=H7yO9sICuYEpjpM6t01ze39jU5rSxZ6rDp5tA9fS>
 
 ## AI Use Policy for Student Work
 
