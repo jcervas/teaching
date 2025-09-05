@@ -309,30 +309,34 @@ House.](https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/The-Pres
 Presents a traditionalist, patriotic framing of American founding
 values.
 
+Optional Readings
+
+``` md
+1. _The 1776 Report_
+
+- “AHA Statement Condemning Report of Advisory 1776 Commission.” 
+  * [https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/](https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/)
+- McKenna, Konstantin. 2025. “The 1776 Project Is a Desperate Search for the Right Enemies.” Foreign Policy. 
+  * [https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/](https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/)
+
+2. _The 1619 Project_
+
+- Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times Magazine. 
+  * [https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx](https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx)
+- Silverstein, Jake. 2020. “On Recent Criticism of The 1619 Project.” The New York Times. 
+  * [https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html](https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html)
+- “We Respond to the Historians Who Critiqued The 1619 Project.” 2019. The New York Times. 
+  * [https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html](https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html)
+
+3. **Optional for ambitious students**
+
+- Frederick Douglass, “What to the Slave is the Fourth of July?” (1852)
+  * (~20 min read, historical context for both projects)
+```
+
 ## September 4
 
-``` r
-# 1. _The 1776 Report_
-
-# - “AHA Statement Condemning Report of Advisory 1776 Commission.” 
-#   * [https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/](https://www.historians.org/news/aha-statement-condemning-report-of-advisory-1776-commission/)
-# - McKenna, Konstantin. 2025. “The 1776 Project Is a Desperate Search for the Right Enemies.” Foreign Policy. 
-#   * [https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/](https://foreignpolicy.com/2021/01/21/1776-project-desperate-search-enemies-identity-politics-unamerican/)
-
-# 2. _The 1619 Project_
-
-# - Hannah-Jones, Nikole. 2019. The 1619 Project. The New York Times Magazine. 
-#   * [https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx](https://pulitzercenter.org/sites/default/files/full_issue_of_the_1619_project.pdf?_gl=1*av7vjw*_gcl_au*MTA2MTEwMzQ4NS4xNzUwODgxODA1*_ga*MjA3ODQ2OTEyMi4xNzUwODgxODA1*_ga_ZYQYTZTT61*czE3NTA4ODE4MDMkbzEkZzEkdDE3NTA4ODI2NzEkajM4JGwwJGgxNjcwMTY0ODcx)
-# - Silverstein, Jake. 2020. “On Recent Criticism of The 1619 Project.” The New York Times. 
-#   * [https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html](https://www.nytimes.com/2020/10/16/magazine/criticism-1619-project.html)
-# - “We Respond to the Historians Who Critiqued The 1619 Project.” 2019. The New York Times. 
-#   * [https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html](https://www.nytimes.com/2019/12/20/magazine/we-respond-to-the-historians-who-critiqued-the-1619-project.html)
-
-# 3. **Optional for ambitious students**
-
-# - Frederick Douglass, “What to the Slave is the Fourth of July?” (1852)
-#   * (~20 min read, historical context for both projects)
-```
+**Organize Topics for Student Led Discussions**
 
 ## September 9
 
