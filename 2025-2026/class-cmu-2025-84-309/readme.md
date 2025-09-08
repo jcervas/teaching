@@ -345,7 +345,7 @@ Optional Readings
 - Chemerinsky, Erwin. 2024. “The Underlying Issues Concerning Free
   Speech in Schools.” Stanford Law Review 76: 1427.
 
-- <https://www.stanfordlawreview.org/print/article/the-underlying-issues-concerning-free-speech-in-schools/>
+- <https://review.law.stanford.edu/wp-content/uploads/sites/3/2024/10/Chemerinsky-76-Stan.-L.-Rev.-1427.pdf>
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
