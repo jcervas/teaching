@@ -361,12 +361,13 @@ Optional Readings
   Paperback edition. New Haven ; London: Yale University Press.
   - Chapter 3: Nullius in Verba: Free Speech at Colleges and
     Universities
-  - Chapter 4: Hate Speech
+
 
 ## September 16
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
+- Chapter 4: Hate Speech
 - Chapter 5: What Campuses Can and Can’t Do
 - Chapter 6: What’s at Stake?
 
