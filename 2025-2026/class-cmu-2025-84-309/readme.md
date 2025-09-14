@@ -344,12 +344,12 @@ Optional Readings
 
 - Chemerinsky, Erwin. 2024. “The Underlying Issues Concerning Free
   Speech in Schools.” Stanford Law Review 76: 1427.
-
 - <https://review.law.stanford.edu/wp-content/uploads/sites/3/2024/10/Chemerinsky-76-Stan.-L.-Rev.-1427.pdf>
+
+**Introduction and the History of Free Speech in America**
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
-
   - Chapter 1: [The New
     Censorship](https://canvas.cmu.edu/courses/47827/files/folder/Free%20Speech%20on%20Campus?preview=13149838)
   - Chapter 2: [Why Is Free Speech
@@ -357,19 +357,20 @@ Optional Readings
 
 ## September 11
 
+**The History of Academic Freedom**
+
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
-  Paperback edition. New Haven ; London: Yale University Press.
+  Paperback edition. New Haven; London: Yale University Press.
   - Chapter 3: Nullius in Verba: Free Speech at Colleges and
     Universities
-
 
 ## September 16
 
 - Chemerinsky, Erwin, and Howard Gillman. 2018. Free speech on campus.
   Paperback edition. New Haven ; London: Yale University Press.
-- Chapter 4: Hate Speech
-- Chapter 5: What Campuses Can and Can’t Do
-- Chapter 6: What’s at Stake?
+  - Chapter 4: Hate Speech  
+  - Chapter 5: What Campuses Can and Can’t Do
+  - Chapter 6: What’s at Stake? (short)
 
 ## September 18
 
