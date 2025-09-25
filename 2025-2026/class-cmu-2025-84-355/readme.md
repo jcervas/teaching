@@ -176,7 +176,7 @@ Students will be able to:
     is the total number of classes.
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/plot-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
@@ -230,6 +230,18 @@ The course grade will be a weighted average of the following components:
 
 - Introductory to the American Community Survey (ACS) \[Video\]
   - <https://youtu.be/eqKi1l2F4xQ?si=Hoh1m2kUOMtlBVCP>
+
+**Week 5**
+
+- No New Readings
+
+**Week 6**
+
+- Surname Analysis
+  - 1.  Kosuke Imai & Kabir Khanna, [Improving Ecological Inference by
+        Predicting Individual Ethnicity from Voter Registration
+        Records](https://canvas.cmu.edu/courses/47828/files/13281633?wrap=1),
+        24 Polit. anal. 263 (2016)
 
 ## AI Use Policy for Student Work
 
