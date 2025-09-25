@@ -91,7 +91,7 @@ The course grade will be a weighted average of the following components:
 | Op-ed, first draft           | September 22        |
 | Op-ed peer review            | September 25        |
 | Op-ed final draft            | September 29        |
-| Book Review                  | October 13          |
+| Book Review                  | October 25          |
 | AI-Powered Debate Simulation | Weeks 4, 8, 10      |
 | Group Project                | December 2/4        |
 
