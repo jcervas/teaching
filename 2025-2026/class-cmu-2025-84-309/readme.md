@@ -119,7 +119,7 @@ where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 ![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
+Grade](readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
@@ -486,6 +486,7 @@ Topic and readings TBA
 
 - Klein, Chapter 4: The Press Secretary in Your Mind
 - Klein, Chapter 5: Demographic Threat
+- Klein, Chapter 6: The Media Divide beyond Left-Right
 
 ## October 23
 
@@ -494,11 +495,13 @@ Topic and readings TBA
 
 ## October 28
 
-- Klein, Chapter 6: The Media Divide beyond Left-Right
-- Klein, Chapter 7: Post-Persuasion Elections
+**Special Simulation - How Local Government Makes your Life Better (or
+Worse)**  
+- Location TBD
 
 ## October 30
 
+- Klein, Chapter 7: Post-Persuasion Elections
 - Klein, Chapter 8: When Bipartisanship Becomes Irrational
 - Klein, Chapter 9: The Difference between Democrats and Republicans
 - Klein, Chapter 10: Managing Polarization—and Ourselves
