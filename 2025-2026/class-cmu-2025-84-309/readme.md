@@ -119,7 +119,7 @@ where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
 the total number of classes.
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/attendance-curve-1.png)
+Grade](eadme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
@@ -447,8 +447,8 @@ and Frisks, Related Pittsburgh Police Data, and Recommendations” October
 
 ## October 7
 
-**Mid-Semester FEC ** with Eberly Center (Patrick Walsh) **Guest,
-Jonathan Lai, Politico**
+**Mid-Semester FEC** with Eberly Center (Patrick Walsh)  
+**Guest, Jonathan Lai, Politico**
 
 Read his [bio here](https://www.politico.com/staff/jonathan-lai).
 
