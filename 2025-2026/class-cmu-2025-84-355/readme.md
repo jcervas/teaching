@@ -248,6 +248,12 @@ The course grade will be a weighted average of the following components:
 - Guest Speaker, **Jonathan Lai**
   - Pitch topics for Data Journalism
 
+**Week 8**
+
+- Surname Analysis
+  - Estimation and Coding
+- Voter Registration Files
+
 ## AI Use Policy for Student Work
 
 As artificial intelligence (AI) tools become increasingly accessible, it
