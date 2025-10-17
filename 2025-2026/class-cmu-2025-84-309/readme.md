@@ -493,6 +493,13 @@ Topic and readings TBA
 - Guest Lecture, **David M. Rabban**, Distinguished Teaching Professor
   at the *University of Texas School of Law*
 
+- Rabban “Academic Freedom”
+
+  - Introduction:
+    <https://canvas.cmu.edu/courses/47827/files/folder/Academic%20Freedom?preview=13401305>
+  - Chapter 11 - Student Academic Freedom:
+    <https://canvas.cmu.edu/courses/47827/files/folder/Academic%20Freedom?preview=13401306>
+
 ## October 28
 
 **Special Simulation - How Local Government Makes your Life Better (or
