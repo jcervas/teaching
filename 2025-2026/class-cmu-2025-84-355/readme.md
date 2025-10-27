@@ -176,7 +176,7 @@ Students will be able to:
     is the total number of classes.
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/plot-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
@@ -252,7 +252,11 @@ The course grade will be a weighted average of the following components:
 
 - Surname Analysis
   - Estimation and Coding
-- Voter Registration Files
+
+**Week 9**
+
+- Redistricting ang Gerrymandering
+  - NCSL Book, Chapter 4 (Redistricting Principles and Criteria)
 
 ## AI Use Policy for Student Work
 
