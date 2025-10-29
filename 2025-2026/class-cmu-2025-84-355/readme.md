@@ -170,6 +170,9 @@ Students will be able to:
     1–2 absences → mild penalty, 6+ absences → sharp drop (serious
     consequences).
 
+![Effect of Absences on
+Grade](readme_files/figure-gfm/plot-curve-1.png)
+
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
 due date, reach out in advance to make alternative arrangements. I
@@ -247,15 +250,13 @@ The course grade will be a weighted average of the following components:
 
 **Week 9**
 
-- Redistricting ang Gerrymandering
+- Redistricting and Gerrymandering
   - NCSL Book, Chapter 4 (Redistricting Principles and Criteria)  
   - Is drawing a voting map that helps a political party illegal? Only
     in some states:
-    <https://www.npr.org/2023/05/17/1173469584/partisan-gerrymandering-explainer-north-carolina>
-    Links to an external site.  
+    <https://www.npr.org/2023/05/17/1173469584/partisan-gerrymandering-explainer-north-carolina>  
   - Gerrymandering Explained:
     <https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained>
-    Links to an external site.
 
 Sign up for DRA: <https://davesredistricting.org/maps#home> Links to an
 external site.
