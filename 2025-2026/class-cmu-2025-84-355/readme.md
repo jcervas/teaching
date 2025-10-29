@@ -171,7 +171,7 @@ Students will be able to:
     consequences).
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/plot-curve-1.png)
+Grade](eadme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
