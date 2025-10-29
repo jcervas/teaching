@@ -170,14 +170,6 @@ Students will be able to:
     1–2 absences → mild penalty, 6+ absences → sharp drop (serious
     consequences).
 
-    $$s(A) = 100 \cdot \left(1 - \frac{1 - e^{-kA}}{1 - e^{-kT}} \right)$$
-
-    where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$
-    is the total number of classes.
-
-![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
-
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
 due date, reach out in advance to make alternative arrangements. I
@@ -256,7 +248,17 @@ The course grade will be a weighted average of the following components:
 **Week 9**
 
 - Redistricting ang Gerrymandering
-  - NCSL Book, Chapter 4 (Redistricting Principles and Criteria)
+  - NCSL Book, Chapter 4 (Redistricting Principles and Criteria)  
+  - Is drawing a voting map that helps a political party illegal? Only
+    in some states:
+    <https://www.npr.org/2023/05/17/1173469584/partisan-gerrymandering-explainer-north-carolina>
+    Links to an external site.  
+  - Gerrymandering Explained:
+    <https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained>
+    Links to an external site.
+
+Sign up for DRA: <https://davesredistricting.org/maps#home> Links to an
+external site.
 
 ## AI Use Policy for Student Work
 
