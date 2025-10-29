@@ -114,12 +114,8 @@ interviews, university-sanctioned events, or illness), attendance grades
 will be calculated using an exponential function. 1–2 absences → mild
 penalty, 6+ absences → sharp drop (serious consequences).
 
-$$s(A) = 100 \cdot \left(1 - \frac{1 - e^{-kA}}{1 - e^{-kT}} \right)$$
-where $$k=0.1$$ and $$A$$ is the your number of absences and $$T$$ is
-the total number of classes.
-
 ![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
+Grade](readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
