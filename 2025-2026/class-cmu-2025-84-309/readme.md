@@ -530,22 +530,21 @@ Student led topics/debates
 **Gun Control**
 
 - Readings:
-
-1.  [Firearm Legislation and Firearm-Related Fatalities
+  - [Firearm Legislation and Firearm-Related Fatalities
     (PDF)](/users/111370/files/13456039?wrap=1&verifier=m1yN2uUKORJnaA19r6jfvChas602RA3LKyAiywc4)
-2.  [NRA-ILA \| Why Gun Control Doesn’t Work
+  - [NRA-ILA \| Why Gun Control Doesn’t Work
     (PDF)](/users/111370/files/13456048?wrap=1&verifier=WFbZ9c1VvkeAjVtpXnGqobeEhAzN1ZEYy19jSUSL)  
     [For Most U.S. Gun Owners, Protection Is the Main Reason They Own a
     Gun \| Pew Research Center
     (PDF)](/users/111370/files/13456047?wrap=1&verifier=dGSH2bLyKrCnKup2hmv6PIQTZzYtNLTbGzf0UlAv)
-3.  [U.S. Gun Policy: Global Comparisons \| Council on Foreign Relations
+  - [U.S. Gun Policy: Global Comparisons \| Council on Foreign Relations
     (PDF)](/users/111370/files/13456045?wrap=1&verifier=mXeLkhDFixBXu37zjkr6XJJD9JxubieDgwh6K37l)
-4.  [Do Studies Show Gun Control Works? No. - Reason.com
+  - [Do Studies Show Gun Control Works? No. - Reason.com
     (PDF)](/users/111370/files/13456082?wrap=1&verifier=1iVCbqSwZl6SJAn4Tp27oyH2Kxfho0i01oTonyOS)
-5.  [For Most U.S. Gun Owners, Protection Is the Main Reason They Own a
+  - [For Most U.S. Gun Owners, Protection Is the Main Reason They Own a
     Gun \| Pew Research
     (PDF)](/users/111370/files/13456047?wrap=1&verifier=dGSH2bLyKrCnKup2hmv6PIQTZzYtNLTbGzf0UlAv)
-6.  [U.S. Gun Policy: Global Comparisons \| Council on Foreign Relations
+  - [U.S. Gun Policy: Global Comparisons \| Council on Foreign Relations
     (PDF)](/users/111370/files/13456045?wrap=1&verifier=mXeLkhDFixBXu37zjkr6XJJD9JxubieDgwh6K37l)  
     [Ch17 — Liberty, Justice for Hedgehogs
     (PDF)](/users/111370/files/13456044?wrap=1&verifier=YE34G8Fgh5OnxwciMIbtRQ7SIVsgcKBlAFcSDlqb)
@@ -565,12 +564,12 @@ Student led topics/debates
 **Immigration**
 
 - Readings:
-- [Politico: Former ICE Director
-  Q&A](https://www.politico.com/news/magazine/2025/10/14/former-ice-director-q-a-00603916)
-- [Reason: Immigration and
-  Freedom](https://reason.com/2013/01/31/immigration-and-freedom/)
-- [White House: Protecting the American People Against
-  Invasion](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/)
+  - [Politico: Former ICE Director
+    Q&A](https://www.politico.com/news/magazine/2025/10/14/former-ice-director-q-a-00603916)
+  - [Reason: Immigration and
+    Freedom](https://reason.com/2013/01/31/immigration-and-freedom/)
+  - [White House: Protecting the American People Against
+    Invasion](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/)
 
 ## Optional Reading
 
@@ -584,31 +583,31 @@ Student led topics/debates
 **Affirmative Action**
 
 - Readings:
-- [History of Affirmative
-  Action](https://www.history.com/articles/affirmative-action)
-- [Affirmative Action Article
-  (Pro)](https://tminstituteldf.org/wp-content/uploads/2023/06/Affirmative-action-article_PDF-final-1.pdf)
-- [Penn Carey Law: The Case for Affirmative Action
-  (Pro)](https://penntoday.upenn.edu/news/penn-carey-law-case-affirmative-action)
-- [NAACP: Affirmative Action in Education Matters
-  (Pro)](https://naacp.org/resources/affirmative-action-education-matters)
-- [Pew Research: Topic — Affirmative Action in College Admissions
-  (Neutral
-  Background)](https://www.pewresearch.org/fact-sheet/topic-affirmative-action-in-college-admissions/)
-- [The Strange Career of Affirmative Action — Harvard
-  Scholars](https://jlhochschild.scholars.harvard.edu/publications/strange-career-affirmative-action)
-- [Affirmative Action Was Wrong from the Start
-  (Anti)](https://observer.case.edu/affirmative-action-was-wrong-from-the-start/)
-- [Harvard GSE: The Case for Affirmative Action (Pro
-  Case)](https://www.gse.harvard.edu/ideas/usable-knowledge/18/07/case-affirmative-action)
-- [Stanford Magazine: The Case Against Affirmative Action (Anti
-  Case)](https://stanfordmag.org/contents/the-case-against-affirmative-action)
+  - [History of Affirmative
+    Action](https://www.history.com/articles/affirmative-action)
+  - [Affirmative Action Article
+    (Pro)](https://tminstituteldf.org/wp-content/uploads/2023/06/Affirmative-action-article_PDF-final-1.pdf)
+  - [Penn Carey Law: The Case for Affirmative Action
+    (Pro)](https://penntoday.upenn.edu/news/penn-carey-law-case-affirmative-action)
+  - [NAACP: Affirmative Action in Education Matters
+    (Pro)](https://naacp.org/resources/affirmative-action-education-matters)
+  - [Pew Research: Topic — Affirmative Action in College Admissions
+    (Neutral
+    Background)](https://www.pewresearch.org/fact-sheet/topic-affirmative-action-in-college-admissions/)
+  - [The Strange Career of Affirmative Action — Harvard
+    Scholars](https://jlhochschild.scholars.harvard.edu/publications/strange-career-affirmative-action)
+  - [Affirmative Action Was Wrong from the Start
+    (Anti)](https://observer.case.edu/affirmative-action-was-wrong-from-the-start/)
+  - [Harvard GSE: The Case for Affirmative Action (Pro
+    Case)](https://www.gse.harvard.edu/ideas/usable-knowledge/18/07/case-affirmative-action)
+  - [Stanford Magazine: The Case Against Affirmative Action (Anti
+    Case)](https://stanfordmag.org/contents/the-case-against-affirmative-action)
 
 ## November 18
 
 **Voting Rights**
 
-- Readings: \# Topic Readings: Elikem Amenuvor
+- Readings:
 
 ## Required
 
@@ -639,33 +638,31 @@ Student led topics/debates
 **Reproductive Rights**
 
 - Readings:
-
-1.  **Andrea Tone**, “Roe v. Wade (1973),” from *Controlling
-    Reproduction: An American History* (1997), pp. 190–197.
-    - [Tone_Roe_v\_Wade.pdf](https://drive.google.com/file/d/16lyd2ImExMWijPP29VbA0ER2khia8YCR/view?usp=sharing)
-2.  **Excerpts from *Dobbs v. Jackson Women’s Health Organization*
-    (2022)**
-    - [Dobbs v. Jackson Women’s Health Organization
-      (2022)](https://constitutioncenter.org/the-constitution/supreme-court-case-library/dobbs-v-jackson-womens-health-organization)
-3.  **NPR**, “Abortion wasn’t always the politically charged issue it is
-    today” (2022)
-    - [Abortion wasn’t always the politically charged issue it is today
-      :
-      NPR](https://www.npr.org/2022/05/04/1096719971/abortion-wasn-t-always-the-politically-charged-issue-it-is-today)
-4.  **Throughline**, “The Evangelical Vote” (2019)
-    - [The Evangelical Vote (2019) : Throughline :
-      NPR](https://www.npr.org/2022/06/22/1106765258/the-evangelical-vote-2019)
-5.  **Diane Jackson and Jennifer Hoewe**, “Congressional Discussions of
-    Abortion: Moral Framing in Context.”  
-    In *Partisan Rhetoric and Polarization: The Year in C-SPAN Archives
-    Research, Volume 10*, edited by Robert X. Browning, vol. 10, Purdue
-    University Press, 2025, pp. 89–104. *JSTOR*.
-    - <https://doi.org/10.2307/jj.22177843.10>
-6.  **The New York Times**, “Tracking Abortion Bans Across the Country”
-    (updated continuously)
-    - [Abortion Laws Across the Country: Tracking Bans and Protections
-      by State - The New York
-      Times](https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html)
+- **Andrea Tone**, “Roe v. Wade (1973),” from *Controlling Reproduction:
+  An American History* (1997), pp. 190–197.
+  - [Tone_Roe_v\_Wade.pdf](https://drive.google.com/file/d/16lyd2ImExMWijPP29VbA0ER2khia8YCR/view?usp=sharing)
+- **Excerpts from *Dobbs v. Jackson Women’s Health Organization*
+  (2022)**
+  - [Dobbs v. Jackson Women’s Health Organization
+    (2022)](https://constitutioncenter.org/the-constitution/supreme-court-case-library/dobbs-v-jackson-womens-health-organization)
+- **NPR**, “Abortion wasn’t always the politically charged issue it is
+  today” (2022)
+  - [Abortion wasn’t always the politically charged issue it is today :
+    NPR](https://www.npr.org/2022/05/04/1096719971/abortion-wasn-t-always-the-politically-charged-issue-it-is-today)
+- **Throughline**, “The Evangelical Vote” (2019)
+  - [The Evangelical Vote (2019) : Throughline :
+    NPR](https://www.npr.org/2022/06/22/1106765258/the-evangelical-vote-2019)
+- **Diane Jackson and Jennifer Hoewe**, “Congressional Discussions of
+  Abortion: Moral Framing in Context.”  
+  In *Partisan Rhetoric and Polarization: The Year in C-SPAN Archives
+  Research, Volume 10*, edited by Robert X. Browning, vol. 10, Purdue
+  University Press, 2025, pp. 89–104. *JSTOR*.
+  - <https://doi.org/10.2307/jj.22177843.10>
+- **The New York Times**, “Tracking Abortion Bans Across the Country”
+  (updated continuously)
+  - [Abortion Laws Across the Country: Tracking Bans and Protections by
+    State - The New York
+    Times](https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html)
 
 ## November 25
 
