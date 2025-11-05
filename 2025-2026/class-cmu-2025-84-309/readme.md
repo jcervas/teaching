@@ -115,7 +115,7 @@ will be calculated using an exponential function. 1–2 absences → mild
 penalty, 6+ absences → sharp drop (serious consequences).
 
 ![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
+Grade](readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
@@ -530,30 +530,25 @@ Student led topics/debates
 **Gun Control**
 
 - Readings:
-  - [Firearm Legislation and Firearm-Related Fatalities
-    (PDF)](/users/111370/files/13456039?wrap=1&verifier=m1yN2uUKORJnaA19r6jfvChas602RA3LKyAiywc4)
-  - [NRA-ILA \| Why Gun Control Doesn’t Work
-    (PDF)](/users/111370/files/13456048?wrap=1&verifier=WFbZ9c1VvkeAjVtpXnGqobeEhAzN1ZEYy19jSUSL)  
-    [For Most U.S. Gun Owners, Protection Is the Main Reason They Own a
-    Gun \| Pew Research Center
-    (PDF)](/users/111370/files/13456047?wrap=1&verifier=dGSH2bLyKrCnKup2hmv6PIQTZzYtNLTbGzf0UlAv)
-  - [U.S. Gun Policy: Global Comparisons \| Council on Foreign Relations
-    (PDF)](/users/111370/files/13456045?wrap=1&verifier=mXeLkhDFixBXu37zjkr6XJJD9JxubieDgwh6K37l)
-  - [Do Studies Show Gun Control Works? No. - Reason.com
-    (PDF)](/users/111370/files/13456082?wrap=1&verifier=1iVCbqSwZl6SJAn4Tp27oyH2Kxfho0i01oTonyOS)
+  - [Firearm Legislation and Firearm-Related
+    Fatalities](https://canvas.cmu.edu/courses/47827/files/folder/Gun%20Control?preview=13497870)
+  - [NRA-ILA \| Why Gun Control Doesn’t
+    Work](https://www.nraila.org/why-gun-control-doesn-t-work/)  
+  - [U.S. Gun Policy: Global Comparisons \| Council on Foreign
+    Relations](https://www.cfr.org/backgrounder/us-gun-policy-global-comparisons#chapter-title-0-2)
+  - [Do Studies Show Gun Control Works? No. -
+    Reason.com](https://reason.com/video/2022/03/31/do-studies-show-gun-control-works-no/)
   - [For Most U.S. Gun Owners, Protection Is the Main Reason They Own a
-    Gun \| Pew Research
-    (PDF)](/users/111370/files/13456047?wrap=1&verifier=dGSH2bLyKrCnKup2hmv6PIQTZzYtNLTbGzf0UlAv)
-  - [U.S. Gun Policy: Global Comparisons \| Council on Foreign Relations
-    (PDF)](/users/111370/files/13456045?wrap=1&verifier=mXeLkhDFixBXu37zjkr6XJJD9JxubieDgwh6K37l)  
-    [Ch17 — Liberty, Justice for Hedgehogs
-    (PDF)](/users/111370/files/13456044?wrap=1&verifier=YE34G8Fgh5OnxwciMIbtRQ7SIVsgcKBlAFcSDlqb)
+    Gun \| Pew
+    Research](https://www.pewresearch.org/politics/2023/08/16/for-most-u-s-gun-owners-protection-is-the-main-reason-they-own-a-gun/)
+    [Ch17 — Liberty, Justice for
+    Hedgehogs](https://canvas.cmu.edu/courses/47827/files/folder/Gun%20Control?preview=13497869)
 
 ## Optional Reading
 
 1.  [No, it wasn’t ironic that Second Amendment advocate Charlie Kirk
-    was shot
-    (PDF)](/users/111370/files/13456100?wrap=1&verifier=sEbd6lqn6FgN4izPsVXBEJAEzkcNnpMU9fL4svcc)
+    was
+    shot](https://canvas.cmu.edu/groups/152894/discussion_topics/765765)
 
 ------------------------------------------------------------------------
 
