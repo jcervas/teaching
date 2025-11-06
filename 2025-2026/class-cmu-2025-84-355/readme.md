@@ -171,7 +171,7 @@ Students will be able to:
     consequences).
 
 ![Effect of Absences on
-Grade](eadme_files/figure-gfm/plot-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
@@ -260,6 +260,23 @@ The course grade will be a weighted average of the following components:
 
 Sign up for DRA: <https://davesredistricting.org/maps#home> Links to an
 external site.
+
+**Week 10**
+
+- Parisan Gerrymandering
+  - **Chapter 16** - Redistricing Algorithms - Political Geometry:
+    Rethinking Redistricting in the US with Math, Law, and Everything In
+    Between (Moon Duchin & Olivia Walch eds., 2022),
+    <https://link.springer.com/10.1007/978-3-319-69161-9>.
+
+**Week 11**
+
+- Racial Polarization and Redistricting
+  - Racially Polarized Voting, Redistricting Data Hub,
+    <https://redistrictingdatahub.org/resources/racially-polarized-voting/>
+  - John Sides & Michael Tesler, U.S. Voters Are Increasingly Polarized
+    about Race, the Data Show., Good Authority,
+    <https://goodauthority.org/news/america-is-less-polarized-by-race-but-more-polarized-about-race/>
 
 ## AI Use Policy for Student Work
 
