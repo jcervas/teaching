@@ -277,6 +277,9 @@ external site.
   - John Sides & Michael Tesler, U.S. Voters Are Increasingly Polarized
     about Race, the Data Show., Good Authority,
     <https://goodauthority.org/news/america-is-less-polarized-by-race-but-more-polarized-about-race/>
+  - Nadia E. Brown & Michael G. Strawbridge, A Key Part of the 1965
+    Voting Rights Act Is under Attack, Good Authority,
+    <https://goodauthority.org/news/a-key-part-of-the-1965-voting-rights-act-is-under-attack/>
 
 ## AI Use Policy for Student Work
 
