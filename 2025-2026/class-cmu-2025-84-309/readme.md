@@ -115,7 +115,7 @@ will be calculated using an exponential function. 1–2 absences → mild
 penalty, 6+ absences → sharp drop (serious consequences).
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/attendance-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-309/readme_files/figure-gfm/attendance-curve-1.png)
 
 If you must miss class, please notify me at least 24 hours in advance
 (unless it is an emergency or sudden illness) so we can arrange a way
@@ -1020,7 +1020,7 @@ Below are some potential questions students may have…
 | If I opt out, do I still have to complete work assigned by the instructor? | Yes.                                                                                                                                                                                                                                                                               |
 
 [^1]: The most up-to-date version of this [syllabus can be found
-    here](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-84-309/syllabus.md)
+    here](https://github.com/jcervas/teaching/tree/main/2025-2026/class-cmu-2025-84-309)
 
 [^2]: This course syllabus is a work in progress. The instructor will
     take note of student feedback and course schedule will evolve based
