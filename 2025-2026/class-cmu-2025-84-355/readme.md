@@ -274,12 +274,33 @@ external site.
 - Racial Polarization and Redistricting
   - Racially Polarized Voting, Redistricting Data Hub,
     <https://redistrictingdatahub.org/resources/racially-polarized-voting/>
+
   - John Sides & Michael Tesler, U.S. Voters Are Increasingly Polarized
     about Race, the Data Show., Good Authority,
     <https://goodauthority.org/news/america-is-less-polarized-by-race-but-more-polarized-about-race/>
+
   - Nadia E. Brown & Michael G. Strawbridge, A Key Part of the 1965
     Voting Rights Act Is under Attack, Good Authority,
     <https://goodauthority.org/news/a-key-part-of-the-1965-voting-rights-act-is-under-attack/>
+
+  - A Solution to the Ecological Inference Problem: reconstructing
+    individual behavior from aggregate data - [Chapter
+    1](https://gking.harvard.edu/sites/g/files/omnuum7116/files/gking/files/part1.pdf)
+
+**Week 12**
+
+- Political Polarization (elites)
+  - **Mandatory**: America Has Split, and It’s Now in ‘Very Dangerous
+    Territory’:
+    <https://www.nytimes.com/2022/01/26/opinion/covid-biden-trump-polarization.html>
+  - **Suggested**: Poole, Keith T., and Howard Rosenthal. “A Spatial
+    Model for Legislative Roll Call Analysis.” American Journal of
+    Political Science, vol. 29, no. 2, 1985, pp. 357–84. JSTOR,
+    <https://doi.org/10.2307/2111172>.
+  - **Optional**: Poole, Keith T., and Howard Rosenthal. “Patterns of
+    Congressional Voting.” American Journal of Political Science,
+    vol. 35, no. 1, 1991, pp. 228–78. JSTOR,
+    <https://doi.org/10.2307/2111445>.
 
 ## AI Use Policy for Student Work
 
