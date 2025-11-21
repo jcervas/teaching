@@ -171,7 +171,7 @@ Students will be able to:
     consequences).
 
 ![Effect of Absences on
-Grade](readme_files/figure-gfm/plot-curve-1.png)
+Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
@@ -269,6 +269,8 @@ external site.
     Between (Moon Duchin & Olivia Walch eds., 2022),
     <https://link.springer.com/10.1007/978-3-319-69161-9>.
 
+**Labs** - CA Redistricting
+
 **Week 11**
 
 - Racial Polarization and Redistricting
@@ -287,6 +289,9 @@ external site.
     individual behavior from aggregate data - [Chapter
     1](https://gking.harvard.edu/sites/g/files/omnuum7116/files/gking/files/part1.pdf)
 
+  **Labs**
+  - RPV
+
 **Week 12**
 
 - Political Polarization (elites)
@@ -301,6 +306,16 @@ external site.
     Congressional Voting.” American Journal of Political Science,
     vol. 35, no. 1, 1991, pp. 228–78. JSTOR,
     <https://doi.org/10.2307/2111445>.
+
+  **Labs**
+  - DW-Nominate Worksheet
+  - Political Tribes
+
+**Week 14**
+
+- Thanksgiving, no class
+
+**Week 15** - Apportionment and Electoral College
 
 ## AI Use Policy for Student Work
 
