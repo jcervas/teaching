@@ -171,7 +171,7 @@ Students will be able to:
     consequences).
 
 ![Effect of Absences on
-Grade](/Users/cervas/Library/CloudStorage/GoogleDrive-jcervas@andrew.cmu.edu/My%20Drive/GitHub/teaching/2025-2026/class-cmu-2025-84-355/readme_files/figure-gfm/plot-curve-1.png)
+Grade](readme_files/figure-gfm/plot-curve-1.png)
 
 Students are expected and encouraged to meet all deadlines for
 assignments. If you are unable to complete the assignment work by the
@@ -315,7 +315,9 @@ external site.
 
 - Thanksgiving, no class
 
-**Week 15** - Apportionment and Electoral College
+**Week 15**
+
+- Apportionment and Electoral College
 
 ## AI Use Policy for Student Work
 
