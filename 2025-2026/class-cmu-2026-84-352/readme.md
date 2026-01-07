@@ -31,7 +31,7 @@ This course will provide an in-depth exploration of the essential aspects of rep
 The course is structured to provide a comprehensive understanding of these issues, encouraging critical analysis and informed debate about the state and future of democracy in the United States. The course will combine lectures with interactive discussions, case studies, guest speakers, and project-based learning. Students will engage in critical analysis of current events, participate in simulations, and conduct research projects to propose solutions for enhancing democratic representation.
 
 1. *Materials*: We will use a variety of materials, all of which will be make available to you at no cost.
-2. *Meetings*: We will meet on Tuesdays and Thursdays from 3:30pm to 4:50pm. [**Posner Hall (POS) 153**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)
+2. *Meetings*: We will meet on Tuesdays and Thursdays from 2:00pm to 3:20pm. [**Posner Hall (POS) 153**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)
 3. *Electronics*: You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. 
 4. *Evaluation*: Final Grades will be assigned based on the following weights:
 
