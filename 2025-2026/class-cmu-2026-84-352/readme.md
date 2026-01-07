@@ -53,7 +53,7 @@ Grade cut points shall be:
      D: 60%+   
      R: 59%-   
 
-5. *Communication*: My office hours are Thursdays from 12:00–2:00 PM in my office, 374 Posner Hall. If you would like to meet outside of these hours, please email me at [cervas@cmu.edu](cervas@cmu.edu) and we can arrange a time to meet, either in my office or on Zoom. In addition to course-related questions, I am happy to talk about broader issues related to your college experience, including whether law school or graduate school might be a good fit for you.
+5. *Communication*: My office hours are Thursdays from 10:00 AM–12:00 PM in my office, 374 Posner Hall. If you would like to meet outside of these hours, please email me at [cervas@cmu.edu](cervas@cmu.edu) and we can arrange a time to meet, either in my office or on Zoom. In addition to course-related questions, I am happy to talk about broader issues related to your college experience, including whether law school or graduate school might be a good fit for you.
 
 The Teaching Assistant for this class is Elijah Dourado. Elijah's email is [elijahd@andrew.cmu.edu](mailto:elijahd@andrew.cmu.edu).
 
@@ -108,6 +108,22 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 ## Course Outline
 
 Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
+
+**Online Discussion Board**: Students are expected to follow the participation guidelines outlined in the course policies and participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 29th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
+
+**In-class exercises**: Throughout the semester, we will have several in-class exercises. These are short, creative-type assignments designed to support your other assignments and to provoke thoughtful evaluations of our democracy. You will be able to collaborate in teams, but each student must submit individually. You will begin these in class and will have until the following day at midnight to submit on Canvas. They will be graded as either satisfactorily completed or in-complete. You can miss up to one exercise and still receive full points. This replaces “participation” as part of your grade, and can not be excused or made up.
+
+**Redistricting Plan** (400-600 words): Create a legislative plan for a specified region consisting of a predetermined number of districts. Your plan should aim for fairness as you interpret it, necessitating deliberate design. Write a concise report explaining why your plan is fair. Limit your report to one single-spaced page and include maps and tables to display statistics about your plan (like compactness scores, population deviation, and minority representation). You may also discuss any preserved communities of interest.
+
+**Plan Comparison** (1000-1500 words): Compare various alternative plans created by your classmates for the same region. Analyze at least three plans, comparing them to the map adopted by the region’s legislative body, which might be challenged for biases such as partisanship or racial gerrymandering. Your comparison should include traditional criteria and measures of partisan and racial equity. Prepare a succinct write-up, capped at three single-spaced pages, and enhance your analysis with maps, tables, and other visuals (not included in page count).
+
+*Alternative Technical Comparison*: Instead of the plan comparison, you will use computer simulation to generate and assess alternative districting plans for the specified region, focusing on the fairness and legality of the enacted plan. Use either GerryChain (Python) or rdist (R) for this analysis. Compare each simulated plan to the region’s 2023 legislative plan. This involves critically analyzing redistricting plans, emphasizing computer simulation over creating new plans from scratch.
+
+**Expert Witness Report**: There are three options for this final assignment: 1) working alone 2) working with a team, both without doing technical work 3) working as a team to create a technical supplement
+
+Non-Technical Report [solo] (1500-3000 words): Expanding on your previous assignments and classwork, you will draft a report analyzing a legislative plan for the specified region. Imagine being hired to evaluate this plan in comparison to your own (referred to as “YOUR-LAST-NAME illustrative plan”). In your report, argue why the enacted plan could be considered unlawful. Reference reports by yourself or others as expert witnesses (available on your website). The report should range from 3 to 6 single-spaced pages (excluding tables and maps) and include links to each plan’s DRA page for accessibility. Start by summarizing the legal requirements for a redistricting plan in the region, incorporating relevant state and federal laws.
+
+Non-Technical Report [team] (2500-5000 words): Collaboration with up to three others is allowed. If working in a team, evaluate each member’s map, choosing one as the primary illustrative map and others for comparison. For team reports, extend the page limit to a maximum of 10 pages (minimum of 5 pages for team efforts).
 
 ---
 

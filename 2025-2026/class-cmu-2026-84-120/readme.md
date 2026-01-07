@@ -50,7 +50,7 @@ Grade cut points shall be:
      D: 60%+   
      R: 59%-   
 
-5. *Communication*: My office hours are Thursdays from 12:00–2:00 PM in my office, 374 Posner Hall. If you would like to meet outside of these hours, please email me at [cervas@cmu.edu](cervas@cmu.edu) and we can arrange a time to meet, either in my office or on Zoom. In addition to course-related questions, I am happy to talk about broader issues related to your college experience, including whether law school or graduate school might be a good fit for you.
+5. *Communication*: My office hours are Thursdays from 10:00 AM–12:00 PM in my office, 374 Posner Hall. If you would like to meet outside of these hours, please email me at [cervas@cmu.edu](cervas@cmu.edu) and we can arrange a time to meet, either in my office or on Zoom. In addition to course-related questions, I am happy to talk about broader issues related to your college experience, including whether law school or graduate school might be a good fit for you.
 
 The Teaching Assistant for this class is Elijah Dourado. Elijah's email is [elijahd@andrew.cmu.edu](mailto:elijahd@andrew.cmu.edu).
 
