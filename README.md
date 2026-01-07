@@ -1,5 +1,5 @@
 # Current Classes
 
-**American Political Divides and Great Debates** (class-cmu-84-309): https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-309/readme.md
+**Introduction to US Constitutional Law** (class-cmu-84-120): https://github.com/jcervas/teaching/tree/main/2025-2026/class-cmu-2026-84-120
 
-**Democracy's Data** (class-cmu-84-355): https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2025-84-355/readme.md
+**Representation and Voting Rights** (class-cmu-84-352): https://github.com/jcervas/teaching/tree/main/2025-2026/class-cmu-2026-84-352
