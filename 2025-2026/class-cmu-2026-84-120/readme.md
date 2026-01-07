@@ -122,7 +122,7 @@ Please be aware that completing several of the assignments will take more than a
 
 ## Course Outline
 
-Can be found online at: github.com/jcervas/...
+Can be found online at: https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md
 
 ---
 
