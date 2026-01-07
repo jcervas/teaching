@@ -1,5 +1,5 @@
 ---
-title: "Introduction to US Constitutional Law - 84-120"
+title: "Representation and Voting Rights - 84-35"
 output:
   pdf_document:
     citation_package: natbib
@@ -24,21 +24,24 @@ Spring 2026
 
 ## Course Information
 
-This course provides an introduction to the United States Constitution and the principles of constitutional law. The course material provides a comprehensive examination of the powers of the federal government and the allocation of decision-making authority among government institutions. It delves into the nuances of judicial review, scrutinizing the scope and limits of judicial power in resolving constitutional issues. Students will engage with the intricate relationship among branches within the federal government, analyzing the balance of powers, including the extent of presidential power vis-à-vis congressional authority to legislate. Through a combination of lectures, case studies, and *mostly* discussions, students will gain a deep understanding of the U.S. Constitution's role in shaping American legal and political landscapes. 
+Democracy in the United States is looking a bit rickety. A notable portion of the American populace, often long before any ballots are cast, holds a persistent belief that the electoral process is flawed or ‘rigged’. This sentiment is exacerbated by instances where the majority’s preferences seem to be ignored or sidelined. In recent years, there have been notable shifts in the judiciary, with long-established legal precedents being overturned, often contrary to widespread public opinion. Additionally, the progress achieved in the realm of voting rights since the 1960s is facing setbacks in numerous states. A particularly alarming indication of the vulnerability of our democratic institutions occurred five years ago with the then (and now)-president’s unconstitutional attempts to maintain power, culminating in a violent insurrection against the U.S. government. 
 
-This course introduces students to constitutional law as a way of understanding how the U.S. Constitution shapes political conflict, government power, and individual rights. The emphasis is on **ideas, institutions, and landmark cases**, not technical mastery of legal doctrine.
+This course will provide an in-depth exploration of the essential aspects of representation and voting rights, concentrating on ensuring election integrity, achieving fair redistricting, and promoting a just democracy. We will examine the historical trajectory of voting rights in the U.S., confront contemporary challenges to our democratic processes, and consider a range of reforms to strengthen democratic representation in our society. Additionally, we will discuss how political polarization is impacting even non-political institutions. An example of this is the recent campaign against the former president of Harvard, who was both the university’s first Black president and second female president. Her academic background in political science, with a focus overlapping this course’s content, adds relevance to this discussion.
 
-1. *Materials*: See below under *course plan*. We will use several books, and supplement these with Supreme Court opinions and other readings.
-2. *Meetings*: We will meet on Tuesdays and Thursdays from 3:30pm to 4:50pm. [**Baker Hall (BH) A53**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/baker.html)
+The course is structured to provide a comprehensive understanding of these issues, encouraging critical analysis and informed debate about the state and future of democracy in the United States. The course will combine lectures with interactive discussions, case studies, guest speakers, and project-based learning. Students will engage in critical analysis of current events, participate in simulations, and conduct research projects to propose solutions for enhancing democratic representation.
+
+1. *Materials*: We will use a variety of materials, all of which will be make available to you at no cost.
+2. *Meetings*: We will meet on Tuesdays and Thursdays from 3:30pm to 4:50pm. [**Posner Hall (POS) 153**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)
 3. *Electronics*: You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. 
 4. *Evaluation*: Final Grades will be assigned based on the following weights:
 
-     **Case Briefs** = 30% of Final Grade.  
-     **Exams** (4) = 70% of Final Grade.    
+     **Online Discussion Board** = 15%  
+     **In-class Exercises** = 20%   
+     **Redistricting Plan** = 5%   
+     **Plan Comparison and "Expert" Report** = 20%   
+     **Exams** (4) = 40% of Final Grade.    
       - Exam 1 (15%)
-      - Exam 2 (cumulative, 20%)
-      - Exam 3 (15%)
-      - Exam 4 (cumulative, 20%)
+      - Exam 2 (cumulative, 25%)
 
           - Penalties for unpreparedness in class discussions
 
@@ -56,62 +59,45 @@ The Teaching Assistant for this class is Elijah Dourado. Elijah's email is [elij
 
 ---
 
-## Course Objectives
+## Key Topics
 
-- By the end of the course students should be able to:
+- Historical Overview of Voting Rights: Tracing the development of voting rights from the founding of the United States to the present day, with a focus on key legislation and court cases.
+- Election Systems and Their Impact: Analysis of different electoral systems and their effects on political representation and voter engagement.
+- Redistricting and Gerrymandering: Exploring the process of redistricting, its impact on political representation, and the ongoing debate over gerrymandering.
+- Challenges to Equitable Democracy: Investigating contemporary challenges such as voter suppression, electoral integrity, and political polarization.
+- Reform and the Future of Democracy: Discussing potential reforms like ranked-choice voting, redistricting commission
 
-     * Demonstrate constitutional literacy about the structure of government; concepts such as the separation of powers and federalism; the nature and debates over judicial power; and the content and meaning of constitutional rights and liberties afforded to individuals
-     * Explain core aspects of the U.S. Supreme Court, including judicial selection, basic processes of case docketing, and features of opinion writing
-     * Read, understand, and brief judicial opinions authored by the U.S. Supreme Court
-     * Assess the persuasiveness of an argument relative to the historical era and court composition.
-     * Identify and apply methods of constitutional interpretation, such as historical analysis, evolving constitutionalism, etc.
-     * Communicate major themes and doctrine arising in several areas of Constitutional Law
-     * Be informed consumers of news, legal developments, and future opinions.
+---
+
+# Course Plan
+
+Throughout this course, we will delve into the multifaceted concept of representation, focusing on three key areas: 1) the intricacies of voting rights, 2) the dynamics of electoral democracy and representation, and 3) the technicalities of formal representation, particularly redistricting. While the primary lens of our study will be the American political system, the universality of democracy and representation means that we may also draw valuable insights from other global systems. Our exploration will begin with an in-depth look at the theoretical foundations of representation, framed within the context of democratic norms and the legal and constitutional frameworks that define U.S. institutions. A significant portion of the course will be dedicated to a historical review of voting rights in America, tracing their evolution and current state. A crucial aspect of legislative elections in the U.S. is their organization in single-member districts, necessitating the redrawing of district boundaries every ten years. We will allocate several weeks to thoroughly understand this redistricting process. This will not only include learning how to create legally compliant electoral maps but also exploring the potential for and implications of manipulated districting, which can yield partisan or racial advantages. Additionally, we will develop the skills to identify and assess features in redistricting plans that may indicate such biases.
 
 ---
 
 ## Course Components and Grading
 
-**Course Expectations and Class Format**
-
-To succeed in this course, students are expected to attend every class and arrive prepared, having completed all assigned readings and homework, including case briefs.
-
-Class sessions will combine lecture and discussion, with regular use of the Socratic Method—a traditional law school pedagogy designed to probe students’ understanding of cases and the relationships among legal doctrines. The purpose of this method is to develop analytical reasoning, verbal clarity, and confidence in engaging legal arguments, not to intimidate or embarrass students. Under this method, the instructor may call on students at random, without prior notice, to engage in a sustained dialogue about a case, concept, or reading.
-
-Students who have not completed the assigned reading will not be successful in these exchanges. Lack of preparation will be noted, and unprepared students will incur a penalty of **–5%** on the exam for the corresponding unit.
-
----
-
 **Missing and Late Assignments**
 
-This course proceeds according to a strict progression from topic to topic, which ensures fairness, consistency, and a shared baseline of preparation for all students. Failing to complete the readings and assigned case briefs will derail your progress and undermine our ability to build on prior material. For that reason, **late work is not accepted**, and any materials not submitted by the assigned deadline will be marked **incomplete**.
+This course proceeds according to a strict progression from topic to topic, which ensures fairness, consistency, and a shared baseline of preparation for all students. Failing to complete the readings will derail your progress and undermine our ability to build on prior material. For that reason, **late work is not accepted**, and any materials not submitted by the assigned deadline will be marked **incomplete**.
 
 I am taking this opportunity to make my expectations for CMU students explicit. Course assignments are designed to reflect these expectations, and students will be graded accordingly. If you feel you need to strengthen any of the skills described below, please visit during office hours or schedule an appointment outside of the posted times.
 
 ---
 
-**Student Preparedness**
-
-* Students are expected to come prepared to engage in class and to be active learners. This means arriving having **read, reflected on, and worked with** any readings or homework scheduled for discussion in the syllabus and course schedule.
-
-* This course is **moderately reading-intensive**. You will be asked to read complex material, including legal opinions, scholarly perspectives on constitutional law, and original historical documents. Developing comprehension and fluency requires time and sustained attention. Students should plan to dedicate **an average of six hours per week outside of class** to studying course content.
-
----
-
 **Assignments**
 
-(i) Mark Tushnet (ed.),  Mark A. Graber (ed.),  Sanford Levinson (ed.).  
-*The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.;
+(i) Matthew J. Streb, Rethinking American Electoral Democracy (Routledge 3rd Edition) (2015) ("**Streb**");   
 
-(ii) Richard H. Fallon Jr., *The Changing Constitution* ("**Fallon**"); or  
+(ii) National Conference Of State Legislatures, Redistricting Law 2020 (2019) ("**NCSL**");   
 
-(iii) Additional readings available either at the websites noted below or on Canvas.  
+(iii) Mazo, Eugene D. (ed.), The Oxford Handbook of American Election Law, Oxford Handbooks (2024; online edn, Oxford Academic, 22 Oct. 2024), https://doi.org/10.1093/oxfordhb/9780197547922.001.0001 ("**Mazo**"); or  
 
-Please be aware that completing several of the assignments will take more than a single class meeting. The schedule is set up as Units instead of specific dates. At the conclusion of each class session, I will outline what you should prepare for the following class. Keep in mind that the schedule and assignments may be adjusted based on how quickly we progress.
+(iv) Additional readings available either at the websites noted below or on Canvas.  
 
-*Optional reading*:
+<!-- Please be aware that completing several of the assignments will take more than a single class meeting. The schedule is set up as Units instead of specific dates. At the conclusion of each class session, I will outline what you should prepare for the following class. Keep in mind that the schedule and assignments may be adjusted based on how quickly we progress. -->
 
-(iv) Jill Lepore, *We the People: A History of the U.S. Constitution*     
+---
 
 ## About the Instructor
 
@@ -121,7 +107,7 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 
 ## Course Outline
 
-Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
+Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
 
 ---
 
