@@ -39,7 +39,7 @@ The course is structured to provide a comprehensive understanding of these issue
      **In-class Exercises** = 20%   
      **Redistricting Plan** = 5%   
      **Plan Comparison and "Expert" Report** = 20%   
-     **Exams** (4) = 40% of Final Grade.    
+     **Exams** (2) = 40% of Final Grade.    
       - Exam 1 (15%)
       - Exam 2 (cumulative, 25%)
 
@@ -61,11 +61,11 @@ The Teaching Assistant for this class is Eli Half. Eli's email is [elih@andrew.c
 
 ## Key Topics
 
-- Historical Overview of Voting Rights: Tracing the development of voting rights from the founding of the United States to the present day, with a focus on key legislation and court cases.
-- Election Systems and Their Impact: Analysis of different electoral systems and their effects on political representation and voter engagement.
-- Redistricting and Gerrymandering: Exploring the process of redistricting, its impact on political representation, and the ongoing debate over gerrymandering.
-- Challenges to Equitable Democracy: Investigating contemporary challenges such as voter suppression, electoral integrity, and political polarization.
-- Reform and the Future of Democracy: Discussing potential reforms like ranked-choice voting, redistricting commission
+- *Historical Overview of Voting Rights*: Tracing the development of voting rights from the founding of the United States to the present day, with a focus on key legislation and court cases.
+- *Election Systems and Their Impact*: Analysis of different electoral systems and their effects on political representation and voter engagement.
+- *Redistricting and Gerrymandering*: Exploring the process of redistricting, its impact on political representation, and the ongoing debate over gerrymandering.
+- *Challenges to Equitable Democracy*: Investigating contemporary challenges such as voter suppression, electoral integrity, and political polarization.
+- *Reform and the Future of Democracy*: Discussing potential reforms like ranked-choice voting, redistricting commission
 
 ---
 
