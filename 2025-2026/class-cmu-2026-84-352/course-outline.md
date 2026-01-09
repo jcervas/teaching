@@ -24,5 +24,5 @@
 19. Geographic Sorting  
 20. Election Reform  
 21. Ballot Laws/Voting Machines  
-22. backsliding democracy  
+22. Backsliding Democracy  
 23. Student Government

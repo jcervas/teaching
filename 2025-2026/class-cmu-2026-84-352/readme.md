@@ -32,7 +32,7 @@ The course is structured to provide a comprehensive understanding of these issue
 
 1. *Materials*: We will use a variety of materials, all of which will be make available to you at no cost.
 2. *Meetings*: We will meet on Tuesdays and Thursdays from 2:00pm to 3:20pm. [**Posner Hall (POS) 153**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)
-3. *Electronics*: You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. 
+3. *Electronics*: In this course, the use of laptops and other electronic devices is permitted with the understanding that they are powerful tools for learning when used appropriately. However, it’s crucial to recognize that any usage outside of regular course-related activities can be a significant distraction to both the user and surrounding peers. You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. 
 4. *Evaluation*: Final Grades will be assigned based on the following weights:
 
      **Online Discussion Board** = 15%  
@@ -61,7 +61,6 @@ The Teaching Assistant for this class is Eli Half. Eli's email is [elih@andrew.c
 
 ## Key Topics
 
-- *Historical Overview of Voting Rights*: Tracing the development of voting rights from the founding of the United States to the present day, with a focus on key legislation and court cases.
 - *Election Systems and Their Impact*: Analysis of different electoral systems and their effects on political representation and voter engagement.
 - *Redistricting and Gerrymandering*: Exploring the process of redistricting, its impact on political representation, and the ongoing debate over gerrymandering.
 - *Challenges to Equitable Democracy*: Investigating contemporary challenges such as voter suppression, electoral integrity, and political polarization.
@@ -69,9 +68,14 @@ The Teaching Assistant for this class is Eli Half. Eli's email is [elih@andrew.c
 
 ---
 
-# Course Plan
+## Course Plan
 
-Throughout this course, we will delve into the multifaceted concept of representation, focusing on three key areas: 1) the intricacies of voting rights, 2) the dynamics of electoral democracy and representation, and 3) the technicalities of formal representation, particularly redistricting. While the primary lens of our study will be the American political system, the universality of democracy and representation means that we may also draw valuable insights from other global systems. Our exploration will begin with an in-depth look at the theoretical foundations of representation, framed within the context of democratic norms and the legal and constitutional frameworks that define U.S. institutions. A significant portion of the course will be dedicated to a historical review of voting rights in America, tracing their evolution and current state. A crucial aspect of legislative elections in the U.S. is their organization in single-member districts, necessitating the redrawing of district boundaries every ten years. We will allocate several weeks to thoroughly understand this redistricting process. This will not only include learning how to create legally compliant electoral maps but also exploring the potential for and implications of manipulated districting, which can yield partisan or racial advantages. Additionally, we will develop the skills to identify and assess features in redistricting plans that may indicate such biases.
+Throughout this course, we will delve into the multifaceted concept of representation, focusing on three key areas: 
+1) the intricacies of voting rights, 
+2) the dynamics of electoral democracy and representation, and 
+3) the technicalities of formal representation, particularly redistricting. 
+
+While the primary lens of our study will be the American political system, the universality of democracy and representation means that we may also draw valuable insights from other global systems. Our exploration will begin with an in-depth look at the theoretical foundations of representation, framed within the context of democratic norms and the legal and constitutional frameworks that define U.S. institutions. A significant portion of the course will be dedicated to a historical review of voting rights in America, tracing their evolution and current state. A crucial aspect of legislative elections in the U.S. is their organization in single-member districts, necessitating the redrawing of district boundaries every ten years. We will allocate several weeks to thoroughly understand this redistricting process. This will not only include learning how to create legally compliant electoral maps but also exploring the potential for and implications of manipulated districting, which can yield partisan or racial advantages. Additionally, we will develop the skills to identify and assess features in redistricting plans that may indicate such biases.
 
 ---
 
@@ -107,9 +111,9 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 
 ## Course Outline
 
-Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
+Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md)
 
-**Online Discussion Board**: Students are expected to follow the participation guidelines outlined in the course policies and participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 29th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
+**Online Discussion Board**: Students are expected to follow the participation guidelines outlined in the course policies and participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 20th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
 
 **In-class exercises**: Throughout the semester, we will have several in-class exercises. These are short, creative-type assignments designed to support your other assignments and to provoke thoughtful evaluations of our democracy. You will be able to collaborate in teams, but each student must submit individually. You will begin these in class and will have until the following day at midnight to submit on Canvas. They will be graded as either satisfactorily completed or in-complete. You can miss up to one exercise and still receive full points. This replaces “participation” as part of your grade, and can not be excused or made up.
 
