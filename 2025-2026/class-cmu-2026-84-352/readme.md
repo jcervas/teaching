@@ -26,13 +26,13 @@ Spring 2026
 
 Democracy in the United States is looking a bit rickety. A notable portion of the American populace, often long before any ballots are cast, holds a persistent belief that the electoral process is flawed or ‘rigged’. This sentiment is exacerbated by instances where the majority’s preferences seem to be ignored or sidelined. In recent years, there have been notable shifts in the judiciary, with long-established legal precedents being overturned, often contrary to widespread public opinion. Additionally, the progress achieved in the realm of voting rights since the 1960s is facing setbacks in numerous states. A particularly alarming indication of the vulnerability of our democratic institutions occurred five years ago with the then (and now)-president’s unconstitutional attempts to maintain power, culminating in a violent insurrection against the U.S. government. 
 
-This course will provide an in-depth exploration of the essential aspects of representation and voting rights, concentrating on ensuring election integrity, achieving fair redistricting, and promoting a just democracy. We will examine the historical trajectory of voting rights in the U.S., confront contemporary challenges to our democratic processes, and consider a range of reforms to strengthen democratic representation in our society. Additionally, we will discuss how political polarization is impacting even non-political institutions. An example of this is the recent campaign against the former president of Harvard, who was both the university’s first Black president and second female president. Her academic background in political science, with a focus overlapping this course’s content, adds relevance to this discussion.
+This course will provide an in-depth exploration of the essential aspects of representation and voting rights, concentrating on ensuring election integrity, achieving fair redistricting, and promoting a just democracy. We will confront contemporary challenges to our democratic processes and consider a range of reforms to strengthen democratic representation in our society. We will discuss how political polarization is impacting even non-political institutions. An example of this is the recent campaign against the former president of Harvard, who was both the university’s first Black president and second female president. Her academic background in political science, with a focus overlapping this course’s content, adds relevance to this discussion.
 
-The course is structured to provide a comprehensive understanding of these issues, encouraging critical analysis and informed debate about the state and future of democracy in the United States. The course will combine lectures with interactive discussions, case studies, guest speakers, and project-based learning. Students will engage in critical analysis of current events, participate in simulations, and conduct research projects to propose solutions for enhancing democratic representation.
+The course is structured to provide a comprehensive understanding of these issues, encouraging critical analysis and informed debate about the state and future of democracy in the United States. The course will combine lectures with interactive discussions, case studies, (potentially) guest speakers, and project-based learning. Students will engage in critical analysis of current events, participate in simulations, and conduct research projects to propose solutions for enhancing democratic representation.
 
 1. *Materials*: We will use a variety of materials, all of which will be make available to you at no cost.
 2. *Meetings*: We will meet on Tuesdays and Thursdays from 2:00pm to 3:20pm. [**Posner Hall (POS) 153**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/porter.html)
-3. *Electronics*: In this course, the use of laptops and other electronic devices is permitted with the understanding that they are powerful tools for learning when used appropriately. However, it’s crucial to recognize that any usage outside of regular course-related activities can be a significant distraction to both the user and surrounding peers. You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. 
+3. *Electronics*: In this course, the use of laptops and other electronic devices is permitted with the understanding that they are powerful tools for learning when used appropriately. However, it is crucial to recognize that any usage outside of regular course-related activities can be a significant distraction to both the user and surrounding peers. You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. Failure to abide by this clause can result in a reduction in your grade.
 4. *Evaluation*: Final Grades will be assigned based on the following weights:
 
      **Online Discussion Board** = 15%  
@@ -61,8 +61,8 @@ The Teaching Assistant for this class is Eli Half. Eli's email is [elih@andrew.c
 
 ## Key Topics
 
-- *Election Systems and Their Impact*: Analysis of different electoral systems and their effects on political representation and voter engagement.
 - *Redistricting and Gerrymandering*: Exploring the process of redistricting, its impact on political representation, and the ongoing debate over gerrymandering.
+- *Election Systems and Their Impact*: Analysis of different electoral systems and their effects on political representation and voter engagement.
 - *Challenges to Equitable Democracy*: Investigating contemporary challenges such as voter suppression, electoral integrity, and political polarization.
 - *Reform and the Future of Democracy*: Discussing potential reforms like ranked-choice voting, redistricting commission
 
@@ -70,10 +70,10 @@ The Teaching Assistant for this class is Eli Half. Eli's email is [elih@andrew.c
 
 ## Course Plan
 
-Throughout this course, we will delve into the multifaceted concept of representation, focusing on three key areas: 
-1) the intricacies of voting rights, 
-2) the dynamics of electoral democracy and representation, and 
-3) the technicalities of formal representation, particularly redistricting. 
+Throughout this course, we will delve into the multifaceted concept of representation, focusing on three key areas:   
+1) the intricacies of voting rights,  
+2) the dynamics of electoral democracy and representation, and  
+3) the technicalities of formal representation, particularly redistricting.   
 
 While the primary lens of our study will be the American political system, the universality of democracy and representation means that we may also draw valuable insights from other global systems. Our exploration will begin with an in-depth look at the theoretical foundations of representation, framed within the context of democratic norms and the legal and constitutional frameworks that define U.S. institutions. A significant portion of the course will be dedicated to a historical review of voting rights in America, tracing their evolution and current state. A crucial aspect of legislative elections in the U.S. is their organization in single-member districts, necessitating the redrawing of district boundaries every ten years. We will allocate several weeks to thoroughly understand this redistricting process. This will not only include learning how to create legally compliant electoral maps but also exploring the potential for and implications of manipulated districting, which can yield partisan or racial advantages. Additionally, we will develop the skills to identify and assess features in redistricting plans that may indicate such biases.
 
@@ -90,6 +90,8 @@ I am taking this opportunity to make my expectations for CMU students explicit. 
 ---
 
 **Assignments**
+
+I have made all of the readings available in our Canvas page, for your convenience.
 
 (i) Matthew J. Streb, Rethinking American Electoral Democracy (Routledge 3rd Edition) (2015) ("**Streb**");   
 
@@ -123,11 +125,13 @@ Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026
 
 *Alternative Technical Comparison*: Instead of the plan comparison, you will use computer simulation to generate and assess alternative districting plans for the specified region, focusing on the fairness and legality of the enacted plan. Use either GerryChain (Python) or rdist (R) for this analysis. Compare each simulated plan to the region’s 2023 legislative plan. This involves critically analyzing redistricting plans, emphasizing computer simulation over creating new plans from scratch.
 
-**Expert Witness Report**: There are three options for this final assignment: 1) working alone 2) working with a team, both without doing technical work 3) working as a team to create a technical supplement
+**Expert Witness Report**: There are two options for this final assignment: 1) working alone 2) working with a team.
 
-Non-Technical Report [solo] (1500-3000 words): Expanding on your previous assignments and classwork, you will draft a report analyzing a legislative plan for the specified region. Imagine being hired to evaluate this plan in comparison to your own (referred to as “YOUR-LAST-NAME illustrative plan”). In your report, argue why the enacted plan could be considered unlawful. Reference reports by yourself or others as expert witnesses (available on your website). The report should range from 3 to 6 single-spaced pages (excluding tables and maps) and include links to each plan’s DRA page for accessibility. Start by summarizing the legal requirements for a redistricting plan in the region, incorporating relevant state and federal laws.
+*Non-Technical Report* [solo] (1500-3000 words): Expanding on your previous assignments and classwork, you will draft a report analyzing a legislative plan for the specified region. Imagine being hired to evaluate this plan in comparison to your own (referred to as “YOUR-LAST-NAME illustrative plan”). In your report, argue why the enacted plan could be considered unlawful. Reference reports by yourself or others as expert witnesses (available on your website). The report should range from 3 to 6 single-spaced pages (excluding tables and maps) and include links to each plan’s DRA page for accessibility. Start by summarizing the legal requirements for a redistricting plan in the region, incorporating relevant state and federal laws.
 
-Non-Technical Report [team] (2500-5000 words): Collaboration with up to three others is allowed. If working in a team, evaluate each member’s map, choosing one as the primary illustrative map and others for comparison. For team reports, extend the page limit to a maximum of 10 pages (minimum of 5 pages for team efforts).
+*Non-Technical Report* [team] (2500-5000 words): Collaboration with up to three others is allowed. If working in a team, evaluate each member’s map, choosing one as the primary illustrative map and others for comparison. You'll also want to compare maps from other students. For team reports, extend the page limit to a maximum of 10 pages (minimum of 5 pages for team efforts). Given that this is prepared in tandem with others, the expectation is for a better developed report with more substance.
+
+**Exams**: Exams will be held twice during the semester. It will test you primarily on the course readings, but may include questions stemming from lecture or class discussion. Many of the questions will be drawn from the *online discussion board*, where you will be providing questions.
 
 ---
 
