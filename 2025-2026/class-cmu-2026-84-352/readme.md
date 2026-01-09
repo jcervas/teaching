@@ -160,6 +160,7 @@ Submitting AI-generated content as your own is considered academic dishonesty an
 
 If you have questions about what is or is not allowed, please ask before submitting your work.
 
+---
 
 ## Representation Statement
 
@@ -175,6 +176,7 @@ Unfortunately, incidents of bias or discrimination do occur, whether intentional
   Submit an anonymous report by calling 844-587-0793 or visiting **cmu.ethicspoint.com**.  
   All reports are documented and reviewed to determine whether further action is needed. Regardless of the incident type, the university will use your feedback to transform our campus climate into one that is more equitable and just.
 
+---
 
 ## Accommodations for Students with Disabilities
 
