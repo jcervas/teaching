@@ -1,3 +1,5 @@
+Updated syllabus can always be found here: https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/readme.md
+
 ## UNIT I — History
 
 ### Central Questions
