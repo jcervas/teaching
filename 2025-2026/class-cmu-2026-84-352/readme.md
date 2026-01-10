@@ -39,10 +39,11 @@ The course is structured to provide a comprehensive understanding of these issue
      **In-class Exercises** = 20%   
      **Book Club** = 10%  
      **Redistricting Plan** = 5%   
-     **Plan Comparison and "Expert" Report** = 10%   
-     **Exams** (2) = 40% of Final Grade.    
+     **Plan Comparison** = 5%   
+     **"Expert" Report** = 15%   
+     **Exams** (2) = 30% of Final Grade.    
       - Exam 1 (15%)
-      - Exam 2 (cumulative, 25%)
+      - Exam 2 (15%)
 
           - Penalties for unpreparedness in class discussions
 
