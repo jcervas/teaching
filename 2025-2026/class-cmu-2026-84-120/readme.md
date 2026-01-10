@@ -28,16 +28,18 @@ This course provides an introduction to the United States Constitution and the p
 
 This course introduces students to constitutional law as a way of understanding how the U.S. Constitution shapes political conflict, government power, and individual rights. The emphasis is on **ideas, institutions, and landmark cases**, not technical mastery of legal doctrine.
 
-1. *Materials*: See below under *course plan*. We will use several books, and supplement these with Supreme Court opinions and other readings.
+1. *Materials*: See below. We will use several books, and supplement these with Supreme Court opinions and other readings.
 2. *Meetings*: We will meet on Tuesdays and Thursdays from 3:30pm to 4:50pm. [**Baker Hall (BH) A53**](https://www.cmu.edu/computing/services/teach-learn/tes/classrooms/locations/baker.html)
-3. *Electronics*: You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. 
+3. *Electronics*: In this course, the use of laptops and other electronic devices is permitted with the understanding that they are powerful tools for learning when used appropriately. However, it is crucial to recognize that any usage outside of regular course-related activities can be a significant distraction to both the user and surrounding peers. You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. Failure to abide by this clause can result in a reduction in your grade.
 4. *Evaluation*: Final Grades will be assigned based on the following weights:
 
-     **Case Briefs** = 30% of Final Grade.  
-     **Exams** (4) = 70% of Final Grade.    
-      - Exam 1 (15%)
+     **Case Briefs** = 10% of Final Grade.  
+     **Book Club** = 10% of Final Grade.  
+     **Discussion Board** = 20% of Final Grade.   
+     **Exams** (4) = 60% of Final Grade.    
+      - Exam 1 (10%)
       - Exam 2 (cumulative, 20%)
-      - Exam 3 (15%)
+      - Exam 3 (10%)
       - Exam 4 (cumulative, 20%)
 
           - Penalties for unpreparedness in class discussions
@@ -80,6 +82,10 @@ Class sessions will combine lecture and discussion, with regular use of the Socr
 
 Students who have not completed the assigned reading will not be successful in these exchanges. Lack of preparation will be noted, and unprepared students will incur a penalty of **–5%** on the exam for the corresponding unit.
 
+Students are expected to participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 20th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
+
+The Book Club is not a presentation or writing assignment. It is a discussion-based component of the course. Your responsibility is to read carefully, show up prepared, and engage seriously with your peers.
+
 ---
 
 **Missing and Late Assignments**
@@ -109,9 +115,7 @@ I am taking this opportunity to make my expectations for CMU students explicit. 
 
 Please be aware that completing several of the assignments will take more than a single class meeting. The schedule is set up as Units instead of specific dates. At the conclusion of each class session, I will outline what you should prepare for the following class. Keep in mind that the schedule and assignments may be adjusted based on how quickly we progress.
 
-*Optional reading*:
-
-(iv) Jill Lepore, *We the People: A History of the U.S. Constitution*     
+---
 
 ## About the Instructor
 
@@ -124,7 +128,6 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
 
 ---
-
 
 ## AI Use Policy for Student Work
 

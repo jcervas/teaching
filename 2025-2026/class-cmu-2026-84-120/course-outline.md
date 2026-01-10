@@ -13,6 +13,11 @@ Updated syllabus can always be found here: https://github.com/jcervas/teaching/b
 
 ---
 
+i. **Introduction**
+  * Tushnet, Mark, Mark A. Graber, and Sanford Levinson, 'Introduction: The Handbook of the United States Constitution'  
+  In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.
+  <https://doi.org/10.1093/oxfordhb/9780190245757.013.1>
+
 1. **Jurisdiction and Organization of the Federal Courts**  
    * Understanding the Federal Courts. Administrative Office of the U.S. Courts.  
      <https://www.uscourts.gov/file/understanding-federal-courtspdf>
@@ -33,9 +38,6 @@ Updated syllabus can always be found here: https://github.com/jcervas/teaching/b
    * Komesar, Neil. “Constitutions as Basic Structure.”  
      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
      <https://doi.org/10.1093/oxfordhb/9780190245757.013.7>  
-   * *Suggested book:*  
-     Starr, Paul. 2019. *Entrenchment: Wealth, Power, and the Constitution of Democratic Societies*.  
-     Yale University Press. <https://yalebooks.yale.edu/9780300238471/entrenchment>
 
 5. **Constitutionalism**  
    * Brandon, Mark E. “Constitutionalism.”  

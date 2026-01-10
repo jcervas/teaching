@@ -37,8 +37,9 @@ The course is structured to provide a comprehensive understanding of these issue
 
      **Online Discussion Board** = 15%  
      **In-class Exercises** = 20%   
+     **Book Club** = 10%  
      **Redistricting Plan** = 5%   
-     **Plan Comparison and "Expert" Report** = 20%   
+     **Plan Comparison and "Expert" Report** = 10%   
      **Exams** (2) = 40% of Final Grade.    
       - Exam 1 (15%)
       - Exam 2 (cumulative, 25%)
@@ -83,7 +84,7 @@ While the primary lens of our study will be the American political system, the u
 
 **Missing and Late Assignments**
 
-This course proceeds according to a strict progression from topic to topic, which ensures fairness, consistency, and a shared baseline of preparation for all students. Failing to complete the readings will derail your progress and undermine our ability to build on prior material. For that reason, **late work is not accepted**, and any materials not submitted by the assigned deadline will be marked **incomplete**.
+This course proceeds according to a strict progression from topic to topic, which ensures fairness, consistency, and a shared baseline of preparation for all students. Failing to complete the readings will derail your progress and undermine our ability to build on prior material. For that reason, **late work frowned upon**, and any materials not submitted by the assigned deadline will have an automatic point deduction of *1% per hour*.
 
 I am taking this opportunity to make my expectations for CMU students explicit. Course assignments are designed to reflect these expectations, and students will be graded accordingly. If you feel you need to strengthen any of the skills described below, please visit during office hours or schedule an appointment outside of the posted times.
 
@@ -115,9 +116,11 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 
 Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md)
 
-**Online Discussion Board**: Students are expected to follow the participation guidelines outlined in the course policies and participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 20th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
+**Online Discussion Board**: Students are expected to participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 20th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
 
 **In-class exercises**: Throughout the semester, we will have several in-class exercises. These are short, creative-type assignments designed to support your other assignments and to provoke thoughtful evaluations of our democracy. You will be able to collaborate in teams, but each student must submit individually. You will begin these in class and will have until the following day at midnight to submit on Canvas. They will be graded as either satisfactorily completed or in-complete. You can miss up to one exercise and still receive full points. This replaces “participation” as part of your grade, and can not be excused or made up.
+
+**The Book Club** is not a presentation or writing assignment. It is a discussion-based component of the course. Your responsibility is to read carefully, show up prepared, and engage seriously with your peers.
 
 **Redistricting Plan** (400-600 words): Create a legislative plan for a specified region consisting of a predetermined number of districts. Your plan should aim for fairness as you interpret it, necessitating deliberate design. Write a concise report explaining why your plan is fair. Limit your report to one single-spaced page and include maps and tables to display statistics about your plan (like compactness scores, population deviation, and minority representation). You may also discuss any preserved communities of interest.
 
