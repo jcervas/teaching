@@ -35,13 +35,14 @@ The course is structured to provide a comprehensive understanding of these issue
 3. *Electronics*: In this course, the use of laptops and other electronic devices is permitted with the understanding that they are powerful tools for learning when used appropriately. However, it is crucial to recognize that any usage outside of regular course-related activities can be a significant distraction to both the user and surrounding peers. You may *not* use laptops, iPads, etc., in class except to the extent that it furthers your learning for our class. Please put away your phones before class begins. Failure to abide by this clause can result in a reduction in your grade.
 4. *Evaluation*: Final Grades will be assigned based on the following weights:
 
+     **Surveys** = 2% of Final Grade.   
      **Online Discussion Board** = 15%  
-     **In-class Exercises** = 20%   
+     **In-class Exercises** = 18%   
      **Book Club** = 10%  
      **Redistricting Plan** = 5%   
      **Plan Comparison** = 5%   
      **"Expert" Report** = 15%   
-     **Exams** (2) = 30% of Final Grade.    
+     **Exams** (2) = 30%
       - Exam 1 (15%)
       - Exam 2 (15%)
 
