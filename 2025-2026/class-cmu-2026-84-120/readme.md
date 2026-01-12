@@ -104,7 +104,7 @@ I am taking this opportunity to make my expectations for CMU students explicit. 
 
 ---
 
-**Assignments**
+**Course Material**
 
 (i) Mark Tushnet (ed.),  Mark A. Graber (ed.),  Sanford Levinson (ed.).  
 *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.;
@@ -125,7 +125,9 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 
 ## Course Outline
 
-Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
+Listed under "Modules" in Canvas. Readings for the next session will be assigned at the of each session.
+
+Prospective outline can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-120/course-outline.md)
 
 ---
 

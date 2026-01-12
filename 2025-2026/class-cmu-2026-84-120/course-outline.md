@@ -13,75 +13,77 @@ Updated syllabus can always be found here: https://github.com/jcervas/teaching/b
 
 ---
 
-i. **Introduction**
-  * Tushnet, Mark, Mark A. Graber, and Sanford Levinson, 'Introduction: The Handbook of the United States Constitution'  
-  In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.
-  <https://doi.org/10.1093/oxfordhb/9780190245757.013.1>
+1. **Introduction**  
+   * Tushnet, Mark, Mark A. Graber, and Sanford Levinson, “Introduction: The Handbook of the United States Constitution.”  
+     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+     <https://doi.org/10.1093/oxfordhb/9780190245757.013.1>
 
-1. **Jurisdiction and Organization of the Federal Courts**  
+2. **Jurisdiction and Organization of the Federal Courts**  
    * Understanding the Federal Courts. Administrative Office of the U.S. Courts.  
      <https://www.uscourts.gov/file/understanding-federal-courtspdf>
 
-2. **The Text, Historical Background, and Functions of the U.S. Constitution**  
-   * *Fallon* → Introduction
+3. **Pre-Colonial Foundations**  
+   * Magna Carta, English Bill of Rights, and the Political Philosophers
 
-3. **A Political Supreme Court**  
-   * *The Framers’ Coup: The Making of the United States Constitution*  
-     \[Video, 55 min\] <https://youtu.be/X3jz15a5XRw?si=2JKO7QNPa5R1kcdw&t=356>  
-   * Finkelman, Paul. 2017. “The Nefarious Intentions of the Framers?”  
-     *University of Chicago Law Review* 84(4): 2139.  
-   * Strauss, David A. “Is Constitutional Law Really Law?”  
-     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
-     <https://doi.org/10.1093/oxfordhb/9780190245757.013.39>
-
-4. **What Are Constitutions?**  
-   * Komesar, Neil. “Constitutions as Basic Structure.”  
-     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
-     <https://doi.org/10.1093/oxfordhb/9780190245757.013.7>  
-
-5. **Constitutionalism**  
-   * Brandon, Mark E. “Constitutionalism.”  
-     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
-     <https://doi.org/10.1093/oxfordhb/9780190245757.013.36>
-
-6. **Interpretation**  
-   * Greene, Jamal. “Interpretation.”  
-     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
-     <https://doi.org/10.1093/oxfordhb/9780190245757.013.42>
-
-7. **Colonial America**  
+4. **Colonial America**  
    * Robertson, David Brian. “The Constitution from 1620 to the Early Republic.”  
      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
      <https://doi.org/10.1093/oxfordhb/9780190245757.013.2>
 
-8. **The Early Republic and the Nineteenth Century**  
+5. **The Early Republic and the Nineteenth Century**  
    * Benedict, Michael Les. “Constitutional Developments from Jackson through Reconstruction.”  
      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
      <https://doi.org/10.1093/oxfordhb/9780190245757.013.3>
 
-9. **The Gilded Age and Progressive Era**  
+6. **The Gilded Age and Progressive Era**  
    * Kersch, Ken I. “The Gilded Age through the Progressive Era.”  
      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
      <https://doi.org/10.1093/oxfordhb/9780190245757.013.4>
 
-10. **The New Deal Constitutional Settlement**  
-    * Powe, L. A. “From the New Deal through the Reagan Revolution.”  
-      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
-      <https://doi.org/10.1093/oxfordhb/9780190245757.013.5>
+7. **The New Deal Constitutional Settlement**  
+   * Powe, L. A. “From the New Deal through the Reagan Revolution.”  
+     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+     <https://doi.org/10.1093/oxfordhb/9780190245757.013.5>
 
-11. **Modern Constitutional Law**  
-    * Keck, Thomas M. “The Reagan Revolution to the Present.”  
-      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
-      <https://doi.org/10.1093/oxfordhb/9780190245757.013.6>
+8. **Modern Constitutional Law**  
+   * Keck, Thomas M. “The Reagan Revolution to the Present.”  
+     In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+     <https://doi.org/10.1093/oxfordhb/9780190245757.013.6>
 
-12. **The Written Constitution and Judicial Supremacy**  
+9. **The Text, Historical Background, and Functions of the U.S. Constitution**  
+   * *Fallon* → Introduction
+
+10. **A Political Supreme Court**  
+    * *The Framers’ Coup: The Making of the United States Constitution*  
+      [Video, 55 min] <https://youtu.be/X3jz15a5XRw?si=2JKO7QNPa5R1kcdw&t=356>  
+    * Finkelman, Paul. 2017. “The Nefarious Intentions of the Framers?”  
+      *University of Chicago Law Review* 84(4): 2139.  
+    * Strauss, David A. “Is Constitutional Law Really Law?”  
+      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+      <https://doi.org/10.1093/oxfordhb/9780190245757.013.39>
+
+11. **What Are Constitutions?**  
+    * Komesar, Neil. “Constitutions as Basic Structure.”  
+      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+      <https://doi.org/10.1093/oxfordhb/9780190245757.013.7>
+
+12. **Constitutionalism**  
+    * Brandon, Mark E. “Constitutionalism.”  
+      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+      <https://doi.org/10.1093/oxfordhb/9780190245757.013.36>
+
+13. **Interpretation**  
+    * Greene, Jamal. “Interpretation.”  
+      In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
+      <https://doi.org/10.1093/oxfordhb/9780190245757.013.42>
+
+14. **The Written Constitution and Judicial Supremacy**  
     * *Fallon* → Chapter 1: *The Written Constitution and the Emergence of Judicial Supremacy*  
     * *Fallon* → Chapter 2: *Historical Overview of Constitutional Adjudication by the Supreme Court*
 
-13. **The Supreme Court Today**  
+15. **The Supreme Court Today**  
     * *Fallon* → Chapter 3: *The Supreme Court Today*
 
----
 
 ## UNIT II — Political Science
 
@@ -93,55 +95,55 @@ i. **Introduction**
 - What tensions arise between constitutional design and modern governance?
 - How has constitutional interpretation interacted with political development over time?
 
----
-
-14. **The Constitutional Politics of Congress**  
+16. **The Constitutional Politics of Congress**  
     * Devins, Neal. “The Constitutional Politics of Congress.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.8>
 
-15. **The Constitutional Politics of the Executive Branch**  
+17. **The Constitutional Politics of the Executive Branch**  
     * Ziegler, Mariah. “The Constitutional Politics of the Executive Branch.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.9>
 
-16. **The Constitutional Politics of the Judiciary**  
+18. **The Constitutional Politics of the Judiciary**  
     * Crowe, Justin. “The Constitutional Politics of the Judiciary.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.10>
 
-17. **The Resilience of the American Federal System**  
+19. **The Resilience of the American Federal System**  
     * Bednar, Jenna. “The Resilience of the American Federal System.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.14>
 
-18. **Empire and the Constitution**  
+20. **Empire and the Constitution**  
     * Sparrow, Bartholomew H. “Empire.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.15>
 
-19. **Campaign Finance and Constitutional Democracy**  
+21. **Campaign Finance and Constitutional Democracy**  
     * Campaign Finance and the Supreme Court. National Conference of State Legislatures.  
-      February 7, 2023. <https://www.ncsl.org/elections-and-campaigns/campaign-finance-and-the-supreme-court>  
+      February 7, 2023.  
+      <https://www.ncsl.org/elections-and-campaigns/campaign-finance-and-the-supreme-court>  
     * Dawood, Yasmin. “The Theoretical Foundations of Campaign Finance Regulation.”  
       In *The Oxford Handbook of American Election Law*. Oxford University Press, 2024.  
       <https://doi.org/10.1093/oxfordhb/9780197547922.013.27>
 
-20. **The Uneasy Place of Political Parties**  
+22. **The Uneasy Place of Political Parties**  
     * Muirhead, Russell, and Nancy L. Rosenblum.  
       “The Uneasy Place of Parties in the Constitutional Order.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.11>
 
-21. **The Administrative State**  
+23. **The Administrative State**  
     * Vermeule, Adrian. “The Administrative State: Law, Democracy, and Knowledge.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.13>
 
-22. **The Evolution of America’s Fiscal Constitution**  
+24. **The Evolution of America’s Fiscal Constitution**  
     * White, Bill. “The Evolution of America’s Fiscal Constitution.”  
       In *The Oxford Handbook of the U.S. Constitution*. Oxford University Press, 2015.  
       <https://doi.org/10.1093/oxfordhb/9780190245757.013.16>
+
 
 ---
 

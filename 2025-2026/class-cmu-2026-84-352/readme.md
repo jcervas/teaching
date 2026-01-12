@@ -116,7 +116,9 @@ Jonathan Cervas is an Assistant Teaching Professor in political science at Carne
 
 ## Course Outline
 
-Can be found online at: [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md)
+Listed under "Modules" in Canvas. Readings for the next session will be assigned at the of each session.
+
+Prospective outline can be found online at:  [https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md](https://github.com/jcervas/teaching/blob/main/2025-2026/class-cmu-2026-84-352/course-outline.md)
 
 **Online Discussion Board**: Students are expected to participate in online discussion boards for each class. You must include three interactions on the discussion board. This participation includes either (a) posting a discussion question or (b) answering other questions posted by your colleagues. You should have three separate entries in the discussion board, and one post with three questions will be counted as a single interaction. These entries must be posted before midnight on the day before class and start on January 20th. When posting, please avoid duplicate questions, and responses should show critical engagement with the questions beyond “I agree” or “Nice question.” You can skip the posts for four classes of your choosing and do not have to complete an entry for the midterm or final exam classes. If you register late for the class – you have one week following your course registration to complete any missed posts.
 
