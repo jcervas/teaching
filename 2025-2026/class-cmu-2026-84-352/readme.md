@@ -39,12 +39,13 @@ The course is structured to provide a comprehensive understanding of these issue
      **Online Discussion Board** = 15%  
      **In-class Exercises** = 18%   
      **Book Club** = 10%  
-     **Redistricting Plan** = 5%   
-     **Plan Comparison** = 5%   
-     **"Expert" Report** = 15%   
-     **Exams** (2) = 30%
-      - Exam 1 (15%)
-      - Exam 2 (15%)
+     **Redistricting Plan** = 25%   
+       - Phase 1 = 5%  
+       - Phase 2 = 10%   
+       - Phase 3 = 10%  
+     **Exams** (2) = 30%  
+        - Exam 1 (15%)  
+        - Exam 2 (15%) 
 
           - Penalties for unpreparedness in class discussions
 
